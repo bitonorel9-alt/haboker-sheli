@@ -32,6 +32,7 @@ FEEDS = {
     "כדורגל": [
         "https://www.one.co.il/cat/coop/xml/rss/mvp.aspx",       # ONE (ישראל + עולם)
         "https://rss.walla.co.il/feed/48",                       # וואלה ספורט
+        "https://www.ynet.co.il/Integration/StoryRss3.xml",      # ynet ספורט (ישראל + עולם, גיבוי)
     ],
     "פוליטיקה": [
         "https://www.ynet.co.il/Integration/StoryRss2.xml",      # ynet חדשות
