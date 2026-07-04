@@ -1,10 +1,9 @@
-name: עדכון חדשות יומי
+name: עדכון חדשות שעתי
 
 on:
   schedule:
-    # 04:30 UTC ≈ 07:30 בישראל בקיץ (UTC+3). בחורף (UTC+2) זה ייצא 06:30 -
-    # מוקדם משעה, לא מאוחר, כדי שהתמצית תמיד תהיה מוכנה עד 07:30.
-    - cron: '30 4 * * *'
+    # כל שעה עגולה (UTC = ישראל +2/+3, שתיהן היסט שעה שלמה, אז "עגול" גם אצלנו)
+    - cron: '0 * * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -29,5 +28,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news_data.js data/news_data.json
-          git diff --cached --quiet || git commit -m "עדכון חדשות יומי אוטומטי"
+          git diff --cached --quiet || git commit -m "עדכון חדשות אוטומטי"
           git push

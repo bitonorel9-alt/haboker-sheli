@@ -79,6 +79,7 @@ body{
 .lead::after{content:"";position:absolute;top:-40%;right:-20%;width:60%;height:180%;background:linear-gradient(120deg,transparent,rgba(184,137,43,.12),transparent);transform:rotate(8deg);animation:sheen 7s ease-in-out infinite}
 @keyframes sheen{0%,100%{opacity:0;transform:translateX(30%) rotate(8deg)}50%{opacity:1;transform:translateX(-20%) rotate(8deg)}}
 .lead-body{padding:26px 28px 22px}
+.lead-img{width:100%;height:260px;object-fit:cover;display:block}
 .eyebrow{display:inline-flex;align-items:center;gap:7px;font:700 11.5px 'Heebo';letter-spacing:.14em;text-transform:uppercase;color:var(--accent-2)}
 .lead h2{font-family:'Frank Ruhl Libre',serif;font-weight:900;font-size:clamp(24px,4.5vw,36px);line-height:1.12;margin:12px 0 10px;letter-spacing:-.01em}
 .lead p{color:#3d372d;font-size:16.5px}
@@ -96,6 +97,9 @@ body{
 .card h3{font-family:'Frank Ruhl Libre',serif;font-weight:700;font-size:19px;line-height:1.25;margin:10px 0 8px}
 .card .summary{color:#463f34;font-size:14.5px;flex:1}
 .card .src{margin-top:12px;font-size:11.5px;color:var(--muted)}
+.thumb{width:calc(100% + 40px);margin:-20px -20px 14px;height:150px;object-fit:cover;border-radius:16px 16px 0 0;display:block}
+.readmore{display:inline-block;margin-top:10px;font:600 12.5px 'Heebo';color:var(--accent);text-decoration:none;border-bottom:1px solid transparent;transition:.15s}
+.readmore:hover{border-color:var(--accent)}
 
 /* stat drawer */
 .statbtn{margin-top:12px;align-self:flex-start;border:1.5px dashed var(--line);background:transparent;color:var(--accent);font:600 12.5px 'Heebo';padding:6px 12px;border-radius:9px;cursor:pointer;transition:.15s;display:flex;align-items:center;gap:6px}
@@ -145,6 +149,8 @@ footer b{color:var(--accent)}
     </div>
     <div class="mast-strip">
       <span><span class="pulse"></span>עודכן לאחרונה: <b id="updated">—</b></span>
+      <span>·</span>
+      <span>מתעדכן כל שעה עגולה</span>
       <span>·</span>
       <span id="count">— כתבות</span>
       <span>·</span>
@@ -230,6 +236,11 @@ const PREFS = JSON.parse(localStorage.getItem('news_prefs')||'{}');
 function savePrefs(){localStorage.setItem('news_prefs',JSON.stringify(PREFS))}
 function score(sec){return PREFS[sec]||0}
 
+// דירוג ברמת הכתבה הבודדת (לא כל הנושא) - כדי שלחיצת 👍/👎 תשפיע רק על הכרטיס הזה
+const PREFS_ARTICLE = JSON.parse(localStorage.getItem('news_prefs_article')||'{}');
+function saveArticlePrefs(){localStorage.setItem('news_prefs_article',JSON.stringify(PREFS_ARTICLE))}
+function artKey(a){return a.link || (a.section+'|'+a.title)}
+
 const SECTIONS = ["הכל","כדורגל","פוליטיקה","מזג אוויר","AI","בידור","לומדים"];
 let activeFilter = "הכל";
 
@@ -250,10 +261,12 @@ SECTIONS.forEach(s=>{
 const L=DATA.lead;
 document.getElementById('lead').innerHTML=`
   <article class="lead">
+    ${L.image?`<img class="lead-img" src="${L.image}" alt="" loading="lazy">`:''}
     <div class="lead-body">
       <span class="eyebrow"><span class="pulse"></span>${L.eyebrow} · ${L.section}</span>
       <h2>${L.title}</h2>
       <p>${L.summary}</p>
+      ${L.link?`<a class="readmore" href="${L.link}" target="_blank" rel="noopener">קרא את הכתבה המלאה ←</a>`:''}
     </div>
   </article>`;
 
@@ -274,12 +287,15 @@ function render(){
       const bar = (pct!==undefined)?`<div class="bar"><span style="width:${pct}%"></span></div>`:'';
       return `<div class="stat-row"><span>${label}</span><b>${val}</b></div>${bar}`;
     }).join('');
-    const up=score(a.section)>0?'active':'', down=score(a.section)<0?'active':'';
+    const artScore=PREFS_ARTICLE[artKey(a)]||0;
+    const up=artScore>0?'active':'', down=artScore<0?'active':'';
     card.innerHTML=`
+      ${a.image?`<img class="thumb" src="${a.image}" alt="" loading="lazy">`:''}
       <div class="kicker"><span class="dot"></span>${a.section}</div>
       <h3>${a.title}</h3>
       <div class="summary">${a.summary}</div>
       <div class="src">${a.source||''}</div>
+      ${a.link?`<a class="readmore" href="${a.link}" target="_blank" rel="noopener">קרא את הכתבה המלאה ←</a>`:''}
       ${a.stats?`<button class="statbtn">📊 הצג סטטיסטיקות</button>
       <div class="stats"><div class="stats-inner">${statsHtml}</div></div>`:''}
       <div class="fb">
@@ -289,9 +305,18 @@ function render(){
     // stat toggle
     const sb=card.querySelector('.statbtn');
     if(sb){sb.onclick=()=>{const d=card.querySelector('.stats');d.classList.toggle('open');sb.textContent=d.classList.contains('open')?'📊 הסתר סטטיסטיקות':'📊 הצג סטטיסטיקות'}}
-    // feedback
-    card.querySelector('.up').onclick=()=>{PREFS[a.section]=(PREFS[a.section]||0)+1;savePrefs();render()};
-    card.querySelector('.down').onclick=()=>{PREFS[a.section]=(PREFS[a.section]||0)-1;savePrefs();render()};
+    // feedback: משפיע רק על הכרטיס הזה (לא כל הנושא) - ה-section score עדיין נצבר לצורך מיון מחר
+    const upBtn=card.querySelector('.up'), downBtn=card.querySelector('.down');
+    upBtn.onclick=()=>{
+      PREFS[a.section]=(PREFS[a.section]||0)+1; savePrefs();
+      PREFS_ARTICLE[artKey(a)]=1; saveArticlePrefs();
+      upBtn.classList.add('active'); downBtn.classList.remove('active');
+    };
+    downBtn.onclick=()=>{
+      PREFS[a.section]=(PREFS[a.section]||0)-1; savePrefs();
+      PREFS_ARTICLE[artKey(a)]=-1; saveArticlePrefs();
+      downBtn.classList.add('active'); upBtn.classList.remove('active');
+    };
     // mouse-tracked glow
     card.addEventListener('mousemove',e=>{
       const r=card.getBoundingClientRect();

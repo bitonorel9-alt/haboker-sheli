@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-הבוקר שלי — אוסף חדשות יומי
-מושך חדשות מהיום האחרון בנושאים: כדורגל (ישראל+עולם), פוליטיקה (ישראל),
-מזג אוויר (עתלית), AI, בידור, ונושא יומי ללמוד + עובדה.
+הבוקר שלי — אוסף חדשות
+מושך חדשות מהיום האחרון בנושאים: כדורגל (ישראל+עולם, כולל תוצאות חיות מ-365Scores),
+פוליטיקה (ישראל), מזג אוויר (עתלית), AI, בידור, ונושא יומי ללמוד + עובדה.
 
-מריץ כל בוקר -> כותב news_data.js שהאתר index.html קורא.
+רץ כל שעה עגולה דרך GitHub Actions -> כותב news_data.js שהאתר index.html קורא.
 תלוי בהעדפות שנלמדו מהדירוגים שלך (prefs.json).
 
 התקנה חד-פעמית:  pip install feedparser requests
@@ -47,6 +47,10 @@ FEEDS = {
     ],
 }
 
+# מקורות RSS כלליים לפעמים מערבבים תוכן זר (הוליווד/ארה"ב) - מילות מפתח לדחוף אחורה
+FOREIGN_ENTERTAINMENT_KEYWORDS = ["הוליווד", "אמריקני", "אמריקאי", "אמריקה", "ארה\"ב",
+                                  "ספרינגסטין", "מדונה", "טיילור סוויפט", "נטפליקס", "מרוול"]
+
 MAX_AGE_HOURS = 30  # "היום האחרון"
 
 def clean(t):
@@ -65,7 +69,28 @@ def is_recent(entry):
 AI_KEYWORDS = ["בינה מלאכותית", "ai", "chatgpt", "gpt", "מודל שפה", "למידת מכונה",
                "אנתרופיק", "openai", "קלוד", "gemini", "רובוט", "אלגוריתם"]
 
+# סינון רלוונטיות פר-נושא: include = תעדוף כתבות שמכילות מילת מפתח, exclude = דחיפת כתבות כאלה אחורה
+TOPIC_FILTERS = {
+    "AI": (AI_KEYWORDS, "include"),
+    "בידור": (FOREIGN_ENTERTAINMENT_KEYWORDS, "exclude"),
+}
+
+def extract_image(entry, raw_html):
+    """מנסה לשלוף תמונת כתבה: media:thumbnail/content, enclosure, או <img> ראשון בתיאור הגולמי."""
+    for key in ("media_thumbnail", "media_content"):
+        media = entry.get(key)
+        if media:
+            url = media[0].get("url")
+            if url:
+                return url
+    for link_obj in entry.get("links", []):
+        if link_obj.get("rel") == "enclosure" and str(link_obj.get("type", "")).startswith("image"):
+            return link_obj.get("href")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_html or "")
+    return m.group(1) if m else None
+
 def fetch_topic(section, urls, limit=3):
+    keywords, mode = TOPIC_FILTERS.get(section, (None, None))
     items, extra = [], []
     for u in urls:
         try:
@@ -74,20 +99,23 @@ def fetch_topic(section, urls, limit=3):
                 if not is_recent(e):
                     continue
                 title = clean(e.get("title"))
-                summ = clean(e.get("summary", e.get("description", "")))
+                raw_summ = e.get("summary", e.get("description", ""))
+                summ = clean(raw_summ)
                 if not title:
                     continue
                 item = {
                     "section": section,
                     "title": title[:120],
-                    "summary": (summ[:200] + "…") if len(summ) > 200 else summ,
+                    "summary": (summ[:260] + "…") if len(summ) > 260 else summ,
                     "source": clean(getattr(feed.feed, "title", u)),
                     "link": e.get("link", ""),
+                    "image": extract_image(e, raw_summ),
                 }
-                # ל-AI: תעדוף כתבות שרלוונטיות ל-AI ממש (המקור הוא אתר טכנולוגיה כללי)
-                if section == "AI":
+                if keywords:
                     hay = (title + " " + summ).lower()
-                    (items if any(k in hay for k in AI_KEYWORDS) else extra).append(item)
+                    matched = any(k.lower() in hay for k in keywords)
+                    is_preferred = matched if mode == "include" else not matched
+                    (items if is_preferred else extra).append(item)
                 else:
                     items.append(item)
                 if len(items) >= limit:
@@ -133,6 +161,51 @@ def fetch_weather():
         print(f"  אזהרה מזג אוויר: {ex}")
         return {"section":"מזג אוויר","title":"עתלית — התחזית להיום",
                 "summary":"לא הצלחתי למשוך תחזית כרגע.","source":"Open-Meteo","link":"","stats":[]}
+
+# ---- תוצאות כדורגל בזמן אמת (365Scores) ----
+# הערה: זהו ה-API הפנימי (לא רשמי) שאתר 365Scores עצמו משתמש בו. ציבורי וללא מפתח,
+# אבל לא מתועד רשמית - אם ישבר/יחסם בעתיד, הכרטיס פשוט לא יופיע (fail-soft).
+ISRAELI_TEAM_HE = {
+    "Maccabi Tel Aviv": "מכבי תל אביב", "Hapoel Tel Aviv": "הפועל תל אביב",
+    "Maccabi Haifa": "מכבי חיפה", "Hapoel Haifa": "הפועל חיפה",
+    "Hapoel Beer Sheva": "הפועל באר שבע", "Beitar Jerusalem": "בית\"ר ירושלים",
+    "Hapoel Jerusalem": "הפועל ירושלים", "Maccabi Netanya": "מכבי נתניה",
+    "Hapoel Petah Tikva": "הפועל פתח תקווה", "Bnei Sakhnin": "בני סכנין",
+    "Ashdod": "מ.ס. אשדוד", "Maccabi Bnei Reineh": "מכבי בני ריינה",
+    "Hapoel Hadera": "הפועל חדרה", "Ironi Kiryat Shmona": "עירוני קריית שמונה",
+    "Hapoel Rishon LeZion": "הפועל ראשון לציון",
+}
+
+def he_team(name):
+    return ISRAELI_TEAM_HE.get(name, name)
+
+def fetch_live_scores():
+    try:
+        import requests
+        url = "https://webws.365scores.com/web/games/current/?sports=1&countries=6"
+        r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"}).json()
+        games = (r.get("games") or [])[:5]
+        if not games:
+            return None
+        rows = []
+        for g in games:
+            home, away = g.get("homeCompetitor", {}), g.get("awayCompetitor", {})
+            hs, as_ = home.get("score"), away.get("score")
+            score = f"{hs}:{as_}" if hs is not None and as_ is not None else "טרם התחיל"
+            matchup = f"{he_team(home.get('name',''))} נגד {he_team(away.get('name',''))}"
+            rows.append([matchup, f"{score} · {g.get('statusText','')}"])
+        return {
+            "section": "כדורגל",
+            "title": "תוצאות בזמן אמת",
+            "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
+            "source": "365Scores",
+            "link": "https://www.365scores.com/he/football/israel",
+            "image": None,
+            "stats": rows,
+        }
+    except Exception as ex:
+        print(f"  אזהרה 365Scores: {ex}")
+        return None
 
 # ---- נושא יומי ללמוד + עובדה (מתחלף לפי יום בשנה) ----
 LEARN_TOPICS = [
@@ -193,6 +266,9 @@ def main():
     print("· מזג אוויר (עתלית)")
     weather = fetch_weather()
 
+    print("· תוצאות כדורגל בזמן אמת (365Scores)")
+    live_scores = fetch_live_scores()
+
     # מוסיפים סטטיסטיקות בסיסיות לכתבות ספורט/פוליטיקה שאין להן
     for a in articles:
         if "stats" not in a:
@@ -204,12 +280,13 @@ def main():
     lead_pool = [a for a in articles if a["section"] == "פוליטיקה"] or articles
     lead_pool.sort(key=lambda a: prefs.get(a["section"], 0), reverse=True)
     lead = lead_pool[0] if lead_pool else {
-        "section":"מבזק","title":"אין כותרת זמינה","summary":"נסה שוב מאוחר יותר."}
+        "section": "מבזק", "title": "אין כותרת זמינה", "summary": "נסה שוב מאוחר יותר.",
+        "link": "", "image": None}
 
     # שאר הכתבות ממוינות לפי העדפה נלמדת
     body = [a for a in articles if a is not lead]
     body.sort(key=lambda a: prefs.get(a["section"], 0), reverse=True)
-    body = [weather] + body + [learn]
+    body = [weather] + ([live_scores] if live_scores else []) + body + [learn]
 
     now = datetime.datetime.now()
     payload = {
@@ -219,6 +296,7 @@ def main():
         "lead": {
             "section": lead["section"], "eyebrow": "הכותרת של הבוקר",
             "title": lead["title"], "summary": lead["summary"],
+            "link": lead.get("link", ""), "image": lead.get("image"),
         },
         "articles": body,
     }

@@ -38,20 +38,29 @@ def build_html(d):
         fg = "#f5f0e6" if a.get("learn") else "#14110d"
         sec = "#e9c46a" if a.get("learn") else "#0b5d4e"
         size = "22px" if lead else "18px"
+        img = (f'<img src="{a["image"]}" width="100%" '
+               f'style="display:block;border-radius:10px;margin-bottom:12px;max-height:220px;object-fit:cover">'
+               if a.get("image") else "")
+        readmore = (f'<div style="margin-top:10px"><a href="{a["link"]}" '
+                    f'style="color:#0b5d4e;font-size:12.5px;font-weight:700;text-decoration:none">קרא את הכתבה המלאה ←</a></div>'
+                    if a.get("link") else "")
         return f'''
         <table width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 14px">
          <tr><td style="background:{bg};border:1px solid #d8cdb8;border-radius:14px;padding:18px 20px" dir="rtl">
+          {img}
           <div style="color:{sec};font-size:11px;font-weight:700;letter-spacing:1px">{a["section"].upper()}</div>
           <div style="font-family:Georgia,serif;font-weight:700;font-size:{size};color:{fg};margin:6px 0 6px;line-height:1.25">{a["title"]}</div>
           <div style="color:{'#d3e6df' if a.get('learn') else '#463f34'};font-size:14px;line-height:1.55">{a["summary"]}</div>
           <div style="color:#6b6152;font-size:11px;margin-top:8px">{a.get("source","")}</div>
           {stats}
+          {readmore}
          </td></tr>
         </table>'''
 
     L = d["lead"]
     lead_html = card({"section":L["section"],"title":L["title"],"summary":L["summary"],
-                      "source":"הכותרת של הבוקר","stats":None}, lead=True)
+                      "source":"הכותרת של הבוקר","stats":None,
+                      "link":L.get("link"),"image":L.get("image")}, lead=True)
     body = "".join(card(a) for a in d["articles"])
     return f'''<!DOCTYPE html><html dir="rtl" lang="he"><body style="margin:0;background:#f5f0e6;padding:24px 0;font-family:Arial,Helvetica,sans-serif">
     <table align="center" width="600" cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto">
