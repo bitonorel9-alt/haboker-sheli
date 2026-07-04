@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>הבוקר שלי · תמצית יומית</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b5d4e">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="הבוקר שלי">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700;900&family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#14110d;
+  --paper:#f5f0e6;
+  --paper-2:#ece4d3;
+  --card:#fffdf7;
+  --accent:#0b5d4e;      /* deep teal-green */
+  --accent-2:#c8551f;    /* burnt orange, used sparingly */
+  --muted:#6b6152;
+  --line:#d8cdb8;
+  --gold:#b8892b;
+  --shadow:0 1px 0 rgba(20,17,13,.04), 0 8px 30px -18px rgba(20,17,13,.35);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+
+/* animated background canvas + aurora */
+#bg{position:fixed;inset:0;z-index:0;pointer-events:none}
+.aurora{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.55;
+  background:
+   radial-gradient(60% 50% at 15% 12%,rgba(11,93,78,.22),transparent 60%),
+   radial-gradient(55% 45% at 88% 20%,rgba(200,85,31,.14),transparent 55%),
+   radial-gradient(60% 55% at 50% 100%,rgba(184,137,43,.12),transparent 60%);
+  animation:drift 22s ease-in-out infinite alternate;filter:blur(4px)}
+@keyframes drift{
+  0%{transform:translate3d(0,0,0) scale(1)}
+  50%{transform:translate3d(-2%,1.5%,0) scale(1.06)}
+  100%{transform:translate3d(2%,-1%,0) scale(1.02)}}
+@media(prefers-reduced-motion:reduce){.aurora{animation:none}#bg{display:none}}
+
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:'Heebo',system-ui,sans-serif;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+  min-height:100vh;
+  overflow-x:hidden;
+}
+.wrap{max-width:920px;margin:0 auto;padding:0 20px;position:relative;z-index:2}
+
+/* ---------- Masthead ---------- */
+.masthead{padding:36px 0 20px;border-bottom:2px solid var(--ink)}
+.mast-top{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap}
+.mast-brand{font-family:'Frank Ruhl Libre',serif;font-weight:900;font-size:clamp(34px,7vw,58px);letter-spacing:-.02em;line-height:.95}
+.mast-brand span{color:var(--accent)}
+.mast-meta{text-align:left;font-size:13px;color:var(--muted);letter-spacing:.02em}
+.mast-meta .date{font-weight:700;color:var(--ink);font-size:15px}
+.mast-strip{display:flex;gap:18px;margin-top:14px;font-size:12.5px;color:var(--muted);flex-wrap:wrap;align-items:center}
+.mast-strip b{color:var(--accent);font-weight:700}
+.pulse{width:7px;height:7px;border-radius:50%;background:var(--accent-2);display:inline-block;margin-inline-end:5px;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+
+/* ---------- Section nav ---------- */
+.filters{display:flex;gap:8px;flex-wrap:wrap;padding:20px 0 6px;position:sticky;top:0;background:linear-gradient(var(--paper) 70%,transparent);z-index:20}
+.chip{border:1.5px solid var(--line);background:var(--card);color:var(--muted);padding:6px 14px;border-radius:999px;font:500 13px 'Heebo';cursor:pointer;transition:.18s}
+.chip:hover{border-color:var(--accent);color:var(--accent)}
+.chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+
+/* ---------- Lead / hero article ---------- */
+.lead{position:relative;margin:22px 0 8px;background:rgba(255,253,247,.78);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:var(--shadow)}
+.lead::after{content:"";position:absolute;top:-40%;right:-20%;width:60%;height:180%;background:linear-gradient(120deg,transparent,rgba(184,137,43,.12),transparent);transform:rotate(8deg);animation:sheen 7s ease-in-out infinite}
+@keyframes sheen{0%,100%{opacity:0;transform:translateX(30%) rotate(8deg)}50%{opacity:1;transform:translateX(-20%) rotate(8deg)}}
+.lead-body{padding:26px 28px 22px}
+.eyebrow{display:inline-flex;align-items:center;gap:7px;font:700 11.5px 'Heebo';letter-spacing:.14em;text-transform:uppercase;color:var(--accent-2)}
+.lead h2{font-family:'Frank Ruhl Libre',serif;font-weight:900;font-size:clamp(24px,4.5vw,36px);line-height:1.12;margin:12px 0 10px;letter-spacing:-.01em}
+.lead p{color:#3d372d;font-size:16.5px}
+
+/* ---------- Cards grid ---------- */
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin:16px 0 40px}
+@media(max-width:640px){.grid{grid-template-columns:1fr}}
+.card{position:relative;background:rgba(255,253,247,.72);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(216,205,184,.8);border-radius:16px;padding:20px 20px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column;transition:transform .25s cubic-bezier(.2,.7,.2,1),box-shadow .25s,border-color .25s;opacity:0;transform:translateY(24px)}
+.card.in{opacity:1;transform:none}
+.card::before{content:"";position:absolute;inset:0;border-radius:16px;background:radial-gradient(180px circle at var(--mx,50%) var(--my,0%),rgba(11,93,78,.14),transparent 60%);opacity:0;transition:opacity .3s;pointer-events:none}
+.card:hover::before{opacity:1}
+.card:hover{transform:translateY(-4px);border-color:#c4b79b;box-shadow:0 20px 40px -22px rgba(20,17,13,.5)}
+.card .kicker{display:flex;align-items:center;gap:8px;font:700 11px 'Heebo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.card h3{font-family:'Frank Ruhl Libre',serif;font-weight:700;font-size:19px;line-height:1.25;margin:10px 0 8px}
+.card .summary{color:#463f34;font-size:14.5px;flex:1}
+.card .src{margin-top:12px;font-size:11.5px;color:var(--muted)}
+
+/* stat drawer */
+.statbtn{margin-top:12px;align-self:flex-start;border:1.5px dashed var(--line);background:transparent;color:var(--accent);font:600 12.5px 'Heebo';padding:6px 12px;border-radius:9px;cursor:pointer;transition:.15s;display:flex;align-items:center;gap:6px}
+.statbtn:hover{background:var(--accent);color:#fff;border-style:solid;border-color:var(--accent)}
+.stats{max-height:0;overflow:hidden;transition:max-height .35s ease;margin-top:0}
+.stats.open{max-height:600px;margin-top:12px}
+.stats-inner{border-top:1px dashed var(--line);padding-top:12px}
+.stat-row{display:flex;justify-content:space-between;font-size:13px;padding:5px 0;border-bottom:1px dotted #e4dcc9}
+.stat-row b{color:var(--accent);font-family:'Frank Ruhl Libre',serif}
+.bar{height:6px;background:var(--paper-2);border-radius:6px;overflow:hidden;margin-top:4px}
+.bar span{display:block;height:100%;background:linear-gradient(90deg,var(--accent),var(--gold));border-radius:6px}
+
+/* feedback */
+.fb{display:flex;gap:8px;margin-top:14px;padding-top:12px;border-top:1px solid #eee5d3}
+.fb button{flex:1;border:1.5px solid var(--line);background:var(--card);border-radius:9px;padding:7px;font-size:15px;cursor:pointer;transition:.15s}
+.fb button:hover{border-color:var(--accent)}
+.fb button.up.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.fb button.down.active{background:#f0e6e0;border-color:var(--accent-2)}
+
+/* learn card special */
+.card.learn{background:linear-gradient(160deg,#0b5d4e,#0a4a3f);color:#f5f0e6;border:none}
+.card.learn .kicker,.card.learn .dot{color:#e9c46a}
+.card.learn .dot{background:#e9c46a}
+.card.learn h3{color:#fff}
+.card.learn .summary{color:#d3e6df}
+.card.learn .statbtn{color:#e9c46a;border-color:rgba(233,196,106,.5)}
+.card.learn .statbtn:hover{background:#e9c46a;color:#0b5d4e}
+
+/* footer */
+footer{border-top:2px solid var(--ink);padding:26px 0 50px;text-align:center;color:var(--muted);font-size:13px}
+footer b{color:var(--accent)}
+.pref-note{margin-top:8px;font-size:11.5px}
+</style>
+</head>
+<body>
+<canvas id="bg"></canvas>
+<div class="aurora"></div>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="mast-top">
+      <div class="mast-brand">הבוקר <span>שלי</span></div>
+      <div class="mast-meta">
+        <div class="date" id="today">—</div>
+        <div>תמצית יומית · עתלית</div>
+      </div>
+    </div>
+    <div class="mast-strip">
+      <span><span class="pulse"></span>עודכן לאחרונה: <b id="updated">—</b></span>
+      <span>·</span>
+      <span id="count">— כתבות</span>
+      <span>·</span>
+      <span>מותאם להעדפות שלך <b id="learnstate">פעיל</b></span>
+    </div>
+  </header>
+
+  <nav class="filters" id="filters"></nav>
+
+  <div id="lead"></div>
+  <main class="grid" id="grid"></main>
+
+  <footer>
+    <div>נבנה עבורך · <b>הבוקר שלי</b> · כדורגל · פוליטיקה · מזג אוויר · AI · בידור · לומדים משהו חדש</div>
+    <div class="pref-note">הדירוגים שלך (👍/👎) נשמרים מקומית ומשפיעים על סדר הכתבות מחר</div>
+  </footer>
+
+</div>
+
+<script src="data/news_data.js"></script>
+<script>
+// ====== DATA — data/news_data.js is regenerated daily by collect_news.py ======
+// The Python collector writes a fresh window.NEWS_DATA object each morning.
+const FALLBACK = {
+  date: new Date().toLocaleDateString('he-IL',{weekday:'long',day:'numeric',month:'long',year:'numeric'}),
+  updated: "07:30",
+  lead: {
+    section:"פוליטיקה", eyebrow:"הכותרת של הבוקר",
+    title:"כותרת ראשית תופיע כאן אחרי האיסוף היומי הראשון",
+    summary:"זו תצוגה לדוגמה. לאחר שתפעיל את סקריפט האיסוף (collect_news.py), הבלוק הזה יתמלא בכותרת החשובה ביותר מהיום האחרון — עם דגש על ישראל.",
+  },
+  articles: [
+    {section:"כדורגל",title:"מכבי חיפה — סיכום המחזור",summary:"תמצית קצרה של תוצאות הליגה הישראלית והמשחקים הבולטים באירופה מהיום האחרון.",source:"ONE / ynet ספורט",stats:[["גולים במחזור","23"],["ניצחון בית","62%",62],["צופים בכירים","31,400"]]},
+    {section:"מזג אוויר",title:"עתלית — התחזית להיום",summary:"בהיר עד מעונן חלקית, רוח מערבית קלה. פירוט שעתי בסטטיסטיקות.",source:"IMS · השירות המטאורולוגי",stats:[["מקסימום","28°"],["מינימום","21°"],["לחות","64%",64],["גשם","0%",0]]},
+    {section:"AI",title:"העדכון החשוב שאתה צריך לדעת",summary:"סיכום פיתוח אחד משמעותי בעולם ה-AI שרלוונטי להבנת התמונה — מנוסח בקצרה.",source:"מקורות טכנולוגיה",stats:[["מודלים חדשים השבוע","4"],["רלוונטיות אליך","גבוהה"]]},
+    {section:"פוליטיקה",title:"מה קרה בכנסת / בזירה",summary:"עדכון פוליטי ישראלי מרכזי מהיום האחרון, בלי רעש מיותר.",source:"ישראל היום / הארץ / ynet",stats:[["הצבעות","2"],["סקר עדכני","—"]]},
+    {section:"בידור",title:"מה שווה לראות / לשמוע",summary:"המלצה או חדשה תרבותית קלילה לסיום.",source:"מקורות בידור",stats:[["בהשקה","3"],["טרנד היום","—"]]},
+    {section:"לומדים","learn":true,title:"הנושא של היום ללמוד",summary:"מושג חדש מוסבר ב-3 שורות, ועובדה מפתיעה שתישאר איתך. מתחלף כל יום.",source:"תמצית ידע יומית",stats:[["זמן קריאה","90 שניות"],["עובדה בונוס","✓"]]},
+  ]
+};
+const DATA = window.NEWS_DATA || FALLBACK;
+
+// ====== living background: particle constellation ======
+(function(){
+  const c=document.getElementById('bg'),x=c.getContext('2d');
+  let w,h,parts=[],mouse={x:-999,y:-999};
+  const reduce=matchMedia('(prefers-reduced-motion:reduce)').matches;
+  function size(){w=c.width=innerWidth;h=c.height=innerHeight}
+  size();addEventListener('resize',size);
+  const N=Math.min(70,Math.floor(innerWidth/22));
+  for(let i=0;i<N;i++)parts.push({x:Math.random()*w,y:Math.random()*h,vx:(Math.random()-.5)*.35,vy:(Math.random()-.5)*.35});
+  addEventListener('mousemove',e=>{mouse.x=e.clientX;mouse.y=e.clientY});
+  function tick(){
+    x.clearRect(0,0,w,h);
+    for(const p of parts){
+      p.x+=p.vx;p.y+=p.vy;
+      if(p.x<0||p.x>w)p.vx*=-1;if(p.y<0||p.y>h)p.vy*=-1;
+      const dx=p.x-mouse.x,dy=p.y-mouse.y,d=Math.hypot(dx,dy);
+      if(d<120){p.x+=dx/d*.6;p.y+=dy/d*.6}
+      x.beginPath();x.arc(p.x,p.y,1.6,0,7);x.fillStyle='rgba(11,93,78,.45)';x.fill();
+    }
+    for(let i=0;i<parts.length;i++)for(let j=i+1;j<parts.length;j++){
+      const a=parts[i],b=parts[j],d=Math.hypot(a.x-b.x,a.y-b.y);
+      if(d<110){x.strokeStyle=`rgba(184,137,43,${.16*(1-d/110)})`;x.lineWidth=1;
+        x.beginPath();x.moveTo(a.x,a.y);x.lineTo(b.x,b.y);x.stroke();}
+    }
+    requestAnimationFrame(tick);
+  }
+  if(!reduce)tick();
+})();
+
+// ====== time-of-day accent: shifts the mood morning/day/evening ======
+(function(){
+  const hr=new Date().getHours(),r=document.documentElement.style;
+  if(hr>=5&&hr<11){r.setProperty('--accent','#0b6d54')}       // morning fresh green
+  else if(hr>=11&&hr<17){r.setProperty('--accent','#0b5d4e')} // midday teal
+  else if(hr>=17&&hr<21){r.setProperty('--accent','#a8531f')} // evening warm
+  else{r.setProperty('--accent','#134b57')}                    // night cool
+})();
+
+
+const PREFS = JSON.parse(localStorage.getItem('news_prefs')||'{}');
+function savePrefs(){localStorage.setItem('news_prefs',JSON.stringify(PREFS))}
+function score(sec){return PREFS[sec]||0}
+
+const SECTIONS = ["הכל","כדורגל","פוליטיקה","מזג אוויר","AI","בידור","לומדים"];
+let activeFilter = "הכל";
+
+document.getElementById('today').textContent = DATA.date;
+document.getElementById('updated').textContent = DATA.updated;
+
+// build filter chips
+const fEl = document.getElementById('filters');
+SECTIONS.forEach(s=>{
+  const b=document.createElement('button');
+  b.className='chip'+(s==="הכל"?' on':'');
+  b.textContent=s;
+  b.onclick=()=>{activeFilter=s;[...fEl.children].forEach(c=>c.classList.remove('on'));b.classList.add('on');render()};
+  fEl.appendChild(b);
+});
+
+// lead
+const L=DATA.lead;
+document.getElementById('lead').innerHTML=`
+  <article class="lead">
+    <div class="lead-body">
+      <span class="eyebrow"><span class="pulse"></span>${L.eyebrow} · ${L.section}</span>
+      <h2>${L.title}</h2>
+      <p>${L.summary}</p>
+    </div>
+  </article>`;
+
+function render(){
+  const grid=document.getElementById('grid');
+  grid.innerHTML='';
+  let arts=DATA.articles.slice();
+  if(activeFilter!=="הכל") arts=arts.filter(a=>a.section===activeFilter);
+  // sort by learned preference (desc), keep learn card near end
+  arts.sort((a,b)=> (score(b.section)-score(a.section)) );
+  document.getElementById('count').textContent = DATA.articles.length+" כתבות";
+  arts.forEach((a,i)=>{
+    const card=document.createElement('article');
+    card.className='card'+(a.learn?' learn':'');
+    card.style.animationDelay=(i*60)+'ms';
+    const statsHtml=(a.stats||[]).map(row=>{
+      const [label,val,pct]=row;
+      const bar = (pct!==undefined)?`<div class="bar"><span style="width:${pct}%"></span></div>`:'';
+      return `<div class="stat-row"><span>${label}</span><b>${val}</b></div>${bar}`;
+    }).join('');
+    const up=score(a.section)>0?'active':'', down=score(a.section)<0?'active':'';
+    card.innerHTML=`
+      <div class="kicker"><span class="dot"></span>${a.section}</div>
+      <h3>${a.title}</h3>
+      <div class="summary">${a.summary}</div>
+      <div class="src">${a.source||''}</div>
+      ${a.stats?`<button class="statbtn">📊 הצג סטטיסטיקות</button>
+      <div class="stats"><div class="stats-inner">${statsHtml}</div></div>`:''}
+      <div class="fb">
+        <button class="up ${up}" title="מעניין אותי">👍 מעניין</button>
+        <button class="down ${down}" title="פחות מעניין">👎 פחות</button>
+      </div>`;
+    // stat toggle
+    const sb=card.querySelector('.statbtn');
+    if(sb){sb.onclick=()=>{const d=card.querySelector('.stats');d.classList.toggle('open');sb.textContent=d.classList.contains('open')?'📊 הסתר סטטיסטיקות':'📊 הצג סטטיסטיקות'}}
+    // feedback
+    card.querySelector('.up').onclick=()=>{PREFS[a.section]=(PREFS[a.section]||0)+1;savePrefs();render()};
+    card.querySelector('.down').onclick=()=>{PREFS[a.section]=(PREFS[a.section]||0)-1;savePrefs();render()};
+    // mouse-tracked glow
+    card.addEventListener('mousemove',e=>{
+      const r=card.getBoundingClientRect();
+      card.style.setProperty('--mx',(e.clientX-r.left)+'px');
+      card.style.setProperty('--my',(e.clientY-r.top)+'px');
+    });
+    grid.appendChild(card);
+  });
+  // scroll reveal
+  const io=new IntersectionObserver((es)=>{
+    es.forEach(en=>{if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target)}});
+  },{threshold:.12});
+  grid.querySelectorAll('.card').forEach((el,i)=>{el.style.transitionDelay=(i*55)+'ms';io.observe(el)});
+}
+render();
+
+// ====== PWA: register service worker so the site can be added to the home screen ======
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(()=>{}));
+}
+</script>
+</body>
+</html>

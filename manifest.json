@@ -1,0 +1,19 @@
+{
+  "name": "הבוקר שלי — תמצית חדשות יומית",
+  "short_name": "הבוקר שלי",
+  "description": "תמצית חדשות יומית מותאמת אישית: כדורגל, פוליטיקה, מזג אוויר, AI, בידור ולומדים",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f0e6",
+  "theme_color": "#0b5d4e",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

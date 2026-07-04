@@ -1,0 +1,8 @@
+{
+  "_הסבר": "העתק קובץ זה ל-email_config.json ומלא את הפרטים. עבור Gmail השתמש ב'סיסמת אפליקציה', לא בסיסמה הרגילה.",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "from_email": "your-email@gmail.com",
+  "app_password": "xxxx xxxx xxxx xxxx",
+  "to_email": "your-email@gmail.com"
+}

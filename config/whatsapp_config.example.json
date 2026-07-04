@@ -1,0 +1,6 @@
+{
+  "_הסבר": "העתק קובץ זה ל-whatsapp_config.json ומלא את הפרטים. איך משיגים apikey: שמור את +34 644 59 71 07 באנשי קשר בוואטסאפ, שלח לו 'I allow callmebot to send me messages', ותקבל בחזרה מפתח.",
+  "phone": "972501234567",
+  "apikey": "123456",
+  "site_url": "https://your-username.github.io/your-repo/"
+}
