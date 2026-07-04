@@ -1,0 +1,2 @@
+git remote add origin https://github.com/bitonorel9-alt/haboker-sheli.git
+git push -u origin main
