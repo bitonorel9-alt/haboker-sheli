@@ -52,18 +52,21 @@ FOREIGN_ENTERTAINMENT_KEYWORDS = ["הוליווד", "אמריקני", "אמרי�
                                   "ספרינגסטין", "מדונה", "טיילור סוויפט", "נטפליקס", "מרוול"]
 
 MAX_AGE_HOURS = 30  # "היום האחרון"
+# לבידור נותנים חלון רחב יותר: פחות כתבות ביום, וכך יש סיכוי טוב יותר למצוא מספיק
+# תוכן ישראלי לפני שנופלים חזרה על תוכן זר (ראו TOPIC_FILTERS)
+TOPIC_MAX_AGE_HOURS = {"בידור": 72}
 
 def clean(t):
     t = re.sub(r"<[^>]+>", "", t or "")
     return html.unescape(t).strip()
 
-def is_recent(entry):
+def is_recent(entry, max_age=MAX_AGE_HOURS):
     for key in ("published_parsed", "updated_parsed"):
         tp = entry.get(key)
         if tp:
             dt = datetime.datetime(*tp[:6])
             age = (datetime.datetime.utcnow() - dt).total_seconds() / 3600
-            return age <= MAX_AGE_HOURS
+            return age <= max_age
     return True  # אם אין תאריך, ניקח בכל זאת
 
 AI_KEYWORDS = ["בינה מלאכותית", "ai", "chatgpt", "gpt", "מודל שפה", "למידת מכונה",
@@ -91,12 +94,13 @@ def extract_image(entry, raw_html):
 
 def fetch_topic(section, urls, limit=3):
     keywords, mode = TOPIC_FILTERS.get(section, (None, None))
+    max_age = TOPIC_MAX_AGE_HOURS.get(section, MAX_AGE_HOURS)
     items, extra = [], []
     for u in urls:
         try:
             feed = feedparser.parse(u)
             for e in feed.entries:
-                if not is_recent(e):
+                if not is_recent(e, max_age):
                     continue
                 title = clean(e.get("title"))
                 raw_summ = e.get("summary", e.get("description", ""))
@@ -170,14 +174,24 @@ ISRAELI_TEAM_HE = {
     "Maccabi Haifa": "מכבי חיפה", "Hapoel Haifa": "הפועל חיפה",
     "Hapoel Beer Sheva": "הפועל באר שבע", "Beitar Jerusalem": "בית\"ר ירושלים",
     "Hapoel Jerusalem": "הפועל ירושלים", "Maccabi Netanya": "מכבי נתניה",
-    "Hapoel Petah Tikva": "הפועל פתח תקווה", "Bnei Sakhnin": "בני סכנין",
-    "Ashdod": "מ.ס. אשדוד", "Maccabi Bnei Reineh": "מכבי בני ריינה",
-    "Hapoel Hadera": "הפועל חדרה", "Ironi Kiryat Shmona": "עירוני קריית שמונה",
+    "Hapoel Petah Tikva": "הפועל פתח תקווה", "Maccabi Petah Tikva": "מכבי פתח תקווה",
+    "Bnei Sakhnin": "בני סכנין", "Ashdod": "מ.ס. אשדוד",
+    "Maccabi Bnei Reineh": "מכבי בני ריינה", "Hapoel Hadera": "הפועל חדרה",
+    "Ironi Kiryat Shmona": "עירוני קריית שמונה", "Ironi Tiberias": "עירוני טבריה",
     "Hapoel Rishon LeZion": "הפועל ראשון לציון",
+}
+STATUS_HE = {
+    "Scheduled": "טרם התחיל", "Not Started": "טרם התחיל",
+    "Live": "בשידור חי", "In Progress": "מתקיים כעת", "Half Time Break": "מחצית",
+    "Ended": "הסתיים", "Finished": "הסתיים", "Just Ended": "הסתיים הרגע",
+    "Postponed": "נדחה", "Cancelled": "בוטל",
 }
 
 def he_team(name):
     return ISRAELI_TEAM_HE.get(name, name)
+
+def he_status(text):
+    return STATUS_HE.get(text, text)
 
 def fetch_live_scores():
     try:
@@ -191,9 +205,10 @@ def fetch_live_scores():
         for g in games:
             home, away = g.get("homeCompetitor", {}), g.get("awayCompetitor", {})
             hs, as_ = home.get("score"), away.get("score")
-            score = f"{hs}:{as_}" if hs is not None and as_ is not None else "טרם התחיל"
+            started = hs is not None and as_ is not None and hs >= 0 and as_ >= 0
+            score = f"{hs:g}:{as_:g}" if started else "טרם התחיל"
             matchup = f"{he_team(home.get('name',''))} נגד {he_team(away.get('name',''))}"
-            rows.append([matchup, f"{score} · {g.get('statusText','')}"])
+            rows.append([matchup, f"{score} · {he_status(g.get('statusText',''))}"])
         return {
             "section": "כדורגל",
             "title": "תוצאות בזמן אמת",
