@@ -206,9 +206,10 @@ def fetch_live_scores():
             home, away = g.get("homeCompetitor", {}), g.get("awayCompetitor", {})
             hs, as_ = home.get("score"), away.get("score")
             started = hs is not None and as_ is not None and hs >= 0 and as_ >= 0
-            score = f"{hs:g}:{as_:g}" if started else "טרם התחיל"
+            status = he_status(g.get("statusText", ""))
+            value = f"{hs:g}:{as_:g} · {status}" if started else status
             matchup = f"{he_team(home.get('name',''))} נגד {he_team(away.get('name',''))}"
-            rows.append([matchup, f"{score} · {he_status(g.get('statusText',''))}"])
+            rows.append([matchup, value])
         return {
             "section": "כדורגל",
             "title": "תוצאות בזמן אמת",
