@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
- "date": "Saturday, 04 July 2026",
+ "date": "יום שבת, 4 ביולי 2026",
  "date_he": "04/07/2026",
- "updated": "17:28",
+ "updated": "17:37",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -12,7 +12,7 @@ window.NEWS_DATA = {
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.4° / 25.4°",
-   "summary": "כרגע 26.8°, לחות 78%, רוח 10.2 קמ״ש. סיכוי משקעים 5%.",
+   "summary": "כרגע 26.8°, לחות 79%, רוח 9.7 קמ״ש. סיכוי משקעים 5%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -26,56 +26,17 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "78%",
-     78
+     "79%",
+     79
     ],
     [
      "רוח",
-     "10.2 קמ״ש"
+     "9.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
      "5%",
      5
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "Follow live: Canada, Morocco face off as round of ...",
-   "summary": "null",
-   "source": "www.espn.com - SOCCER",
-   "link": "https://www.espn.com/soccer/story/_/id/49265379/world-cup-daily-live-cape-verde-overshadow-taylor-swift-travis-kelce-wedding-round-16-begins-canada-morocco-paraguay-france",
-   "stats": [
-    [
-     "מקור",
-     "www.espn.com - SOCCE"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "Argentina break Cape Verde hearts in extra-time",
-   "summary": "Argentina were taken into extra time by Cape Verde but eventually prevailed 3-2, with Lionel Messi on the scoresheet, in the round of 32 in Miami on Friday.",
-   "source": "www.espn.com - SOCCER",
-   "link": "https://www.espn.com/soccer/story/_/id/49263170/argentina-break-cape-verde-hearts-extra-world-cup-lionel-messi-scores",
-   "stats": [
-    [
-     "מקור",
-     "www.espn.com - SOCCE"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "Messi: Argentina have 'many' things to correct",
-   "summary": "Lionel Messi said Argentina have \"many\" things to improve after a nail-biting 3-2 win over Cape Verde in extra time Friday night at Hard Rock Stadium in Miami Gardens, Florida, pointing out his team's…",
-   "source": "www.espn.com - SOCCER",
-   "link": "https://www.espn.com/soccer/story/_/id/49263953/lionel-messi-argentina-many-bad-things-correct",
-   "stats": [
-    [
-     "מקור",
-     "www.espn.com - SOCCE"
     ]
    ]
   },
@@ -107,40 +68,40 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-   "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-   "source": "Feed: Artificial Intelligence Latest",
-   "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+   "title": "כלי התמלול בעברית שבנה הייטקיסט הפך ללהיט בסטארטאפ שלו, ועכשיו הוא זמין לכולם",
+   "summary": "כמה מהכלים שהכי תרמו ליעילות העבודה שלי בגיקטיים היו כלי התמלול מבוססי ה-AI. אם פעם כל ראיון או שיחה דרשו שעות של תמלול ידני מעיק, או הקלדה מהירה כמו הגיף ההוא של החתול תוך כדי שיחות טלפון, היום אני פ…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/island-doe-built-hebrew-transcriber-tool/",
    "stats": [
     [
      "מקור",
-     "Feed: Artificial Int"
+     "גיקטיים"
     ]
    ]
   },
   {
    "section": "AI",
-   "title": "Alibaba reportedly bans employees from using Claude Code",
-   "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-   "source": "AI News & Artificial Intelligence | TechCrunch",
-   "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+   "title": "תוסף חדש חוסך לכם טוקנים בקלוד בעזרת האדם הקדמון",
+   "summary": "זה לא נדיר לבקש ממודל ה-AI המועדף עליכם לבצע פעולה פשוטה, ובמקום לקבל פלט נקי, אתם מקבלים מגילה משתפכת שכוללת משפטים כמו \"בטח, אשמח לעזור לך עם זה! הנה הקוד שביקשת… האם תרצה שארחיב?\". אבל לא צריך להיו…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/caveman-saves-a-lot-of-tokens-and-the-indsutry-likes-it/",
    "stats": [
     [
      "מקור",
-     "AI News & Artificial"
+     "גיקטיים"
     ]
    ]
   },
   {
    "section": "AI",
-   "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-   "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-   "source": "AI News & Artificial Intelligence | TechCrunch",
-   "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+   "title": "רווק נעזר ב-OpenClaw כדי להשיג מאות פניות מנשים באינסטגרם",
+   "summary": "עולם הדייטינג המתיש (ככה שמענו), גרם לזה שרווקות ורווקים מתלוננים שאפליקציות הדייטינג רחוקות מלעשות את העבודה. אבל רווק מתוחכם אחד החליט לייצר לעצמו מסלול עוקף אפליקציות, שלדבריו השיג לו בזמן שיא מספר…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/this-man-uses-openclaw-for-dating/",
    "stats": [
     [
      "מקור",
-     "AI News & Artificial"
+     "גיקטיים"
     ]
    ]
   },
