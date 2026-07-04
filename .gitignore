@@ -1,5 +1,6 @@
 config/email_config.json
 config/whatsapp_config.json
+.claude/
 __pycache__/
 *.pyc
 preview*.png

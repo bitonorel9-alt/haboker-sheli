@@ -27,20 +27,18 @@ PREFS_FILE = DATA / "prefs.json"
 # ---- עיר מזג האוויר: עתלית ----
 ATLIT_LAT, ATLIT_LON = 32.7100, 34.9400
 
-# ---- מקורות RSS פר-נושא (עדכניים, ציבוריים) ----
+# ---- מקורות RSS פר-נושא (עדכניים, ציבוריים, כולם בעברית) ----
 FEEDS = {
     "כדורגל": [
-        "https://www.one.co.il/cat/coop/xml/rss/mvp.aspx",       # ONE
+        "https://www.one.co.il/cat/coop/xml/rss/mvp.aspx",       # ONE (ישראל + עולם)
         "https://rss.walla.co.il/feed/48",                       # וואלה ספורט
-        "https://www.espn.com/espn/rss/soccer/news",             # עולמי
     ],
     "פוליטיקה": [
         "https://www.ynet.co.il/Integration/StoryRss2.xml",      # ynet חדשות
         "https://rss.walla.co.il/feed/2686",                     # וואלה חדשות
     ],
     "AI": [
-        "https://www.wired.com/feed/tag/ai/latest/rss",
-        "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "https://www.geektime.co.il/feed/",                      # גיקטיים - טכנולוגיה ו-AI בעברית
     ],
     "בידור": [
         "https://rss.walla.co.il/feed/6",                        # וואלה תרבות
@@ -63,8 +61,11 @@ def is_recent(entry):
             return age <= MAX_AGE_HOURS
     return True  # אם אין תאריך, ניקח בכל זאת
 
+AI_KEYWORDS = ["בינה מלאכותית", "ai", "chatgpt", "gpt", "מודל שפה", "למידת מכונה",
+               "אנתרופיק", "openai", "קלוד", "gemini", "רובוט", "אלגוריתם"]
+
 def fetch_topic(section, urls, limit=3):
-    items = []
+    items, extra = [], []
     for u in urls:
         try:
             feed = feedparser.parse(u)
@@ -75,20 +76,27 @@ def fetch_topic(section, urls, limit=3):
                 summ = clean(e.get("summary", e.get("description", "")))
                 if not title:
                     continue
-                items.append({
+                item = {
                     "section": section,
                     "title": title[:120],
                     "summary": (summ[:200] + "…") if len(summ) > 200 else summ,
                     "source": clean(getattr(feed.feed, "title", u)),
                     "link": e.get("link", ""),
-                })
+                }
+                # ל-AI: תעדוף כתבות שרלוונטיות ל-AI ממש (המקור הוא אתר טכנולוגיה כללי)
+                if section == "AI":
+                    hay = (title + " " + summ).lower()
+                    (items if any(k in hay for k in AI_KEYWORDS) else extra).append(item)
+                else:
+                    items.append(item)
                 if len(items) >= limit:
                     break
         except Exception as ex:
             print(f"  אזהרה [{section}] {u}: {ex}")
         if len(items) >= limit:
             break
-    return items[:limit]
+    items = (items + extra)[:limit]
+    return items
 
 def fetch_weather():
     """מזג אוויר לעתלית דרך Open-Meteo (חינמי, ללא מפתח)."""
@@ -158,6 +166,14 @@ def learn_card():
         "stats": [["תחום", field], ["עובדה בונוס", fact]],
     }
 
+HEB_DAYS = ["יום ראשון", "יום שני", "יום שלישי", "יום רביעי", "יום חמישי", "יום שישי", "יום שבת"]
+HEB_MONTHS = ["ינואר", "פברואר", "מרץ", "אפריל", "מאי", "יוני",
+              "יולי", "אוגוסט", "ספטמבר", "אוקטובר", "נובמבר", "דצמבר"]
+
+def hebrew_date(now):
+    day_name = HEB_DAYS[int(now.strftime("%w"))]  # %w: 0=ראשון..6=שבת, לא תלוי locale
+    return f"{day_name}, {now.day} ב{HEB_MONTHS[now.month - 1]} {now.year}"
+
 def load_prefs():
     if PREFS_FILE.exists():
         try: return json.loads(PREFS_FILE.read_text(encoding="utf-8"))
@@ -196,7 +212,7 @@ def main():
 
     now = datetime.datetime.now()
     payload = {
-        "date": now.strftime("%A, %d %B %Y"),
+        "date": hebrew_date(now),
         "date_he": now.strftime("%d/%m/%Y"),
         "updated": now.strftime("%H:%M"),
         "lead": {
