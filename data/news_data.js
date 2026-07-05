@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 5 ביולי 2026",
  "date_he": "05/07/2026",
- "updated": "20:39",
+ "updated": "20:59",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.2° / 25.4°",
-   "summary": "כרגע 26.8°, לחות 80%, רוח 7.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 26.8°, לחות 80%, רוח 6.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "7.4 קמ״ש"
+     "6.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -44,7 +44,7 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת",
+   "title": "תוצאות בזמן אמת · ישראל",
    "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
    "source": "365Scores",
    "link": "https://www.365scores.com/he/football/israel",
@@ -74,6 +74,36 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות הכי פופולריות.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "Ferrocarril Midland נגד Gimnasia Jujuy",
+     "0:1 · מחצית שנייה"
+    ],
+    [
+     "San Martin נגד Chacarita Juniors",
+     "0:1 · מחצית שנייה"
+    ],
+    [
+     "Nublense נגד Curicó Unido",
+     "2:2 · מחצית שנייה"
+    ],
+    [
+     "Nacional Senac נגד Universitario De Tarija",
+     "2:2 · מחצית שנייה"
+    ],
+    [
+     "Central Norte נגד CA San Miguel",
+     "1:1 · מחצית שנייה"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
    "title": "רכש מסקרן: דור מיכה סיכם במ.ס אשדוד",
    "summary": "על פי ההערכות הקשר, שעוזב את בית\"ר ירושלים, צפוי להשתכר בעיר הנמל כ-100 אלף דולר נטו לעונה",
    "source": "ynet - ספורט",
@@ -88,8 +118,8 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דקה 36: ברזיל - נורבגיה 0:0",
-   "summary": "מונדיאל, שמינית הגמר: קצב טוב בפתיחה. הסלסאו פספסו הזדמנות לעלות ליתרון כשגימראייש החמיץ פנדל, מנגד שער של הסקנדינביים לא אושר בעקבות נבדל",
+   "title": "מחצית: ברזיל - נורבגיה 0:0",
+   "summary": "מונדיאל, שמינית הגמר: קצב טוב. הסלסאו פספסו הזדמנות לעלות ליתרון כשגימראייש החמיץ מהנקודה הלבנה, מנגד שער של הסקנדינביים לא אושר בעקבות נבדל",
    "source": "ynet - ספורט",
    "link": "https://livegame.ynet.co.il/games/527264",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/05/one1877274/one1877274_0_0_800_444_0_medium.jpg",
