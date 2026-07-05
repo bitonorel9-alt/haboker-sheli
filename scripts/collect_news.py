@@ -183,9 +183,12 @@ ISRAELI_TEAM_HE = {
 STATUS_HE = {
     "Scheduled": "טרם התחיל", "Not Started": "טרם התחיל",
     "Live": "בשידור חי", "In Progress": "מתקיים כעת", "Half Time Break": "מחצית",
+    "Halftime": "מחצית", "1st Half": "מחצית ראשונה", "2nd Half": "מחצית שנייה",
     "Ended": "הסתיים", "Finished": "הסתיים", "Just Ended": "הסתיים הרגע",
-    "Postponed": "נדחה", "Cancelled": "בוטל",
+    "Final Result Only": "הסתיים", "Postponed": "נדחה", "Cancelled": "בוטל",
 }
+# משחקים חיים/שהסתיימו זה עתה מעניינים יותר ממשחקים עתידיים - סדר תצוגה
+STATUS_GROUP_PRIORITY = {3: 0, 4: 1, 2: 2}
 
 def he_team(name):
     return ISRAELI_TEAM_HE.get(name, name)
@@ -193,26 +196,30 @@ def he_team(name):
 def he_status(text):
     return STATUS_HE.get(text, text)
 
-def fetch_live_scores():
+def games_to_rows(games, limit=5):
+    games = sorted(games, key=lambda g: STATUS_GROUP_PRIORITY.get(g.get("statusGroup"), 9))[:limit]
+    rows = []
+    for g in games:
+        home, away = g.get("homeCompetitor", {}), g.get("awayCompetitor", {})
+        hs, as_ = home.get("score"), away.get("score")
+        started = hs is not None and as_ is not None and hs >= 0 and as_ >= 0
+        status = he_status(g.get("statusText", ""))
+        value = f"{hs:g}:{as_:g} · {status}" if started else status
+        matchup = f"{he_team(home.get('name',''))} נגד {he_team(away.get('name',''))}"
+        rows.append([matchup, value])
+    return rows
+
+def fetch_israel_scores():
     try:
         import requests
         url = "https://webws.365scores.com/web/games/current/?sports=1&countries=6"
         r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"}).json()
-        games = (r.get("games") or [])[:5]
-        if not games:
+        rows = games_to_rows(r.get("games") or [])
+        if not rows:
             return None
-        rows = []
-        for g in games:
-            home, away = g.get("homeCompetitor", {}), g.get("awayCompetitor", {})
-            hs, as_ = home.get("score"), away.get("score")
-            started = hs is not None and as_ is not None and hs >= 0 and as_ >= 0
-            status = he_status(g.get("statusText", ""))
-            value = f"{hs:g}:{as_:g} · {status}" if started else status
-            matchup = f"{he_team(home.get('name',''))} נגד {he_team(away.get('name',''))}"
-            rows.append([matchup, value])
         return {
             "section": "כדורגל",
-            "title": "תוצאות בזמן אמת",
+            "title": "תוצאות בזמן אמת · ישראל",
             "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
             "source": "365Scores",
             "link": "https://www.365scores.com/he/football/israel",
@@ -220,7 +227,34 @@ def fetch_live_scores():
             "stats": rows,
         }
     except Exception as ex:
-        print(f"  אזהרה 365Scores: {ex}")
+        print(f"  אזהרה 365Scores (ישראל): {ex}")
+        return None
+
+def fetch_world_scores(top_competitions=6):
+    """המשחקים החשובים בעולם כרגע: לוקחים את התחרויות עם ה-popularityRank הגבוה
+    ביותר (מונדיאל, ליגות האלופות, הליגות הגדולות וכו') ומציגים את המשחקים שלהן."""
+    try:
+        import requests
+        url = "https://webws.365scores.com/web/games/current/?sports=1"
+        r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"}).json()
+        comps = r.get("competitions") or []
+        top_ids = {c["id"] for c in
+                   sorted(comps, key=lambda c: c.get("popularityRank", 0), reverse=True)[:top_competitions]}
+        games = [g for g in (r.get("games") or []) if g.get("competitionId") in top_ids]
+        rows = games_to_rows(games)
+        if not rows:
+            return None
+        return {
+            "section": "כדורגל",
+            "title": "תוצאות בזמן אמת · עולם",
+            "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות הכי פופולריות.",
+            "source": "365Scores",
+            "link": "https://www.365scores.com/he/football",
+            "image": None,
+            "stats": rows,
+        }
+    except Exception as ex:
+        print(f"  אזהרה 365Scores (עולם): {ex}")
         return None
 
 # ---- נושא יומי ללמוד + עובדה (מתחלף לפי יום בשנה) ----
@@ -282,8 +316,8 @@ def main():
     print("· מזג אוויר (עתלית)")
     weather = fetch_weather()
 
-    print("· תוצאות כדורגל בזמן אמת (365Scores)")
-    live_scores = fetch_live_scores()
+    print("· תוצאות כדורגל בזמן אמת (365Scores) - ישראל ועולם")
+    live_scores = [c for c in (fetch_israel_scores(), fetch_world_scores()) if c]
 
     # מוסיפים סטטיסטיקות בסיסיות לכתבות ספורט/פוליטיקה שאין להן
     for a in articles:
@@ -302,7 +336,7 @@ def main():
     # שאר הכתבות ממוינות לפי העדפה נלמדת
     body = [a for a in articles if a is not lead]
     body.sort(key=lambda a: prefs.get(a["section"], 0), reverse=True)
-    body = [weather] + ([live_scores] if live_scores else []) + body + [learn]
+    body = [weather] + live_scores + body + [learn]
 
     now = datetime.datetime.now()
     payload = {
