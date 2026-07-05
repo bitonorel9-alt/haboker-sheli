@@ -230,16 +230,32 @@ def fetch_israel_scores():
         print(f"  אזהרה 365Scores (ישראל): {ex}")
         return None
 
-def fetch_world_scores(top_competitions=6):
-    """המשחקים החשובים בעולם כרגע: לוקחים את התחרויות עם ה-popularityRank הגבוה
-    ביותר (מונדיאל, ליגות האלופות, הליגות הגדולות וכו') ומציגים את המשחקים שלהן."""
+# שמות תחרויות "חשובות" - זיהוי לפי שם מדויק (לא substring, כדי לא לתפוס בטעות
+# ליגות כמו "Canadian Premier League") ולא לפי popularityRank (שדה לא אמין: הוא
+# מצטבר על פני זמן ולא משקף חשיבות "עכשיו", ולכן העדיף בעבר ליגות זוטריות שדווקא
+# שיחקו ברגע הדגימה). אם אף אחת מהן לא משחקת כרגע - פשוט לא יופיע כרטיס (fail-soft).
+IMPORTANT_COMPETITION_NAMES = {
+    "fifa world cup", "world cup", "uefa champions league", "champions league",
+    "uefa europa league", "europa league", "uefa europa conference league",
+    "premier league", "la liga", "laliga", "serie a", "bundesliga", "ligue 1",
+    "uefa european championship", "european championship", "euro",
+    "copa america", "conmebol copa libertadores", "copa libertadores",
+    "fa cup", "uefa super cup", "uefa nations league",
+}
+
+def fetch_world_scores():
+    """המשחקים החשובים בעולם כרגע, מתוך רשימת תחרויות מוכרות (לא תלוי בישראל)."""
     try:
         import requests
         url = "https://webws.365scores.com/web/games/current/?sports=1"
         r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"}).json()
         comps = r.get("competitions") or []
-        top_ids = {c["id"] for c in
-                   sorted(comps, key=lambda c: c.get("popularityRank", 0), reverse=True)[:top_competitions]}
+        top_ids = {
+            c["id"] for c in comps
+            if (c.get("name") or "").strip().lower() in IMPORTANT_COMPETITION_NAMES
+        }
+        if not top_ids:
+            return None
         games = [g for g in (r.get("games") or []) if g.get("competitionId") in top_ids]
         rows = games_to_rows(games)
         if not rows:
@@ -247,7 +263,7 @@ def fetch_world_scores(top_competitions=6):
         return {
             "section": "כדורגל",
             "title": "תוצאות בזמן אמת · עולם",
-            "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות הכי פופולריות.",
+            "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
             "source": "365Scores",
             "link": "https://www.365scores.com/he/football",
             "image": None,
