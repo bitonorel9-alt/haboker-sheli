@@ -1,30 +1,30 @@
 window.NEWS_DATA = {
  "date": "יום שני, 6 ביולי 2026",
  "date_he": "06/07/2026",
- "updated": "19:22",
+ "updated": "23:43",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"לא עוזב בלי האופנוע\" | 10 ישראלים חולצו מקלקיליה, המשטרה: \"נמנע לינץ'\"",
-  "summary": "",
-  "link": "https://www.ynet.co.il/news/article/byt4h00y7gg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/r1WYp00KQMe/r1WYp00KQMe_0_0_1280_721_0_medium.jpg"
+  "title": "הבמה של ארדואן: \"המהפכה הביטחונית\" שנתנה לו ניצחון על אירופה - והשתיקה מול הדיכוי",
+  "summary": "מנהיגי נאט\"ו \"עולים לרגל\" לאנקרה, לפסגה שמהווה הישג גדול לארדואן: טראמפ מבטיח \"לשמח\" - אולי עם עסקת חמקני F35 - בעוד מנהיגי אירופה לוטשים עיניים לתעשייה הביטחונית הגדולה של טורקיה, בצל החשש מנטישת ארה\"ב. הדיכוי שם רק מחריף, באירופה שותקים - וארדואן עוקץ: \"זקוק…",
+  "link": "https://www.ynet.co.il/news/article/hyzqqdt7fl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/H1ldb3ttmfx/H1ldb3ttmfx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.3° / 25.7°",
-   "summary": "כרגע 26.1°, לחות 82%, רוח 2.9 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 29.6° / 25.5°",
+   "summary": "כרגע 25.9°, לחות 82%, רוח 6.3 קמ״ש. סיכוי משקעים 10%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.3°"
+     "29.6°"
     ],
     [
      "מינימום",
-     "25.7°"
+     "25.5°"
     ],
     [
      "לחות",
@@ -33,12 +33,12 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "2.9 קמ״ש"
+     "6.3 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "0%",
-     0
+     "10%",
+     10
     ]
    ]
   },
@@ -81,10 +81,6 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Portugal נגד Spain",
-     "0:0 · מחצית ראשונה"
-    ],
-    [
      "Brazil נגד Norway",
      "1:2 · הסתיים"
     ],
@@ -99,16 +95,20 @@ window.NEWS_DATA = {
     [
      "Khangarid נגד Central Stallions FC",
      "0:1 · הסתיים"
+    ],
+    [
+     "Portugal נגד Spain",
+     "0:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "דקה 12: פורטוגל - ספרד 0:0",
-   "summary": "מונדיאל, שמינית גמר: קרב ענק על הכרטיס לשמונה האחרונות, רונאלדו מנסה להימנע ממשחקו האחרון בטורניר. מנגד, לה רוחה רוצה להמשיך במסע לעבר התואר",
+   "title": "החלום של סלאח: הפרעונים ירשמו היסטוריה נוספת על חשבון מסי?",
+   "summary": "גם כשהוא בן 34, חבול ומותש והרבה מעבר לשיאו, עשרות מיליוני מצרים מאמינים שהגיבור שלהם ייקח אותם בשארית כוחותיו לרבע גמר סנסציוני על חשבון אלופי העולם לאו מסי וארגנטינה",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/527372",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/one1877430/one1877430_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/hjk9q00fxfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/22/r1bpTD2IMMl/r1bpTD2IMMl_0_48_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "שוקל הסמכה לרב: היעד הבא של אמארה סטודמאייר",
-   "summary": "כוכב ה-NBA לשעבר, שהתגייר במהלך תקופתו במכבי ת\"א, סיפר בריאיון ל-TMZ Sports כי האפשרות \"אינה מופרכת\", וממשיך להשקיע בלימודי היהדות: \"תמיד לומד ומיישם\"",
+   "title": "כשישראל וסורי רואים יחד את הולאנד מנצח את ברזיל",
+   "summary": "שני אזרחים, משני צדי הגבול הצפוני, מניפים יחד את דגלי המדינות ומתמרמרים על הפסד של הסלסאו: זו לא התחלה של בדיחה, אלא פריים אייקוני מהמונדיאל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hkdbbufxgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/rkM7mdtXfg/rkM7mdtXfg_59_18_922_519_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/hkx2000kqzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/H1Sm11YtXGx/H1Sm11YtXGx_0_640_900_507_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "רבע 3, 07:06: קרואטיה - ישראל 39:54",
-   "summary": "מוקדמות מונדובאסקט: הנבחרת מתקשה אל מול הנוכחות החזקה בצבע של המארחת, שגרמה לה להיקלע לפיגור משמעותי בהובלתו של הזוניה. מדר בולט בכחול לבן",
+   "title": "החלום שלא התגשם: המסע של כריסטיאנו רונאלדו במונדיאל הסתיים",
+   "summary": "זה נגמר בדמעות: ההפסד 1:0 לספרד סגר את הפרק האחרון של CR7 בגביע העולם. שישה טורנירים, אינספור שיאים, רגעים בלתי נשכחים ומורשת עצומה - אבל גם התואר היחיד שתמיד חמק ממנו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one527371",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/one1877425/one1877425_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/byigxmt7fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/H1dwh5F7Ge/H1dwh5F7Ge_0_55_2690_1515_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"למוסלמים בלבד\": מסיבת הבריכה שעוררה סערה בארה\"ב",
-   "summary": "ד\"ר אמינה נייט, אם לשישה בת 43, תכננה מסיבה פרטית בפארק מים ענק בטקסס לרגל חג הקורבן. כדי לאפשר למשפחות ולנשים מוסלמיות לחגוג מבלי להרגיש חריגות כתבה בהזמנה שהאירוע \"למוסלמים בלבד\" ועוררה זעם בקרב שמרנים וכלי תקשורת ימניים - שהגיע לאיומים. המושל התערב והאירוע …",
+   "title": "המשך יבוא? 10 הפסיקות הבאות שעלולות להחמיר את המשבר החוקתי",
+   "summary": "הודעת הממשלה היא אירוע חריג או נרמול של התעלמות מפסקי דין של בג\"ץ? לא פחות מ-10 עתירות בסוגיות נפיצות מתנהלות בבג\"ץ, ובהן הקמת ועדת חקירה ממלכתית לטבח 7/10, סגירת גל\"צ והעתירות להדחת בן גביר. הרשימה המלאה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hkkptlfqmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/HkuqQDFXGe/HkuqQDFXGe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h11lxvfqzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/05/SJCwQVOmzl/SJCwQVOmzl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בית המשפט: להמיר בעבירה פחותה את הרשעת הנהגת שהפקירה למוות את רפאל אדנה",
-   "summary": "בדיון במחוזי המליצו השופטים להמיר את הרשעתה של קרול פסלר בת ה-82, שדרסה למוות את רפאל בן ה-4, מעבירה של הפקרה במודעות להפקרה ברשלנות. המשמעות: במקום עונש מרבי של 7 שנות מאסר - עונש של עד 3 שנים. סנגוריה הסכימו להצעה, ובפרקליטות ביקשו זמן לחשוב. הדיון הבא נדחה",
+   "title": "לעבוד עם וושינגטון",
+   "summary": "ייתכן וירושלים תוצב בקרוב בפני לחץ גובר לקבל בעזה הסדרה שלא תואמת את מלוא תביעותיה, ובראשן פירוק מוחלט של חמאס מנשק. מול תרחיש שכזה מומלץ לבחון איך להשתלב בהסדרה, ואולי אף ליזום מהלכים ורעיונות מדיניים, תוך שימור אינטרסים חיוניים",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bk1evdyqzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/23/r1g11AjJdyl/r1g11AjJdyl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14825104",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/06/yk14824709/yk14824709_0_0_945_619_0_medium.jpg",
    "stats": [
     [
      "מקור",
