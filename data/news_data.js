@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 11 ביולי 2026",
  "date_he": "11/07/2026",
- "updated": "14:37",
+ "updated": "18:06",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"ננצנץ במקום אחר\": מצרים וטורקיה אמרו \"לא\" לקרוז של ההומואים",
-  "summary": "אחרי שטורקיה אסרה על \"סקרלט ליידי\" לעגון בנמליה, גם מצרים לא אפשרה זאת - ותוכניות 2,000 הנוסעים וזוכת הגראמי פטי לופון שוב השתנו. המנכ\"ל אמר שטורקיה הודתה שהסיבה היא שמדובר ב\"קבוצת הומואים\", אבל הבעלים כנראה לא מבין: \"ממשלות נופלות לקבוצות ימין, וכתוצאה מכך זכ…",
-  "link": "https://www.ynet.co.il/news/article/hy0rs9jnzl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/rkdMInkEMg/rkdMInkEMg_7_0_1027_578_0_medium.jpg"
+  "title": "בן 19 נדקר למוות בדירת Airbnb בירושלים, שני פצועים קשה בחוף בחיפה",
+  "summary": "צעיר נפצע אנושות מדקירות בדירה בשכונת נחלאות, ומותו נקבע בבית החולים לאחר פעולות החייאה. המשטרה פתחה במרדף אחר 4 חשודים, מחסומים הוצבו בכביש בגין. בחיפה: שני פצועים קשה מדקירה בחוף הסטודנטים",
+  "link": "https://www.ynet.co.il/news/article/hkzwglxefg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/HylvOxblEfe/HylvOxblEfe_0_454_3000_1688_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 28.8° / 23.4°",
-   "summary": "כרגע 27.4°, לחות 72%, רוח 16.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 26.5°, לחות 78%, רוח 9.5 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "72%",
-     72
+     "78%",
+     78
     ],
     [
      "רוח",
-     "16.4 קמ״ש"
+     "9.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,25 +74,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
-   "stats": [
-    [
-     "Kaspyi נגד Ordabasy Shymkent",
-     "טרם התחיל"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "שנה שנייה ברציפות: גיא ששון זכה בטורניר הזוגות בווימבלדון",
-   "summary": "טניסאי הקוואד הישראלי ומדליסט הארד הפראלימפי מפריז זכה יחד עם שותפו ההולנדי, נילס וינק, בתואר הגראנד סלאם השלישי השנה לאחר ניצחון 2:6, 1:6 על סאם שרודר וג'ין וודמן",
+   "title": "נשאר אדום: אלייז'ה בראיינט האריך חוזה בהפועל ת\"א",
+   "summary": "אחרי עונת שיא ביורוליג בה נבחר לחמישיית העונה, הגארט חתם לשלוש שנים נוספות. המנהל המקצועי ג'ורג' חינאס: \"הוא נשאר איתנו כעוגן חשוב\". המאמן דימיטריס איטודיס: \"בתקווה שאחרי הניתוח הוא יחזור בריא וטוב יותר\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hkkwia14ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/rkbhS6k4zl/rkbhS6k4zl_0_68_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hk4mzzxemg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/05/B144T69DCbl/B144T69DCbl_350_160_500_282_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +88,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "שחקן נבחרת דרום אפריקה מת בגיל 25, שבועות אחרי ששיחק במונדיאל",
-   "summary": "ג'יידן אדאמס הלך לעולמו זמן קצר לאחר הופעתו בגביע העולם 2026: \"הכדורגל הדרום אפריקאי איבד שחקן מוכשר שעוד היה לו כל כך הרבה לתת\"",
+   "title": "אלופה בת 21: לינדה נוסקובה זכתה בווימבלדון",
+   "summary": "הצ'כית בת ה-21 שלטה במערכה הראשונה, איבדה ארבע נקודות אליפות ויתרון 2:5 בשנייה, אך התאוששה בזמן וגברה על קרולינה מוחובה 2:6, 7:5, 3:6 בדרך לתואר הגראנד סלאם הראשון בקריירה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldcup2026/article/hyfu11ayezg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/Hkt3G6yVMx/Hkt3G6yVMx_4_0_2997_1688_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/skkvtklvgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/HyVcSJl4Mx/HyVcSJl4Mx_0_312_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "יותר מכדורגל: אלף שנה אחרי פשיטות הוויקינגים - נורבגיה מחכה לאנגליה",
-   "summary": "למפגש הלילה (24:00) בין ארלינג הולאנד וחבריו לנבחרת של תומאס טוכל יש שורשים עמוקים בהיסטוריה של אירופה, מימי הביניים ועד מלחמת העולם השנייה, אז היריבות הוותיקות הפכו לבעלות ברית. מה שבטוח - אף אחד לא יופתע אם הנורבגים יחתרו כל הדרך לחצי הגמר",
+   "title": "המיליארדרים שעשויים להכנס כבעלים במכבי ת\"א | פרסום ראשון",
+   "summary": "אחרי שמימשה את זכות הראשונים ורכשה את 29 האחוזים של משפחת פדרמן, ל-ynet נודע כי משפחת רקנאטי מנהלת משא ומתן למכירת חלק ממניות מכבי תל אביב. בין השמות שעל הפרק: ג'ייסון לוין, לשעבר מנכ\"ל ממפיס גריזליס, מארק לסרי, מבעלי מילווקי באקס לשעבר",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldcup2026/article/rk000gt1vgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/BJvgh9YkVMl/BJvgh9YkVMl_0_87_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/symwd1evme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/09/HkAj0000pmGg/HkAj0000pmGg_0_15_1872_1054_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "לא נרמלנו את צעדי החקיקה של הכנסת. הותשנו",
-   "summary": "גם הדהירה להעברת חוקי ההפיכה המשטרית ברגע האחרון, לא מצליחה להוציא שוב את העם לרחוב. זו לא רק העייפות, זו גם האדישות של רה\"מ למחאה נגדו. וזיני שב ומוכיח שהוא לא כשיר",
+   "title": "האיום של טראמפ, \"רשימת החיסול\" האיראנית והמתקפה על צוות CNN | כותרות השבת",
+   "summary": "טראמפ אמר כי \"1,000 טילים כבר מכוונים אם ינסו להתנקש בי\", מוג'תבא חמינאי איים בנקמה \"בקרוב\" על חיסול אביו | מועמד פוטנציאלי לנשיאות: \"עוכבתי על ידי מתנחלים בריונים\" | ספרד ניצחה את בלגיה ועלתה לחצי גמר המונדיאל",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14828782",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/06/S1iR5iOd11kl/S1iR5iOd11kl_0_284_2736_1541_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjud00kevgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/13/SyuRHei11zg/SyuRHei11zg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "רוכבת אופנוע נהרגה מפגיעת רכב סמוך לקריית גת",
-   "summary": "הצעירה, כבת 25, רכבה על אופנוע בכביש 35 ונהרגה במקום לאחר שנפגעה מרכב. הנהגת נפצעה בינוני, ופצועה נוספת פונתה במצב קל",
+   "title": "לקראת מיני-פריימריז בליכוד: המתווה חסר התקדים שיזם נתניהו - ועדיין לא אושר",
+   "summary": "פריימריז רק למחוזות ולמשבצות הבטחת הייצוג: לפי מתווה רה\"מ, ועדה מסדרת תקבע את מיקום השרים והח\"כים המכהנים, ושריונים יינתנו לנתניהו. המטרה: לדרדר אחורה דמויות ספציפיות כטלי גוטליב. בכיר בליכוד: \"נתניהו מתנהג כמי שהגיע לקדנציה האחרונה\". ההכרעות הסופיות: מחר",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/skkcqak4ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/SJlXHsTJNMl/SJlXHsTJNMl_0_0_1600_900_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hkcd9levml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/04/BJe3mPUv9le/BJe3mPUv9le_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -157,44 +143,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "אלפי דולרים או להפסיד את המכנסיים: חוקר ישראלי בדק איזה מודל AI מהמר הכי טוב על המונדיאל",
-   "summary": "14 מודלי AI נכנסים לפיצוצייה. הם מזמינים אספרסו עם סודה בצד, נמנעים מהערה סקסיסטית למלצרית ופותחים את הלוחות של מועצת ההימורים הווירטואלית שלהם כדי להמר על טורניר השנה: המונדיאל. זה נשמע מגוחך, אבל זה התיאור הקרוב ביותר למה שעשה חוקר ישראלי אחד, במה שהפך לתחרו…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/ai-models-bet-on-the-world-cup-who-wins/",
-   "image": null,
+   "section": "בידור",
+   "title": "המפיקה האגדית מרים עציוני הלכה לעולמה בגיל 88",
+   "summary": "עציוני הייתה המפיקה הישראלית הראשונה בעולם התרבות והבידור, ועל תרומתה זכתה בפרסי מפעל חיים מטעם אקו\"ם, אמ\"י ואיגוד המפיקים והאמרגנים. לאורך הקריירה שלה שימשה גם כמנהלת אישית של רבים כדוגמת חוה אלברשטיין, גברי בנאי, דודו פישר וישראל פוליאקוב. \"היא הייתה האמא הת…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/h10yvjx4zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/HyWxKkxVMe/HyWxKkxVMe_251_225_1602_902_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "ברייקינג: אפל תובעת את OpenAI",
-   "summary": "דרמה בעמק הסיליקון: Apple הודיעה כי היא תובעת את חברת OpenAI ואת המעצב האגדי שלה לשעבר בטענה כי גנבו ממנה סודות מסחריים. 2 עובדים על הגריל בכתב התביעה אפל תובעת גם את OpenAI וגם את IO Products, חברת החומרה שהקים ג'וני אייב, המעצב האגדי של אפל. כזכור, OpenAI רכ…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/apple-sues-openai-over-stealing-trade-secrets/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "גאון יצר לעצמו את היומן של טום רידל מהארי פוטר",
-   "summary": "אחד הנושאים שמקטבים את חברי מערכת גיקטיים הוא מחברות חכמות. חלק מאיתנו חושבים שמדובר ברעיון מבריק שמשלב בין האינטואיטיביות והמהירות של כתיבה ביד לבין הנוחות והיתרונות של גאדג'ט חכם מחובר. וחלקנו חושבים שמדובר במוצר יקר באופן לא פרופורציונלי לתמורה שלו, אייפד ע…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/fable-helps-recreate-tom-riddles-diary-from-harry-potter-on-remarkable/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -219,20 +177,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/yokra14828564",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/08/HydKnuiXGx/HydKnuiXGx_0_36_687_387_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "״לא יכולנו לעשות יותר ממה שעשינו. מפה זה רק אנחנו, הקהל והרבה מאלוהים״",
-   "summary": "אברהם טל ומוש בן ארי מגיעים למופע המשותף ומדברים על ההתרגשות שלפני, איך זה מרגיש לחזור להופיע עם להקה ועל האפשרות להישען על חבר טוב במהלך הדרך. ״ממריאים״, פרק הסיום של \"אברמוש\", סדרת הווידאו-פודקאסט בהנחיית רז שכניק, נכנס אל אחורי הקלעים של המופע המרגש",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/rkmetc2xgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/09/rkK4dkamMl/rkK4dkamMl_618_146_1958_1103_0_medium.jpg",
    "stats": [
     [
      "מקור",
