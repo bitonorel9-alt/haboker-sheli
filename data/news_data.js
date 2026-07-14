@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 14 ביולי 2026",
  "date_he": "14/07/2026",
- "updated": "06:37",
+ "updated": "12:00",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "זה כשב\"ם: \"הסירות המתאבדות\" שתקפו באיראן - לראשונה בהיסטוריה של ארה\"ב",
-  "summary": "כדי לפגוע ביכולת של איראן לתקוף ספנות מסחרית באזור הורמוז, שיגרה ארה\"ב שלושה כלי שיט בלתי מאוישים לעבר בנדר עבאס. אותם כלים, ששטים במהירות של כ-65 קמ\"ש, יכולים להגיע למרחק של יותר מ-1,600 ק\"מ ולשאת מטענים של 450 ק\"ג. בכיר אמריקני: \"זו רק הצצה למה שעתיד לבוא עם…",
-  "link": "https://www.ynet.co.il/news/article/h100tphxngg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/SJbisBmNfx/SJbisBmNfx_13_0_1138_640_0_medium.jpg"
+  "title": "צה\"ל תקף עמדת משטרה בעזה: \"מפקד תחנת ג'באליה נהרג\"",
+  "summary": "בתי חולים בעזה דיווחו על תשעה הרוגים בכמה תקיפות שונות, ומשרד הפנים הפלסטיני - שפועל תחת שלטון חמאס - הודיע כי כמה מהם נהרגו בתקיפה ישראלית לעבר עמדת משטרה. בין ההרוגים, כך דווח, מנהל תחנת המשטרה בג'באליה, קצינים ואנשי צוות",
+  "link": "https://www.ynet.co.il/news/article/rjpkbqq4me",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/12/S1fPGIXWNfe/S1fPGIXWNfe_1_295_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.2° / 24.7°",
-   "summary": "כרגע 27.4°, לחות 70%, רוח 15.3 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 29.4° / 24.7°",
+   "summary": "כרגע 29.2°, לחות 63%, רוח 16.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.2°"
+     "29.4°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "70%",
-     70
+     "63%",
+     63
     ],
     [
      "רוח",
-     "15.3 קמ״ש"
+     "16.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,11 +74,25 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "\"מרגיש קצת נמוך\": בארה\"ב חזו את הדירוג של דני אבדיה ב-2030",
-   "summary": "באתר \"בליצ'ר ריפורט\" ניסו לנבא איך תיראה צמרת -NBA בעוד ארבע שנים. הישראלי תפס את המקום ה-19 המכובד. \"יהפוך לאולסטאר קבוע\"",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "France נגד Spain",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "מה קורה לשופטים במונדיאל? | תוכן גולשים",
+   "summary": "ככל שהתמונות הצטברו לי מול המסך, לאט־לאט, התחלתי לשאול את עצמי כמה שאלות שלא נותנות לי מנוחה. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/sjyleuqezl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/29/BJyPjZ1R11l/BJyPjZ1R11l_0_81_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/ryh3hog4zx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/SkLdujcmzl/SkLdujcmzl_0_71_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -88,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "משטרת דרום אפריקה: \"חוקרים את נסיבות מותו של שחקן הנבחרת\"",
-   "summary": "גופתו של ג'יידן אדמס, ששיחק עם הנבחרת במונדיאל, נמצאה בנכס בקייפטאון. המשטרה פתחה בחקירה, אך בשלב זה טרם פורסמה סיבת המוות",
+   "title": "פוקר: אורי חסון זכה בצמיד שני בסבב אליפות העולם וב-582 אלף דולר",
+   "summary": "עוד הישג לפוקר הישראלי בלאס וגאס: השחקן המקצועני ניצח בטורניר הולדם וזכה בצמיד המוזהב השני בקריירה ובפרס כספי גדול. צור לוי סיים במקום השביעי בטורניר ה-10K סיקס מקס וזכה ב-113,570 דולר. נקבעו תשעת המעפילים לשולחן הגמר של האירוע המרכזי של האליפות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rkwv0hmnfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/11/S1O11Qpy4Gl/S1O11Qpy4Gl_680_159_1635_921_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hksijf74mx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/ByjGy5XVfg/ByjGy5XVfg_128_436_1025_577_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "שקטה, אפרורית ויעילה: עכשיו הגיע המבחן האמיתי של ספרד | דיווח מיוחד",
-   "summary": "לאמין ימאל לא דומה לילד הפלא שסחף את אירופה והדור הנוכחי של ספרד רחוק מלהלהיב, אבל מי אמר שאי-אפשר לזכות במונדיאל בזכות הגנה קשוחה?",
+   "title": "מההתערבות של טראמפ ועד הפסקות השתייה: השערוריות הגדולות של מונדיאל 2026",
+   "summary": "מהתערבות פוליטית חסרת תקדים של נשיא ארה\"ב, דרך שופט אפריקאי שסורב כניסה ועד לכרטיסים ב-2 מיליון דולר  - הטורניר הגדול בהיסטוריה מספק דרמות ענק במגרשים ומחוצה להם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldcup2026/article/hkb11q6mezg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/13/SkEaTaG4zx/SkEaTaG4zx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/bkqgtvmefe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/13/BJfMLAWNzx/BJfMLAWNzx_0_0_2701_1521_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הרמטכ\"ל התנגד, אבל החרדים יקבלו את מבוקשם: הקפאת המעצרים תעלה להצבעה",
-   "summary": "נציג צה\"ל הזהיר כי קיים חשש ממשי שמערך המילואים בחלק מהיחידות יקרוס, אך במקום לקדם גיוס חרדים הממשלה מתכוונת להקפיא את מעצרי המשתמטים - שממילא כמעט ולא קורים - ולהאריך את השירות הסדיר של החיילים",
+   "title": "נעמה לזימי פרצה בבכי על דוכן המליאה: \"החוק הזה צריך לעבור\"",
+   "summary": "הח\"כית הקריאה מכתב מאם שבתה מוכרת עם שיתוק מוחין, שסיפרה שהתאכזבה עמוקות מסיכול חוק שנועד להיטיב עם דיירי הדיור הציבור. \"החוק הזה מציל את האנשים האלה, ולזה הכנסת נועדה. לא כדי לשחרר עריקים\", אמרה לזימי לסגן יו\"ר הכנסת מישל בוסקילה, שדמע גם הוא, במהלך הדיון על …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sj4myuqefe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/03/rJDzUPaeGe/rJDzUPaeGe_234_68_900_507_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/r1raq5xnmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/HJ6km57Efl/HJ6km57Efl_105_13_334_188_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +144,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אבנים על חסידי ברלנד בכפר פלסטיני. משטרה? \"לא נתקשר, אנחנו עריקים\"",
-   "summary": "החסידים נכנסו לכיף אל חארס כדי לבקר בקברי יהושע בן נון וכלב בן יפונה, בלי לתאם עם כוחות הביטחון: \"נמשיך לנסוע, הצבא לא יעצור אותנו\". שניים נפצעו, חמישה עוכבו לחקירה",
+   "title": "נשיא הונגריה \"הבובה\" יודח, אורבן זועם: \"הדמוקרטיה מתה\"",
+   "summary": "רה\"מ החדש פטר מדיאר פועל לסלק מכל עמדת כוח את נאמניו של אורבן, כחלק מפירוק המערכת האוטוקרטית שלדבריו אורבן הקים בשנות שלטונו, אך הנשיא תמאש סוליוק סירב להתפטר. כעת אושר תיקון לחוקה שיאלץ אותו לפרוש, ושעליו סוליוק \"מתייעץ\" אם לחתום, מדיאר: \"יודח גם אם יסרב\". או…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b12svhx4zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/BJhZYHmEMl/BJhZYHmEMl_0_25_464_262_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sjaaftxnfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/11/r1siKuP311g/r1siKuP311g_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -143,44 +157,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "20 דולר בחודש? גישה לכל מודל? חגיגת ה-AI עומדת להסתיים",
-   "summary": "מאת: ד\"ר אסף שפנייר יש לנו נטייה לחשוב שבינה מלאכותית היא כמעט משאב אינסופי. תמורת 20 דולר בחודש אנחנו מקבלים מתכנת, חוקרת, מעצב, מתרגמת ויועץ עסקי שעובדים עבורנו מסביב לשעון. זו אחת העסקאות המשתלמות ביותר שנוצרו בעולם הטכנולוגיה. אבל כמו כל עסקה שנראית טובה מ…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/end-of-cheap-ai-era/",
-   "image": null,
+   "section": "בידור",
+   "title": "\"ניסו להשתיק אותי\": ג'יימס פרנקו טוען שנתקל בחייזר - הרשת מתקשה להאמין",
+   "summary": "אחרי שנים מחוץ לרשתות החברתיות, ג'יימס פרנקו חזר לטיקטוק עם סדרת סרטונים שבה טען כי נתקל בחייזר שמסתובב ליד ביתו ואף ניסה לחשוף \"ראיות\" דרמטיות. מיליוני גולשים עקבו בדריכות אחר הספירה לאחור, אך הסרטון שפורסם לבסוף התקבל בעיקר בלעג והצית גל של ספקולציות: האם מד…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hyfcpiq4ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/BkkxbPQEGe/BkkxbPQEGe_0_37_520_293_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "קלוד פוגע בדרישה למתכנתים? נתונים חדשים טוענים שבדיוק ההיפך",
-   "summary": "בשנה האחרונה ראינו יותר ויותר חברות שמחליטות לצאת בסבבי פיטורים משמעותיים, כשהן מאשימות את ה-AI שוב ושוב. באופן טבעי, מתכנתים רבים מרגישים שה-AI עומד להחליף אותם בכל רגע נתון, ושהם יצטרכו לעשות הסבת מקצוע לשרברבות. אולם נתונים חדשים חושפים שיכול להיות שדווקא ה…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/ai-software-development-rebound/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "ועכשיו Cursor עובדת על מתחרה לפיצ'ר המעולה של קלוד",
-   "summary": "לפני חודש בדיוק הוכרזה עסקת הרכישה של Cursor על ידי SpaceX של אילון מאסק (וספציפית SpaceXAI, חברת הבת, לשעבר xAI) בכ-60 מיליארד דולר. לצד הרצון להוסיף את סוכן הקוד של קרסר בתור מתחרה ל-Claude Code ו-Codex של OpenAI, נראה שהחברה הנרכשת עובדת על כלי נוסף – שנועד…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/cursor-works-on-claude-cowork-competitor/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -205,20 +191,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/skf11lig4gx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/13/S17rmDG4fg/S17rmDG4fg_0_0_850_479_0_medium.gif",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "הכל היה אפשרי וגם לא / שלמה ארצי",
-   "summary": "המציאות האמיתית אינה מושלמת, אבל יש לה יתרון אחד גדול על פני המציאות המדומה: יש לה ריח של קפה",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14825280",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/BJdY1hkNxC/BJdY1hkNxC_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
