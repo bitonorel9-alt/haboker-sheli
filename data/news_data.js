@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 17 ביולי 2026",
  "date_he": "17/07/2026",
- "updated": "01:50",
+ "updated": "04:55",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הכנסת ה-25 אישרה את פיזורה, הבחירות - ב-27 באוקטובר",
-  "summary": "אחרי שדרעי התנה את תמיכתו בהצטרפות האופוזיציה, החוק עבר ברוב של 62 ח\"כים וללא מתנגדים - והוסר החשש שהכנסת תקבל שבוע נוסף לחקיקה. באופוזיציה תקפו: \"ניסיון לסחוט את הקופה הציבורית\". לפי החוק, מקדמת המימון לסיעות תגדל וגם מפלגות חדשות יוכלו לקבל מיליונים בכפוף לע…",
-  "link": "https://www.ynet.co.il/news/article/bykla3lnzx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/S1tpPHHNMx/S1tpPHHNMx_243_125_1038_585_0_medium.jpg"
+  "title": "הדמוקרטים בוחרים רשימה: הפייבוריטים, הכוכבים העולים ואת מי גולן עשוי להזיז",
+  "summary": "עם מספר שיא של מתפקדים ותפקיד משמעותי בגוש כולו, הפריימריז במפלגת הדמוקרטים מגיעים לנקודת רתיחה. אז מי יכבוש את העשירייה הראשונה, מי המועמדים השנויים במחלוקת שעשויים להשתחל פנימה בניגוד לכל הסיכויים וכיצד יו\"ר המפלגה משפיע על התוצאות הסופיות? מסע מיוחד בין חוג…",
+  "link": "https://www.ynet.co.il/news/article/sycydwunge",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/Hysr3KLNGe/Hysr3KLNGe_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.3° / 25.5°",
-   "summary": "כרגע 25.6°, לחות 86%, רוח 6.0 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 29.4° / 25.3°",
+   "summary": "כרגע 25.9°, לחות 84%, רוח 10.5 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.3°"
+     "29.4°"
     ],
     [
      "מינימום",
-     "25.5°"
+     "25.3°"
     ],
     [
      "לחות",
-     "86%",
-     86
+     "84%",
+     84
     ],
     [
      "רוח",
-     "6.0 קמ״ש"
+     "10.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -83,16 +83,20 @@ window.NEWS_DATA = {
     [
      "Al Ansar נגד Jwaya",
      "2:0 · הסתיים"
+    ],
+    [
+     "Tadamon נגד Al-Abbassieh",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "נקבעה היריבה: מכבי ת\"א תפגוש את שריף טיראספול",
-   "summary": "הקבוצה המולדבית גברה 0:1 על אלומיני והיא תפגוש את הצהובים בסיבוב השני של מוקדמות הליגה האירופית, המפגש הראשון יתקיים ב-23/7 והגומלין ב-30/7",
+   "title": "עומרי גלזר סיכם במכבי חיפה, אלה המכשולים שנותרו",
+   "summary": "כפי שנחשף ב-ynet, השוער צפוי לשוב לקדנציה שנייה בכרמל, אך השלמת העסקה תלויה בשני תנאים אחרונים: קבלת השחרור הרשמי מהכוכב האדום והשלמת מכירתו של גאורגי ירמקוב למטאליסט",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one528331",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/one1878814/one1878814_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syy6v384gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/14/Hk4IpKVl11x/Hk4IpKVl11x_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +106,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "נבחרת העתודה ניצחה והבטיחה הישארות בדרג א׳",
-   "summary": "עמדה במשימה: חניכיו של אהרוני נראו מצוין, הביסו 59:84 את איטליה ויתמודדו במשחקי הדירוג 9-12 מול לטביה. קלר בלט עם 19 נקודות, סהר הוסיף 18",
+   "title": "\"זה לא ב-DNA שלנו\": האמירה של טוכל מסעירה את אנגליה",
+   "summary": "מאמן שלושת האריות הגן על הקו הטקטי מול ארגנטינה, הדף את הטענות שההדחה התחילה מהחלטות שקיבל - ויצר סערה נוספת. לפי BBC שלושה שחקנים בכירים ביקרו את ניהול המשחק של הגרמני בדקות האחרונות (\"ירדנו נמוך מדי, מוקדם מדי\")",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one528284",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/one1878829/one1878829_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/s1gyz4dnml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/BkEGSJ8NGe/BkEGSJ8NGe_1_37_1103_621_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +120,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "קוז'וך לאחר ההפסד באלוף האלופים: \"מאכזב, ציפיתי להרבה יותר\"",
-   "summary": "בהפועל באר-שבע מאוכזבים לאחר ההפסד 3:1 למכבי ת\"א ואיבוד התואר הראשון לעונה. המאמן: \"היו הרבה דברים מדאיגים\". על פציעתו של שחקן הרכש, ז'ואאו ויקטור: \"נקווה שזה לא חמור, נראה מה יהיו תוצאות הבדיקות\"",
+   "title": "משחק חלש לבן שרף ודני וולף - הנטס מחוץ לתמונת חצי הגמר",
+   "summary": "ליגת הקיץ: הישראלים סיפקו הופעה דלה בתבוסה 100:83 ליוסטון, שהותירה את הנטס מחוץ לטופ-4. בארה\"ב הגדירו את ההופעה של הרכז כ\"אחת החלשות\" בליגה בלאס וגאס",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjnafsueml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/H1xhj758Nfl/H1xhj758Nfl_0_213_2193_1235_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/h1g2007v4zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/17/ryvN9mP4Gg/ryvN9mP4Gg_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +134,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "חוק הפטור לעריקים ייפסל",
-   "summary": "פסילתו על סמך חוסר תקינות ההליך החקיקתי איננה שנויה במחלוקת. ההליך שבו ננקט במקרה הזה לקוי, משום שהקואליציה ביקשה לקצרו: היא לקחה את הצעת החוק שהניח שר הביטחון בני גנץ בממשלת השינוי, שכבר עברה בקריאה ראשונה בינואר 2022, הכניסה בה שינויים מהותיים, והחילה עליו א…",
+   "title": "התחזית: רגיל לעונה, ממחר - הכבדה בעומסי החום",
+   "summary": "ממחר תחול עלייה בטמפרטורות, וייעשה חם מהרגיל עד שרבי ברוב הארץ. המגמה תימשך גם בתחילת השבוע הבא",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/by0x5plefg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/SkZfVk0QEzg/SkZfVk0QEzg_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/x5vh1xbnf",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/HkPEeBTbfg/HkPEeBTbfg_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,11 +148,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הכנסת אישרה: שירות החובה לא יקוצר - ויישאר 32 חודשים",
-   "summary": "הקיצור ל-30 חודשים, שהיה אמור לחול על מתגייסי יולי 2024, בוטל - כשברקע אזהרת צה\"ל כי גם 32 חודשים אינם מספיקים ונדרש שירות של שלוש שנים: \"מערך הסדיר מגיע לקצה היכולת שלו\". 43 חברי כנסת תמכו בחוק, 12 התנגדו ואחד נמנע - גם ח\"כים מש\"ס ומדגל התורה הצביעו בעד",
+   "title": "לא סתם יום שלישי: הסיפור שמאחורי תאריך הבחירות הקרובות",
+   "summary": "הבחירות לכנסת ה-26 יתקיימו ב-27/10 - התאריך החוקי המקורי, ולא תוצאה של עוד משבר פוליטי. למה דווקא יום שלישי? מה מיוחד בחשוון? אילו בחירות נדחו בגלל מלחמה? איזו מערכת בחירות התקיימה בקיץ? ומתי בפעם האחרונה ישראל הלכה לקלפיות במועד? מסע בין התאריכים שעיצבו את הפ…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkxlzru4ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/12/rkuz5x6g1fl/rkuz5x6g1fl_0_46_1601_901_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sk0rfaleme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/17/r1ShheDEMx/r1ShheDEMx_0_0_1672_941_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -200,11 +204,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "כן או כן? / שלמה ארצי",
-   "summary": "בהופעות עצמן קורה פלא שאני מכנה אותו: איחוד מפלגת הקהל. מפלגת המפלגות, האיחוד המתבקש כל כך דרך מוזיקה",
+   "title": "\"'חרבו דרבו' זה השיר הכי מדכא ששמעתי בעברית בשנים האחרונות\"",
+   "summary": "לפני שלושה עשורים אף אחד לא האמין שיש מקום לתוכנית כמו \"עסק שחור\" בישראל, אבל היום אי-אפשר לדמיין את ההיפ-הופ המקומי בלי המהפכה שחוללו לירון תאני וקוואמי כל יום חמישי בגלגלצ. עכשיו השניים שהיו שם לפני שהיה קהל מקבלים את הכבוד המגיע להם בסדרת הדוקו \"זהב שחור\" ב…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14832696",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/yk14833392/yk14833392_0_0_545_451_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/rj11woimeme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/SJg2h2u7Efx/SJg2h2u7Efx_188_56_1277_719_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -214,11 +218,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "שקית של סנטימנטים / דנה ספקטור",
-   "summary": "",
+   "title": "שומרת ראש - חלק שמיני",
+   "summary": "בלעדי למנויי ידיעות+: האנה ברוקס היא סוכנת הגנת אישים בכירה שנשכרה להגן על כוכב-העל ג'ק סטייפלטון. הנסיבות מחייבות את הכוכב הגדול ואת שומרת הראש להעמיד פנים שהם במערכת יחסים. רומן מצחיק ורומנטי שמוגש בהמשכים, חלק נוסף מדי יום",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14831113",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/yk14832888/yk14832888_0_0_2490_1678_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/vy8g5o2di",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/08/SkecDTnjmMl/SkecDTnjmMl_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -228,11 +232,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "עד הסוף / רענן שקד",
-   "summary": "רק כשאתם מגיעים, פעם אחת, למשהו בישראל שעשוי כמו שצריך, עד הסוף, אתם מבינים עד כמה כל השאר לא",
+   "title": "\"פגישתי עם העולם היא פגישה רליגיוזית.  אני מברך על שאני קיים\"",
+   "summary": "מכתבי החברות לא\"ב יהושע. הזעם על חנוך לוין ודן בן אמוץ, שלדבריו \"משחיתים את הנוער\". וההתנערות מן המבקרים שהשתלחו בשירתו: ע. הלל נודע בעיקר בזכות יצירתו לילדים — 'יוסי, ילד שלי מוצלח', 'למה לובשת הזברה פיג'מה' ו'דודי שמחה' — אבל הוא היה גם אחד המשוררים המקוריים…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14831269",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/yk14833167/yk14833167_0_0_1211_1114_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14817076",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/13/yk14830220/yk14830220_0_0_649_566_0_medium.jpg",
    "stats": [
     [
      "מקור",
