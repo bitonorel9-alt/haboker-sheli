@@ -1,20 +1,20 @@
 {
  "date": "יום שבת, 18 ביולי 2026",
  "date_he": "18/07/2026",
- "updated": "12:53",
+ "updated": "14:16",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "שריפה בעמק יזרעאל: תושבים פונו מבתיהם בשמשית",
-  "summary": "שריפה שפרצה בשטח פתוח סמוך ליישוב שמשית, התפשטה בשל הרוחות החזקות. צוותי כיבוי על הקרקע ובאוויר פועלים לבלום את האש. מחשש לסכנה, פונה קו הבתים הראשון. יתר התושבים התבקשו להסתגר",
+  "title": "שריפה גדולה משתוללת בשומרון: האש הגיעה לבתים, יישוב שלם מפונה",
+  "summary": "תושבי חוות גלעד שבשומרון פונו מבתיהם בעקבות שריפה שהגיעה לבתי היישוב. מטוסי כיבוי הוזנקו, כביש 55 נחסם למערב. אש פרצה גם בכפר ורדים ובסמוך ליישוב שמשית בעמק יזרעאל, ושם פונה קו הבתים הראשון. יתר התושבים התבקשו להסתגר",
   "link": "https://www.ynet.co.il/news/article/s16dggynmx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/18/B1xLyIlFEfx/B1xLyIlFEfx_0_0_1280_960_0_medium.jpg"
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/18/HkePaAeYVMe/HkePaAeYVMe_1_274_464_262_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.4° / 24.7°",
-   "summary": "כרגע 29.8°, לחות 70%, רוח 13.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.1°, לחות 72%, רוח 10.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "70%",
-     70
+     "72%",
+     72
     ],
     [
      "רוח",
-     "13.4 קמ״ש"
+     "10.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,23 +74,15 @@
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
+   "title": "דיווח: זידאן ימונה למאמן נבחרת צרפת",
+   "summary": "לפי פבריציו רומאנו, כל פרטי העסקה נסגרו והחתימה הרשמית צפויה בקרוב. דשאן יסיים את כהונתו הלילה במשחק על המקום השלישי מול אנגליה",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/bkagwbt4fg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/18/rkiKNZt4Gl/rkiKNZt4Gl_0_102_3000_1689_0_medium.jpg",
    "stats": [
     [
-     "Okzhetpes נגד Jetisu",
-     "1:0 · מחצית"
-    ],
-    [
-     "FC Qyzyljar נגד Tobol Kostanay",
-     "טרם התחיל"
-    ],
-    [
-     "Jenis נגד Ulytau",
-     "טרם התחיל"
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -115,20 +107,6 @@
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelisoccer/article/byaiwjkvzl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/22/SJMYKW8fMg/SJMYKW8fMg_0_165_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "ארגנטינה או ספרד? הקרב הסמוי שיכריע את גמר המונדיאל",
-   "summary": "ממוצע הגילים, העייפות, יום המנוחה הנוסף של אלופת אירופה והיתרון המנטלי של אלופת העולם. מומחי ספורט מסבירים למה דווקא הנבחרת של סקאלוני מאמינה שהיא שוב תעשה את זה - למרות הקשיים",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldcup2026/article/bkcpqow4gl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/BJPLDOBVGl/BJPLDOBVGl_85_97_2428_1367_0_medium.jpg",
    "stats": [
     [
      "מקור",
