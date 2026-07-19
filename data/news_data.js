@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 19 ביולי 2026",
  "date_he": "19/07/2026",
- "updated": "08:00",
+ "updated": "10:19",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "שמרנותו אמנותו",
-  "summary": "פסקי הדין של שופט העליון נעם סולברג מציגים תפיסה של בית משפט ללא מורא, אך יודע את מגבלותיו. אבל גם הוא לא יכול להתעלם מהפרות החוק של החרדים שפוגעות בביטחון",
-  "link": "https://www.ynet.co.il/news/article/yokra14837105",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/13/rk11PYVGVMx/rk11PYVGVMx_0_0_1280_700_0_medium.jpg"
+  "title": "דרמה בירדן: נמל התעופה והנמל הימי בעקבה פונו עקב \"איום קונקרטי\"",
+  "summary": "הודעה חריגה, אחרי ששני חיילים נהרגו בבסיס בירדן במתקפה איראנית: שגרירות ארה\"ב בירדן מסרה כי עקב \"איום אמין\" הרשויות הירדניות פינו את נמל התעופה והנמל הימי בעיר הסמוכה לאילת. \"אל תגיעו לשם\", המליצו לאזרחים האמריקנים",
+  "link": "https://www.ynet.co.il/news/article/h1yiam9vzx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/02/26/HJjIZyYAj/HJjIZyYAj_0_310_2986_1682_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.3° / 23.0°",
-   "summary": "כרגע 29.8°, לחות 66%, רוח 12.5 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.9° / 23.0°",
+   "summary": "כרגע 30.9°, לחות 66%, רוח 14.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.3°"
+     "30.9°"
     ],
     [
      "מינימום",
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "12.5 קמ״ש"
+     "14.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -87,16 +87,20 @@ window.NEWS_DATA = {
     [
      "Altay Oskemen נגד Aktobe",
      "טרם התחיל"
+    ],
+    [
+     "Ordabasy Shymkent נגד Yelimay Semey",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "תוך 48 שעות: עומרי גלזר מצטרף למכבי חיפה",
-   "summary": "עסקת השוער נסגרה סופית והוא יחתום לשלוש שנים. במקביל, ירמקוב נמכר למטאליסט חרקוב בעסקת ענק. במועדון מרוצים מצונאמי: \"שחקן שיכול לשחק במספר תפקידים ומתאים לנו מאוד\"",
+   "title": "הדרבי האחרון של מסי: כך נבחרת ספרד פספסה את הגדול מכולם",
+   "summary": "המאמן הספרדי שניסה לפתות, המאמן הארגנטינאי שבחר לא להזמינו לאליפות העולם לנערים והקלטת שהגיעה למלון של ביילסה. ליונל מסי יעלה הערב (22:00) לקרב הגדול של חייו במדי ארגנטינה, אבל לא חסר היה הרבה כדי שהוא יעשה זאת דווקא במדי היריבה, ספרד. דלתות מסתובבות, גרסת הכד…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sy1101z94ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/13/SycXj6GlWe/SycXj6GlWe_0_0_1024_577_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/r1xrje5vge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/B1NTTg9Nfl/B1NTTg9Nfl_0_0_3000_1688_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -106,11 +110,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בהפועל ת\"א מרוצים אחרי הניצחון במשחק האירופאיות: \"מראה על המשכיות\"",
-   "summary": "שביעות רצון בשורות האדומים לאחר שגברו על בית\"ר ירושלים והבטיחו את המקום בחצי גמר גביע הטוטו: \"ניצחון מתוק, השמיים הם הגבול מבחינתנו\"",
+   "title": "לקחו את הכיף והפשטות מהמשחק | תוכן גולשים",
+   "summary": "הטכנולוגיה אמנם הפכה את הכדורגל למדויק יותר, אבל גם למסורבל יותר. הגיע הזמן להחזיר את המשחק לשחקנים – ולא למסכים. לעדכן את החוקים כך שישרתו שוב את הענף שכולנו כל כך אוהבים, ולא להפך. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjhjry5ezl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/ByUTQweqNfx/ByUTQweqNfx_0_397_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/syj8jhk4zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/15/rJOFqw731x/rJOFqw731x_0_18_3000_1660_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -120,11 +124,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "משימה (כמעט) בלתי אפשרית: למה כ\"כ קשה לשמור על התואר במונדיאל?",
-   "summary": "ארגנטינה תנסה הערב לשחזר משהו שרק שתי נבחרות עשו בעבר: לזכות בשני מונדיאלים ברציפות. מצד אחד ההיסטוריה נגדה, אבל מצד שני עומד לרשותה גדול השחקנים אי־פעם שינסה לכתוב אותה מחדש. אז למה בעצם זה כל כך קשה לביצוע?",
+   "title": "מסי ואינפנטינו במרכז: מבול סרטוני ה-AI על המונדיאל שוברים את הרשת",
+   "summary": "הטכנולוגיה החדשה יחסית פתחה חלון לעולם חדש בפני הגולשים, שעושים בה שימוש כדי להתכונן למשחקים, אבל גם כדי לסגור חשבונות ולבטא את מחאתם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldcup2026/article/ryekdvkvmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/12/18/ryfACRhuj/ryfACRhuj_0_0_3000_2000_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/hysk3x5nge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/BkfB00W94ze/BkfB00W94ze_0_12_263_149_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -134,11 +138,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בדרך למדינת איו\"ש",
-   "summary": "השר סמוטריץ’ מקדם מחטף מגזרי שמנסה להתחפש לפרויקט לאומי. אבל מעבר לניסיון לסכל אפשרות למדינה פלסטינית בעתיד, הוא גם מגלם בפועל ערעור ראשוני על לגיטימיות של ממשלה אחרת ביום שאחרי הבחירות",
+   "title": "ילדה, נער, נערה - ואישה: השתלת הדומינו אחרי שארבל בת ה-4 נהרגה בכביש 6",
+   "summary": "ארבל אורי הופמן ממושב תקומה נפצעה אנושות בתאונה ואחיה נפצע בינוני. לאחר חמישה ימים שבהם נאבקה על חייה, נקבע מותה בבית החולים - וההורים הסכימו לתרום את איבריה. הכליות הושתלו בבן 14 ובבת 14, והכבד בבת 10 - שאת הכבד שלה קיבלה בת 44. הוריה: \"כך האור של ארבלי שלנו …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14836395",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/rkSE4xgQzx/rkSE4xgQzx_0_0_1280_853_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h1crublegl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/SyYPvf5EGx/SyYPvf5EGx_135_185_817_460_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,15 +152,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שנאה בשקל תשעים",
-   "summary": "אז איך יכולים אנשיו של נתניהו להסתיר את עוצמת הכישלונות? פשוט: לחרחר שנאה",
+   "title": "בלגיה אוסרת ייבוא מהתנחלויות, ומגבירה את הלחץ על האיחוד להחרים סחר מיו\"ש",
+   "summary": "הממשלה בבריסל אישרה את ההחלטה בסוף השבוע והצטרפה לשורת מדינות באירופה שכבר מקדמות חוקים בנושא. האיחוד אמנם הפיץ לחברותיו מסמך עם צעדים אפשריים לחרם התנחלויות ביו\"ש, בגולן ובמזרח י-ם, אך לא קיבל החלטה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14836360",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/BkP6li8Nzg/BkP6li8Nzg_0_0_2196_1464_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hj4qebcnfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/20/By11Vx6zlJg/By11Vx6zlJg_0_121_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "רגע ה-DeepSeek חוזר? מודל AI סיני בקוד פתוח עוקף את Opus ו-GPT 5.6",
+   "summary": "בתחילת 2025 הופתעו חברות הטכנולוגיה וה-AI האמריקאיות, כשהסטארטאפ הסיני DeepSeek שחרר מודל שנלחם ראש בראש במודלי הדגל של ענקיות ה-AI – רק בקוד פתוח ובעלות נמוכה במיוחד. המהלך הזה הכניס את התעשייה למצב חירום ולחשיבה מחדש, אבל אחרי סוף השבוע האחרון, נראה שאנחנו ב…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/moonshot-announces-kimi-k3-and-it-might-be-deepseek-moment-all-over-again/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -176,10 +194,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "כנס הפיתוח הגדול של גיקטיים ועוד אירועים מומלצים",
-   "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו ב…",
+   "title": "7 טעויות שהייטקיסטים עושים עם כסף – ואיך להימנע מהן",
+   "summary": "מאת ליאור שקורי, שותף מייסד ו-COO ב-Cover מרוויחים יפה? מעולה. אבל בין האופציות שאף אחד לא הסביר לכם עליהן, קרן ההשתלמות ששכחתם מקיומה ופנסיה שנפתחה ביום הראשון בעבודה ומאז לא נגעתם בה – קל מאוד לאבד כסף בלי לשים לב. אלה 7 הטעויות הנפוצות ביותר שהייטקיסטים עוש…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/geek-events-190726/",
+   "link": "https://www.geektime.co.il/tech-workers-financial-pitfalls-guide/",
    "image": null,
    "stats": [
     [
@@ -189,16 +207,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "בגלל באג: ישראלי קיבל עכשיו חשבון AWS של 105 מיליארד דולר",
-   "summary": "דוד פסטיצקי התעורר אתמול (ו') עם קבלת התראת שימוש חריגה בתקציב שירותי הענן של אמזון. ההתראה הפתיעה אותו במיוחד כי החשבון הקטן שהוא מנהל ב-AWS מוגדר מראש עם תקציב צנוע של 20 דולר בחודש. אבל כשהוא פתח את ההתראה הוא כמעט התעלף כשגילה שהחיוב החריג עומד על למעלה מ-…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/aws-bug-israeli-105b-charge/",
-   "image": null,
+   "section": "בידור",
+   "title": "חתן פרס ישראל המשורר ישראל פנקס הלך לעולמו בגיל 91",
+   "summary": "המשורר ישראל פנקס, חתן פרס ישראל לספרות לשנת תשס\"ה ואחד הקולות הייחודיים בשירה העברית, הלך לעולמו. לצד יצירתו הענפה עסק גם בתרגום, עריכה ואמנות, ובמשך עשרות שנים פרסם ספרי שירה שזכו להכרה בארץ ובעולם",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/rkyku11cnzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/BkNZtZcNMx/BkNZtZcNMx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -223,20 +241,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/r1p1iry4ml",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/ryW6ZJl7Gx/ryW6ZJl7Gx_649_327_1695_954_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "שקית של סנטימנטים / דנה ספקטור",
-   "summary": "",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14831113",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/yk14832888/yk14832888_0_0_2490_1678_0_medium.jpg",
    "stats": [
     [
      "מקור",
