@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שני, 20 ביולי 2026",
  "date_he": "20/07/2026",
- "updated": "12:09",
+ "updated": "15:02",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מהפכת ההלאמות - והאיום בסנקציות על ישראל: ברנהאם התמנה לראש ממשלת בריטניה",
-  "summary": "אנדי ברנהאם, \"המלך מהצפון\" שכיהן כראש העיר מנצ'סטר, קיבל מהמלך צ'רלס את תפקידו של סטרמר שהודח במרד נגדו בלייבור - והפך לרה\"מ השביעי של בריטניה תוך עשור. הוא מבטיח מהפכה כלכלית שתספק \"מרחב נשימה\" לבריטים, עם השתלטות על שירותים ציבוריים, שובר שמאלה גם ביחס לישרא…",
-  "link": "https://www.ynet.co.il/news/article/rkcw7hjefx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/BJ7ilCFoNfe/BJ7ilCFoNfe_0_93_3000_1689_0_medium.jpg"
+  "title": "מרפסת קרסה על מאפייה בירושלים: אדם נלכד ומחוסר הכרה, 3 פצועים קל",
+  "summary": "בשכונת רחביה קרסה מרפסת על מאפייה במבנה בן 3 קומות. לפי שירותי ההצלה, אדם אחד לכוד תחת ההריסות ומחוסר הכרה. עוד שלושה נפצעו קל",
+  "link": "https://www.ynet.co.il/news/article/sjohz2s4mx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/rJZEkX3iVGe/rJZEkX3iVGe_0_240_1280_721_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.2° / 25.0°",
-   "summary": "כרגע 29.9°, לחות 72%, רוח 15.2 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 28.6°, לחות 76%, רוח 14.3 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "72%",
-     72
+     "76%",
+     76
     ],
     [
      "רוח",
-     "15.2 קמ״ש"
+     "14.3 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,7 +82,7 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Jwaya נגד Al Ahed",
-     "טרם התחיל"
+     "1:0 · מחצית ראשונה"
     ],
     [
      "Al Ansar נגד Nejmeh SC",
@@ -92,11 +92,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מוקדמות האלופות: אם תעבור ויקינגור - הפועל באר-שבע תפגוש הכוכב האדום או לארן",
-   "summary": "עוד לפני ששלב המוקדמות השני יצא לדרך, אופ\"א הגרילה את משחקי הסיבוב השלישי, כשהחבורה של רן קוז'וך עשויה לפגוש את אלופת סרביה של אבו פאני. מוקדמות הליגה האירופית: אם תעבור את שריף, תפגוש מכבי ת\"א בשלב הבא את קרבאח או צסק\"א סופיה. בהמשך: הפועל ת\"א ובית\"ר ירושלים …",
+   "title": "אגדת הכדורגל האנגלי קווין קיגן מת בגיל 75",
+   "summary": "זוכה כדור הזהב פעמיים, שכיכב בליברפול ובנבחרת אנגליה והפך לאחד הסמלים הגדולים של ניוקאסל, מת לאחר שהתמודד עם מחלת הסרטן. כשחקן זכה בגביע אירופה לאלופות ובשלוש אליפויות אנגליה, ובהמשך אימן את נבחרת שלושת האריות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/s1skxdivze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/09/H1ylEhJM6AWg/H1ylEhJM6AWg_244_601_1890_1064_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/s113x2ovgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/05/SyDKTTseT/SyDKTTseT_0_50_781_440_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -106,11 +106,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "לא ימאל: הכדורגלן הכי טוב במונדיאל הביא לספרד את הגביע | טור",
-   "summary": "בלי הצגות, בלי רעש ובלי מספרים נוצצים, הקשר הצנוע רודרי הפך את הכדורגל המסודר של ספרד למתכון לתואר. אחרי הפציעה הקשה והספקות, הוא חזר כדי להוכיח שלפעמים השחקן הכי גדול הוא זה שפשוט עושה הכול נכון",
+   "title": "העסקה סוכמה: עומרי גלזר יחתום במכבי חיפה",
+   "summary": "כפי שנחשף ב-ynet, השוער ישוב לקדנציה שנייה בכרמל לאחר שיעבור את הבדיקות הרפואיות. יחתום לשלוש שנים במועדון הירוק",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/skpvkcqvfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/SyT00UwiNMg/SyT00UwiNMg_0_94_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/q95jxo0va",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/14/Hk4IpKVl11x/Hk4IpKVl11x_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -120,11 +120,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "שריקות הבוז, המבוכה בהנפה והשחקן שסירב ללחיצת יד: המופע של טראמפ בגמר",
-   "summary": "הופעתו של נשיא ארה\"ב באירוע השיא של המונדיאל הפכה במהרה לשרשרת אירועים מביכים: מחאה מצד האוהדים, התעלמות בוטה מצידו של בלם ארגנטינה כריסטיאן רומרו במהלך חלוקת המדליות - ואיך לא, סצינה ביזארית על הפודיום",
+   "title": "מאמבאפה עד טראמפ: מילון המונדיאל השלם",
+   "summary": "למה כולם הפכו לבכייני טורבו, מי הדיקטטור שמטיל אימה על הנבחרת שלו, מתי התברר שהוויקינגים בעצם ממש חמודים, איזה ישראלי גנב את ההצגה ומה היה הדבר הכי גרוע בטורניר | איורים: ליאו אטלמן",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldcup2026/article/skw324infg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/S1UYJSsNze/S1UYJSsNze_0_50_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldcup2026/article/b12v0ycngx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/SyQWc6tcNzg/SyQWc6tcNzg_0_177_770_433_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -134,11 +134,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אין חשמל בכנסת: הסיבה וההודעה החריגה",
-   "summary": "לא בכנסת, לא במשרד האוצר ולא במבנים נוספים באזור קריית הממשלה בירושלים: חברת החשמל מסרה כי כבל מתח נפגע בעבודות שבוצעו על ידי קבלן פרטי במתחם הכנסת, ונגרם נזק לתשתית החשמל",
+   "title": "הפרדה מגדרית – לא על חשבון המדינה",
+   "summary": "ההצעה שלי היא פשוטה: המדינה לא תשתתף במימון לימודים בהפרדה מגדרית, ואולם מוסדות בלתי מתוקצבים יוכלו לקיים אותם ללא הגבלה, כל עוד לא נמנעת מאיש האפשרות ללמוד בכיתות מעורבות",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjr39kovge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/02/rkrVf4RIZl/rkrVf4RIZl_499_521_2428_1367_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rkq4cis4mx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/07/12/4038280/4038280_0_0_1000_667_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,15 +148,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בכיר איראני: \"המתווכות הציעו הפסקת אש ל-10 ימים\"",
-   "summary": "בניסיון להחייאת מזכר ההבנות, ואחרי תשעה לילות רצופים של תקיפות אמריקניות וירי איראני למדינות המפרץ, אמר גורם איראני לרויטרס כי המתווכות העלו יוזמה חדשה. רוביו אמר הלילה כי ארה\"ב \"פתוחה לפתרון דיפלומטי\", וגם בטהרן לא שללו חזרה למשא ומתן",
+   "title": "האש במפרץ לא עוצרת, ארה\"ב: \"אם איראן מתעקשת לשלוט בהורמוז - נצטרך להגיב\"",
+   "summary": "באיראן טענו לתקיפה בעיר שיראז, אבל האמריקנים לא קיבלו אחריות עליה. משמרות המהפכה לא מפסיקים לירות על בחריין וכוויית - ולא השיבו להצעות לפתרונות דיפלומטיים בימים האחרונים. ארה\"ב ביקשה מבולגריה להנחית מטוסי תדלוק בשטחה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bydnwfs4ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/13/HJi48li11Gl/HJi48li11Gl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/skv9hijefl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/04/rkGSmlZ8RZx/rkGSmlZ8RZx_0_0_1223_689_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "הסוס הטרויאני של ה-AI: כשהקוד המושלם של המודל מרסק את הפרודקשן",
+   "summary": "חשבתם ש-Codex ו-Claude Code יעשו לכם את העבודה בזמן שאתם שותים לאטה על חלב שיבולת שועל? תחשבו שוב. בהרצאה מרתקת בכנס Geektime Code, הסבירה אור ברוקמן מ-Google Cloud איך ה-LLMs הפכו לנשק עבור האקרים, למה עובדות על חתולים שוברות למודל את הלוגיקה, ואיך מפתחים הפכ…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/trojan-code-the-cyber-risks-of-ai-generated-code/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -189,16 +203,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "ההרשמה פתוחה: אוניברסיטת רייכמן חושפת תואר חדש ב-AI ולמידה חישובית",
-   "summary": "הבינה המלאכותית נכנסה לחיי כולנו כרוח סערה, והיא משנה תעשיות שלמות – החל ממערכות פיננסיות ועד מדעי המחשב, רפואה, תחבורה ותעשייה. הרבה התרחש בזמן קצר, והיום ארגונים כבר לא מחפשים את מי שיודעים \"לעבוד עם AI\", אלא זקוקים למומחיות עמוקה הכוללת ידע באימון מודלים, ב…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/bsc-in-ai-and-ml-at-reichman-university-2026/",
-   "image": null,
+   "section": "בידור",
+   "title": "דוקטור דום מגיע: נחשף הטריילר החדש של \"הנוקמים\"",
+   "summary": "אולפני מארוול חשפו את הטריילר המלא הראשון ל-\"הנוקמים: יום הדין\", הסרט שאמור לפתוח עידן חדש ביקום הקולנועי אחרי שנים של דעיכה יחסית. הטריילר מאחד את גיבורי היקום הקולנועי של מארוול עם חברי ארבעת המופלאים והאקס-מן, ומציג לראשונה את רוברט דאוני ג'וניור בתפקיד הנב…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/sj7c00ijnme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/H1ETAioVMl/H1ETAioVMl_82_1_1276_718_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -223,20 +237,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/hjq9q4j4fl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/B13k4o9Nfg/B13k4o9Nfg_703_209_2298_1294_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "כן או כן? / שלמה ארצי",
-   "summary": "בהופעות עצמן קורה פלא שאני מכנה אותו: איחוד מפלגת הקהל. מפלגת המפלגות, האיחוד המתבקש כל כך דרך מוזיקה",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14832696",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/BJdY1hkNxC/BJdY1hkNxC_2_0_1919_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
