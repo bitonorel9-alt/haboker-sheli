@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שני, 20 ביולי 2026",
  "date_he": "20/07/2026",
- "updated": "15:02",
+ "updated": "17:25",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מרפסת קרסה על מאפייה בירושלים: אדם נלכד ומחוסר הכרה, 3 פצועים קל",
-  "summary": "בשכונת רחביה קרסה מרפסת על מאפייה במבנה בן 3 קומות. לפי שירותי ההצלה, אדם אחד לכוד תחת ההריסות ומחוסר הכרה. עוד שלושה נפצעו קל",
-  "link": "https://www.ynet.co.il/news/article/sjohz2s4mx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/rJZEkX3iVGe/rJZEkX3iVGe_0_240_1280_721_0_medium.jpg"
+  "title": "טראמפ עונה לממדאני: נתניהו לא ייעצר",
+  "summary": "ראש העיר ניו יורק אמר שלא זנח את כוונתו לעצור את ראש הממשלה בעצרת הכללית של האו\"ם וטען כי הוא \"פושע מלחמה\". אבל הנשיא האמריקני אמר שזה לא יקרה",
+  "link": "https://www.ynet.co.il/news/article/sy20frjefx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/B1ZsB0oNfx/B1ZsB0oNfx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.2° / 25.0°",
-   "summary": "כרגע 28.6°, לחות 76%, רוח 14.3 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.2°, לחות 81%, רוח 9.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "76%",
-     76
+     "81%",
+     81
     ],
     [
      "רוח",
-     "14.3 קמ״ש"
+     "9.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,11 +82,25 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Jwaya נגד Al Ahed",
-     "1:0 · מחצית ראשונה"
+     "2:0 · הסתיים"
     ],
     [
      "Al Ansar נגד Nejmeh SC",
      "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "ספרד כאן כדי לשלוט | תוכן גולשים",
+   "summary": "16 שנה אחרי אינייסטה, ספרד שוב הניפה את גביע העולם עם שער בהארכה, השלימה טורניר כמעט מושלם והבהירה שהדור החדש של לה רוחה מתכוון לייצר שושלת חדשה. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/r1mvvoo4zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/rywSE054fx/rywSE054fx_0_80_3000_1660_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -119,26 +133,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "מאמבאפה עד טראמפ: מילון המונדיאל השלם",
-   "summary": "למה כולם הפכו לבכייני טורבו, מי הדיקטטור שמטיל אימה על הנבחרת שלו, מתי התברר שהוויקינגים בעצם ממש חמודים, איזה ישראלי גנב את ההצגה ומה היה הדבר הכי גרוע בטורניר | איורים: ליאו אטלמן",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldcup2026/article/b12v0ycngx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/SyQWc6tcNzg/SyQWc6tcNzg_0_177_770_433_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "הפרדה מגדרית – לא על חשבון המדינה",
-   "summary": "ההצעה שלי היא פשוטה: המדינה לא תשתתף במימון לימודים בהפרדה מגדרית, ואולם מוסדות בלתי מתוקצבים יוכלו לקיים אותם ללא הגבלה, כל עוד לא נמנעת מאיש האפשרות ללמוד בכיתות מעורבות",
+   "title": "בכירים בישראל: אנשיו של ואנס מנסים לסכל פגישה בין טראמפ לנתניהו",
+   "summary": "המאמצים של נתניהו להיפגש עם טראמפ נתקלים בניסיונות בלימה מצד אנשיו של סגן נשיא ארה\"ב ג'יי די ואנס. לטענת בכירים בישראל, בממשל סבורים שבפגישה כזו נתניהו ינסה לדחוף את טראמפ לנקוט בקו תקיף יותר נגד איראן",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkq4cis4mx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/07/12/4038280/4038280_0_0_1000_667_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bk9ct6ivfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/22/S1cYd11XI0gx/S1cYd11XI0gx_0_76_905_510_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,11 +148,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "האש במפרץ לא עוצרת, ארה\"ב: \"אם איראן מתעקשת לשלוט בהורמוז - נצטרך להגיב\"",
-   "summary": "באיראן טענו לתקיפה בעיר שיראז, אבל האמריקנים לא קיבלו אחריות עליה. משמרות המהפכה לא מפסיקים לירות על בחריין וכוויית - ולא השיבו להצעות לפתרונות דיפלומטיים בימים האחרונים. ארה\"ב ביקשה מבולגריה להנחית מטוסי תדלוק בשטחה",
+   "title": "ישראל לא ממהרת למלחמה, ומחכה לעילה ולטראמפ: \"ירצה - נצטרף, לא - נשב בשקט\"",
+   "summary": "בישראל מעריכים כי אם לא יושג הסכם עם איראן, הלחימה עשויה להתעצם עד ספטמבר. צה\"ל רואה הזדמנות להשלים את מה שלא הושג, אך נתניהו, לדברי בכירים, לא דוחף לפתוח את המערכה בעצמו. בירושלים מניחים שהסיבה להצטרף כבר תגיע, ההכרעה בידי טראמפ: \"איראן תשלם פי כמה על הרג כל …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/skv9hijefl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/04/rkGSmlZ8RZx/rkGSmlZ8RZx_0_0_1223_689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rkt5poi4ml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/11/30/S13y8DZHwo/S13y8DZHwo_126_249_486_274_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -208,7 +208,7 @@ window.NEWS_DATA = {
    "summary": "אולפני מארוול חשפו את הטריילר המלא הראשון ל-\"הנוקמים: יום הדין\", הסרט שאמור לפתוח עידן חדש ביקום הקולנועי אחרי שנים של דעיכה יחסית. הטריילר מאחד את גיבורי היקום הקולנועי של מארוול עם חברי ארבעת המופלאים והאקס-מן, ומציג לראשונה את רוברט דאוני ג'וניור בתפקיד הנב…",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/sj7c00ijnme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/H1ETAioVMl/H1ETAioVMl_82_1_1276_718_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/rJaGDpo4Ge/rJaGDpo4Ge_208_0_933_525_0_medium.jpg",
    "stats": [
     [
      "מקור",
