@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 24 ביולי 2026",
  "date_he": "24/07/2026",
- "updated": "20:11",
+ "updated": "21:56",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,8 +13,8 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.6° / 26.6°",
-   "summary": "כרגע 27.3°, לחות 71%, רוח 15.4 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.6° / 26.7°",
+   "summary": "כרגע 27.1°, לחות 71%, רוח 17.3 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,7 +24,7 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "26.6°"
+     "26.7°"
     ],
     [
      "לחות",
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "15.4 קמ״ש"
+     "17.3 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,18 +82,32 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Al Ahed נגד Al Ansar",
-     "1:0 · מחצית שנייה"
+     "1:1 · הסתיים"
     ],
     [
      "Nejmeh SC נגד Jwaya",
-     "2:1 · מחצית שנייה"
+     "2:1 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "\"אולי הוא גזען”: טראמפ עקץ את לברון – ובחר בג’ורדן כגדול בכל הזמנים",
+   "summary": "נשיא ארה”ב נשאל על המעבר של לברון ג’יימס לפילדלפיה ועל הוויכוח הנצחי מול מייקל ג’ורדן. טראמפ לא היסס לבחור באגדת שיקגו בולס, ולאחר מכן שיגר עקיצה נוספת לעבר כוכב ה-NBA: “אולי הוא גזען. אולי הוא פשוט לא אוהב את טראמפ”",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/rj3onhbrfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/04/23/ByC11CklPu/ByC11CklPu_0_0_640_360_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
   {
    "section": "כדורגל",
    "title": "דקות ראשונות לאוריין גורן בבוגרים של ברצלונה",
-   "summary": "ציון דרך משמעותי לישראלי, שעלה בתחילת המחצית השנייה כמחליף במפגש ההכנה במתחם האימונים. הקבוצה של פליק פוגשת את אירופה CE ומוליכה כרגע 1:3",
+   "summary": "ציון דרך משמעותי לישראלי, שעלה בתחילת המחצית השנייה כמחליף במפגש ההכנה במתחם האימונים. הקבוצה של פליק ניצחה 1:4 את אירופה CE בהרכב חסר מאוד",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/article/one528989",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/17/one1848318/one1848318_0_0_800_444_0_medium.jpg",
@@ -119,16 +133,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "ההחלטה התקבלה: לברון ג'יימס חתם בפילדלפיה",
-   "summary": "הסאגה של הקיץ הגיעה לסיומה: הסופרסטאר בן ה-41 ינסה לזכות באליפות חמישית לצד ג'ואל אמביד, טייריס מקסי וג'יילן בראון. ירוויח כ-8 מיליון דולר בחוזה לשנתיים",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/bjmywbbbmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/SJmvwhpNMl/SJmvwhpNMl_0_18_1024_577_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "אחרי הפיגועים: מחסומים בכל רחבי יהודה ושומרון ופקקי ענק",
+   "summary": "כוחות צה\"ל פועלים ביהודה ושומרון, אחרי שלושה פיגועים תוך יממה, וחוסמים צירים מרכזיים - ועשרות כניסות לכפרים. הפלסטינים דיווחו על עומסי תנועה כבדים באזורים נרחבים, בהם שכם, תל ואזור ירושלים. גורם צבאי: \"הדבר נדרש לטובת מניעת אירועי טרור נוספים כחקיינות\"",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/bk8edrwsfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/24/B1gzwrbHfg/B1gzwrbHfg_0_272_519_292_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -139,20 +153,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/s1a1cxbhzl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/29/rytvppIsZg/rytvppIsZg_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "אחרי הלוויית בניהו שנרצח בפיגוע: התפרעויות בכפרים פלסטיניים",
-   "summary": "הרמטכ\"ל הגיע לזירת הפיגוע וכינס שורת מפקדים בכירים בצבא לתחקיר ראשוני. במקביל, עשרות פשטו כשהם רעולי פנים על כמה כפרים פלסטיניים - הציתו שריפות והשחיתו רכוש. בכפר סרה תועדו נזקים גדולים, אחר כך נזרקו בקבוקי תבערה על בתים ומכוניות. פלסטינים השליכו אבנים וצמיגים…",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s10hiezbzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/24/BkfNO3ebHfg/BkfNO3ebHfg_0_441_522_294_0_medium.jpg",
    "stats": [
     [
      "מקור",
