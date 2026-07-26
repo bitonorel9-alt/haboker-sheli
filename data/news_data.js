@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 26 ביולי 2026",
  "date_he": "26/07/2026",
- "updated": "17:55",
+ "updated": "18:57",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
   "title": "התוצאות הסופיות: זו רשימת \"הציונות הדתית\" לבחירות הקרובות",
-  "summary": "",
+  "summary": "השרה אורית סטרוק ניצחה בבחירות הפנימיות שהתקיימו בקרב 170 חברי מרכז, ותהיה במקום השלישי ברשימה - אחרי סמוטריץ' ושריון שצפוי מטעמו. במקום ה-4 נמצא צביקה מור ששוריין גם הוא, ואחריו חברי הכנסת שמחה רוטמן, צבי סוכות ואוהד טל",
   "link": "https://www.ynet.co.il/news/article/sy2mgcxhzl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/rkgwV3mBfe/rkgwV3mBfe_289_338_775_436_0_medium.jpg"
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/r1WPbRTmSzg/r1WPbRTmSzg_0_13_1280_721_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.5° / 26.5°",
-   "summary": "כרגע 26.6°, לחות 70%, רוח 14.2 קמ״ש. סיכוי משקעים 3%.",
+   "summary": "כרגע 26.8°, לחות 72%, רוח 13.2 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "70%",
-     70
+     "72%",
+     72
     ],
     [
      "רוח",
-     "14.2 קמ״ש"
+     "13.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,39 +74,39 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
+   "title": "היסטוריה בפריז: פוגצ'אר זכה בפעם החמישית בטור דה פראנס",
+   "summary": "הסלובני בן ה־27 השווה את שיא הזכיות במרוץ והפך לצעיר אי פעם שמגיע לחמישה תארים. מתיו ואן דר פול ניצח בדרמה בקטע הסיום, רמקו אוונפול סיים שני ואיסאק דל טורו הפך למקסיקני הראשון על הפודיום",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/rjkoz0msgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/ryXet11C7HGg/ryXet11C7HGg_0_75_2637_1485_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "סנסציה: נבחרת הנוער רשמה ניצחון אדיר על צרפת",
+   "summary": "אחרי שגברה על יוון במחזור הפתיחה של אליפות אירופה בכדורסל, החבורה של נדב זילברשטיין המשיכה את המומנטום עם 77:91 על הצרפתים - והבטיחה את ראשות הבית",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1tpsaqhfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/BkbD3FaXBzg/BkbD3FaXBzg_0_20_1680_946_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
    "title": "ינאי: \"יו\"ר האיגוד פנה אליי במטרה לאזרח את אוטורו\"",
    "summary": "הבעלים של הפועל ת\"א העלה סרטון לרשת שבו טען כי המהלך כבר קרם עור וגידים, אולם לדבריו מהלך הדברים השתנה ברגע \"שבאו אנשי מכבי ת\"א\"",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelibasketball/article/by29itqbfl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/28/r1NNTTNMlg/r1NNTTNMlg_0_0_3000_2000_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "מכבי חיפה פנתה לליאור גליקליך",
-   "summary": "פרסום ראשון: הירוקים סימנו את שוער בני ריינה ונבחרת הנוער לשעבר כגיבוי לעומרי גלזר וכהשקעה לעתיד. המהלך הגיע לאחר שעסקת עומר ניראון ירדה מהפרק בשל דרישות כספיות גבוהות",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkcqyoqhfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/S1z3usmrMl/S1z3usmrMl_1251_725_1750_986_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "החלוץ הסלובני אסטר סוקלר חתם לשנתיים במכבי ת\"א",
-   "summary": "הצהובים סיכמו על העברתו של השחקן עם פ.ק. רדניצ'קי הסרבית, שילבש צהוב עד 2028 עם אופציה לשנתיים נוספות: \"גאה להצטרף למועדון עם היסטוריה עשירה ושאיפות גדולות\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skg0hixbzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/S17jUi7Bze/S17jUi7Bze_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -131,7 +131,7 @@ window.NEWS_DATA = {
   {
    "section": "פוליטיקה",
    "title": "הקמפיין החדש של איזנקוט - בקפריסין",
-   "summary": "מפלגת ישר יצאה השבוע עם קמפיין חדש, שפונה לישראלים שנופשים בקפריסין, שם הציבה שלטי חוצות. \"נחתם? נהניתם? עכשיו חוזרים ומנצחים!\", נכתב על אחד מהם לצד תמונתו של איזנקוט",
+   "summary": "מפלגת ישר יצאה השבוע עם קמפיין חדש, שפונה לישראלים שנופשים בקפריסין, שם הציבה שלטי חוצות. \"נחתם? נהניתם? עכשיו חוזרים ומנצחים!\", נכתב על אחד מהם לצד תמונתו של איזנקוט. התגובות האנטי-ישראליות: \"עוד 10 שנים נהיה המושבה שלהם\"",
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/hyqbga7hfg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/BkezmlpQHfx/BkezmlpQHfx_0_187_709_399_0_medium.jpg",
