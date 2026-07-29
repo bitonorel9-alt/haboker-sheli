@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום רביעי, 29 ביולי 2026",
  "date_he": "29/07/2026",
- "updated": "21:50",
+ "updated": "22:52",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "כוננות תקיפה באיראן אחרי 6 ימי שקט, טראמפ: \"עכשיו התור שלנו להכות\"",
-  "summary": "טראמפ מאיים \"לפוצץ לאיראנים את הצורה\", כ-20 אנשי משמרות המהפכה חוסלו בעיראק, ישראל נערכת להגיב להפרת הפסקת האש בלבנון - ושר ההגנה הסעודי נפגש עם ואנס בוושינגטון: משישי האחרון השקט במזרח התיכון נשמר באופן יחסי, אולם רצף תקריות והתגרויות עשוי להבעיר את השטח מחדש…",
-  "link": "https://www.ynet.co.il/news/article/ryaiohwbfg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/24/B1elWxrWSGg/B1elWxrWSGg_0_0_3000_1689_0_medium.jpg"
+  "title": "\"ענן האש\" הענק תועד מהחלל: הרוגים בשריפות באירופה, פינויים גם בטורקיה",
+  "summary": "המוני לוחמי אש נאבקים בשריפת הענק בצרפת גם בגל חום של 40 מעלות, ולמרות ש-60,000 מפונים הורשו לחזור הביתה - הם מזהירים: \"הסכנה לא חלפה\". בספרד טרם הושגה שליטה בשריפת הענק בקסטיון, שריפה חדשה פרצה בסמורה, סנצ'ס: \"שעות של הכרעה\". שני כבאים נלכדו באש ונספו בכרתים,…",
+  "link": "https://www.ynet.co.il/news/article/byunp3vbzx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/HkxxmAvHGg/HkxxmAvHGg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.9° / 25.6°",
-   "summary": "כרגע 26.6°, לחות 91%, רוח 3.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 26.6°, לחות 91%, רוח 2.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "3.4 קמ״ש"
+     "2.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -44,41 +44,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · ישראל",
-   "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football/israel",
-   "image": null,
-   "stats": [
-    [
-     "הפועל חיפה נגד עירוני טבריה",
-     "3:1 · הסתיים"
-    ],
-    [
-     "Kiryat Shmona נגד מכבי חיפה",
-     "3:0 · הסתיים"
-    ],
-    [
-     "מכבי פתח תקווה נגד מכבי נתניה",
-     "1:2 · הסתיים"
-    ],
-    [
-     "Hapoel Ramat Gan נגד הפועל פתח תקווה",
-     "2:1 · הסתיים"
-    ],
-    [
-     "Kiryat Yam Sc נגד Maccabi Ahi Nazeret",
-     "טרם התחיל"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "0:2 דרמטי להפועל באר-שבע על ויקינגור, עלתה שלב במוקדמות הצ'מפיונס",
-   "summary": "אחמד (65) וגנאח (80) סידרו לאלופה 2:3 בסיכום על ויקינגור וכרטיס לסיבוב המוקדמות השלישי של ליגת האלופות. המשמעות: האדומים ישחקו לפחות בקונפרנס ליג. היריבה הבאה: הכוכב האדום בלגרד",
+   "title": "\"חשבתי על ישראל דברים שבסוף לא היו באמת, לא חשבתי שאתחבר ככה למדינה\"",
+   "summary": "מחר יגיע רגע האמת של המתעמל אלכס מיאקינין: מבחן כשירות שישלח אותו לאליפות היבשת, או צפייה בתחרות מבחוץ. בריאיון ל-ynet הוא מספר על המאמצים: \"יש לי עוד שבועיים לתת פייט, להראות שאני פה\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rknfmmwhme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/SkU8aTvHfx/SkU8aTvHfx_93_39_1145_645_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/r1dnaapbfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/Hk00zl100SMg/Hk00zl100SMg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -88,11 +58,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "קני מילר: \"רוצים לבנות מומנטום לקראת המשחקים הבאים\"",
-   "summary": "מאמן מכבי ת\"א דיבר לקראת משחק הגומלין מחר (19:00) מול שריף במוקדמות הליגה האירופית אחרי ה-0:5 במפגש הראשון: \"נחנו צריכים לגשת למשחק הזה עם אותו כבוד לשריף כפי שנתנו להם בשבוע שעבר\"",
+   "title": "\"הסיפור שלנו הוא תקווה לכל האנושות\": סגירת המעגל של הג'ודוקא הישראלי והאיראני",
+   "summary": "בזמן ששתי המדינות מדברות דרך איומים וטילים, ישראלי ואיראני נפגשו לקרב מסוג אחר – על מזרן הג'ודו, עם דגלי הלאום על החזה † שבע שנים אחרי שמשטר האייתוללות מנע מהם להיפגש בגמר אליפות העולם, שגיא מוקי וסעיד מולאי סגרו מעגל מרגש – בארץ הקודש. מולאי: \"כל כך שמח להיות…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/by6ntnpsfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/SkKPsCXNfg/SkKPsCXNfg_0_0_818_460_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/ry2r6rdhzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/SkhKSkOHMl/SkhKSkOHMl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,15 +72,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "קרע בהנהלת הפועל ת\"א: היו\"ר נגד המנכ\"ל - שבדרך החוצה",
-   "summary": "גורמים בשורות סגנית האלופה מעידים על בלגן ניהולי שנובע מחוסר הסכמות מהותי בין אורן חסון לצחי רייכנשטיין, שעלול לעלות לאחרון בתפקידו. הבעלים, עופר ינאי צפוי לקבל החלטה בנושא בקרוב",
+   "title": "פיאסקו לאומי: כך נבחרת איטליה הפכה לפארסה מעוררת גיחוך",
+   "summary": "עזבו את ההיעדרות מהמונדיאל – עכשיו איטליה גם מתקשה להחתים מאמן בלי להסתבך. מהבחירה בפירלו שבוטלה בגלל קשר מפוקפק עם פורטל הימורים רוסי, ועד מינויו של מי שהוגדר לא מזמן כ\"בוגד\". פארסה בהמשכים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hy7acnpbfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/BkfUNpvrfg/BkfUNpvrfg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rjawmhdbfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/Skl0E3Prfx/Skl0E3Prfx_17_182_2547_1434_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "פוליטיקה",
+   "title": "כוננות תקיפה באיראן אחרי 6 ימי שקט, טראמפ: \"עכשיו התור שלנו להכות\"",
+   "summary": "טראמפ מאיים \"לפוצץ לאיראנים את הצורה\", כ-20 אנשי משמרות המהפכה חוסלו בעיראק, ישראל נערכת להגיב להפרת הפסקת האש בלבנון - ושר ההגנה הסעודי נפגש עם ואנס בוושינגטון: משישי האחרון השקט במזרח התיכון נשמר באופן יחסי, אולם רצף תקריות והתגרויות עשוי להבעיר את השטח מחדש…",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/ryaiohwbfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/24/B1elWxrWSGg/B1elWxrWSGg_0_0_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - חדשות"
     ]
    ]
   },
@@ -121,20 +105,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/yokra14849261",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/16/rymhSY3e00We/rymhSY3e00We_0_0_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "אל מול גולן",
-   "summary": "מפלגת הדמוקרטים עשויה להיות השנייה בגודלה בגוש השינוי אם בנט ולפיד יתפצלו אחרי הבחירות. חבריה לא מסתירים את רצונם לקדם את רעיון המדינה הפלסטינית. אלא שזה בדיוק מה שיכול להשאיר את המתלבטים מהמגזר הציוני-דתי בחיק נתניהו והחרדים",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14849183",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/H14Y9TNBfe/H14Y9TNBfe_0_0_845_475_0_medium.jpg",
    "stats": [
     [
      "מקור",
