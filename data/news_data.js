@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 1 באוגוסט 2026",
  "date_he": "01/08/2026",
- "updated": "08:04",
+ "updated": "10:27",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "רצו לפריץ",
-  "summary": "אפשר להתווכח על חלקים ממכתבם המסוכן של מאות הבכירים הביטחוניים לטראמפ | על דבר אחד אסור להבליג: הרצון ההזוי שלהם לקשור, ולו ברמז, ולו באופן עתידי, בין מעשי המתנחלים לטבח 7 באוקטובר",
-  "link": "https://www.ynet.co.il/news/article/yokra14849597",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/yk14849097/yk14849097_0_0_709_609_0_medium.jpg"
+  "title": "האצה בהכנות להפצצת מתקני גרעין, איראן תקפה במפרץ: \"נתניהו מוכר אשליה, נחזיר אתכם לתקופת האבן\"",
+  "summary": "בצל הכנות אמריקניות לקמפיין הפצצות מחודש - יש דיווחים סותרים אם ישראל תצטרף - באיראן מאיימים על שדות הגז בישראל ומתקני אנרגיה ברחבי האזור, ותקפו מכליות בהורמוז. כוויית דיווחה על מתקפת טילים, אף שהלילה לא היו תקיפות אמריקניות. CNN: האצה בהכנות לתקיפת מתקני הגרע…",
+  "link": "https://www.ynet.co.il/news/article/hyibnbsbfe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/29/rytvppIsZg/rytvppIsZg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.7° / 26.5°",
-   "summary": "כרגע 30.0°, לחות 74%, רוח 10.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.9° / 26.5°",
+   "summary": "כרגע 30.9°, לחות 74%, רוח 16.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.7°"
+     "30.9°"
     ],
     [
      "מינימום",
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "10.8 קמ״ש"
+     "16.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,17 +82,17 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Kryvbas נגד Karpaty Lviv",
-     "טרם התחיל"
+     "1:0 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "הגיע ליעד: הילד שגדל בירוק והפך להבטחה הגדולה של הפועל חיפה",
-   "summary": "מהמעבר בגיל 12 ממחלקת הנוער של מכבי חיפה ועד לתצוגה בדרבי: אחרי ה-2:3 בסמי עופר וההמשך בגביע הטוטו, הקשר בן ה-20 מסומן כפרויקט המרכזי של חיים סילבס לעונה הקרובה",
+   "title": "דיווח: \"דניאל תייס על סף חתימה במכבי ת\"א\"",
+   "summary": "ב\"באסקט ניוז\" מפרסמים: בעקבות המשבר הכלכלי בווילרבאן, בה היה אמור לשחק, הסנטר הגרמני בן ה-34, שכיכב בשנתיים האחרונות במונאקו, קרוב לנחות בישראל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ry1enxvbze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/25/Sk4Op3dGBMe/Sk4Op3dGBMe_0_227_2567_1446_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hkai3qjrgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/01/HkNKRmjHMe/HkNKRmjHMe_118_36_771_434_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "זו הייתה האולימפיאדה שפיארה את היטלר - בגרמניה רוצים להשכיח אותה",
-   "summary": "לפני 90 שנה בדיוק יצאו לדרך המשחקים האולימפיים בברלין, שטמנו בחובם לא מעט רגעים בלתי נשכחים - אך בעיקר שימשו כתעמולה עבור המשטר הנאצי. האקלים הנוכחי בגרמניה מעלה זיכרונות מאותה תקופה נוראית, אך יש כאלה שהיו רוצים לטשטש אותם",
+   "title": "\"בחר בטובת הילדים\": ינאי הסכים למתווה, אך הסכסוך בהפועל ת\"א עדיין רחוק מסיום",
+   "summary": "לאחר שבועות של מו\"מ אינטנסיבי, בעלי האדומים הסכים למרבית תנאי ההסדר בעקבות פניות מהורי מחלקת הנוער ואנשי המועדון. אלא שמחלוקת אחת - זהות הוועד המנהל של העמותה - עדיין קיימת",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rja5300crmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/07/31/7170561/7170561_0_706_2773_1562_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hj09pxjsfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/01/HkELFmiBMx/HkELFmiBMx_0_100_2724_1534_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "\"החיים שלי השתנו\": הקריירה החדשה של ארלינג הולאנד",
-   "summary": "התעלמות שטום הולנד לא ישכח, שיר ראפ שהוא להיט וסרטוני בינה מלאכותית קורעים: איך הפך ארלינג הולאנד למלך הבלתי מעורער של הרשתות החברתיות, ומה יש לו להגיד על הטירוף סביבו?",
+   "title": "\"נרדמתי במחצית\": הווידוי המפתיע של כוכב צ'לסי",
+   "summary": "קול פאלמר, שלא זומן לסגל של נבחרת שלושת האריות למונדיאל, הודה כי נרדם במהלך ה-2:3 הדרמטי של האנגלים על מקסיקו בשמינית הגמר: \"שעות המשחקים היו מטורפות\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rydysgxbzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/HJZBkYQHzg/HJZBkYQHzg_0_262_738_416_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hyhjhmobfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/01/SksGDmorzg/SksGDmorzg_248_91_2360_1329_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "ורק לאלון לא נשאר",
-   "summary": "איכשהו, דווקא בעניין ההכרה באלון שמריז כחלל צה\"ל החליט בג\"ץ לומר שהוא אינו מסוגל להתערב. את הדייסה מלשון החוק שומרים השופטים למאבקים פוליטיים בממשלה",
+   "title": "\"זה משוגע! אסון למפלגה ולאומה\": כך מנסה טראמפ \"להשתלט\" על הבחירות בארה\"ב",
+   "summary": "גם 6 שנים אחרי ההפסד הצורב לביידן, האובססיה של טראמפ לא נגמרת - והוא ממשיך להפיץ טענות חסרות שחר להונאת ענק: \"הבחירות מזויפות! כמו במדינות עולם שלישית!\", הצהיר בזעם רק לאחרונה, כשנטש בסערה ריאיון. אולם הנשיא של הדמוקרטיה החזקה בעולם לא מסתפק רק בערעור האמון בט…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14849351",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/yk14849325/yk14849325_1_171_466_263_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bkuiyytsfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/21/Hy5d1DBAle/Hy5d1DBAle_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,11 +144,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "לצפות באודיסאה אחרי 7 באוקטובר",
-   "summary": "הטקסט הזה הוא לא ביקורת קולנוע. הוא עוסק במפגש. מפגש בין ישראל אחרי 7 באוקטובר ל\"אודיסאה\" של לפני 2,750 שנים, בין המלחמה העתיקה בעולם למלחמה שהיא חיינו, בין לוחם לבית. הסרט ההוליוודי הופך לתיעוד חי של מציאות בלתי נסבלת שכוחות גדולים מנסים להשתיק, להדחיק או להק…",
+   "title": "הקשר בין הצילומים של ביבי ושרה ל-AI ולבחירות שבפתח",
+   "summary": "כשהבינה המלאכותית מנסה להיכנס לקלפי – הדמוקרטיה עלולה לשלם את המחיר",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14849317",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/yk14847413/yk14847413_0_0_314_367_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjix6xjszg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/HkSbR8uSzg/HkSbR8uSzg_13_87_840_473_0_medium.jpg",
    "stats": [
     [
      "מקור",
