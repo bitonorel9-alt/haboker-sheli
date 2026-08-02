@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 2 באוגוסט 2026",
  "date_he": "02/08/2026",
- "updated": "15:53",
+ "updated": "16:48",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "פרשת הבחירות למבקר המדינה: גורמים בליכוד צפויים לקבל זימון לעדות",
-  "summary": "עדותה של ח\"כ שרן השכל אמורה להצביע על מי הורה לה להציג את תיעוד הצבעתה בבחירות, כפי שמסרה בתצהיר לבג\"ץ. בעקבות הסתירה מול תצהיר הליכוד, הורו היועמ\"שית ופרקליט המדינה לבדוק אם הוגש תצהיר שקר",
-  "link": "https://www.ynet.co.il/news/article/rjx93ahhmx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/17/B1lXk6ugfze/B1lXk6ugfze_0_0_850_479_0_medium.jpg"
+  "title": "בית הדין של הליכוד בודק: הצבעת נתניהו זויפה | פרסום ראשון",
+  "summary": "יו\"ר הליכוד הופיע בטבלאות המצביעים כמי שהצביע, למרות שבפועל - כלל לא הצביע. בהצבעה אישרו חברי מרכז הליכוד לאפשר לשרים וח\"כים מכהנים להתמודד במחוזות - על חודם של שני קולות. עתירות רבות הוגשו בטענה לאי סדרים - והרכב מורחב של חמישה דיינים כונס לדון בהן",
+  "link": "https://www.ynet.co.il/news/article/hjwmbgthgx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/08/10/SyRN00zWC5/SyRN00zWC5_0_0_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 32.4° / 28.0°",
-   "summary": "כרגע 30.2°, לחות 68%, רוח 21.7 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.7°, לחות 69%, רוח 19.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "68%",
-     68
+     "69%",
+     69
     ],
     [
      "רוח",
-     "21.7 קמ״ש"
+     "19.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,10 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "הפועל ירושלים נגד מכבי פתח תקווה",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
      "Kiryat Yam Sc נגד Maccabi Ahi Nazeret",
      "0:0 · הסתיים"
     ],
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Kfar Saba נגד Hapoel Afula",
      "3:1 · הסתיים"
-    ],
-    [
-     "MS Kfar Kassem נגד Hapoel Kfar Shalem",
-     "2:1 · הסתיים"
     ]
    ]
   },
@@ -81,24 +81,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Ordabasy Shymkent נגד Tobol Kostanay",
-     "1:0 · מחצית"
-    ],
-    [
-     "Wolfsberger AC נגד Austria Vienna",
-     "1:0 · מחצית"
-    ],
-    [
-     "Austria Lustenau נגד Ried",
-     "1:1 · מחצית"
-    ],
-    [
-     "Noah נגד Syunik",
-     "2:0 · מחצית"
-    ],
-    [
      "Siwelele נגד TS Galaxy",
-     "0:0 · מחצית ראשונה"
+     "2:1 · מחצית שנייה"
+    ],
+    [
+     "Nec Fc נגד Police",
+     "הסתיים"
+    ],
+    [
+     "Rapid Vienna נגד SCR Altach",
+     "טרם התחיל"
+    ],
+    [
+     "Urartu נגד Pyunik Yerevan",
+     "טרם התחיל"
+    ],
+    [
+     "Nejmeh SC נגד Al Ansar",
+     "טרם התחיל"
     ]
    ]
   },
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "תיעוד דרמטי מיוון: שני מסוקי כיבוי התנגשו ליד אתונה, שם משתוללת שריפת ענק",
-   "summary": "המסוקים התנגשו במהלך פעילות לכיבוי השריפה במחוז אטיקה, בתנאי רוח שמקשים לכבות את הלהבות. שני אנשי צוות ממסוק אחד נהרגו, שניים מהמסוק השני חולצו בחיים. מאות תושבים פונו, חלקם בכלי שיט. צפו ברגע ההתנגשות",
+   "title": "\"הצל\" התרברב בקשריו במשטרה - והקצין הסתבך: זה החשד נגדו",
+   "summary": "ימים לאחר שהמפכ\"ל הדיח את יואב אליאסי מתפקידו כמפקד כיתת הכוננות במחוז תל אביב, מח\"ש עדכנה כי חקרה רב-פקד בחשד שקידם אינטרסים של הראפר במתחם בילוי בעיר. קצין המשטרה שוחרר בתנאים מגבילים",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syziyr2sfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/SyldtV02rzg/SyldtV02rzg_0_0_654_369_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rk1uqj6hgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/22/Skx11HyqRill/Skx11HyqRill_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הקרב במפרץ על ההכרעה, והאיום מאיראן: \"שוקלים מתקפה מקדימה אם הדיפלומטיה תיכשל\"",
-   "summary": "ב\"וול סטריט ג'ורנל\" נכתב כי על ליבו של נשיא ארה\"ב התחרו גורמים שונים במפרץ. חלק דחפו להסלמה - אחרים לרגיעה. סעודיה יצאה עם ידה על העליונה והצליחה לשכנע את טראמפ ללחוץ על הבלמים, למורת רוחה של האמירויות. דיפלומט איראני הזהיר ממתקפת מנע של משמרות המהפכה, אם הצדד…",
+   "title": "פרשת הבחירות למבקר המדינה: ח\"כים בליכוד צפויים לקבל זימון לעדות פתוחה",
+   "summary": "עדותה של ח\"כ שרן השכל אמורה להצביע על מי הורה לה להציג את תיעוד הצבעתה בבחירות, כפי שמסרה בתצהיר לבג\"ץ. בעקבות הסתירה מול תצהיר הליכוד, הורו היועמ\"שית ופרקליט המדינה לבדוק אם הוגש תצהיר שקר",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h111dg0hszg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/18/rk11gt49gbl/rk11gt49gbl_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rjx93ahhmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/17/B1lXk6ugfze/B1lXk6ugfze_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
