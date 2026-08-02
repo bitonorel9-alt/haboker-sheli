@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 2 באוגוסט 2026",
  "date_he": "02/08/2026",
- "updated": "16:48",
+ "updated": "17:54",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "בית הדין של הליכוד בודק: הצבעת נתניהו זויפה | פרסום ראשון",
-  "summary": "יו\"ר הליכוד הופיע בטבלאות המצביעים כמי שהצביע, למרות שבפועל - כלל לא הצביע. בהצבעה אישרו חברי מרכז הליכוד לאפשר לשרים וח\"כים מכהנים להתמודד במחוזות - על חודם של שני קולות. עתירות רבות הוגשו בטענה לאי סדרים - והרכב מורחב של חמישה דיינים כונס לדון בהן",
-  "link": "https://www.ynet.co.il/news/article/hjwmbgthgx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/08/10/SyRN00zWC5/SyRN00zWC5_0_0_3000_1689_0_medium.jpg"
+  "title": "רוב המהגרים עזבו, הימין הקיצוני הגיע: סאוטה מטלטלת את ספרד ואת אירופה",
+  "summary": "רוב עשרות אלפי המהגרים שנכנסו למובלעת כבר חזרו למרוקו, החנויות נפתחו והטיילת התמלאה מחדש. אלא שהמאבק הפוליטי בספרד רק מתחיל: מנהיג מפלגת הימין הקיצוני הגיע לעיר והכריז על \"פלישה\" ו\"מעשה מלחמה\", גם האופוזיציה השמרנית הקשיחה את הטון ורה\"מ סנצ'ס יוצא נגד מדינות א…",
+  "link": "https://www.ynet.co.il/news/article/sj1aw6hbfx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/Hkju11W6rGl/Hkju11W6rGl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 32.4° / 28.0°",
-   "summary": "כרגע 29.7°, לחות 69%, רוח 19.1 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.5°, לחות 67%, רוח 17.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "69%",
-     69
+     "67%",
+     67
     ],
     [
      "רוח",
-     "19.1 קמ״ש"
+     "17.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -52,7 +52,11 @@ window.NEWS_DATA = {
    "stats": [
     [
      "הפועל ירושלים נגד מכבי פתח תקווה",
-     "0:0 · מחצית ראשונה"
+     "1:0 · מחצית שנייה"
+    ],
+    [
+     "מכבי נתניה נגד Hapoel Ramat Gan",
+     "1:1 · מחצית"
     ],
     [
      "Kiryat Yam Sc נגד Maccabi Ahi Nazeret",
@@ -65,50 +69,16 @@ window.NEWS_DATA = {
     [
      "Maccabi Hertzliya נגד Hapoel Raanana",
      "2:0 · הסתיים"
-    ],
-    [
-     "Hapoel Kfar Saba נגד Hapoel Afula",
-     "3:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
-   "stats": [
-    [
-     "Siwelele נגד TS Galaxy",
-     "2:1 · מחצית שנייה"
-    ],
-    [
-     "Nec Fc נגד Police",
-     "הסתיים"
-    ],
-    [
-     "Rapid Vienna נגד SCR Altach",
-     "טרם התחיל"
-    ],
-    [
-     "Urartu נגד Pyunik Yerevan",
-     "טרם התחיל"
-    ],
-    [
-     "Nejmeh SC נגד Al Ansar",
-     "טרם התחיל"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "שטילמן הגיש הצעה חדשה לרכישת מניות רקנאטי במכבי ת\"א",
-   "summary": "מייסד ראפיד הציע 120 מיליון דולר עבור 58 אחוזים ממכבי תל אביב והזרמה של 30 מיליון נוספים למועדון. במקביל, משפחת רקנאטי מתכוונת למכור מחצית מהחזקותיה לאיש העסקים היהודי־אמריקאי, לשעבר מנכ\"ל ממפיס גריזליס",
+   "title": "רשמי: ניב אליאסי הושאל ללבדיאקוס",
+   "summary": "השוער בן ה-22 של הפועל באר-שבע חתם על חוזה השאלה בקבוצה מהליגה היוונית. בהסכם בין המועדונים הוכנס סעיף אופציית רכישה בגובה 1.25 מיליון יורו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/h100j716rmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/31/BympZfqxGg/BympZfqxGg_583_125_2275_1281_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/s3q340sll",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/S1HtueaBze/S1HtueaBze_0_90_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +88,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מאמן הכוכב האדום: \"באר-שבע לא מהירה במיוחד, אבל אמיצה\"",
-   "summary": "דיאן סטנקוביץ התייחס לאלופה הישראלית לקראת המפגש במוקדמות ליגת האלופות (שלישי, 20:30): \"קבוצה שרוצה להיות דומיננטית\". כשנשאל על קאנגווה, השיב: \"הוא היה ה-MVP שלהם, הם יצטרכו להבין איך להסתדר בלעדיו\"",
+   "title": "דקה 44: מכבי נתניה - הפועל ר\"ג 1:1",
+   "summary": "גביע הטוטו, מחזור 3: קצב טוב באצטדיון מרים. קמפוס (34') העלה ליתרון את האורדונים, דאבו (39') איזן את התוצאה. בילו סחט הצלות מרייף קודם לכן",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkhl1jarzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/HJkMkJpHMe/HJkMkJpHMe_0_0_1770_997_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/529603",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/one1881009/one1881009_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בדרך לרבע הגמר: נבחרת הנערות ניצחה גם את בולגריה",
-   "summary": "הכחולות-לבנות כבר עם 3 מ-3 בשלב הבתים באליפות אירופה דרג ב', הפעם לאחר 67:90 מרשים על הבולגריות. מאיה זילברשלג הצטיינה עם 27 נקודות ו-9 ריבאונדים",
+   "title": "מחצית: הפועל י-ם - מכבי פ\"ת 0:0",
+   "summary": "גביע הטוטו, מחזור 3: משחק רגוע ברחובות. המארחת שולטת יותר בכדור, אך לא מצליחה לייצר מצבים. מנגד, האורחת נשארה בעשרה שחקנים לאחר שוותד הורחק",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/s1rgpcnszl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/SJBX0049Sfe/SJBX0049Sfe_359_220_2285_1286_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/529602",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/one1880995/one1880995_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"הצל\" התרברב בקשריו במשטרה - והקצין הסתבך: זה החשד נגדו",
-   "summary": "ימים לאחר שהמפכ\"ל הדיח את יואב אליאסי מתפקידו כמפקד כיתת הכוננות במחוז תל אביב, מח\"ש עדכנה כי חקרה רב-פקד בחשד שקידם אינטרסים של הראפר במתחם בילוי בעיר. קצין המשטרה שוחרר בתנאים מגבילים",
+   "title": "קרעי: \"ראית סרטון שיאיר גולן ירה כדור אחד ב-7/10? לא חושב שהציל מישהו\"",
+   "summary": "שר התקשורת פקפק במעשי הגבורה של יו\"ר \"הדמוקרטים\" בבוקר הטבח, למרות עדויות ניצולים. \"טרח להצטלם מחויך עם מדים מגוהצים\", התעקש בריאיון. את שותפיו הפוטנציאליים של איזנקוט כינה \"אוהבי מחבלים\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rk1uqj6hgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/22/Skx11HyqRill/Skx11HyqRill_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/byxy5xaszl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/08/HkPBwVjCbx/HkPBwVjCbx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "פרשת הבחירות למבקר המדינה: ח\"כים בליכוד צפויים לקבל זימון לעדות פתוחה",
-   "summary": "עדותה של ח\"כ שרן השכל אמורה להצביע על מי הורה לה להציג את תיעוד הצבעתה בבחירות, כפי שמסרה בתצהיר לבג\"ץ. בעקבות הסתירה מול תצהיר הליכוד, הורו היועמ\"שית ופרקליט המדינה לבדוק אם הוגש תצהיר שקר",
+   "title": "התקיפות בעזה לא עצרו: 18 הרוגים בתקיפות צה\"ל מהלילה",
+   "summary": "הפלסטינים דיווחו כי התקיפות של צה\"ל לא עצרו, ואף התגברו. אחד ההרוגים הוא נאפז סביח, שהוגדר מפקד בזרוע הצבאית של חמאס. בצה\"ל לא הודיעו על התקיפות - אבל לא שינו דבר בפעילות המבצעית ברצועה מאז ההכרזה על ההסכם. בישראל דורשים: ויתור פיזי על הנשק - לפני כל נסיגה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjx93ahhmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/17/B1lXk6ugfze/B1lXk6ugfze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hyivhx6rzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/01/H1fz8ZjHfe/H1fz8ZjHfe_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
