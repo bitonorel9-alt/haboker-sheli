@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שני, 3 באוגוסט 2026",
  "date_he": "03/08/2026",
- "updated": "15:38",
+ "updated": "17:42",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"פעם היו עושים הדחות בסטייל\": הסרטון של סדאם חוסיין ששיתף השר כ\"ץ | צפו",
-  "summary": "שר הביטחון טען כי הניסיון להציג כאילו קרא להדחת אלוף פיקוד המרכז בשידור הוא \"שקר מוחלט\", אך שיתף ברשת X סרטון של השליט העיראקי מדיח חברי מפלגה יומיים אחרי שנכנס לתפקיד - ושולח אותם למעצר. 68 העצורים הועמדו לדין אז באשמת בגידה",
-  "link": "https://www.ynet.co.il/news/article/hko9hmahgx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/r1CMfVArzx/r1CMfVArzx_0_6_593_334_0_medium.jpg"
+  "title": "קמפיין הפריימריז של יו\"ר הכנסת: \"העליון מצווה - ואוחנה מצפצף\"",
+  "summary": "יו\"ר הכנסת הוא תפקיד ממלכתי במהותו, אבל אמיר אוחנה העדיף להעלות על נס בקמפיין דווקא את מאבקו הניצי במערכת המשפט - כולל איומים באי ציות לפסיקות בג\"ץ, ביזוי נשיא העליון והחרמת היועמ\"שית",
+  "link": "https://www.ynet.co.il/news/article/s1ddrn0smg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/20/SkoGu2QAeg/SkoGu2QAeg_560_245_634_357_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 31.9° / 26.9°",
-   "summary": "כרגע 28.9°, לחות 72%, רוח 17.9 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 31.9° / 27.1°",
+   "summary": "כרגע 27.7°, לחות 77%, רוח 13.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,16 +24,16 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "26.9°"
+     "27.1°"
     ],
     [
      "לחות",
-     "72%",
-     72
+     "77%",
+     77
     ],
     [
      "רוח",
-     "17.9 קמ״ש"
+     "13.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "עירוני טבריה נגד Kiryat Shmona",
-     "0:1 · הסתיים"
-    ],
-    [
-     "בני סכנין נגד הפועל חיפה",
-     "1:2 · הסתיים"
-    ],
-    [
-     "הפועל ירושלים נגד מכבי פתח תקווה",
-     "1:0 · הסתיים"
-    ],
-    [
-     "מכבי נתניה נגד Hapoel Ramat Gan",
-     "2:3 · הסתיים"
-    ],
-    [
      "Maccabi Ahi Nazeret נגד Hapoel Akko",
-     "טרם התחיל"
+     "1:0 · מחצית ראשונה"
+    ],
+    [
+     "Kiryat Yam Sc נגד מכבי בני ריינה",
+     "1:0 · מחצית ראשונה"
+    ],
+    [
+     "Hapoel Raanana נגד Hapoel Afula",
+     "2:1 · מחצית ראשונה"
+    ],
+    [
+     "Maccabi Hertzliya נגד Hapoel Kfar Saba",
+     "1:1 · מחצית ראשונה"
+    ],
+    [
+     "Hapoel Kfar Shalem נגד Ironi Modiein",
+     "0:1 · מחצית ראשונה"
     ]
    ]
   },
@@ -81,26 +81,26 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Shakhtar Donetsk נגד Kudrivka",
-     "0:0 · מחצית ראשונה"
+     "Alashkert Martuni נגד Ararat Yerevan",
+     "3:0 · מחצית שנייה"
     ],
     [
      "Bukovyna נגד LNZ Cherkasy",
      "0:0 · הסתיים"
     ],
     [
-     "Alashkert Martuni נגד Ararat Yerevan",
-     "טרם התחיל"
+     "Shakhtar Donetsk נגד Kudrivka",
+     "5:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "רשמי: תמיר בלאט חתם בהפועל ת\"א לשלוש עונות",
-   "summary": "הרכז בן ה-29 השלים את המעבר מצהוב לאדום תמורת 1.5 מיליון דולר לעונה - אך ב-2026/27 הוא צפוי לשחק בקבוצה אחרת ביורוליג",
+   "title": "דקה 35: מכבי יפו - מ.ס אשדוד 0:0",
+   "summary": "גביע הטוטו לאומית, מחזור 2: שתי המוליכות בבית ד' נפגשות במטרה לשמור על מאזן מושלם ולהשיג ניצחון שני. במקביל: מ.ס כפר קאסם - בני יהודה 0:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/h1uu0mrsfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/SJVQCQRSfx/SJVQCQRSfx_0_147_1080_608_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one529716",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/31/one1832801/one1832801_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -110,11 +110,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אליפות אירופה בחתירה פראלימפית: מדליית ארד לשמוליק דניאל",
-   "summary": "החותר הישראלי בסירת יחיד סיים רביעי בגמר ל-2,000 מטר, אך שודרג למקום השלישי והערך בעקבות פסילת המתחרה האוקראיני. הישג נוסף לנבחרת באיטליה, יממה לאחר הזכייה של שחר מילפלדר וסאלח שהין",
+   "title": "הפועל ת\"א סיכמה את העברתו של אווסו מהכוכב האדום בלגרד | פרסום ראשון",
+   "summary": "ההעברה הגדולה בתולדות המועדון: האדומים יכמו את העברתו של שחקן הכנף הגנאי תמורת 2.5 מיליון אירו - והוא צפוי לחתום על חוזה לארבע עונות. מנכ\"ל הקבוצה גיא פרימור טס לבלגרד כדי לסגור את הפרטים האחרונים של העסקה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hyq6vqargx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/SkBE47CBze/SkBE47CBze_0_434_900_507_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjebhsasfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/SkuXCBABfl/SkuXCBABfl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -124,11 +124,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דיווח: אינפנטינו נואש - פנה לטראמפ בבקשה שיציל אותו",
-   "summary": "לפי דיווח ב\"ניו יורק פוסט\", נשיא פיפ\"א \"מרגיש מבודד\", ופנה לממשל האמריקאי בבקשה לסייע לו להישאר בתפקידו, זאת נוכח הקריאות להתפטרותו בעקבות קריסת תוכנית הפרטת המונדיאל",
+   "title": "עונש קשה לצהובים: מכבי ת\"א תארח את צסק\"א סופיה ללא אוהדים",
+   "summary": "בגלל מופע אבוקות נגד שריף, במסגרת סיבוב המוקדמות השני בליגה האירופית, באופ\"א החליטו להעניש את הצהובים: המשחק נגד הקבוצה הבולגרית בעוד יומיים (חמישי, 19:00) ייערך ללא קהל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/b1i811xarml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/27/S198FsLI11g/S198FsLI11g_0_10_1024_577_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hyukxhasgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/HJWPACbKSMe/HJWPACbKSMe_0_158_877_494_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -138,11 +138,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שוב אין התקדמות? טראמפ: \"ההנהגה האיראנית דו-פרצופית בצורה שלא תיאמן\"",
-   "summary": "",
+   "title": "\"לא אופתע אם זה ניסיון להרחיק בוחרים\": מצוקת הישראלים מחו\"ל לפני הבחירות",
+   "summary": "בימים האחרונים מנסים ישראלים שמתגוררים בחו\"ל להבין אם הם נכללים בפנקס הבוחרים - אך לא מקבלים מענה ממשרד הפנים. \"הבוט הממשלתי שוב ושוב חוזר על אותן שאלות אבל לא מספק מידע\", שיתף אחד מהם. משרד הפנים פרסם כי המועד האחרון להגשת בקשה לתיקון פרטים הוא מחר - אך במענה…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjwgv4crgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/Hyg2rBcSGe/Hyg2rBcSGe_0_119_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hyucbbrhmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/12/r1TrgQZEzg/r1TrgQZEzg_0_0_1189_689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -152,15 +152,57 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הציד נמשך: חוסל מחבל שהחזיק ברום ברסלבסקי ולקח חלק ב\"טקסי\" שחרור",
-   "summary": "המחבל, מחמוד פטאיר, השתתף ב\"טקסי\" השחרור של חטופים רבים, בהם: מורן סטלה ינאי, איתי רגב, רז בן עמי, אופיר אנגל ועוד. במהלך סוף השבוע הוא חוסל בדיר אל-בלח",
+   "title": "האסטרטגיה האיראנית: \"טראמפ בסוף ייכנע\"",
+   "summary": "טראמפ מכריז שוב ושוב על תקיפה קרבה ואז פריצת דרך במו\"מ, בזמן שטהרן דובקת באסטרטגיה של \"הסלמה מכוילת\". גורמים במפרץ מעריכים כי האיראנים מאמינים שינצחו את ארה\"ב בתחרות סיבולת, אך משחק ההתשה הזה טומן בחובו סכנה ברורה: הוא עלול להוביל להסלמה רחבה וחסרת שליטה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjvp0qchzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/11/BylcRVVkyMl/BylcRVVkyMl_145_179_1749_985_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rjasby0sze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/S1upvi04Ge/S1upvi04Ge_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "הסטארטאפ שמצא חולשות חמורות ב-ChatGPT מגייס 125 מיליון דולר",
+   "summary": "סוכני ה-AI כבר תופסים חלק מרכזי בתהליכי העבודה בארגונים, אבל יחד איתם מגיעות סכנות עמוקות בהרבה מסתם פרומפט בעייתי. הסטארטאפ הישראלי Zenity, שהתפרסם לא פעם בעקבות חשיפת חולשות במודלים הפופולריים בעולם, מציג גישה שונה לחלוטין להגנה על הארגון – ורושם אבן דרך בהת…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/zenity-mega-round/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "היזמת שמכרה חברה לסיילספורס גייסה 20 מיליון דולר ממארק בניוף ומייקל דל",
+   "summary": "אפרת רפופורט כבר רשמה בעבר אקזיט של עשרות מיליוני דולרים לענקית ה-CRM סיילספורס, עסקה שהובילה אותה לנהל את מרכז הפיתוח הישראלי של החברה. עכשיו היא חוזרת לעולם היזמות, ומגייסת סבב Pre-Seed חריג בהיקפו, בהובלת לא אחר מאשר מארק בניוף, מייסד ומנכ\"ל Salesforce, וכן…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/june-ai-pre-seed/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "לינקדאין מציגה כפתור שיטפל בבעיה הכי גדולה שלה",
+   "summary": "אם גם אתם שמתם לב שהפיד שלכם בלינקדאין התמלא בשנה האחרונה בפוסטים גנריים על \"למה פקקים באיילון הם בעצם הסדנה הכי טובה לפתרון צווארי בקבוק בפרודקט\" או \"איבדתי את האוזנייה של ה-AirPods. הנה מה שזה לימד אותי על החשיבות של Redundancy\"… אתם ממש לא לבד. הרשת החברתית…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/linkedin-ai-slop-button/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
