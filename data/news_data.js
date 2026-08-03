@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שני, 3 באוגוסט 2026",
  "date_he": "03/08/2026",
- "updated": "21:59",
+ "updated": "23:02",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מתדלקים את הקונספציה",
-  "summary": "הפרשנים מייחסים חשיבות עילאית לשאלת עליית מחירי הדלק בשיקולי טראמפ.  אלא שהנתונים לא תומכים בתזה הזו, וגם לא התנהלותו של הנשיא",
-  "link": "https://www.ynet.co.il/news/article/yokra14854104",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/r1gLTnIRSGe/r1gLTnIRSGe_0_0_3000_2000_0_medium.jpg"
+  "title": "רכב נגנב כשבתוכו ילדה, שאותרה בלב כפר פלסטיני: \"חשבתי שנחטפתי\"",
+  "summary": "בהלה בשומרון: במשך כ-20 דקות נמשכו החיפושים אחר הילדה בהשתתפות כוחות צבא ומשפחה, עד שאותרה בכפר נבי אליאס והושבה בחזרה למשפחתה. המשפחה הייתה בחופשה באזור, ועצרה בדרך אצל עסק של חבר. \"הפניתי את הגב לכמה שניות ופתאום הרכב זז\", תיאר אביה ל-ynet, \"רדפנו אחריו ומצא…",
+  "link": "https://www.ynet.co.il/news/article/ry8zdhahzl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/rk2HCFRrMg/rk2HCFRrMg_0_29_1280_721_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.2° / 26.5°",
-   "summary": "כרגע 27.4°, לחות 79%, רוח 9.7 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.1°, לחות 82%, רוח 9.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "79%",
-     79
+     "82%",
+     82
     ],
     [
      "רוח",
-     "9.7 קמ״ש"
+     "9.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -92,6 +92,34 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
+   "title": "הכדורגלן שחזר בתשובה - והביא את בשורת הטניס למגזר החרדי",
+   "summary": "חולצה לבנה מכופתרת, מכנסיים שחורים, כיפה, פאות ארוכות, מחבט טניס והרבה שמחת חיים על המגרש. מיזם פורץ דרך פותח בפני ילדים חרדים דלת לעולם הספורט התחרותי – בלי לבקש מהם לשנות את אורח חייהם. האם הדודי סלע הבא יגיע מתלמוד תורה?",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/sjovdv0bfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/Bkg4HcPArzg/Bkg4HcPArzg_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "ואיפה הכוכב שלך? הצרות של באר-שבע לקראת בלגרד",
+   "summary": "החלל העצום שהשאיר קינגס קאנגווה, הסגל הקצר, המצב הביטחוני שהבריח זרים פוטנציאליים, היציעים הדלילים בהונגריה והגומלין באחד האצטדיונים המפחידים באירופה. דווקא מנקודת הפתיחה הקשה ביותר שלה בשנים האחרונות, באר־שבע תנסה להגשים את חלום ליגת האלופות",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkleip0hfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/17/B17reQDEfe/B17reQDEfe_0_210_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
    "title": "אחרי הקריאות האנטישמיות נגד תורג'מן: ה-MLS גינתה את התקרית",
    "summary": "הליגה פרסמה הודעה רשמית בעקבות האירוע נגד מונטריאול: \"לביטויי שנאה אין מקום בספורט שלנו\". מוקדם יותר גם ניו אינגלנד פרסמה גינוי ותמיכה בחלוץ הישראלי",
    "source": "ynet - ספורט",
@@ -105,30 +133,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "קוז'וך לקראת הכוכב האדום: \"האמונה היא מעל הכל\"",
-   "summary": "מאמן הפועל באר-שבע דיבר הערב לקראת המשחק הראשון מול אלופת סרביה (20:30) במסגרת הסיבוב השלישי במוקדמות ליגת האלופות: \"מבינים איזו יריבה עומדת מולנו\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bylrzvasfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/12/HyujCvhJ11xg/HyujCvhJ11xg_0_131_3000_1689_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "מתדלקים את הקונספציה",
+   "summary": "הפרשנים מייחסים חשיבות עילאית לשאלת עליית מחירי הדלק בשיקולי טראמפ.  אלא שהנתונים לא תומכים בתזה הזו, וגם לא התנהלותו של הנשיא",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/yokra14854104",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/r1gLTnIRSGe/r1gLTnIRSGe_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "אשדוד גברה על מכבי יפו, ניצחון גם לבני יהודה",
-   "summary": "הקבוצה מעיר הנמל ניצחה 0:2 את קבוצתו של איציק ברוך במסגרת המחזור השני של גביע הטוטו. הכתומים גברו 0:1 על מ.ס כפר קאסם משער של נחמני (53')",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one529716",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/one1881123/one1881123_0_0_800_444_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -139,20 +153,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/yokra14853908",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/09/SklZiEp7zx/SklZiEp7zx_0_0_531_298_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "ההדחה שלא הייתה, ותשרת כעת את השמאל",
-   "summary": "לא הייתה הדחה בשידור חי - ובלשכת שר הביטחון מפנים אצבע מאשימה ללשכת הרמטכ\"ל, שהיא זו שהפכה את הזבוב לפיל",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14854189",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/SJATS96HGg/SJATS96HGg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
