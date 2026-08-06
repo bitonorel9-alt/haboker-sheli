@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 6 באוגוסט 2026",
  "date_he": "06/08/2026",
- "updated": "10:28",
+ "updated": "12:51",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אשתו של הראל ספדה כשילדיהם לצידה: \"הם יגדלו בבית שמח, עם ריקודים ושירים\"",
-  "summary": "\"תזכרו את הראל עם החיוך שלו\", ביקשה רעייתו של רס\"ן (במיל') הראל בירנשטוק בהלווייתו בהר הרצל, ואימו ספדה: \"אנחנו נקום ונתחזק בדיוק כמו שהראל היה רוצה, אבל אני רוצה עוד קצת לבכות\".\" אביו אמר: \"מבטיח לך הראלי - שאף אחד לא יכול על משפחת בירנשטוק\"",
-  "link": "https://www.ynet.co.il/news/article/byrslrblmg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/S1qqdAWLMg/S1qqdAWLMg_0_0_1280_814_0_medium.jpg"
+  "title": "המשטרה מבקשת להאריך את מעצר חבריו של אלדר דיין ב-15 ימים, החשד: רצח",
+  "summary": "למרות שהגופה שאותרה במצב ריקבון באזור מחלף ירקון טרם זוהתה, במשטרה מייחסים לחבריו של דיין חשד לרצח - ומבקשים להשאירם במעצר יותר משבועיים",
+  "link": "https://www.ynet.co.il/news/article/rkryjgflgg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/S1eX3l1HHMx/S1eX3l1HHMx_338_151_784_441_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.8° / 26.2°",
-   "summary": "כרגע 30.8°, לחות 59%, רוח 17.2 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.6° / 26.2°",
+   "summary": "כרגע 30.2°, לחות 63%, רוח 16.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.8°"
+     "30.6°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "59%",
-     59
+     "63%",
+     63
     ],
     [
      "רוח",
-     "17.2 קמ״ש"
+     "16.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -88,11 +88,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "המסע לחופש הושלם: הכדורגלניות האיראניות שערקו קיבלו אזרחות אוסטרלית",
-   "summary": "פאטמה פסנדידה ואטפה רמזאנזאדה ערקו מנבחרת איראן במהלך אליפות אסיה. השתיים, שהצטרפו לבריסביין רואר, יוכלו לייצג את נבחרת אוסטרליה",
+   "title": "עומרי גלזר היה מעורב בתאונת דרכים קלה, לא השתתף באימון מכבי חיפה",
+   "summary": "השוער לא נפגע בתאונה שאירעה בדרכו לאימון, אך שוחרר ויעבור בדיקות כאמצעי זהירות. רק לפני כשבוע נפצע במהלך משחק גביע הטוטו נגד קריית-שמונה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/ry0000zcz8zx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/05/SJK8XbDFbx/SJK8XbDFbx_0_114_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1w2plmugl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/one1880814/one1880814_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הניצחון של באר-שבע רק המחיש את המצב העגום שבו נמצא הכדורגל הישראלי",
-   "summary": "ההצלחה באירופה צובטת כשמבינים שאין הרבה סיכוי שנראה את המשחקים בארץ בקרוב. לפחות לתורג'מן היה הישג מדיני",
+   "title": "חשוד בתקיפת אוהדי הפועל פ\"ת במוט נעצר, מעצרו הוארך",
+   "summary": "המשטרה עצרה מאבטח בשנות ה-20 לחייו, שעל פי החשד נמלט מאצטדיון המושבה לאחר שהיה מעורב בתקרית האלימה במשחק מול מכבי נתניה. בית המשפט האריך את מעצרו עד יום ראשון. מאבטח נוסף עוכב ושוחרר",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1gyimwuzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/S1erdyhJLfl/S1erdyhJLfl_0_3_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjzcbxf8fx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/rJWWIgG8Me/rJWWIgG8Me_0_243_961_542_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הלימונדה הצרפתית של תמיר בלאט | תוכן גולשים",
-   "summary": "בדיוק כפי שהוא יודע להשחיל מסירה בלתי אפשרית בין ידי המגינים, הוא מצא את הפרצה שמאפשרת לו גם לקבל את הכסף הגדול וגם לשחק כדורסל ברמות הגבוהות ביותר. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "העסקה נסגרה: משפחת רקנאטי מוכרת חצי ממניותיה במכבי ת\"א לג'ייסון לוין",
+   "summary": "כפי שנחשף ב-ynet, אודי ושי רקנאטי שמחזיקים ב-58 אחוזים ממניות המועדון, ימכרו חצי מהן - אותן רכשו ממשפחת פדרמן - לאיש העסקים היהודי-אמריקאי, בשווי שבו נרכשו: 50 מיליון דולר תמורת 29 אחוזים. ההודעה הרשמית צפויה בשבוע הבא. לשאר בעלי המניות יש 30 יום להפעיל את זכו…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rkhtcpabfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/21/ByISjooc11e/ByISjooc11e_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/mjykscko6",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/12/B1jeAogNzx/B1jeAogNzx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "השלכת רימוני הרסס הגיעה גם לרמי לוי | תיעוד מהזירה, והנזק לסניף",
-   "summary": "ברשת טרם התייחסו להשלכת הרימון לעבר סניף של \"רמי לוי סטוק\" שאמור להיפתח החודש ברמלה. בעקבות הפיצוץ, הזכוכיות שהותקנו על דלת הכניסה של הסניף נופצו",
+   "title": "לראשונה השנה: גבר כבן 70 נפטר מקדחת מערב הנילוס",
+   "summary": "לפי הודעת משרד הבריאות, החולה שנפטר מסיבוכי המחלה פיתח תסמינים באמצע החודש שעבר. 3 מתוך 10 מאובחנים בעונה הנוכחית מאושפזים במצב טוב",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hk8r10zife",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/S1xgVA6ZIfg/S1xgVA6ZIfg_0_164_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h10sbef8mx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/25/S1Ec6MOIR/S1Ec6MOIR_17_0_937_527_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,11 +144,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "משפיענים על הכוונת של קרטלי הסמים במקסיקו: כוכב הטיקטוק נרצח בשידור חי",
-   "summary": "סזאר גסטלום, שנהג לפרסם ל-650 אלף עוקביו תמונות וסרטונים שלו מבילויים ליליים או מצטלם עם מכוניות יוקרה, נורה על-ידי אופנוענים בחניון של KFC בעיר קוליאקאן. המשטרה תחקור אם סומן גם כי חבש סומבררו – הכובע המקסיקני שהפך סכנה לכל מי שחובש אותו בעיר, אחרי שפלג של קר…",
+   "title": "פרופ' שחור שהפך לנער הפוסטר של ה-DEI מתפטר מקיימברידג': \"העתיק בדוקטורט וזייף מחקרים\"",
+   "summary": "הסוציולוג הבריטי ג'ייסון ארדיי, שאובחן עם דיסלקציה ואוטיזם ולא דיבר עד גיל 11, ריגש רבים כשמוּנה בגיל 37 לפרופסור השחור הצעיר בתולדות האוניברסיטה. הוא הפך לגאוות התומכים במדיניות ה\"גיוון, שוויון והכלה\" שמקדמת קבוצות חלשות בלימודים ובעבודה, עד שספקות החלו לצוץ …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hj3uya118ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/B1u4eAZLfx/B1u4eAZLfx_0_40_634_357_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjt89yg8ge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/rkkbEyfLMe/rkkbEyfLMe_0_27_634_357_0_medium.jpg",
    "stats": [
     [
      "מקור",
