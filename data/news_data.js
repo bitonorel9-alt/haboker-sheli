@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 7 באוגוסט 2026",
  "date_he": "07/08/2026",
- "updated": "12:40",
+ "updated": "14:05",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אזהרת ראש השב\"כ בקבינט: \"מבחינת חמאס, האירוע של מפת הדרכים הוא 7/10 מדיני\"",
-  "summary": "פרסום ראשון: דוד זיני אמר כי ארגון הטרור רואה במפת הדרכים של מועצת השלום ניסיון למשוך זמן: \"זה הכל הונאה נגדנו, ממחשבה שלא נתקוף אותם עד אחרי הבחירות\". השרים דרשו מנתניהו לא להסכים למתווה, להחזיר את החיסולים בעזה ולדחות את 14 ימי ההפוגה שדרשו ארה\"ב ומועצת השלו…",
-  "link": "https://www.ynet.co.il/news/article/b1jxeeqiml",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/23/SyeE2iDPpWg/SyeE2iDPpWg_0_0_3000_1689_0_cid_15_medium.jpg"
+  "title": "הציטוט הדרמטי שלא נאמר, וגלגולו של פייק: \"שוב מישהו עורך מבצע השפעה לא-חוקי, והפעם גם בארה\"ב\"",
+  "summary": "חשיפה: זה החל בחשבון הודי מפוקפק, קיבל חותמת בערוץ 14 והדהוד מיאיר נתניהו - והגיע לנאום של ראש הממשלה בהר הרצל. דבריו המפוברקים של אחמד וחידי, לפיהם \"כל עוד ישראל וארה\"ב מחזיקות בנשק גרעיני, איראן תמשיך לעבוד עליו\", נחתו משם בפוקס ניוז ובחשבונו של שגריר ארה\"ב …",
+  "link": "https://www.ynet.co.il/news/article/byalerxizl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/rJSiUU7Ifx/rJSiUU7Ifx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.2° / 26.3°",
-   "summary": "כרגע 30.1°, לחות 64%, רוח 16.2 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.9°, לחות 64%, רוח 15.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "16.2 קמ״ש"
+     "15.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,10 +81,6 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Gandzasar Kapan נגד Syunik",
-     "טרם התחיל"
-    ],
-    [
      "FC Ararat-Armenia נגד Urartu",
      "טרם התחיל"
     ],
@@ -100,11 +96,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אוהדים ללא גבולות | תוכן גולשים",
-   "summary": "מה שהחל כאילוץ ביטחוני הפך לסמל של מסירות: אוהדי הכדורגל הישראלי ממשיכים לצבוע יציעים ברחבי אירופה, ומוכיחים שגם כשהבית נשאר מאחור – אפשר לקחת אותו איתך לכל מקום. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "מאמן ברצלונה החליט: אוריין גורן ימשיך להתאמן בקבוצה הבוגרת",
+   "summary": "האנזי פליק ערך מספר ניפויים בסגל של אלופת ספרד ושלח חלק מהשחקנים לקבוצת המילואים, אך זה לא כלל את ילד הפלא הישראלי בן ה-17 - שימשיך עם אלופת ספרד למחנה האימונים באיטליה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hjzibgwlge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/16/HJDZIEyX11x/HJDZIEyX11x_0_91_3000_1660_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/h16wywq8ml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/26/HyQSOJNSGe/HyQSOJNSGe_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -114,11 +110,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אוהדי מכבי ת\"א הגיעו לחגוג יום הולדת למני לוי: \"מרגש כל שנה\" | צפו",
-   "summary": "כמו בכל שנה, נציגות של המועדון והאוהדים הגיעה לביתו של שחקן העבר לציין את יום הולדתו. אמו דליה: \"מודים לכולם על התמיכה\"",
+   "title": "אף פעם לא היה ב-WWE מישהו כזה, וכנראה שאף פעם גם לא יהיה",
+   "summary": "הוא היה אלוף NCAA, כבש את ה-WWE בתוך חודשים, זכה באליפות ה-UFC ושבר את הרצף המיתולוגי של האנדרטייקר. עכשיו, בגיל 49, ברוק לסנר הודיע על פרישה. מאחורי האתלט החד-פעמי נותרו גם בדיקת סמים שנכשלה וטענות חמורות שעלו נגדו בתביעת ג'אנל גרנט",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b14rbvmlzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/S1zS847UMg/S1zS847UMg_397_58_1315_741_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bk00jljflmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/rJtbx11zLfl/rJtbx11zLfl_0_84_2968_1671_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -128,15 +124,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "סערת הטרנסג'נדריות הגיעה ל-WNBA - וארה\"ב מפולגת",
-   "summary": "כשציטוט של שחקנית בנוגע לכדורסלניות טרנסג'נדריות הופך ויראלי באקלים הפוליטי הנפיץ בארה\"ב, ומתחבר לחשיפה של גבוהה דומיננטית מצרפת שעברה התאמה מגדרית, מקבלים סערה ב-WNBA",
+   "title": "מהטופ האירופאי לאימונים עם חובבנים: ההתרסקות של ג'יידון סאנצ'ו",
+   "summary": "רק לפני כמה שנים הוא היה אחד השחקנים המבוקשים בעולם, כוכב בדורטמונד שנרכש על ידי מנצ’סטר יונייטד תמורת 73 מיליון ליש\"ט. היום, בגיל 26 בלבד, ג’יידון סאנצ’ו מתאמן במגרשה של פליקסטון FC מהליגה העשירית באנגליה ומחפש נואשות את התחנה הבאה בקריירה. כך הפך אחד מסיפורי…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/bjgmtbglmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/SkaS2ONNMg/SkaS2ONNMg_427_83_2115_1191_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rk9tjnrbmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/rkr8lN0SMx/rkr8lN0SMx_1310_187_1332_750_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "פוליטיקה",
+   "title": "אזהרת ראש השב\"כ בקבינט: \"מבחינת חמאס, האירוע של מפת הדרכים הוא 7/10 מדיני\"",
+   "summary": "פרסום ראשון: דוד זיני אמר כי ארגון הטרור רואה במפת הדרכים של מועצת השלום ניסיון למשוך זמן: \"זה הכול הונאה נגדנו, ממחשבה שלא נתקוף אותם עד אחרי הבחירות\". השרים דרשו מנתניהו לא להסכים למתווה, להחזיר את החיסולים בעזה ולדחות את 14 ימי ההפוגה שדרשו ארה\"ב ומועצת השל…",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/b1jxeeqiml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/23/SyeE2iDPpWg/SyeE2iDPpWg_0_0_3000_1689_0_cid_15_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - חדשות"
     ]
    ]
   },
@@ -147,20 +157,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/sys11pmq8mg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/23/HyF3YxuzGl/HyF3YxuzGl_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "הסיוט של כל הורה: \"אי-אפשר לתפוס את זה. זה ילד. ילד טהור\"",
-   "summary": "12 ילדים ובני נוער נהרגו בבכבישים תוך קצת יותר מחודש, מתחילת החופש הגדול. עילאי (3.5), רועי (7) ואואב (10), הותירו אחריהם משפחות המומות, שלא מעכלות את האובדן: \"איך אפשר להספיד ילד בן שבע? אני מתחנן, תשמרו עליהם, תשגיחו עליהם\". הסכנה שאורבת דווקא ליד הבית",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkfqdmb8zg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/rybiUUABze/rybiUUABze_0_338_961_541_0_medium.jpg",
    "stats": [
     [
      "מקור",
