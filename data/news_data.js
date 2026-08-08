@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 8 באוגוסט 2026",
  "date_he": "08/08/2026",
- "updated": "11:20",
+ "updated": "12:27",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,14 +13,14 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 31.1° / 26.9°",
-   "summary": "כרגע 30.9°, לחות 67%, רוח 18.5 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.6° / 26.9°",
+   "summary": "כרגע 30.6°, לחות 67%, רוח 18.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "31.1°"
+     "30.6°"
     ],
     [
      "מינימום",
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "18.5 קמ״ש"
+     "18.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,16 +81,30 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Chornomorets Odesa נגד Kolos Kovalivka",
-     "נדחה"
-    ],
-    [
      "Altay Oskemen נגד FC Qyzyljar",
-     "טרם התחיל"
+     "0:0 · מחצית ראשונה"
     ],
     [
      "Livyi Bereh נגד Kudrivka",
      "טרם התחיל"
+    ],
+    [
+     "Jetisu נגד Ordabasy Shymkent",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "ממשיכה בשלה: נבחרת הקדטים ניצחה גם את יוון",
+   "summary": "החבורה של גיא קפלן רשמה ניצחון 84:89 על יוון ושמרה על מאזן מושלם בשלב הבתים באליפות אירופה",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hyonpqvige",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/BJzjT9EUfl/BJzjT9EUfl_0_0_1680_946_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -115,20 +129,6 @@ window.NEWS_DATA = {
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/worldsoccer/article/byxwmtv8gl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/SJ11SvbRNNzl/SJ11SvbRNNzl_378_104_2246_1265_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "כשסיסמה מחליפה מנהיגות | תוכן גולשים",
-   "summary": "\"תן 100%\", \"בלי כאב אין רווח\" ו\"Trust the process\" הפכו מזמן למטבעות לשון בעולם הספורט. אבל מה קורה כשהסיסמאות מחליפות חשיבה מקצועית, ומטילות את כל האחריות על השחקן במקום גם על המערכת? גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/ry7p2qb8fg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/HynZ7Qc7fx/HynZ7Qc7fx_1_36_2087_1155_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -166,6 +166,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
+   "title": "תופעה: יזמים שעשו אקזיטים במיליארדים חוזרים לעבוד כשכירים",
+   "summary": "אחרי אקזיט של מיליארדים, יזמים רבים יבחרו לנוח על החוף או להקים את הסטארטאפ הבא שלהם. אבל לאחרונה קורה משהו מוזר בתעשייה: השמות הכי גדולים בהייטק, שכבר הוכיחו את כישורי היזמות שלהם ומכרו חברות, מוותרים על כיסא המנכ\"ל ועוברים לעבוד כשכירים מן המניין בענקיות ה-A…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/founders-returning-to-smaller-roles/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
    "title": "לארנולד שוורצנגר יש מודל עסקי מפתיע לאפליקציה",
    "summary": "אני לא יודע אם שמתם לב, אבל חלק נכבד מהחיים שלנו מתנהל במינויים חודשיים ושנתיים. משירותי טלוויזיה, מוזיקה, גיימינג, AI, אפליקציות מקצועיות, אחסון, Wolt+, וכן – גם הכושר שלנו נעול לפעמים מאחורי חומת תשלום קבועה. אבל איכשהו, דווקא ארנולד שוורצנגר (מודל T-800 ומו…",
    "source": "גיקטיים",
@@ -184,20 +198,6 @@ window.NEWS_DATA = {
    "summary": "אני חייב להודות: יש לי מערכת יחסים של אהבה-שנאה עם שעונים חכמים. לפני 8 שנים החלטתי שהדבר הכי חכם שאני יכול לעשות זה להיפטר מה-Apple Watch שלי. הקישור החזק בין התראות הסמארטפון לשעון העלה לי את מפלס החרדה; לא אהבתי את ההצצות בשעון בזמן שיחות עם אנשים (וגם הם ל…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/google-fitbit-air-review/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "\"כמו המערב פרוע\": חוקרים ישראלים מצאו מאות סקילים שגנבו לכם מידע",
-   "summary": "רוצים להוסיף סקילים חדשים לסוכני ה-AI שלכם ב-Claude Code או Cursor? חכו רגע. מחקר חדש של סטארטאפ הסייבר הישראלי Zenity גילה כי מאות סקילים פופולריים הפכו לנוזקות שגונבות מפתחות וגישות למערכות. מרגישים כמו קסם, אבל יכולים להסתיר הפתעה \"סקילים מרגישים כמו קסם עם…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/israeli-startup-finds-hundreds-of-rogue-skills/",
    "image": null,
    "stats": [
     [
