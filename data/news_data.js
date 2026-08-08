@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 8 באוגוסט 2026",
  "date_he": "08/08/2026",
- "updated": "19:21",
+ "updated": "20:18",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "זמר מוכר נעצר בחשד לאלימות כלפי בת זוגו",
-  "summary": "הזמר הצעיר, שפרץ לתודעה בשנים האחרונות והיה אמור להופיע הערב, נחקר בחשד ששבר את חלונות רכבה של זוגתו. הוא טען: הותקפתי",
-  "link": "https://www.ynet.co.il/news/article/sjutdgslzg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/11/16/B1lFcFzMLs/B1lFcFzMLs_139_158_645_363_0_medium.jpg"
+  "title": "אין שליטה על האש: שעות של מאבק בלהבות בחניון מתחם קניות בבנייה בפתח תקווה",
+  "summary": "שעות ארוכות של מאבק באש: שריפה פרצה בחניון תת-קרקעי באתר בנייה של מתחם BIG שיוקם בפתח תקווה, ופעולות הכיבוי צפויות להימשך אל תוך הלילה. עקב העשן הכבד נחסם נתיב בציר ז'בוטינסקי",
+  "link": "https://www.ynet.co.il/news/article/b1sbsjrufe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/ByexTI1BIfx/ByexTI1BIfx_0_0_816_464_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.7° / 26.9°",
-   "summary": "כרגע 28.0°, לחות 81%, רוח 6.5 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.8°, לחות 82%, רוח 4.3 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "81%",
-     81
+     "82%",
+     82
     ],
     [
      "רוח",
-     "6.5 קמ״ש"
+     "4.3 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,14 +51,6 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "בני סכנין נגד מכבי חיפה",
-     "0:1 · מחצית שנייה"
-    ],
-    [
-     "הפועל חיפה נגד Kiryat Shmona",
-     "1:2 · מחצית שנייה"
-    ],
-    [
      "הפועל פתח תקווה נגד מכבי נתניה",
      "0:2 · הסתיים"
     ],
@@ -69,6 +61,14 @@ window.NEWS_DATA = {
     [
      "מכבי בני ריינה נגד Maccabi Ahi Nazeret",
      "1:1 · הסתיים"
+    ],
+    [
+     "Hapoel Akko נגד Kiryat Yam Sc",
+     "1:0 · הסתיים"
+    ],
+    [
+     "Hapoel Kfar Saba נגד Hapoel Raanana",
+     "5:1 · הסתיים"
     ]
    ]
   },
@@ -82,11 +82,25 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Siroki Brijeg נגד Sloga Doboj",
-     "0:0 · מחצית ראשונה"
+     "0:0 · מחצית שנייה"
     ],
     [
      "FK Sarajevo נגד Radnik Bijeljina",
-     "0:0 · מחצית ראשונה"
+     "0:0 · מחצית שנייה"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "עמדה במשימה: נבחרת הנערות חזרה לדרג א' האירופי",
+   "summary": "הכחולות-לבנות גברו 63:78 על אוסטריה בחצי גמר אליפות אירופה דרג ב' וחזרו לבמה המרכזית אחרי שנה. זילברשלג בלטה עם 23 נקודות. הגמר מחר (21:00) מול רומניה יהיה לפרוטוקול בלבד",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/byj7obhuge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/SJtaFZHLGg/SJtaFZHLGg_191_422_2810_1582_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -106,25 +120,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דקה 87: בני סכנין - מכבי חיפה 1:0",
-   "summary": "גביע הטוטו, מחזור 5: הקצב המנומנם נשבר על ידי שער של קאני, שמצא את הרשת מקרוב אחרי שהשתלט על ריבאונד מהחמצה של דון והעניק את היתרון לקבוצתו",
+   "title": "קאני הכריע, מכבי חיפה גברה 0:1 על בני סכנין",
+   "summary": "גם זה ניצחון: במשחק לא גדול, הירוקים היו דומיננטים יותר לאורך רוב ההתמודדות, אך לא הצליחו לייצר יותר מדי מצבים, כשהחלוץ עשה את ההבדל (54')",
    "source": "ynet - ספורט",
    "link": "https://livegame.ynet.co.il/games/530075",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/one1881646/one1881646_0_0_800_444_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "דקה 86: הפועל חיפה - עירוני ק\"ש 2:1",
-   "summary": "גביע הטוטו, מחזור 5: הכרישים פרצו את הסכר מרגליו של רוטמן (33'). אוגריסה השווה מפנדל מפוקפק (64'), שרצקי קבע מהפך בזק עם ביצוע יפהפה (66')",
-   "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/530076",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/one1881645/one1881645_0_0_800_444_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/one1881679/one1881679_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -134,11 +134,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מצרים עשויה להצטרף לברית ההגנה החדשה: \"ההסכם לא מכוון נגד איראן\"",
-   "summary": "שר החוץ הטורקי גילה כי קהיר עשויה להצטרף לברית ההגנה שעליה חתמה מדינתו עם סעודיה ופקיסטן, \"לאחר הסדרת סוגיות טכניות\". הוא אמר כי ההסכם זהה לסעיף 5 בנאט\"ו, שלפיו התקפה על חברה בברית נחשבת כהתקפה על כולן",
+   "title": "ראש הממשלה הופתע: מפלונטר פוליטי - לביצים מתעופפות לעברו | צפו",
+   "summary": "קוסובו סוערת: ראש הממשלה לא השיג 61 מושבים, הדדליין לכינוס הפרלמנט חלף, הוא ביקש הארכה לבחירת הנשיא - ועורר את זעמה של חברת אופוזיציה. צפו בכאוס: רה\"מ מתיישב, המחוקקת מתקרבת, שולפת ביצים מהתיק - ומשליכה עליו",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s1tvoyrlzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/Hk3iR4mIGe/Hk3iR4mIGe_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hkp3eerlzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/SJT9HxHLzx/SJT9HxHLzx_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,11 +148,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שעות של מאבק באש בחניון מתחם קניות בבנייה בפתח תקווה, כבישים נחסמו",
-   "summary": "שריפה פרצה בחניון תת-קרקעי באתר בנייה של מתחם BIG שיוקם בפתח תקווה, ופעולות הכיבוי צפויות להימשך אל תוך הלילה. עקב העשן הכבד נחסם ציר משה דיין ונתיב בציר ז'בוטינסקי",
+   "title": "מכות וברך על הבטן: העימותים באזור חברון, והתיעוד שבתחקור",
+   "summary": "בתיעוד נראים ישראלים מכים פלסטיני באזור הכפר אידנא, וחייל מניח את ברכו על בטנו כשהוא על הקרקע. צה\"ל: האירוע בתחקור. במקביל, 4 פלסטינים נפצעו ליד סוסיא, לאחר יידוי אבנים לעבר רועה צאן שיצא מחווה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1sbsjrufe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/ByexTI1BIfx/ByexTI1BIfx_0_0_816_464_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sje50grizx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/HJDWe1H8zg/HJDWe1H8zg_106_342_232_131_0_medium.jpg",
    "stats": [
     [
      "מקור",
