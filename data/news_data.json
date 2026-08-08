@@ -1,20 +1,20 @@
 {
  "date": "יום שבת, 8 באוגוסט 2026",
  "date_he": "08/08/2026",
- "updated": "10:21",
+ "updated": "11:20",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הנהגת התנגשה בבית קפה, נזק כבד למקום: \"כמעט הסתיים באסון גדול\" | תיעוד",
-  "summary": "נהגת התנגשה עם רכבה בבית העסק ברהט, דלת הכניסה נופצה. לא היו נפגעים, המשטרה חוקרת את נסיבות התאונה: \"תודה לאל, אין קורבנות\"",
-  "link": "https://www.ynet.co.il/news/article/b1toponuml",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/HkbA6VdELfx/HkbA6VdELfx_0_91_972_547_0_medium.jpg"
+  "title": "טראמפ מחליט - וישראל בצד: \"הכול כפוף לרצונו\" | הבעיות המרכזיות, והיתרון שנותר",
+  "summary": "מטוסים אמריקניים תקפו באיראן במשך לילות רצופים, אך ישראל לא הצטרפה. בי-ם למדו על ביטול מתקפה עצימה מציוץ של טראמפ, שמצהיר בפומבי שנתניהו עושה את מה שהוא מבקש. בזמן שבארה\"ב מחפשים \"נתיב יציאה\" מהמלחמה עם איראן, כאן מתעקשים שההישגים מולה נשמרו. ככל שהמערכה נמשכת…",
+  "link": "https://www.ynet.co.il/news/article/s1iyauqizx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/05/BkcpgaD0bx/BkcpgaD0bx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.1° / 26.9°",
-   "summary": "כרגע 31.1°, לחות 64%, רוח 18.8 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 30.9°, לחות 67%, רוח 18.5 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "64%",
-     64
+     "67%",
+     67
     ],
     [
      "רוח",
-     "18.8 קמ״ש"
+     "18.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,7 +82,43 @@
    "stats": [
     [
      "Chornomorets Odesa נגד Kolos Kovalivka",
+     "נדחה"
+    ],
+    [
+     "Altay Oskemen נגד FC Qyzyljar",
      "טרם התחיל"
+    ],
+    [
+     "Livyi Bereh נגד Kudrivka",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "אבל בארגנטינה: אביו של לאו מסי הלך לעולמו בגיל 68",
+   "summary": "חורחה מסי, שנחשב לדמות מרכזית בקריירה של בנו ומי שליווה אותו בימיו הראשונים על כר הדשא ועד להפיכתו לאחד מגדולי השחקנים בתולדות המשחק, התמודד בשנים האחרונות עם מחלה ממושכת",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/r1ggytelge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/HyqxTKELfg/HyqxTKELfg_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "הדוח שחשף: איומים להתנקש במסי - במהלך המונדיאל",
+   "summary": "מטעני חבלה מאולתרים, חומרי נפץ - ושלל התרעות. בספרד מפרסמים כי מאחורי החגיגה הגדולה של גביע העולם האחרון - מסתתרת תמונה מטרידה. דוח משטרתי מציג שורת איומים שנבדקו במהלך הטורניר. לפי הדיווח, כוכב ארגנטינה היה במוקד, אך גם רונאלדו, שופטים ושחקנים נוספים סומנו",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/byxwmtv8gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/15/SJ11SvbRNNzl/SJ11SvbRNNzl_378_104_2246_1265_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -101,30 +137,16 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "ייכלל בסגל כבר בשבוע הבא: סולומון יחתום בווסטהאם ביממה הקרובה | נחשף ב-ynet",
-   "summary": "כוכב נבחרת ישראל יישאר בלונדון אך יירד לליגת המשנה תמורת כחצי מהסכום שטוטנהאם דרשה תחילה. סולומון יצטרף מיידית לאימוני הפטישים, ויהיה בסגל כבר במחזור השני של הצ'מפיונשיפ מול ברנלי",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/h1sr9dvuzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/rJ27g0fLGx/rJ27g0fLGx_366_60_2317_1305_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "הנהגת התנגשה בבית קפה, נזק כבד למקום: \"כמעט הסתיים באסון גדול\" | תיעוד",
+   "summary": "נהגת התנגשה עם רכבה בבית העסק ברהט, דלת הכניסה נופצה. לא היו נפגעים, המשטרה חוקרת את נסיבות התאונה: \"תודה לאל, אין קורבנות\"",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/b1toponuml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/HkbA6VdELfx/HkbA6VdELfx_0_91_972_547_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "אלצ'ה הציעה 1.7 מיליון אירו על רביבו - מכבי ת\"א דורשת כמעט כפול",
-   "summary": "חשיפת ynet: המגן נחוש לעבור מיידית לספרד וכבר סיכם את תנאיו בשכר של כחצי מיליון אירו - כמעט פי שלושה משכרו בצהוב. בדרך לכפות את העסקה, רביבו סירב לטוס למשחק מול צסק\"א סופיה ועשוי לוותר על חלקו בדמי ההעברה. גורמים במועדון זועמים: \"עושה דין לעצמו\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skxquv4ifl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/05/S1116IwUeLzg/S1116IwUeLzg_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -135,20 +157,6 @@
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/hy7tkdv8ge",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/ByP5jv4Lze/ByP5jv4Lze_0_0_848_476_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "בן ה-17 נהרג מחוץ לחתונת דודו: \"אסון כבד. הגענו לחגוג\"",
-   "summary": "מוחמד אלקרנאוי, תושב רהט, הגיע אמש לחגוג את חתונת קרוב משפחתו בנגב, אלא שזמן קצר לאחר הגעתו למקום נפגע על ידי רכב - ומת. קרוביו נותרו המומים: \"השמחה המשפחתית הפכה לטרגדיה\"",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1efspeizg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/rkOmjPNUfx/rkOmjPNUfx_0_66_893_503_0_medium.jpg",
    "stats": [
     [
      "מקור",
