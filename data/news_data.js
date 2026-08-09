@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 9 באוגוסט 2026",
  "date_he": "09/08/2026",
- "updated": "09:29",
+ "updated": "10:22",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "25 שנה לפיגוע בסבארו: \"החיים ממשיכים, אבל זה הולך ונהיה יותר קשה\"",
-  "summary": "חיה סחיווסחורדר הייתה בת 8 כשאיבדה בפיגוע במסעדה בירושלים את הוריה ו-3 מאחיה. בשנים שחלפו הקימה משפחה משלה, וכעת היא מספרת על הרגעים שלא נשכחו, החיים לצד הפציעה והגעגוע שרק גובר: \"באיזשהו מקום אני עדיין אותה ילדה\". לילדיה היא לא מספרת הכול: \"לך תסביר להם מה זה…",
-  "link": "https://www.ynet.co.il/news/article/yokra14857355",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/ByXP3ZpE8fg/ByXP3ZpE8fg_0_95_1280_720_0_medium.jpg"
+  "title": "\"מבצע ההשפעה על ארה\"ב\": ההכחשה לציטוט הדרמטי שלא נאמר - וההדהוד מתוך הסנאט",
+  "summary": "ב-ynet נחשף גלגולה של \"ההצהרה הגרעינית\" מטעם מפקד משמרות המהפכה אחמד וחידי - שבכלל לא נאמרה, אבל הגיעה עד נאום רה\"מ בהר הרצל. ב\"טהרן טיימס\" האשימו את \"המשטר הישראלי\" בהמצאות, גם עיתונאי הגרעין הרים גבה: \"איפה זה עוד מדווח?\". מושל פלורידה לשעבר אימץ: \"איראן מבה…",
+  "link": "https://www.ynet.co.il/news/article/b1o2vyblfe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/Skw0bsBIzl/Skw0bsBIzl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.5° / 26.6°",
-   "summary": "כרגע 30.6°, לחות 67%, רוח 14.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.6° / 26.5°",
+   "summary": "כרגע 30.5°, לחות 69%, רוח 16.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.5°"
+     "30.6°"
     ],
     [
      "מינימום",
-     "26.6°"
+     "26.5°"
     ],
     [
      "לחות",
-     "67%",
-     67
+     "69%",
+     69
     ],
     [
      "רוח",
-     "14.8 קמ״ש"
+     "16.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,12 +81,12 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Tobol Kostanay נגד Kaysar Kyzylorda",
-     "נדחה"
+     "Zorya Luhansk נגד Kryvbas",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Zorya Luhansk נגד Kryvbas",
-     "טרם התחיל"
+     "Tobol Kostanay נגד Kaysar Kyzylorda",
+     "נדחה"
     ],
     [
      "Epicentr נגד Shakhtar Donetsk",
@@ -104,39 +104,39 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
+   "title": "המשבר בעירוני טבריה מחריף: שותף הבעלות צפוי להתלונן במשטרה",
+   "summary": "נחשף ב-ynet: המאבק בין אריה קלמנזון למיקי ביתן הגיע לבית המשפט המחוזי בת\"א ועלול לשנות את מבנה הבעלות במועדון. קלמנזון טוען: \"ביתן מעולם לא היה שותף שלי\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1n5qfhuzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/SkHTmf7LMe/SkHTmf7LMe_1_146_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "שינו זוארץ צפוי להמשיך לקדנציה נוספת כיו\"ר ההתאחדות",
+   "summary": "אף שעיסאווי פריג' הודיע כי יתמודד, לזוארץ קואליציה רחבה והוא נחשב למועמד המוביל. היו\"ר המכהן צפוי לרוץ ברשימה משותפת של מרכזי הפועל ומכבי. מועד הבחירות נקבע ל-8 בדצמבר",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjtwhls8zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/17/ry4at3l51l/ry4at3l51l_0_0_3000_2000_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
    "title": "משחקי שליטה: במכבי ת\"א לא זוכרים משבר ניהולי כזה",
    "summary": "משפחת רקנאטי בדרך למכור מחצית מהחזקותיה לג'ייסון לוין, אבל אריק שטילמן לא מוותר. ברקע: פיטורי מקורבי פדרמן וחוסר אמון בין בעלי המניות. וגם: החששות של שמעון מזרחי, ההתחייבות של לוין וחזון ההיכל החדש עם 20 אלף מקומות",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelibasketball/article/s1d5fzblmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/BJhfoZr8zl/BJhfoZr8zl_0_154_2901_1634_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "אתגרים בספורט ובחיים | תוכן גולשים",
-   "summary": "איך הסיפור של השחיין הישראלי מאולימפיאדת בייג'ינג מתקשר לטראומה אישית ולהתמודדות איתה. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rj1t5lphzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/05/18/4630776/4630776_0_0_1300_1231_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "קיטון וואלאס חתם לשנתיים במכבי ת\"א: \"מוכן להתחיל לעבוד ולנצח\"",
-   "summary": "הצהובים סגרו את הסגל עם החתמתו של הגארד בן ה-27 ששיחק בשנתיים האחרונות באטלנטה הוקס מה-NBA. עודד קטש: \"שחקן שמביא איתו קשיחות ואינטנסיביות בשני צדי המגרש\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/mzqkagr4u",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/HJfwA2B8zl/HJfwA2B8zl_0_0_610_343_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/r1A00ATr8fe/r1A00ATr8fe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אחרי 7 חודשים: נעצרו 4 בני אדם, בהם אם ובנה, בחשד לרצח אישה לעיני ילדיה",
-   "summary": "ופאא חסארמה (35) מהיישוב בענה שבגליל נרצחה ביריות לעבר רכבה, שני ילדיה לא נפגעו. בתום חקירה סמויה נעצרו ארבעה חשודים במעורבות ברצח",
+   "title": "תמיכה צבאית, משאיות סיוע ודיגיטל: דריסת הרגל השקטה של טורקיה בלבנון",
+   "summary": "בשקט, בלי כותרות גדולות, טורקיה הולכת ומבססת אחיזה בארץ הארזים, בגבולה הצפוני של ישראל. האמצעים: סיוע צבאי וביטחוני נרחב, נכונות לשיקום דרום לבנון, פיתוח פרויקטים אזרחיים באמצעות קרן הומניטרית שמסייעת גם לחמאס - ושיגור משאיות סיוע ל\"עשרות אלפי נפגעים מהתקיפות …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/skx2anslgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/15/By0Mhf8S11e/By0Mhf8S11e_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ryyj1jsugx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/Bk3c11hH8Me/Bk3c11hH8Me_0_366_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שם הזמר החשוד לא יפורסם עד מחר: \"בת הזוג באה להיפרד ופגעה עם הרכב, הוא איים ושבר חלון\"",
-   "summary": "מעצרו של הצעיר הוארך עד 16:00, ואחר כך - ישוחרר למעצר בית. השופט קבע כי שמו יפורסם רק מחר ב-10:00. הזמר הסביר כי כשאיים \"לא יודע מה אעשה לך\" על בת הזוג, התכוון \"לזרוק את דבריה מהחלון\". סנגורו: \"הוא היה בסערת רגשות\"",
+   "title": "\"הורמוז - זירת קרב\": תנאי הכניעה שהציבה איראן, ומתקפת החות'ים אחרי ברית ההגנה",
+   "summary": "טראמפ העניק ויתור דרמטי כשארה\"ב הסכימה בפועל לדריסת רגל משמעותית לאיראן בניהול הורמוז, אבל הסכם לפתיחת המצר טרם הוכרז - ובכירי המשטר דורשים \"תנאים נוספים\" לפני כן. בין התנאים הללו: פיצויים על \"הפרת מזכר ההבנות\", הסגת כוחות - וסיום \"התוקפנות בלבנון ופלסטין\". במ…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1o5u3huge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/10/ByzrDWbBJyx/ByzrDWbBJyx_0_53_1000_563_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/byr8o3rifg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/25/HyErc7cpZl/HyErc7cpZl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
