@@ -1,7 +1,7 @@
 {
  "date": "יום ראשון, 9 באוגוסט 2026",
  "date_he": "09/08/2026",
- "updated": "20:20",
+ "updated": "21:22",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,8 +13,8 @@
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.5° / 26.9°",
-   "summary": "כרגע 27.1°, לחות 85%, רוח 8.0 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.5° / 24.8°",
+   "summary": "כרגע 26.7°, לחות 87%, רוח 7.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,16 +24,16 @@
     ],
     [
      "מינימום",
-     "26.9°"
+     "24.8°"
     ],
     [
      "לחות",
-     "85%",
-     85
+     "87%",
+     87
     ],
     [
      "רוח",
-     "8.0 קמ״ש"
+     "7.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,25 +74,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
-   "stats": [
-    [
-     "Zrinjski נגד Celik Zenica",
-     "1:1 · מחצית"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
    "title": "יש מדליית זהב: נבחרת הנערות בכדורסל זכתה באליפות אירופה דרג ב'",
    "summary": "יממה לאחר שהבטיחו את חזרתן לדרג א', הכחולת-לבנות הרשימו עם 66:85 על רומניה וזכייה בתואר. מאיה זילברשלג נבחרה ל-MVP של האליפות",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelibasketball/article/ry8c00lilzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/B1wd11UIUMl/B1wd11UIUMl_0_245_1680_946_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/HkzVbD88fl/HkzVbD88fl_0_229_2400_1352_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,11 +130,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "מטוסים אזרחיים התקרבו למועדון הגולף של טראמפ - מטוסי F-16 הוזנקו | תיעוד",
-   "summary": "שני מטוסים אזרחיים נכנסו למרחב האווירי מעל בדמינסטר שבניו ג'רזי, שם שהה נשיא ארה\"ב במועדון הגולף שבבעלותו. מטוסי קרב הוזנקו לעברם וליוו אותם אל מחוץ לאזור. לפי ההערכה, הטייסים נכנסו לשטח הסטרילי בטעות",
+   "title": "טיוח חוקתי",
+   "summary": "החוק שמונע מאדם שהוגש נגדו כתב אישום לכהן כראש ממשלה אינו אלא כיסוי זמני. רק מנגנון מאוזן, שיבטיח חסינות מפני טענות רדיפה, יחזק את יסודות המשטר",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hjlmyi8img",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/S1XS11IULzl/S1XS11IULzl_0_403_586_330_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14859527",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/01/BJGeqn9gGe/BJGeqn9gGe_0_0_984_829_0_medium.jpg",
    "stats": [
     [
      "מקור",
