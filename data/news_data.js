@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 9 באוגוסט 2026",
  "date_he": "09/08/2026",
- "updated": "08:30",
+ "updated": "09:29",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "תיעוד מביש: צעיר נתקע עם פנצ'ר, פירק גלגל מרכב אחר - והותיר אותו על אבנים",
-  "summary": "חיילת מבית שאן הבחינה שאחד מגלגלי רכבה נגנב. אחרי יומיים נעצר חייל משוחרר שלפי החשד עמד מאחורי המעשה. \"הוא הסביר שלא היה לו כסף לתקן את התקר\", סיפר חוקר המשטרה. החיילת: \"נאלצתי להוציא 3,000 שקל\"",
-  "link": "https://www.ynet.co.il/news/article/sybcrir8fg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/SJ00F13r8zl/SJ00F13r8zl_0_0_850_479_0_medium.jpg"
+  "title": "25 שנה לפיגוע בסבארו: \"החיים ממשיכים, אבל זה הולך ונהיה יותר קשה\"",
+  "summary": "חיה סחיווסחורדר הייתה בת 8 כשאיבדה בפיגוע במסעדה בירושלים את הוריה ו-3 מאחיה. בשנים שחלפו הקימה משפחה משלה, וכעת היא מספרת על הרגעים שלא נשכחו, החיים לצד הפציעה והגעגוע שרק גובר: \"באיזשהו מקום אני עדיין אותה ילדה\". לילדיה היא לא מספרת הכול: \"לך תסביר להם מה זה…",
+  "link": "https://www.ynet.co.il/news/article/yokra14857355",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/ByXP3ZpE8fg/ByXP3ZpE8fg_0_95_1280_720_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.5° / 26.6°",
-   "summary": "כרגע 30.3°, לחות 67%, רוח 13.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 30.6°, לחות 67%, רוח 14.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "13.0 קמ״ש"
+     "14.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,11 +81,19 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Tobol Kostanay נגד Kaysar Kyzylorda",
+     "נדחה"
+    ],
+    [
      "Zorya Luhansk נגד Kryvbas",
      "טרם התחיל"
     ],
     [
      "Epicentr נגד Shakhtar Donetsk",
+     "טרם התחיל"
+    ],
+    [
+     "Astana נגד Okzhetpes",
      "טרם התחיל"
     ],
     [
@@ -96,11 +104,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "ענאן חלאילי סיכם בקריסטל פאלאס מהפרמייר-ליג - יחתום בימים הקרובים",
-   "summary": "השחקן הישראלי צפוי להשלים את המעבר לאנגליה לאחר שגם קבוצתו הנוכחית, אוניון סן ז'ילואז, סגרה את כל פרטי ההעברה עם הקבוצה הלונדונית",
+   "title": "משחקי שליטה: במכבי ת\"א לא זוכרים משבר ניהולי כזה",
+   "summary": "משפחת רקנאטי בדרך למכור מחצית מהחזקותיה לג'ייסון לוין, אבל אריק שטילמן לא מוותר. ברקע: פיטורי מקורבי פדרמן וחוסר אמון בין בעלי המניות. וגם: החששות של שמעון מזרחי, ההתחייבות של לוין וחזון ההיכל החדש עם 20 אלף מקומות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hjnhdshuml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/15/Byk3fwNJfg/Byk3fwNJfg_778_25_1489_838_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/s1d5fzblmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/BJhfoZr8zl/BJhfoZr8zl_0_154_2901_1634_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -110,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בבריכה של הגדולים: ההשקעה האדירה של ספרא בהפועל ת\"א",
-   "summary": "עם הוצאה של 80 מיליון שקל מהכיס בשנתיים, תקציב שיא לשכר שחקנים בהיסטוריה של המועדון, הכנסת סטנדרט חדש של ניהול ובניית מערכת מקצועית רחבה, אדמונד ספרא החזיר את הפועל ת\"א לבמה המרכזית של הכדורגל הישראלי",
+   "title": "אתגרים בספורט ובחיים | תוכן גולשים",
+   "summary": "איך הסיפור של השחיין הישראלי מאולימפיאדת בייג'ינג מתקשר לטראומה אישית ולהתמודדות איתה. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjhoszslfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/HkAsEsrUfl/HkAsEsrUfl_0_0_3000_1688_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rj1t5lphzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/05/18/4630776/4630776_0_0_1300_1231_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -124,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מכבי ת\"א תאבד נכס נוסף? דיווח: קבוצה מאיטליה מעוניינת בסייד אבו פרחי",
-   "summary": "על רקע הסיפור עם רוי רביבו, בתקשורת האיטלקית טוענים כי טורינו רוצה את חלוץ הצהובים וביררה לגבי האפשרות להחתימו מיידית",
+   "title": "קיטון וואלאס חתם לשנתיים במכבי ת\"א: \"מוכן להתחיל לעבוד ולנצח\"",
+   "summary": "הצהובים סגרו את הסגל עם החתמתו של הגארד בן ה-27 ששיחק בשנתיים האחרונות באטלנטה הוקס מה-NBA. עודד קטש: \"שחקן שמביא איתו קשיחות ואינטנסיביות בשני צדי המגרש\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ryzq1tblgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/06/ry1U3QzUMl/ry1U3QzUMl_0_165_2179_1227_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/mzqkagr4u",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/HJfwA2B8zl/HJfwA2B8zl_0_0_610_343_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -138,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "עכשיו זה רשמי: סגלוביץ' התפטר מהכנסת, לקראת הצטרפות אפשרית לרע\"מ",
-   "summary": "אחרי שבע שנים כח\"כ מטעם יש עתיד הגיש סגלוביץ' מכתב התפטרות ליו\"ר הכנסת. מנסור עבאס מתעקש ששריון שלו לא יעלה לדיון לפני הפריימריז במפלגה, שיתקיימו רק ב-22 באוגוסט. במקום יואב סגלוביץ' תיכנס לכנסת מיכל כבבה סלבני",
+   "title": "אחרי 7 חודשים: נעצרו 4 בני אדם, בהם אם ובנה, בחשד לרצח אישה לעיני ילדיה",
+   "summary": "ופאא חסארמה (35) מהיישוב בענה שבגליל נרצחה ביריות לעבר רכבה, שני ילדיה לא נפגעו. בתום חקירה סמויה נעצרו ארבעה חשודים במעורבות ברצח",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjowxnsifg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/03/15/rJeFxt111g2/rJeFxt111g2_0_0_1153_650_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/skx2anslgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/15/By0Mhf8S11e/By0Mhf8S11e_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -152,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "טרגדיה במקסיקו: שלום בן ה-4 טבע למוות בבריכת מלון",
-   "summary": "הילד שלום סגינר מירושלים נפל לבריכה במלון בעת ששהה בחופשה עם בני משפחתו. סבו הוא הרב שלום ארוש, מראשי רבני חסידות ברסלב בישראל",
+   "title": "שם הזמר החשוד לא יפורסם עד מחר: \"בת הזוג באה להיפרד ופגעה עם הרכב, הוא איים ושבר חלון\"",
+   "summary": "מעצרו של הצעיר הוארך עד 16:00, ואחר כך - ישוחרר למעצר בית. השופט קבע כי שמו יפורסם רק מחר ב-10:00. הזמר הסביר כי כשאיים \"לא יודע מה אעשה לך\" על בת הזוג, התכוון \"לזרוק את דבריה מהחלון\". סנגורו: \"הוא היה בסערת רגשות\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjhnwih8ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/08/09/6223176/6223176_45_274_601_339_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b1o5u3huge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/10/ByzrDWbBJyx/ByzrDWbBJyx_0_53_1000_563_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -194,10 +202,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "אנת'רופיק: Claude Code יפסיק מעכשיו לחכות לאישור שלכם על כל פעולה",
-   "summary": "תעצרו אותנו אם אתם מכירים את התסריט הזה: אתם נותנים ל-Claude Code לרוץ, עוזבים את הסשן והולכים לעשות משהו מועיל למען האנושות – רק כדי לחזור אליו ולגלות שהוא בקושי התקדם, כי הוא חייב את האישור שלכם לפעולה כלשהי… אז עכשיו אנת'רופיק מביאה שינוי מעניין לכלי האובר-…",
+   "title": "ה-719 מיליון דולר יחכו: בית המשפט בארה\"ב מעניק לפאפאיה חבל הצלה",
+   "summary": "חברת הגיימינג הישראלית Papaya ספגה מכה קשה לפני מספר שבועות, כשבית משפט בניו יורק פסק נגדה פיצויים חסרי תקדים של מאות מיליוני דולרים, לאחר שקבע כי השתמשה לכאורה בבוטים שהוצגו כשחקנים אנושיים במשחקים שלה. הפסיקה איימה לפגוע אנושות בחברה, אבל סדרת מהלכים משפטיים…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/claude-code-goes-auto/",
+   "link": "https://www.geektime.co.il/papaya-gets-delay-on-719m-verdict/",
    "image": null,
    "stats": [
     [
