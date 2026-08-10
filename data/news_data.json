@@ -1,20 +1,20 @@
 {
  "date": "יום שני, 10 באוגוסט 2026",
  "date_he": "10/08/2026",
- "updated": "09:07",
+ "updated": "10:58",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "עם ישראל גוף אחד, נזכרו כולם, כולנו איברים זה לזה",
-  "summary": "בוקר אחד מגישה האונה השמאלנית בקשה לדרכון פורטוגלי, והגולגולת כמרקחה. באונה הימנית כבר עולה ההצעה הקבועה, שתלך מי צריך אותה, כריתת אונה",
-  "link": "https://www.ynet.co.il/news/article/hypbkfvlgx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/06/09/BJX00g9Acu/BJX00g9Acu_0_0_3000_1689_0_medium.jpg"
+  "title": "רובים ומלפפונים: התמונות יוצאות הדופן משכם - והתוכנית שלא תצא לפועל למרות ההצהרות",
+  "summary": "שר הביטחון כ\"ץ הודיע כי הנחה את צה\"ל להיערך לכיבוש מחנה פליטים נוסף, אבל בצבא לא מקדמים את התוכנית - אלא מתמקדים בפעולות אחרות. דוגמה אליהן תועדה בשוק של שכם, שם הופיעו חיילים מיחידה מיוחדת עם נשקים שלופים - בין הדוכנים",
+  "link": "https://www.ynet.co.il/news/article/b1tf2ywigg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/H1Is4JvLGe/H1Is4JvLGe_0_187_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.1° / 25.3°",
-   "summary": "כרגע 30.8°, לחות 65%, רוח 13.9 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 31.1°, לחות 66%, רוח 15.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "65%",
-     65
+     "66%",
+     66
     ],
     [
      "רוח",
-     "13.9 קמ״ש"
+     "15.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,11 +74,33 @@
   },
   {
    "section": "כדורגל",
-   "title": "כבש שער ונפל לבור: החגיגה הכואבת של הבלם הברזילאי | צפו",
-   "summary": "ז'אסי נסחף אחרי שער בנגיחה של קוריטיבה, קפץ מעל שלט הפרסום ונפל למנהרה שנמצאת מאחוריו. ואם כל זה לא הספיק - הוא נפצע בקרסול, והשער נפסל",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "Polissya נגד Kharkiv",
+     "טרם התחיל"
+    ],
+    [
+     "Karpaty Lviv נגד LNZ Cherkasy",
+     "טרם התחיל"
+    ],
+    [
+     "Alashkert Martuni נגד BKMA Yerevan",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "גמר ראשון למשלחת הישראלית באליפות אירופה בשחייה",
+   "summary": "פתיחה מצוינת לנבחרת השליחים 4x200 מטר חופשי, שעמדה בציפיות עם המקום הרביעי הכללי (7:06.71 דקות). אביב ברזילי ותום מיניס עלו לחצי הגמר במשחה ה-200 מ' גב נשים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hy11h3zpuml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/ryJ3AWwUGe/ryJ3AWwUGe_0_28_234_132_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bkb0lqd8fg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/Hk6FDQwIGl/Hk6FDQwIGl_0_150_2560_1442_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -88,11 +110,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "לונדון מחכה להם: האתגרים החדשים של הלגיונרים הבכירים",
-   "summary": "ענאן חלאילי אמור לשכוח מאכזבת אינטר ולעשות את הקפיצה הבאה בקריירה במדי קריסטל פאלאס. מנור סולומון חוזר לליגה השנייה, אבל ווסטהאם היא יעד מצוין בשביל למצוא את היציבות שתמיד חומקת ממנו",
+   "title": "עמית ארזי האריך את חוזהו במכבי חיפה עד 2030",
+   "summary": "הקשר בן ה-20, שגדל במועדון מגיל שמונה והושאל בעונה שעברה להפועל כפר סבא כדי לצבור דקות, הרשים במחנה האימונים וחתם על חוזה לשנתיים עם אופציה לשנתיים נוספות. רפאלוב: \"הוא חזר אלינו טוב יותר\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/s1ifpulifg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/ryWEALILGg/ryWEALILGg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hk5jkmwlfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/r1f00YGwLzl/r1f00YGwLzl_0_114_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +124,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "שלישיית MSN חוזרת? ניימאר עשוי להתאחד עם מסי וסוארס באינטר מיאמי",
-   "summary": "חוזהו של הברזילאי בסנטוס מתקרב לסיומו, וב\"מארקה\" מדווחים על אפשרות מעבר ל-MLS בדרך לקאמבק מרגש עם חבריו בברצלונה",
+   "title": "שיין האנטר חוזר למכבי ת\"א מהשאלה",
+   "summary": "הצהובים השלימו את הקו הקדמי לעונה הבאה עם החזרתו של בן ה-28, ששיחק בעונה שחלפה בלגיה ורשה: \"צבר ניסיון חשוב באירופה\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rj11pkjvufe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/BySBKyD8fg/BySBKyD8fg_0_20_1024_577_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/s1lodmvlfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/B1D11dfPUMx/B1D11dfPUMx_0_85_1080_608_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +138,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "עליזה בלוך מצטרפת לארדן ואדלשטיין; חבר חדש גם במפלגת איזנקוט",
-   "summary": "ראש העיר בית שמש לשעבר תמוקם ברשימה החדשה שמגבשים יוצאי הליכוד, ולשם כך עזבה את תפקידה כנשיאת המרכז למצוינות בחינוך. מנכ\"ל am:pm ופעיל המחאה שיראל חוגג חובר למפלגת \"ישר\" ויוביל תוכנית ליעילות ממשלתית",
+   "title": "הואשמו בהצתת אולם בטבריה, וחשודים בזריקת רימון לג'פניקה: \"חלק ממאבקי עבריינים\"",
+   "summary": "על פי חומר החקירה שני הצעירים מבת ים הגיעו על אופנוע לסניף ג'פניקה בקריית אונו כשהם רעולי פנים והשליכו את הרימון. יחד עם צעיר נוסף, הם מואשמים גם בהצתת אולם אירועים בטבריה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bj2izlpizx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/H1gVR11PUGl/H1gVR11PUGl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sjnx4gvugx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/rJ537QDLMg/rJ537QDLMg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +152,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "ברוכים הבאים לחלון ההעברות של הפוליטיקה הישראלית",
-   "summary": "הסוכנים עובדים שעות נוספות, הסקרים הפכו לטבלת הליגה, וכל מועמד עם כמה דרגות על הכתף, אקזיט ברזומה או מספיק עוקבים בטוויטר הפך פתאום לרכש מבוקש",
+   "title": "כולם נגד כולם בפריימריז בליכוד: הדילים, העימותים - והמאבק על המתפקדים שברחו",
+   "summary": "בצל סקרים עגומים והשיריונים הרבים שהובטחו לנתניהו, הפריימריז יהיו מהקשים והמשמעותיים ביותר, כשמבנה הרשימה יעיד על קו המפלגה ביום שאחרי. בשבוע שנותר הח\"כים והשרים מגבירים מאמצים, ונתניהו מייחל לרשימה שתחזיר את הבוחרים שנטשו. התסיסה גוברת לקראת ההכרעה בעתירה נגד…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syd6nwd8gl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/rJ7hxxc4fl/rJ7hxxc4fl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bylqvzdizx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/SJa500xyLze/SJa500xyLze_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
