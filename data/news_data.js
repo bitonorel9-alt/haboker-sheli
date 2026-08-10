@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שני, 10 באוגוסט 2026",
  "date_he": "10/08/2026",
- "updated": "07:11",
+ "updated": "09:07",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "המצטרפת הראשונה למפלגה של ארדן ואדלשטיין: עליזה בלוך",
-  "summary": "ראש העיר בית שמש לשעבר תמוקם ברשימה החדשה שמגבשים יוצאי הליכוד. כדי לחזור לפוליטיקה היא עזבה את תפקידה כנשיאת המרכז למצוינות בחינוך",
-  "link": "https://www.ynet.co.il/news/article/bj2izlpizx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/29/SygBEBgxNbg/SygBEBgxNbg_346_40_2077_1169_0_medium.jpg"
+  "title": "עם ישראל גוף אחד, נזכרו כולם, כולנו איברים זה לזה",
+  "summary": "בוקר אחד מגישה האונה השמאלנית בקשה לדרכון פורטוגלי, והגולגולת כמרקחה. באונה הימנית כבר עולה ההצעה הקבועה, שתלך מי צריך אותה, כריתת אונה",
+  "link": "https://www.ynet.co.il/news/article/hypbkfvlgx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/06/09/BJX00g9Acu/BJX00g9Acu_0_0_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.1° / 25.3°",
-   "summary": "כרגע 29.8°, לחות 69%, רוח 10.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 30.8°, לחות 65%, רוח 13.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "69%",
-     69
+     "65%",
+     65
     ],
     [
      "רוח",
-     "10.0 קמ״ש"
+     "13.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,23 +74,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
+   "title": "כבש שער ונפל לבור: החגיגה הכואבת של הבלם הברזילאי | צפו",
+   "summary": "ז'אסי נסחף אחרי שער בנגיחה של קוריטיבה, קפץ מעל שלט הפרסום ונפל למנהרה שנמצאת מאחוריו. ואם כל זה לא הספיק - הוא נפצע בקרסול, והשער נפסל",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hy11h3zpuml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/ryJ3AWwUGe/ryJ3AWwUGe_0_28_234_132_0_medium.jpg",
    "stats": [
     [
-     "Polissya נגד Kharkiv",
-     "טרם התחיל"
-    ],
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "לונדון מחכה להם: האתגרים החדשים של הלגיונרים הבכירים",
+   "summary": "ענאן חלאילי אמור לשכוח מאכזבת אינטר ולעשות את הקפיצה הבאה בקריירה במדי קריסטל פאלאס. מנור סולומון חוזר לליגה השנייה, אבל ווסטהאם היא יעד מצוין בשביל למצוא את היציבות שתמיד חומקת ממנו",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/s1ifpulifg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/ryWEALILGg/ryWEALILGg_0_0_850_479_0_medium.jpg",
+   "stats": [
     [
-     "Karpaty Lviv נגד LNZ Cherkasy",
-     "טרם התחיל"
-    ],
-    [
-     "Alashkert Martuni נגד BKMA Yerevan",
-     "טרם התחיל"
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -109,40 +115,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "פרגוסון: \"מוריניו בכה ואמר לי - אני לא יכול לעשות את זה\"",
-   "summary": "בסדרת דוקו חדשה על הקריירה שלו, חשף הפורטוגלי בן ה-63 כי ב-2013 כבר סגר אצל השדים האדומים כמחליף של המנג'ר הסקוטי האגדי, לפני שהחליט בסופו של דבר לחזור לקדנציה שנייה בצ'לסי: \"נתתי את המילה שלי ולא התכוונתי להפר אותה\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/s1dzz1v8fe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/SJmebkP8Gx/SJmebkP8Gx_0_15_717_404_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "בסביבת אבו-פרחי אופטימיים: העסקה תיסגר ב-48 השעות הקרובות",
-   "summary": "נציגי החלוץ משוכנעים שהמעבר לקולורדו ראפידס תמורת 6 מיליון דולר יושלם בקרוב. בסביבת רביבו נמשך הלחץ לקבל שחרור. שחקן בקבוצה נוכח גל העזיבות הצפוי: \"יש אווירה של מכירת חיסול\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sj3i7r8lzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/05/HyrA005P0be/HyrA005P0be_0_128_2246_1265_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "סגן ראש העיר החשוד בעבירות מין ישוחרר אחרי שעומת עם המתלוננת: זו גרסתו",
-   "summary": "אחרי 5 ימי מעצר, בהמשך היום ייקבע אם סגן ראש העיר ראשל\"צ החשוד בעבירות מין כלפי מזכירה בעירייה ישוחרר למעצר בית או רק יורחק ממקום עבודתו. בעימות מולה טען כי הם היו שתויים והאירוע נמשך שניות בודדות. היא השיבה מנגד: לא הייתה הסכמה",
+   "title": "עליזה בלוך מצטרפת לארדן ואדלשטיין; חבר חדש גם במפלגת איזנקוט",
+   "summary": "ראש העיר בית שמש לשעבר תמוקם ברשימה החדשה שמגבשים יוצאי הליכוד, ולשם כך עזבה את תפקידה כנשיאת המרכז למצוינות בחינוך. מנכ\"ל am:pm ופעיל המחאה שיראל חוגג חובר למפלגת \"ישר\" ויוביל תוכנית ליעילות ממשלתית",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s1vpwjwumx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2017/12/03/8191122/8191122_344_0_957_539_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bj2izlpizx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/H1gVR11PUGl/H1gVR11PUGl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -152,15 +130,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "תקיפת השוטרים ליד מצבור האמל\"ח בבנימין: נער נעצר, אביו חשוד שסייע לברוח",
-   "summary": "בן 16 מכוכב השחר נעצר בחשד שתקף שוטרים שאיתרו מצבור אמל\"ח במאחז \"קול דודי\" הסמוך. לאחר שעשרות מתנחלים התפרעו ומנעו את עיכובו במקום, אביו של הנער נעצר גם הוא בחשד שסייע לו להתחמק מהמשטרה",
+   "title": "ברוכים הבאים לחלון ההעברות של הפוליטיקה הישראלית",
+   "summary": "הסוכנים עובדים שעות נוספות, הסקרים הפכו לטבלת הליגה, וכל מועמד עם כמה דרגות על הכתף, אקזיט ברזומה או מספיק עוקבים בטוויטר הפך פתאום לרכש מבוקש",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r100g71v8gx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/rJxj6ZG8Uze/rJxj6ZG8Uze_0_0_1280_720_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/syd6nwd8gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/rJ7hxxc4fl/rJ7hxxc4fl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "ה-CTO של מטא לעובדים: ה-AI חסך לכם זמן? מצוין, תוכלו לעבוד יותר",
+   "summary": "אם אתם עובדים במטא, ובניתם על זה שכלי ה-AI השונים יחסכו לכם זמן, כך שתוכלו לסגור את הלפטופ מוקדם יותר או לצאת לסופ\"ש ארוך, ל-CTO של החברה יש חדשות בשבילכם: תמשיכו לחלום ותחזרו להריץ אייג'נטים כי מבחינת ההנהלה, כל דקה שחסכתם בכתיבת קוד או איפיון מוצר או בניטור …",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/meta-cto-ai-productivity-time-off/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -193,16 +185,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "בגלל קבר של גמדון: פרויקט של חצי מיליארד דולר חישב מסלול מחדש",
-   "summary": "לא בכל יום אנחנו שומעים על דמות בדיונית שמשנה פרויקטים הנדסיים מורכבים בעולם האמיתי. אבל זה קורה עכשיו, כשאנחנו שומעים לראשונה על פרויקט אנרגיה בהיקף של 580 מיליון דולר, שנועד לחבר את רשתות החשמל של בריטניה ואירלנד, ומוצא את עצמו במוקד של סערה. הסיבה? לא התנגד…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/harry-potter-dobbys-grave-project/",
-   "image": null,
+   "section": "בידור",
+   "title": "\"אלימות נגד נשים זה קו אדום\": עיריית דימונה ביטלה הופעה של אופק אדנק | פרסום ראשון",
+   "summary": "אחרי שנחשף כי הוא החשוד באיומים כלפי בת זוגו, עיריית דימונה ביטלה את הופעתו של אופק אדנק שהייתה אמורה להתקיים בסוף הקיץ. \"אם  והוא יצא זכאי - אזמין אותו בידיים פתוחות אליי לעיר\", אמר ל-ynet ראש העיר בני ביטון שהדגיש כי אלימות נגד נשים היא מבחינתו קו אדום",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/byqm3lv8fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/HJ9fu2SUfl/HJ9fu2SUfl_31_64_324_183_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -227,20 +219,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/s1halrvigg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/30/B1bhzOo00Hfe/B1bhzOo00Hfe_0_0_3000_1688_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "לכולם נמאס מגיבורי-על - אז איך לעזאזל ספיידרמן עשה מיליארד דולר בשישה ימים?",
-   "summary": "הוא הגיע בתקופה שבה כבר הספידו את הז'אנר, שבר את שיא הפתיחה של \"הנוקמים: סוף המשחק\", אחראי לטריילר הנצפה בהיסטוריה ועשה סכומים דמיוניים בפחות משבוע. אז מה יש ב\"ספיידרמן: יום חדש\" שאין לאחרים - ולמה דווקא עכשיו הקהל שוב מתנפל על סרט גיבורי-על כאילו אנחנו ב-2019…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hymgzzilmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/19/SyQamzmqEzg/SyQamzmqEzg_405_0_1489_838_0_medium.jpg",
    "stats": [
     [
      "מקור",
