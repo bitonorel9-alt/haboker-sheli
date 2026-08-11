@@ -1,20 +1,20 @@
 {
  "date": "יום שלישי, 11 באוגוסט 2026",
  "date_he": "11/08/2026",
- "updated": "10:41",
+ "updated": "11:37",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "פרס נובל לילדי עזה? היוזמה שצוברת תאוצה באיטליה - והסיכוי שתצא לפועל",
-  "summary": "פרופסור לפילוסופיה בנאפולי ביקר בחריפות את ישראל, טען כי 300 ילדים נהרגו בתקיפות צה\"ל ברצועה מאז הפסקת האש - והציע להעניק להם פרס נובל לשלום, בניגוד לתקנון. אלפים באיטליה כבר תמכו. הקהילה היהודית: \"מוחק את הילדים היהודים שהפכו לקורבנות במלחמה שישראל לא רצתה\"",
-  "link": "https://www.ynet.co.il/news/article/hkrkcpo8me",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/S1FCBGTHGg/S1FCBGTHGg_0_218_3000_1689_0_medium.jpg"
+  "title": "בית הדין הוציא צו ביניים, ההצבעה על שריון השר מהליכוד נעצרה: \"טענות לניגוד עניינים\"",
+  "summary": "",
+  "link": "https://www.ynet.co.il/news/article/bjk1jt008ze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/H100qoy00Lfg/H100qoy00Lfg_0_0_1672_941_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 32.1° / 26.7°",
-   "summary": "כרגע 32.1°, לחות 60%, רוח 16.6 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 31.9°, לחות 63%, רוח 17.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "60%",
-     60
+     "63%",
+     63
     ],
     [
      "רוח",
-     "16.6 קמ״ש"
+     "17.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,27 +74,15 @@
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
+   "title": "למרות לילארד ומוראנט: \"דני אבדיה צריך להיות האופציה הראשונה בהתקפה\"",
+   "summary": "בארה\"ב סימנו את הפורוורד הישראלי ככוח המוביל בקו הקדמי של פורטלנד לקראת העונה החדשה: \"הוא עדיין צריך להיות השחקן המרכזי\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/bjla000uizl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/29/BJyPjZ1R11l/BJyPjZ1R11l_250_102_2632_1482_0_medium.jpg",
    "stats": [
     [
-     "Marumo Gallants נגד Kruger United",
-     "טרם התחיל"
-    ],
-    [
-     "Chippa United נגד Richards Bay",
-     "טרם התחיל"
-    ],
-    [
-     "Polokwane City נגד Stellenbosch FC",
-     "טרם התחיל"
-    ],
-    [
-     "TS Galaxy נגד Mamelodi Sundowns",
-     "טרם התחיל"
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -127,26 +115,12 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "הדרך לפלייאוף: מה ההיסטוריה הישראלית מלמדת? | תוכן גולשים",
-   "summary": "בכל חמשת המקרים בהם משחק הגומלין שוחק בחוץ בשלב הבא, הקבוצה הישראלית המשיכה הלאה. נתונים מעודדים עבור באר שבע. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/b1n5sfvlml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/H1etjRs1IMl/H1etjRs1IMl_0_80_961_541_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "ימין מלא-מלא חורים: המשוואה הביטחונית השתנתה במחיר דמים",
-   "summary": "הם הניפו תמונות נרצחי פיגועים, זעמו על מדיניות \"חלשה\" והבטיחו לטפל בטרור. ואז נבחרו נתניהו, בן גביר וסמוטריץ', הבליגו על פיגועי חיזבאללה בלב הארץ ועל אוהלים שהקים בשטחה והגיעו להסכם עם חמאס שבוע לפני 7/10. כש-1,200 איש נפלו, נרצחו ונאנסו, ועוד 251 נחטפו, התפיס…",
+   "title": "ראש המוסד לשעבר חושף: \"טיילנו באתר הגרעין בפורדו פעמים רבות\"",
+   "summary": "יוסי כהן חשף בוועידת הגליל פעילות באתר הגרעין ואמר: \"הפצצתו על ידי ארה\"ב - התגשמות כל חלומותיי\". הוא התייחס להעשרת האורניום בידי טהרן: \"60% זה עדיין רחוק מפצצה\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/skihcoo4gx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/Skg0iluIzx/Skg0iluIzx_0_0_1672_941_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rymfxyougg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/01/rk9LL11Q5gg/rk9LL11Q5gg_0_1025_1300_732_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -156,11 +130,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "גשם באוגוסט: ההפתעה שצפויה לנו לאחר גל החום",
-   "summary": "אפקט \"סופר אל-ניניו\": הימים הקרובים צפויים להיות חמים מהרגיל לעונה, אך בסוף השבוע קיימת אפשרות לתופעה חריגה ביותר באמצע אוגוסט - גשמים מקומיים באזורים שונים בארץ | זה ההסבר לתופעה",
+   "title": "לקראת ימי הסליחות: המקומות הקדושים ייסגרו למבקרים",
+   "summary": "פרסום ראשון: כשבוע וחצי בלבד לפני ראש השנה ייסגרו כלל המקומות הקדושים ברחבי הארץ. במשרד לשירותי דת הסבירו כי \"אין מקור תקציבי לשמירה על קיום הפעילות השוטפת של המרכז הארצי לפיתוח מקומות קדושים\", אחרי שבג\"ץ הקפיא את העברות הכספים שאושרו עקב \"פגמים\" שנפלו בדיון ש…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hyx1dwuimx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/SJQ5JHTbGx/SJQ5JHTbGx_0_176_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rk4gj00dlgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/09/SJlj111rhWe/SJlj111rhWe_0_312_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
