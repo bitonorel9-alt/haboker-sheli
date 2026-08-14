@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 14 באוגוסט 2026",
  "date_he": "14/08/2026",
- "updated": "17:44",
+ "updated": "18:40",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.3° / 27.1°",
-   "summary": "כרגע 28.6°, לחות 79%, רוח 9.7 קמ״ש. סיכוי משקעים 15%.",
+   "summary": "כרגע 28.6°, לחות 80%, רוח 8.5 קמ״ש. סיכוי משקעים 15%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "79%",
-     79
+     "80%",
+     80
     ],
     [
      "רוח",
-     "9.7 קמ״ש"
+     "8.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,19 +82,33 @@ window.NEWS_DATA = {
    "stats": [
     [
      "LASK Linz נגד Ried",
-     "1:1 · מחצית ראשונה"
+     "3:1 · מחצית שנייה"
     ],
     [
      "Stellenbosch FC נגד Marumo Gallants",
-     "1:0 · מחצית ראשונה"
+     "2:0 · מחצית שנייה"
     ],
     [
      "Celik Zenica נגד Siroki Brijeg",
-     "טרם התחיל"
+     "0:1 · מחצית ראשונה"
     ],
     [
      "Balzan Youths FC נגד Marsaxlokk",
-     "טרם התחיל"
+     "0:0 · מחצית ראשונה"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "מקום חמישי לשוסטר בגמר ה-50 מטר גב, גורבנקו עלתה לגמר ה-200 מעורב",
+   "summary": "השחיין הישראלי נראה נהדר ורשם הישג מרשים באליפות אירופה בשחייה, גורבנקו עלתה מהמקום הרביעי הכללי. לאה פולונסקי סיימה תשיעית בחצי הגמר, ועשויה בכל זאת לעלות לגמר",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/byntlch8fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/rk9ZVzo8Gl/rk9ZVzo8Gl_0_25_1280_721_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -119,20 +133,6 @@ window.NEWS_DATA = {
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/article/bjx11mt3uzx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/SkUAU62UGe/SkUAU62UGe_0_30_971_547_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "\"הוא יכול לתת לנו הרבה\": מאמן ווסטהאם מתלהב ממנור סולומון",
-   "summary": "נונו אספיריטו סנטו סיפק מחמאות לישראלי, שהצטרף הקיץ לפטישים: \"הבאנו אותו בגלל הכישרון שלו. הוא משחק בעמדה שהייתה חסרה לנו בסגל\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/s1av22n8me",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/Hk5MNcvIfg/Hk5MNcvIfg_259_0_1387_781_0_medium.jpg",
    "stats": [
     [
      "מקור",
