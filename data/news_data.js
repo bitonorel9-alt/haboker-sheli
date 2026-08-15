@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
- "date": "יום שישי, 14 באוגוסט 2026",
- "date_he": "14/08/2026",
- "updated": "23:12",
+ "date": "יום שבת, 15 באוגוסט 2026",
+ "date_he": "15/08/2026",
+ "updated": "00:41",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,18 +13,18 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 31.5° / 27.0°",
-   "summary": "כרגע 27.4°, לחות 84%, רוח 8.3 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 31.4° / 27.3°",
+   "summary": "כרגע 27.4°, לחות 84%, רוח 8.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "31.5°"
+     "31.4°"
     ],
     [
      "מינימום",
-     "27.0°"
+     "27.3°"
     ],
     [
      "לחות",
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "8.3 קמ״ש"
+     "8.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Kfar Shalem נגד Maccabi Kiryat Gat",
-     "1:0 · הסתיים"
+     "Hapoel Raanana נגד Maccabi Ahi Nazeret",
+     "4:1 · הסתיים"
     ],
     [
-     "Hapoel Afula נגד מכבי בני ריינה",
-     "0:2 · הסתיים"
+     "Bnei Yehuda נגד SC Ashdod",
+     "6:0 · הסתיים"
     ],
     [
-     "MS Kfar Kassem נגד Hapoel Rishon Lezion",
-     "2:3 · הסתיים"
+     "Hapoel Kfar Saba U19 נגד Bnei Yehuda U19",
+     "טרם התחיל"
     ],
     [
-     "Ironi Modiein נגד Maccabi Kavilio Jaffa",
-     "0:1 · הסתיים"
+     "Maccabi Hertzliya U19 נגד Hapoel Tel Aviv U19",
+     "טרם התחיל"
     ],
     [
-     "Hapoel Kfar Saba נגד Kiryat Yam Sc",
-     "1:1 · After Penalties"
+     "Hapoel Petah Tikva U19 נגד Kiryat Shmona U19",
+     "טרם התחיל"
     ]
    ]
   },
@@ -229,18 +229,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "למה נמלים לא הולכות לאיבוד",
-   "summary": "הן משאירות שביל פרומונים; ככל שהמסלול קצר יותר, הריח מתחזק מהר יותר — אלגוריתם מציאת דרך טבעי.",
-   "source": "תמצית ידע יומית · טבע",
+   "title": "מהי מטבע קוונטי (Qubit)",
+   "summary": "בניגוד לביט רגיל (0 או 1), קיוביט יכול להיות בשני המצבים בו-זמנית — בסיס למחשוב הקוונטי.",
+   "source": "תמצית ידע יומית · טכנולוגיה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "טבע"
+     "טכנולוגיה"
     ],
     [
      "עובדה בונוס",
-     "לב הכחול הכי גדול — הלווייתן הכחול — במשקל של מכונית."
+     "אין מספיק זהב בעולם כדי לצפות בו את כל היבשה."
     ]
    ]
   }
