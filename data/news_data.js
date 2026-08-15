@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 15 באוגוסט 2026",
  "date_he": "15/08/2026",
- "updated": "00:41",
+ "updated": "02:08",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.4° / 27.3°",
-   "summary": "כרגע 27.4°, לחות 84%, רוח 8.9 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.3°, לחות 84%, רוח 8.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "8.9 קמ״ש"
+     "8.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -69,20 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Petah Tikva U19 נגד Kiryat Shmona U19",
      "טרם התחיל"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
-   "stats": [
-    [
-     "Balzan Youths FC נגד Marsaxlokk",
-     "1:1 · הסתיים"
     ]
    ]
   },
