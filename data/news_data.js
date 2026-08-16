@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 16 באוגוסט 2026",
  "date_he": "16/08/2026",
- "updated": "05:18",
+ "updated": "06:23",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,27 +13,27 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.8° / 26.4°",
-   "summary": "כרגע 27.6°, לחות 81%, רוח 9.7 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.5° / 26.5°",
+   "summary": "כרגע 28.5°, לחות 75%, רוח 9.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.8°"
+     "30.5°"
     ],
     [
      "מינימום",
-     "26.4°"
+     "26.5°"
     ],
     [
      "לחות",
-     "81%",
-     81
+     "75%",
+     75
     ],
     [
      "רוח",
-     "9.7 קמ״ש"
+     "9.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -83,6 +83,42 @@ window.NEWS_DATA = {
     [
      "LNZ Cherkasy נגד Chornomorets Odesa",
      "טרם התחיל"
+    ],
+    [
+     "Irtysh Pavlodar נגד Tobol Kostanay",
+     "טרם התחיל"
+    ],
+    [
+     "Pyunik Yerevan נגד Sardarapat FC",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "בעקבות התקרית האנטישמית: הקבוצה הקנדית נקטה בצעדים נגד האוהדים",
+   "summary": "שבועיים אחרי ששניים מאוהדיה קראו \"מוות לישראל\" לעברו של דור תורג'מן במסגרת משחק ב-MLS, מונטריאול השעתה אותם לתקופה בלתי מוגבלת וגם הענישה את ארגוני האוהדים: \"לאנטישמיות, גזענות ושנאה מכל סוג אין מקום\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/ryppkp08gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/02/Hymj2N2rGl/Hymj2N2rGl_412_246_2589_1457_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "סטודמאייר בנאום הכניסה להיכל התהילה: \"למדתי תורה בסתר במשך 20 שנה\"",
+   "summary": "כוכב העבר, שכיכב 14 שנה ב-NBA, כולל בפיניקס הגדולה של תחילת שנות ה-2000, התייחס בנאום היכל התהילה גם לתקופה שלו בישראל: \"הייתי שם מסיבה מסוימת\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/byeqqpauge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/HkZgPXa0UGl/HkZgPXa0UGl_0_154_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -93,34 +129,6 @@ window.NEWS_DATA = {
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/worldsoccer/article/rkuwp3rugl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/S1gYjt308ze/S1gYjt308ze_0_176_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "הפועל ת\"א תעלה בהרכב משני לחצי גמר גביע הטוטו: \"ניתן את כל תשומת הלב למשחק\"",
-   "summary": "הקבוצה של אליניב ברדה עם הראש במשחק מול אטאלנטה במסגרת פלייאוף העלייה לקונפרנס-ליג ביום חמישי, אך המאמן לא מקל ראש בהתמודדות מול קריית שמונה הערב (20:00): \"חצי גמר הוא תמיד מעמד מרגש\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjtcv3a8ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/BkerGggKLzx/BkerGggKLzx_0_192_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "סוכנו של רביבו לאלצ'ה: הגישו הצעה משופרת למכבי ת\"א | נחשף ב-ynet",
-   "summary": "פאלי רמדאני סיפר כי הספרדים מוכנים לשלם 3 מיליון אירו, אך הצהובים מערימים קשיים ודורשים ויתור על כספים ואחוזים גבוהים ממכירה עתידית. במקביל: הנרי אדו, קרווין אנדרדה ויון ניקולאסקו בדרך החוצה כדי לפנות מקום לזרים חדשים",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ryl3ohrlmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/05/HyfpUv8e8Ml/HyfpUv8e8Ml_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -200,6 +208,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "פעם הוא היה הילד הרע של הקולנוע הספרדי. היום, לאלמודובר כבר אין מה לומר",
+   "summary": "בסרטו החדש, \"חג מולד מר\", פדרו אלמודובר חוזר אל התמות שהעסיקו אותו לאורך הקריירה - כאב היצירה, אמהות, אובדן והדרך שבה אמנים ניזונים מחייהם של אחרים. התוצאה אסתטית, מהנה לפרקים ומודעת מאוד לעצמה, אבל גם נדמית לעיתים כמו יצירה של במאי שכבר שאל את עצמו את אותן הש…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/syotu6cuzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/ryG0xdT08Ml/ryG0xdT08Ml_171_0_2152_1212_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "\"הייתי בטוח שאאבד עבודה ויתבעו אותי. ואז הלכתי לשחק כדורסל והעולם המשיך\"",
    "summary": "ג'רמי פוגל מאמין שפילוסופיה לא שייכת רק לאקדמיה, אלא יכולה לעזור לנו להבין את המציאות - גם כשהיא כאוטית. לרגל ספר הילדים החדש שלו, \"ספר ההפכים\", הוא מדבר על הסערה סביב הריאיון עם ח\"כ צבי סוכות (\"הם טובים בלייצר תוכן, אבל לא בלנהל מדינה\"), על האייטם בערוץ 14 שה…",
    "source": "ynet - תרבות ובידור",
@@ -219,20 +241,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/yokra14861426",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/ryGYJ3JEgR/ryGYJ3JEgR_0_0_1920_1080_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "רותם שפי מצליחה להרגיז גם בלי שפיטה",
-   "summary": "שפיטה אומנם עזרה לה לקנות בית, אבל רותם שפי כבר רצתה לשים  אותה בצד וגם 7 באוקטובר לא הגביר את החשק לקשקש בערבית. אז עכשיו היא מוציאה אלבום בכורה, לא מתחרטת שהכריזה על \"רילוקיישן\" בשביל לקדם שיר ובהחלט צועקת \"שאט אפ\" על כל מי שהתעצבן לראות אותה מיניקה. והגברת …",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14860170",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/Sk1lUVwIze/Sk1lUVwIze_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
