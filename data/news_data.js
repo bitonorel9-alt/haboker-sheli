@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 16 באוגוסט 2026",
  "date_he": "16/08/2026",
- "updated": "12:19",
+ "updated": "13:23",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הבן נפצע קשה מרחפן, 32 שנה אחרי שאביו נפגע בלבנון: \"הטיפול בשטח הציל חיים\"",
-  "summary": "הלוחמים שנפצעו בשבת מאושפזים ברמב\"ם, ומחוץ לחדריהם מחכים קרובים וחברים מיהל\"ם. אביו של אחד החיילים סיפר: \"נפצעתי ב-94 ליד סוג'וד, וגם אני פוניתי לכאן במסוק. והנה, אימא שלי ואני שוב כאן. יהיה תהליך קשה וארוך\"",
-  "link": "https://www.ynet.co.il/news/article/s1ndkgypmx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/Bk118p1Gkvzl/Bk118p1Gkvzl_0_159_961_541_0_medium.jpg"
+  "title": "גשם חריג בבקעת הירדן, סיכוי להצפות נוספות | המוקדים - ומתי תחול התחממות",
+  "summary": "במושב בקעות נרשמו כבר 11 מ\"מ גשם. אחר הצהריים צפויים גשמים גם באזור ירושלים, מדבר יהודה וים המלח. בימים הבאים: התקררות נוספת - ואז מהפך במזג אוויר לקראת הכבדה בעומס החום",
+  "link": "https://www.ynet.co.il/news/article/hje0znkdfg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/15/Skrt7bZAIfg/Skrt7bZAIfg_0_43_1280_720_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.9° / 26.5°",
-   "summary": "כרגע 30.4°, לחות 67%, רוח 20.3 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.9°, לחות 69%, רוח 19.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "67%",
-     67
+     "69%",
+     69
     ],
     [
      "רוח",
-     "20.3 קמ״ש"
+     "19.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,34 +81,40 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Irtysh Pavlodar נגד Tobol Kostanay",
-     "0:0 · Suspended"
-    ],
-    [
-     "Pyunik Yerevan נגד Sardarapat FC",
-     "טרם התחיל"
-    ],
-    [
-     "Kharkiv נגד Shakhtar Donetsk",
-     "טרם התחיל"
-    ],
-    [
      "Kaspiy Aktau נגד Yelimay Semey",
-     "טרם התחיל"
+     "1:0 · מחצית ראשונה"
     ],
     [
      "Chippa United נגד Orlando Pirates",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "FC Qyzyljar נגד Astana",
      "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
+   "title": "הפועל באר-שבע/דימונה תשחק בעונה הבאה בליגת העל",
+   "summary": "המועדון הודיע רשמית כי נמצא הפתרון שיאפשר לקבוצה לפתוח את עונת 2026/27 בליגה הבכירה: \"מתחילים מאוחר, אבל יוצאים לדרך עם הרבה אמונה\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bkfxfnkpmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/12/one1829276/one1829276_0_0_800_444_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
    "title": "מצהוב לאדום: יונס מלדה עבר ממכבי ת\"א להפועל באר-שבע",
-   "summary": "הקשר, שמיעט לשחק בשורות הצהובים, חתם בשורות הקבוצה של רן קוז'וך וימריא איתה לקראת המשחק הראשון בפלייאוף ליגת האלופות מול סבאח",
+   "summary": "הקשר, שמיעט לשחק בשורות הצהובים, חתם בשורות הקבוצה של רן קוז'וך וימריא איתה לקראת המשחק הראשון בפלייאוף ליגת האלופות מול סבאח. לאחר החתימה אמר מלדה: \"שמח ונרגש להצטרף לאלופת המדינה\"",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelisoccer/article/rk11w9g1wzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/SyIr6l1DGx/SyIr6l1DGx_0_0_850_479_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/SyzEGK7Jvze/SyzEGK7Jvze_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -131,26 +137,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "הפועל ירושלים פנתה להפועל ת\"א: שלמו לנו דמי השבחה על קאדין קרינגטון",
-   "summary": "האדומים מהבירה דורשים פיצוי מסגנית האלופה, שהחתימה את המאזרח ששיחק בשורותיהם ארבע שנים לפני שעבר לקבוצה של דימיטריס איטודיס",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1v5uzkdge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/10/B1ym24Lbfl/B1ym24Lbfl_0_210_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "השיפוצניקים מצאו בקירות 10 מיליון דולר. אם יחכו 5 שנים, אולי יהיו עשירים",
-   "summary": "סיפור יוצא דופן מסעיר עיירה בבלגיה: פועלי בניין שהכינו להריסה מבשלת בירה מהמאה ה-19 קדחו בקיר כדי להניח צינורות ביוב חדשים, וגילו 49 מטילי זהב ו-4,000 מטבעות. המשטרה חוקרת למי הם שייכים, ואם היורש החוקי לא יגיע לתבוע אותם אמור הסכום להתחלק שווה בשווה בין בעלי …",
+   "title": "קרב ההתשה של ארה\"ב ואיראן: \"הסיכוי להסכם תמיד היה קלוש\"",
+   "summary": "הניסיון המהיר להוציא מסמך לא בשל הוביל למבוי סתום, וגורמים בבית הלבן הודו שהדד-ליין של 60 הימים יעבור ללא השגת הסכם. האמריקנים נאלצו לחזור לשיטות שבהן נקט טראמפ עוד בכהונתו הראשונה בניסיון לבודד את איראן, אך אנליסטים מעריכים: הלחץ הכלכלי לבדו לא יכניע את טהרן",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hjwez7kpmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/SyTLKG1vfe/SyTLKG1vfe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hja5rwkdmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/13/SkeCuMf1fx/SkeCuMf1fx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +152,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "רשימות חיסול, דילים - והדחות דרמטיות: הקרבות על מקום ריאלי ברשימת הליכוד",
-   "summary": "התארגנות לוגיסטית נרחבת נתנה את האות לישורת האחרונה לפני הפריימריז של מפלגת השלטון. קבוצות הוואטסאפ רוחשות, טלפנים מעבירים מסרים שיסייעו בהמרצת המתפקדים לקלפיות. מספר הצפויים להיפלט מטלטל את הליכוד",
+   "title": "זעקת אביו של עורך הדין שנרצח בראשון לציון: \"על מה הבן אדם עכשיו באדמה?\"",
+   "summary": "בית המשפט הותיר את החשוד ברצח עו\"ד ארבל פלדמן במעצר. במשטרה הדגישו כי התחזק החשד לרצח בגלל מניע כספי. ישראל, אביו של הקורבן, אמר בדמעות: \"עכשיו אומרים 'הוא לא שפוי', בן אדם בא עם אקדח בשביל מטרה אחת - לרצוח\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h1pbql1pgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/04/SJa500xyLze/SJa500xyLze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hjbstfkvml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/HJIKmmkvfe/HJIKmmkvfe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
