@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 16 באוגוסט 2026",
  "date_he": "16/08/2026",
- "updated": "14:13",
+ "updated": "15:12",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"לא מדויק\": פוקס ניוז התנצלה על פרסום הציטוט שיוחס למפקד משמרות המהפכה",
-  "summary": "הפייק שהגיע עד נאום רה\"מ ושגריר ארה\"ב באו\"ם: כפי שנחשף ב-ynet, הרשת האמריקנית ייחסה למפקד משמרות המהפכה דברים שמעולם לא אמר על שאיפות טהרן לנשק גרעיני. ב\"ניו יורק טיימס\" ערכו תחקיר בנושא וציינו כי ב-ynet עלו \"השאלות הראשונות בנוגע למקור הציטוט ולדרך בה הוא נוצ…",
-  "link": "https://www.ynet.co.il/news/article/h1ahqmydfe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/01/S1uBvP11YZl/S1uBvP11YZl_0_15_640_361_0_medium.jpg"
+  "title": "קטטה בסביון: פצוע בינוני מחוץ לבית של יוסי מוסלי, ארבעה נעצרו",
+  "summary": "ראש ארגון הפשע הגיע לביתו במסגרת צו ההגבלה המינהלי החריג שהוצא נגדו. מוסלי ישהה במאסר בית עד יום כיפור, במסגרת החשדות למעורבות בסכסוך עם משפחת ג'רושי - ולאחר שהמשטרה לא הצליחה לגבש  תשתית ראייתית נגדו במטרה לקשור אותו לאירועי השלכות רימונים שהתרחשו בתקופה האחר…",
+  "link": "https://www.ynet.co.il/news/article/bjsvnrjdze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/08/21/Sy8w42kki/Sy8w42kki_53_68_631_355_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.9° / 26.5°",
-   "summary": "כרגע 29.6°, לחות 70%, רוח 17.3 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.2°, לחות 68%, רוח 13.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "70%",
-     70
+     "68%",
+     68
     ],
     [
      "רוח",
-     "17.3 קמ״ש"
+     "13.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,33 +82,33 @@ window.NEWS_DATA = {
    "stats": [
     [
      "FC Qyzyljar נגד Astana",
+     "0:0 · מחצית שנייה"
+    ],
+    [
+     "FK Atyrau נגד Okzhetpes",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "Sardarapat FC נגד Pyunik Yerevan",
-     "נדחה"
+     "WSG Tirol נגד Red Bull Salzburg",
+     "0:0 · מחצית ראשונה"
     ],
     [
      "TSV Hartberg נגד Austria Vienna",
-     "טרם התחיל"
+     "0:0 · מחצית ראשונה"
     ],
     [
      "Dynamo Kyiv נגד Kolos Kovalivka",
-     "טרם התחיל"
-    ],
-    [
-     "Racing Santander נגד Villarreal",
-     "טרם התחיל"
+     "0:0 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "דקה 2: ארסנל - מנ. סיטי 0:1",
-   "summary": "מגן הקהילה: לאחר שצירפה את ברונו גימראייש, אלופת אנגליה רוצה להניף עוד תואר, כשהיא פוגשת את הסיטיזנס במשחק הראשון בעידן שאחרי פפ גווארדיולה",
+   "title": "עומר ניראון חתם במכבי חיפה לעונה אחת | נחשף ב-ynet",
+   "summary": "שוער מכבי נתניה בן ה-25 יעלה לכרמל בעסקת השאלה עד קיץ 2027: \"שמח להגיע למועדון ענק עם אתגרים אדירים\"",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/530730",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/22/one1863270/one1863270_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skhqllyvzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/27/Skfep6MYA/Skfep6MYA_655_196_2346_1321_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הפועל באר-שבע/דימונה תשחק בעונה הבאה בליגת העל",
-   "summary": "המועדון הודיע רשמית כי נמצא הפתרון שיאפשר לקבוצה לפתוח את עונת 2026/27 בליגה הבכירה: \"מתחילים מאוחר, אבל יוצאים לדרך עם הרבה אמונה\"",
+   "title": "רונאלדו: \"זו כנראה תהיה השנה האחרונה שלי בכדורגל\"",
+   "summary": "כחודש לאחר שנפרד ממשחקי הגביע העולמי, משתף הפנומן הפורטוגלי בריאיון ל\"ווג\" כי העונה הקרובה עלולה להיות זאת שתנעל את קריירת המועדונים שלו: \"אני רוצה להשאיר אחרי מורשת מרהיבה\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bkfxfnkpmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/12/one1829276/one1829276_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/b1ufosjpzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/28/BkvdbbAMzl/BkvdbbAMzl_346_0_2581_1453_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מצהוב לאדום: יונס מלדה עבר ממכבי ת\"א להפועל באר-שבע",
-   "summary": "הקשר, שמיעט לשחק בשורות הצהובים, חתם בשורות הקבוצה של רן קוז'וך תמורת כ-100 אלף אירו וימריא איתה לקראת המשחק הראשון בפלייאוף ליגת האלופות מול סבאח. לאחר החתימה אמר מלדה: \"שמח ונרגש להצטרף לאלופת המדינה\"",
+   "title": "פרץ לא הצליח להציל: סאות'המפטון פתחה עונה עם הפסד 2:1 לווטפורד",
+   "summary": "הקדושים, שיצאו לדרך עם מינוס 4 נקודות זכר לפרשת הריגול, איבדו נקודות ראשונות על המגרש במשחק חוץ נגד הצרעות. הישראלי פתח בין הקורות, אך לא הצליח למנוע שני שערים במחצית הראשונה. קייל לארין רק צימק",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rk11w9g1wzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/SyzEGK7Jvze/SyzEGK7Jvze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/skimdsjdml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/08/H1RjlGitZe/H1RjlGitZe_0_74_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שמעון בוסקילה נחקר בחשד שאיים על בת זוגו לשעבר",
-   "summary": "הזמר עוכב לחקירה בעקבות הודעת וואטסאפ ששלח לכאורה לבת זוגו לשעבר. הוא טען כי לא איים על זוגתו, ובתום החקירה הוא שוחרר בתנאים מגבילים",
+   "title": "12 הרוגים ברוסיה ואוקראינה, שוק הספרים המפורסם של קייב עלה באש",
+   "summary": "נמשכת ההסלמה בין צבאות פוטין וזלנסקי, שיורים יותר ויותר למטרות אזרחיות: אוקראינה שיגרה למעלה מ-800 כטב\"מים בלילה אחד אל רוסיה, חלקם התפוצצו באזורי מגורים והרגו 5, עוד מחסן של \"אמזון הרוסית\" Wildberries נשרף. רוסיה פגעה בשוק הספרים העתיקים פוצ'אינה, דוכנים עלו …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sy80uzypfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/09/rkw7Q1J8WGl/rkw7Q1J8WGl_0_101_892_503_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/s1eodhkpge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/Bk0k7H1vfl/Bk0k7H1vfl_0_301_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "גשם חריג בבקעת הירדן, סיכוי להצפות נוספות | המוקדים - ומתי תחול התחממות",
-   "summary": "במושב בקעות נרשמו כבר 11 מ\"מ גשם. אחר הצהריים צפויים גשמים גם באזור ירושלים, מדבר יהודה וים המלח. בימים הבאים: התקררות נוספת - ואז מהפך במזג אוויר לקראת הכבדה בעומס החום",
+   "title": "נתניהו סירב להיפגש עם ברקת: \"אין צורך\"",
+   "summary": "רגע לפני הפריימריז, השר ברקת הכחיש את הדיווחים שניסה להדיח את רה\"מ מיד לאחר 7 באוקטובר וניסה ללבן את העניינים - אך נדחה; ח\"כ גוטליב הגישה עתירה לבית הדין של הליכוד נגד השריון של ישראל כ\"ץ, וחזרה בה אחרי שהדיין מיכאל קליינר כתב כי הקמפיין שניהל שר הביטחון היה \"…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hje0znkdfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/15/Skrt7bZAIfg/Skrt7bZAIfg_0_43_1280_720_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/r19peb1dfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/12/31/SJ00lO0CPa/SJ00lO0CPa_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
