@@ -1,7 +1,7 @@
 {
  "date": "יום שני, 17 באוגוסט 2026",
  "date_he": "17/08/2026",
- "updated": "16:15",
+ "updated": "17:18",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.9° / 26.8°",
-   "summary": "כרגע 27.8°, לחות 66%, רוח 13.3 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.4°, לחות 68%, רוח 10.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "66%",
-     66
+     "68%",
+     68
     ],
     [
      "רוח",
-     "13.3 קמ״ש"
+     "10.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
-     "Hapoel Kfar Saba U19 נגד Bnei Yehuda U19",
-     "0:1 · הסתיים"
+     "Maccabi Tel Aviv U19 נגד Hapoel Jerusalem U19",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Maccabi Hertzliya U19 נגד Hapoel Tel Aviv U19",
-     "0:1 · הסתיים"
+     "Hapoel Beer Sheva U19 נגד Maccabi Haifa U19",
+     "1:1 · מחצית ראשונה"
     ],
     [
-     "Hapoel Petah Tikva U19 נגד Kiryat Shmona U19",
-     "2:1 · הסתיים"
+     "Maccabi Netanya U19 נגד Maccabi Petach Tikva U19",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Hapoel Ra'anana U19 נגד Ironi Ramat Hasharon U19",
-     "0:1 · הסתיים"
+     "מכבי חיפה נגד הפועל ירושלים",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Hapoel Rishon LeZion U19 נגד Hapoel Haifa U19",
-     "0:2 · הסתיים"
+     "Hapoel Ramat Gan נגד בית\"ר ירושלים",
+     "1:1 · מחצית ראשונה"
     ]
    ]
   },
@@ -81,24 +81,52 @@
    "image": null,
    "stats": [
     [
-     "Polissya נגד Zorya Luhansk",
-     "1:0 · מחצית שנייה"
-    ],
-    [
      "Qarabag Agdam נגד Shamakhi FK",
-     "1:1 · מחצית ראשונה"
+     "3:1 · מחצית שנייה"
     ],
     [
      "Birkirkara FC נגד Gzira United",
-     "1:0 · מחצית ראשונה"
+     "3:0 · מחצית שנייה"
     ],
     [
      "Noah נגד Alashkert Martuni",
-     "0:0 · מחצית ראשונה"
+     "0:0 · מחצית שנייה"
+    ],
+    [
+     "Polissya נגד Zorya Luhansk",
+     "1:2 · הסתיים"
     ],
     [
      "Hamrun Spartans נגד Mosta FC",
      "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "דקה 10: מכבי חיפה - הפועל י-ם 0:0",
+   "summary": "גביע הטוטו, מקומות 9-10: קצב גבוה בפתיחה. ניסיון מספרת של ברוניניו לא צלח, דמשקאן פספס הזדמנות מכדור נייח. מי תגיע לפתיחת הליגה עם ניצחון?",
+   "source": "ynet - ספורט",
+   "link": "https://livegame.ynet.co.il/games/530831",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/one1879889/one1879889_0_0_800_444_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "דקה 11: הפועל ר\"ג - בית\"ר י-ם 1:0",
+   "summary": "גביע הטוטו, מקומות 7-8: קצב נהדר באצטדיון רחובות. הירושלמים עלו ליתרון כבר בדקה ה-9 מנגיחה מוצלחת של גדראני. מוזי פספס קודם, ברנס החמיץ מנגד",
+   "source": "ynet - ספורט",
+   "link": "https://livegame.ynet.co.il/games/530830",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/one1882338/one1882338_0_0_800_444_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -109,34 +137,6 @@
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/worldsoccer/article/h1u2ajevfe",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/19/BygGSJq9bx/BygGSJq9bx_0_257_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "מתן חוזז חתם בהפועל ר\"ג לעונה עם אופציה לאחת נוספת",
-   "summary": "העולה החדשה לליגת העל צירפה את שחקן ההתקפה ששיחק בשלוש השנים האחרונות בהפועל ירושלים. לאחר החתימה אמר השחקן: \"מגיע עם המון רעב לקראת האתגר החדש\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkprzylvge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/r1KRftgDMe/r1KRftgDMe_0_0_1024_577_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "ההתאחדות מבקשת להשעות את עומר דהן: \"הימר על משחקים של קבוצות שלו\"",
-   "summary": "ההתאחדות לכדוגל פנתה לבית הדין בדרישה להרחיק את חלוץ מכבי חיפה מכל פעילות עד תום ההליך הפלילי נגדו, או לפחות ל-60 ימים. בבקשה נחשף כי קיימת תשתית ראייתית לכך שהיה מעורב בהימורים בלתי חוקיים: \"הימר כעניין שבשגרה על משחקים בליגה שבה שיחק ואף על קבוצותיו\". דהן הכ…",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hyu110ugdfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/18/H1ucxPtPJe/H1ucxPtPJe_1219_273_1782_1003_0_medium.jpg",
    "stats": [
     [
      "מקור",
