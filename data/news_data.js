@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 18 באוגוסט 2026",
  "date_he": "18/08/2026",
- "updated": "18:22",
+ "updated": "19:21",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הדוד שניסה להציל את הלל הקטן: \"הלוואי שהייתי יכול לקחת ממך את הכאב\"",
-  "summary": "שלומי אלון השתתף במאמצי ההחייאה בהלל בן ה-7 בבית שמש, לאחר שמצא את אחיינו ואת בנו פצועים מדקירות בבית סבתם. \"הלוואי שיכולתי לעשות יותר, אני מקווה שהרגשת שאני שם\", ספד הדוד בהלוויית בן ה-7. \"ריי חי - והוא יזכור אותך. השארת זיכרון של ילד עם לב טוב\"",
-  "link": "https://www.ynet.co.il/news/article/s1jq11mmvgx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/rJ8hcPWDfg/rJ8hcPWDfg_0_0_850_479_0_medium.jpg"
+  "title": "טובה עד הפריימריז: עלייתה ונפילתה של עידית סילמן בליכוד",
+  "summary": "כשפירקה את ממשלת השינוי, עידית סילמן זכתה לחיבוק גדול מתומכי נתניהו, אך ארבע שנים לאחר מכן - והפעם בלי לקבל שריון או תמיכה פומבית מרה\"מ - זה לא הספיק בפריימריז בליכוד. השרה, שאת הכנסת הבאה כנראה תראה מהבית, הבינה מיד עם סיום היום המתיש: המצב לא טוב",
+  "link": "https://www.ynet.co.il/news/article/skcdnmzwfl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/S1wDBO11s8zg/S1wDBO11s8zg_92_36_678_382_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.9° / 24.7°",
-   "summary": "כרגע 27.6°, לחות 75%, רוח 11.3 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.5°, לחות 75%, רוח 10.3 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "11.3 קמ״ש"
+     "10.3 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,38 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Rishon Lezion נגד Hapoel Kfar Saba",
-     "2:0 · מחצית שנייה"
-    ],
-    [
-     "Hapoel Akko נגד Maccabi Kiryat Gat",
-     "0:2 · מחצית שנייה"
-    ],
-    [
-     "Hapoel Afula נגד SC Ashdod",
-     "2:0 · מחצית שנייה"
-    ],
-    [
      "Hapoel Kfar Saba U19 נגד Bnei Yehuda U19",
      "0:1 · הסתיים"
     ],
     [
      "Maccabi Hertzliya U19 נגד Hapoel Tel Aviv U19",
      "0:1 · הסתיים"
+    ],
+    [
+     "Hapoel Petah Tikva U19 נגד Kiryat Shmona U19",
+     "2:1 · הסתיים"
+    ],
+    [
+     "Hapoel Ra'anana U19 נגד Ironi Ramat Hasharon U19",
+     "0:1 · הסתיים"
+    ],
+    [
+     "Hapoel Rishon LeZion U19 נגד Hapoel Haifa U19",
+     "0:2 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "בשורה קשה למכבי חיפה: מנואל בנסון סובל מקרע בצולבת ובמיניסקוס",
+   "summary": "הקשר, שנפצע במשחק גביע הטוטו מול הפועל ירושלים, עבר בדיקת MRI, שבה התברר כי הוא סובל מפציעה קשה שתגרום לו להיעדר זמן רב מהמגרשים",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b1ompmgvzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/one1883025/one1883025_0_0_800_444_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -101,16 +115,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "עכשיו זה רשמי: ברצלונה הכריזה על החתמתו של רודרי לארבע שנים",
-   "summary": "הקטלאנים השלימו רשמית את רכישתו של קפטן נבחרת ספרד ממנצ'סטר סיטי תמורת 60 מיליון אירו, כאשר הסכום עשוי לגדול ל-76.5 מיליון בבונוסים",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/byrx311gvme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/S1dwhZfDfl/S1dwhZfDfl_0_476_1536_865_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "הדוד שניסה להציל את הלל הקטן: \"הלוואי שהייתי יכול לקחת ממך את הכאב\"",
+   "summary": "שלומי אלון השתתף במאמצי ההחייאה בהלל בן ה-7 בבית שמש, לאחר שמצא את אחיינו ואת בנו פצועים מדקירות בבית סבתם. \"הלוואי שיכולתי לעשות יותר, אני מקווה שהרגשת שאני שם\", ספד הדוד בהלוויית בן ה-7. \"ריי חי - והוא יזכור אותך. השארת זיכרון של ילד עם לב טוב\"",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/s1jq11mmvgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/rJ8hcPWDfg/rJ8hcPWDfg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -121,20 +135,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/r1u6fezpmg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/30/H1MvLyW4Zl/H1MvLyW4Zl_0_171_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "תקיפה חריגה בנמל עזה: \"7 הרוגים ו-14 פצועים במקום\"",
-   "summary": "צה\"ל תקף מהאוויר מפקדי נוחבה במרחב שאטי ברצועה, בעת פגישה שקיימו באזור הנמל. הפלסטינים טענו שהתקיפה כוונה לבית קפה שבו \"אלפי עקורים\". במקביל: ביישובי העוטף אותר עפיפון עם כיתוב בערבית - שהגיע מהרצועה",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syo4rxfdzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/rkxPUAxGDze/rkxPUAxGDze_0_109_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
