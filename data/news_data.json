@@ -1,39 +1,39 @@
 {
  "date": "יום רביעי, 19 באוגוסט 2026",
  "date_he": "19/08/2026",
- "updated": "20:16",
+ "updated": "21:16",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "האזהרה לישראל: סנקציות כבר לפני הבחירות",
-  "summary": "מכרז חדש לבניית כ-1,200 יחידות דיור באזור E1 מעורר סערה באירופה, שטוענת כי ישראל התחייבה לא לבנות בשטח שמעבר לקו הירוק. גרמניה, צרפת, בריטניה ואיטליה דנות כיצד לפעול, אך חוששות שהטלת סנקציות בתקופה זו דווקא תחזק את נתניהו לקראת הבחירות. מזכ\"ל האו\"ם: \"איום קיומ…",
-  "link": "https://www.ynet.co.il/news/article/s1c1iymdfe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/04/HylVzm1ZwZx/HylVzm1ZwZx_0_0_3000_1689_0_medium.jpg"
+  "title": "רשימה ישנה. בשורה רעה",
+  "summary": "על מה נתניהו מרוצה? אנחנו מקבלים את אותה גברת ללא שינוי אדרת. הרי אף אחד מאלה שנבחרו בפריימריז בליכוד למקומות הריאליים לא היה מוכן לקחת אחריות ולומר: טעינו. יש צורך בחשבון נפש",
+  "link": "https://www.ynet.co.il/news/article/yokra14871529",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/S1Jlr42Uze/S1Jlr42Uze_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.7° / 25.9°",
-   "summary": "כרגע 26.3°, לחות 79%, רוח 14.4 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.4° / 26.0°",
+   "summary": "כרגע 26.1°, לחות 81%, רוח 13.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.7°"
+     "30.4°"
     ],
     [
      "מינימום",
-     "25.9°"
+     "26.0°"
     ],
     [
      "לחות",
-     "79%",
-     79
+     "81%",
+     81
     ],
     [
      "רוח",
-     "14.4 קמ״ש"
+     "13.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,21 +82,31 @@
    "stats": [
     [
      "Atletico Madrid נגד Malaga",
-     "0:0 · מחצית שנייה"
-    ],
-    [
-     "Mamelodi Sundowns נגד Marumo Gallants",
-     "2:0 · הסתיים"
+     "2:0 · הסתיים הרגע"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "חי, מחצית שנייה: הפועל באר-שבע - סבאח 1:1",
-   "summary": "החבורה של רן קוז’וך חולמת על הופעה היסטורית בליגת האלופות ומקווה להשיג תוצאה טובה לקראת הגומלין בשבוע הבא. סימיץ' כבש שער מוקדם לאלופת אזרבייג'אן (6), איסט השווה (43)",
+   "title": "עם ילד הפלא הישראלי על המגרש: ברצלונה זכתה בגביע גאמפר",
+   "summary": "רגע לפני שהאלופה תפתח את העונה, הקטלאנים ניצחו את אל-אהלי המצרית 1:2 במשחק ההכנה המסורתי. 28 דקות לאוריין גורן, שעלה מהספסל",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkesp9mpzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/ryriV9Xwfe/ryriV9Xwfe_323_29_2400_1351_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "90 דקות מליגת האלופות: הפועל באר-שבע ניצחה 1:2 את סבאח",
+   "summary": "הקבוצה של רן קוז'וך התאוששה מעקיצה מוקדמת של סימיץ' (6) והשיגה מהפך עם שני שערים של איסט (43) וזלאטנוביץ' (79) – ששלחו אותה לגומלין באזרבייג'אן עם מקדמה שברירית",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelisoccer/article/h18j0fmdmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/SkU8aTvHfx/SkU8aTvHfx_0_55_1448_816_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/Sk1aK9XvMx/Sk1aK9XvMx_0_243_720_406_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -119,26 +129,12 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "מכבי חיפה: פיטר אגבה הושאל לאלופת הונגריה",
-   "summary": "קשר הירוקים ייצא לשנת השאלה אחת בגיור ההונגרית. על פי דיווחים באוקראינה, שחקן נבחרת אוקראינה דחה הצעה של הירוקים",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjdn0xmwfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/01/ByWxKFFmybl/ByWxKFFmybl_1426_296_1575_887_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "הרוג ושני פצועים קשה בתאונה קטלנית באזור חיפה",
-   "summary": "מותו של ההרוג, כבן 60, נקבע במותו - ואחד הפצועים פונה לבית החולים רמב\"ם בחיפה כשמצבו לא יציב. רוכב אופנוע נפצע קשה ברחוב אצ\"ל בעיר",
+   "title": "השסע החדש",
+   "summary": "מה שהיה השסע בין \"יהודים\" ל\"ישראלים\" בשלושת העשורים האחרונים, יהיה השסע שבין משרתים ללא-משרתים בשנים הבאות",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkq6ky7dzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/SyHQcYXvzx/SyHQcYXvzx_0_175_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14871398",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/rJuKNbo8Gl/rJuKNbo8Gl_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,11 +144,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "המרוץ לתפקיד מזכ\"ל האו\"ם: המועמדת החדשה, מפת הסיכויים - והיחס לישראל",
-   "summary": "איוון א-באקי, דיפלומטית בת 40 שנות ניסיון מאקוודור, הצטרפה לרשימת המועמדים להחליף את אנטוניו גוטרש. כעת עולה השאלה האם היא תצליח לאתגר את רבקה גרינשפן מקוסטה ריקה שנחשבת למועמדת מובילה לתפקיד. רשימת המועמדים המלאה - ויחסם לישראל",
+   "title": "לחזק,  לבצר, לפתח",
+   "summary": "המציאות החדשה מחייבת לא רק תפיסה ביטחונית של הגבול, אלא גם תפיסה אזרחית: קהילות חזקות, חקלאות, חינוך, תעסוקה ונוכחות אזרחית יציבה. גבול אינו רק קו שמגינים עליו; הוא גם מרחב שחיים בו",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1ists7dml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/Syy11RSXwGe/Syy11RSXwGe_0_66_400_225_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14868544",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/r1yiHru8Me/r1yiHru8Me_0_0_1280_742_0_medium.jpg",
    "stats": [
     [
      "מקור",
