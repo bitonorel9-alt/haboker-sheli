@@ -1,7 +1,7 @@
 {
  "date": "יום חמישי, 20 באוגוסט 2026",
  "date_he": "20/08/2026",
- "updated": "22:16",
+ "updated": "23:17",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.9° / 27.5°",
-   "summary": "כרגע 27.9°, לחות 80%, רוח 16.9 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 28.0°, לחות 79%, רוח 14.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "80%",
-     80
+     "79%",
+     79
     ],
     [
      "רוח",
-     "16.9 קמ״ש"
+     "14.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -88,11 +88,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "מרשים: הפועל ת\"א סיימה ב-0:0 מול אטאלנטה",
-   "summary": "האדומים של ברדה שיחקו מצוין, כמעט ולא אפשרו לאיטלקים להגיע למצבי הבקעה וסיימו בתיקו נהדר בברגמו מול קבוצת הפאר. אסף צור בלט בין הקורות, מאיימבו וצ'יקו עשו עבודה נפלאה בהגנה ובואטנג החמיץ מקרוב. בחמישי הבא ייערך מפגש הגומלין בין השתיים בהונגריה",
+   "title": "דרמה של קיץ: כך הסתבך מעברו של רביבו לאלצ'ה | בלעדי",
+   "summary": "מגן מכבי ת\"א ונבחרת ישראל כבר סיכם את תנאיו בקבוצה הספרדית, אך דרישות חדשות מצד הצהובים, טענות על הבטחות שהופרו ומשבר אמון חריף בין משפחת רביבו להנהלת המועדון הציבו את העסקה על פי תהום. אנטומיה של משבר מבית היוצר של קריית-שלום",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hklrccnwme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/H1kBV1HwGg/H1kBV1HwGg_0_312_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rkvqz0epge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/rkkSE2EPMg/rkkSE2EPMg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +102,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "הפתעה בטורקיה: קניקובסקי ופרנצווארוש ניצחו את מוחמד סלאח",
-   "summary": "הישראלי עלה מהספסל בדקה ה-61 ב-0:1 המפתיע מול טרבזונספור בפלייאוף הליגה האירופית. הכוכב המצרי פתח בהרכב הטורקים ולא הושיע. 72 דקות לגלוך ב-2:4 של איאקס",
+   "title": "סורקין: \"עכשיו כולם הגיעו לנבחרת ישראל עם חיוך\"",
+   "summary": "עם מאזן מורכב של 4:2, ללא נציגי ה-NBA ועם קפטן חדש, החבורה של אריאל בית הלחמי יצאה לצמד מפגשים עם פולין ולטביה שיקבעו אם חלום המונדובאסקט יישאר חי או שההמשך יהיה לפרוטוקול בלבד. ים מדר משדר רוגע, רומן סורקין ותמיר בלאט חוזרים לחזק את השורות, ובמחנה הלאומי מבהי…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rjrjw0ndgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/13/ryVndfW9Zx/ryVndfW9Zx_0_91_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/h12k93evfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/H1iISOmkwMx/H1iISOmkwMx_620_163_2381_1341_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +116,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "עם הפנים לגומלין: מכבי ת\"א הפסידה 2:1 ללוגאנו",
-   "summary": "הצהובים סיפקו הופעה פושרת ונוצחו במשחק החוץ בפלייאוף העלייה לקונפרנס ליג. ברנס (30') וגרגיץ' (54') כבשו לשווייצרים, שחר השווה זמנית (47')",
+   "title": "אלמוג כהן חתם על חוזה משודרג ל-3 שנים בבית\"ר ירושלים | פרסום ראשון",
+   "summary": "הבעת אמון של ברק אברמוב במאמנו, רגע לפני פתיחת העונה: שכרו של כהן ישודרג בכ-35 אחוז והוא יקבל מעתה 75 אלף שקל בחודש",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/531096",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/one1883462/one1883462_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syljzrndme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/BJpvGANDGl/BJpvGANDGl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -200,20 +200,6 @@
   },
   {
    "section": "בידור",
-   "title": "לא, זה לא גשם / דנה ספקטור",
-   "summary": "",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14868377",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/ryGYJ3JEgR/ryGYJ3JEgR_0_0_1920_1080_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
    "title": "20 שנה למותו של ס. יזהר ז\"ל: מלחמות אינן נופלות מן השמיים",
    "summary": "אגי משעול חוזרת ל'חִרבת חִזעה' ו'השבוי', היצירות של ס. יזהר שעוד הספיקה ללמד בתיכון לפני שהפכו מוקצות, אבל ממשיכות לרדוף אותנו גם כשהן קבורות עמוק במרתפי ההדחקה",
    "source": "ynet - תרבות ובידור",
@@ -233,6 +219,20 @@
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/yokra14866379",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/18/H1fUSwAlC/H1fUSwAlC_0_0_1920_1080_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "לא, זה לא גשם / דנה ספקטור",
+   "summary": "",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14868377",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/ryGYJ3JEgR/ryGYJ3JEgR_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
