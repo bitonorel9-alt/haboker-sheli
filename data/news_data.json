@@ -1,20 +1,20 @@
 {
  "date": "יום שישי, 21 באוגוסט 2026",
  "date_he": "21/08/2026",
- "updated": "04:28",
+ "updated": "05:23",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "גבר נרצח בגליל התחתון",
-  "summary": "הגבר, כבן 31, נורה למוות סמוך לעראבה. צוות מד\"א שהוזעק למקום קבע את מותו במקום לאחר שנמצא עם \"פציעה קריטית\" וללא סימני חיים",
-  "link": "https://www.ynet.co.il/news/article/rjj7yuhvgl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/B1THkIrPfe/B1THkIrPfe_0_0_1280_720_0_medium.jpg"
+  "title": "תומכת דאעש תכננה פיגוע בניו יורק - ופנתה לסוכן FBI ש\"סייע\" לה, עד למעצר",
+  "summary": "5 שנים לאחר שהתאסלמה, ג'סיקה בואי בת ה-35 החליטה לפוצץ מטען בקפיטול של מדינת ניו יורק ו\"להרוג כמה שיותר\" מיושביו - אך פנתה לסיוע ממודיע של ה-FBI, שליווה אותה בכל צעד עד למעצרה. בואי, שתכננה להסוות את המטען כמשלוח אוכל, הבינה שמצבה אבוד: \"אני יודעת שאני הולכת ל…",
+  "link": "https://www.ynet.co.il/news/article/ry2gvbhwfl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/BJfs8orBwMx/BJfs8orBwMx_64_17_1161_654_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.1° / 27.7°",
-   "summary": "כרגע 28.6°, לחות 77%, רוח 6.9 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.2°, לחות 74%, רוח 7.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "77%",
-     77
+     "74%",
+     74
     ],
     [
      "רוח",
-     "6.9 קמ״ש"
+     "7.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -91,6 +91,38 @@
     [
      "Wadi Degla נגד Zed FC",
      "טרם התחיל"
+    ],
+    [
+     "Ararat Yerevan נגד Pyunik Yerevan",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "במכבי ת\"א מודאגים אחרי ההפסד: \"אם לא נעלה זו תהיה קטסטרופה\"",
+   "summary": "הצהובים מאוכזבים אחרי ה-2:1 ללוגאנו, אך מאמינים ביכולתם לעבור: \"ננצח בבאטומי\". לצד זאת, חלק מהשחקנים ביקרו את ההתנהלות בקיץ האחרון בגזרת הרכש: \"היערכות מביכה\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syhcblrvzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/r1jNYLBwMg/r1jNYLBwMg_0_0_818_460_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "בהפועל ת\"א שיבחו את ברדה: \"נתן נוקאאוט לאחד המאמנים הגדולים באיטליה\"",
+   "summary": "האדומים התמוגגו מהיכולת שהציגו השחקנים במשחק החוץ מול אטאלנטה (0:0): \"לראות את ההגנה שלנו מתמודדת עם שדרת הכוכבים של קבוצת ליגת אלופות כזו, זה לא פחות ממדהים\". ברדה: \"ידענו שנגיע ונסתכל להם בעיניים\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bywdrhbvfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/BkRGp0EPMl/BkRGp0EPMl_0_81_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -109,40 +141,12 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "אלמוג כהן חתם על חוזה משודרג ל-3 שנים בבית\"ר ירושלים | פרסום ראשון",
-   "summary": "הבעת אמון של ברק אברמוב במאמנו, רגע לפני פתיחת העונה: שכרו של כהן ישודרג בכ-35 אחוז והוא יקבל מעתה 75 אלף שקל בחודש",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syljzrndme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/BJpvGANDGl/BJpvGANDGl_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "דרמה של קיץ: כך הסתבך מעברו של רביבו לאלצ'ה | בלעדי",
-   "summary": "מגן מכבי ת\"א ונבחרת ישראל כבר סיכם את תנאיו בקבוצה הספרדית, אך דרישות חדשות מצד הצהובים, טענות על הבטחות שהופרו ומשבר אמון חריף בין משפחת רביבו להנהלת המועדון הציבו את העסקה על פי תהום. אנטומיה של משבר מבית היוצר של קריית-שלום",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rkvqz0epge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/rkkSE2EPMg/rkkSE2EPMg_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "מנצחים את הבית, מפסידים בחוץ",
-   "summary": "ההתנהלות של ראש הממשלה בנימין נתניהו לקראת הפריימריז, והחלטותיו בנוגע לשריונים, נראו תמוהות ובלתי ניתנות להסבר. ואז התפרסם משהו שגרם לכל התמונה להתבהר - לפחות מבחינה התנהגותית",
+   "title": "נתב\"ג עלה למקום הראשון במדד השיבושים העולמי: \"הפסדנו אלפי שקלים, ועדיין כאן\"",
+   "summary": "שיא ישראלי חדש: נמל התעופה בן גוריון כבש את ראש טבלת השיבושים העולמית של אתר Flightradar24, בהמראות ובנחיתות. באולם הנוסעים מכריזים שוב ושוב על עיכובים, כשנוסעים ממתינים יותר משעתיים גם למזוודות. \"הפסדנו המון כסף בטרלול הזה, אבל לא רצינו לאכזב את הילדים\", סיפר…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rykyffqdfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/HJgM1dLDUzg/HJgM1dLDUzg_0_0_1280_852_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bysnzlsvml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/HJWFVUBPMx/HJWFVUBPMx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -152,11 +156,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "כך גנב המוסד את מטוס הקרב המתקדם בעולם",
-   "summary": "איך הפך טייס עיראקי מתוסכל לנכס האסטרטגי החשוב ביותר של המוסד. הפודקאסט \"עיתונות חופרת\" חוזר לאחת מפעולות הריגול הנועזות ביותר של הביון הישראלי",
+   "title": "גבר נרצח בגליל התחתון",
+   "summary": "הגבר, כבן 31, נורה למוות סמוך לעראבה. צוות מד\"א שהוזעק למקום קבע את מותו במקום לאחר שנמצא עם \"פציעה קריטית\" וללא סימני חיים. המשטרה פתחה בחקירה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hkxmrgkwge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/ryhXaEJvGx/ryhXaEJvGx_0_93_1000_563_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rjj7yuhvgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/B1THkIrPfe/B1THkIrPfe_0_0_1280_720_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -208,6 +212,20 @@
   },
   {
    "section": "בידור",
+   "title": "סדרת \"הרוע שבפנים\" מסרבת למות. עכשיו מתברר שגם לשדים יש ביטוח שיניים",
+   "summary": "סאגת האימה המשפחתית שהכניסה מיליונים חוזרת לסיבוב נוסף עם \"הרוע שבפנים: מחוץ למעבר״, כשבפרק השישי שלה שיננית צעירה חוזרת לבית ילדותה ומגלה שהטראומה של אמה עברו אליה ואל בתה בירושה. אבל מוכרחים להודות שבשלב זה גם בתור גילטי-פלז'ר הסדרה מיצתה את עצמה",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/rjkaffepml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/S1TMd6NvMl/S1TMd6NvMl_0_0_738_414_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "\"בברצלונה ובאמסטרדם, מקומות עוינים לישראל, ההופעות שלי היו סולד-אאוט\"",
    "summary": "מאמן מוזיקה אלקטרונית מחתרתי, עמרי סמדר הפך להיות מי ששלום חנוך ואביב גפן פונים אליו להפיק עיבודים לשירים שלהם. עכשיו הוא מגיע עם המופע שלו למכה של המוזיקה הישראלית, קיסריה, ולמרוץ הסינגלס ראן הפופולרי ומספר על הדרך הארוכה שעבר, היחס המפתיע לטובה שקיבל בחו\"ל –…",
    "source": "ynet - תרבות ובידור",
@@ -227,20 +245,6 @@
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/r1ur1pedfx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/Bkp002tePMl/Bkp002tePMl_0_257_1066_601_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "מזל יתומה - חלק ראשון",
-   "summary": "בלעדי למנויי ידיעות+: יתומה אדומת שיער חובבת ספרות מוצאת עצמה תחת חסותו של סוכן מוסד לשעבר, אך המפגש המסתורי חושף פשע קדום ושאלות על מוצאה האמיתי. מותחן רומנטי ישראלי שמוגש בהמשכים, חלק נוסף מדי יום. החלק הראשון",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/xb6qpm6e3",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/rkxexDVXvMe/rkxexDVXvMe_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
