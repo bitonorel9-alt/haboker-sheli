@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
- "date": "יום חמישי, 20 באוגוסט 2026",
- "date_he": "20/08/2026",
- "updated": "23:17",
+ "date": "יום שישי, 21 באוגוסט 2026",
+ "date_he": "21/08/2026",
+ "updated": "00:43",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,8 +13,8 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.9° / 27.5°",
-   "summary": "כרגע 28.0°, לחות 79%, רוח 14.2 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.9° / 27.6°",
+   "summary": "כרגע 28.2°, לחות 79%, רוח 11.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,7 +24,7 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "27.5°"
+     "27.6°"
     ],
     [
      "לחות",
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "14.2 קמ״ש"
+     "11.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Maccabi Tel Aviv U19 נגד Hapoel Jerusalem U19",
-     "1:0 · הסתיים"
+     "Ironi Modiein נגד Maccabi Hertzliya",
+     "0:2 · הסתיים"
     ],
     [
-     "Hapoel Beer Sheva U19 נגד Maccabi Haifa U19",
-     "2:4 · הסתיים"
+     "Hapoel Rishon Lezion נגד Hapoel Kfar Saba",
+     "2:0 · הסתיים"
     ],
     [
-     "Maccabi Netanya U19 נגד Maccabi Petach Tikva U19",
-     "2:1 · הסתיים"
+     "Hapoel Akko נגד Maccabi Kiryat Gat",
+     "0:2 · הסתיים"
     ],
     [
-     "מכבי חיפה נגד הפועל ירושלים",
-     "0:1 · הסתיים"
+     "Hapoel Kfar Shalem נגד MS Kfar Kassem",
+     "2:0 · הסתיים"
     ],
     [
-     "Hapoel Ramat Gan נגד בית\"ר ירושלים",
-     "3:3 · After Penalties"
+     "מכבי בני ריינה נגד Bnei Yehuda",
+     "1:4 · הסתיים"
     ]
    ]
   },
@@ -200,11 +200,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "20 שנה למותו של ס. יזהר ז\"ל: מלחמות אינן נופלות מן השמיים",
-   "summary": "אגי משעול חוזרת ל'חִרבת חִזעה' ו'השבוי', היצירות של ס. יזהר שעוד הספיקה ללמד בתיכון לפני שהפכו מוקצות, אבל ממשיכות לרדוף אותנו גם כשהן קבורות עמוק במרתפי ההדחקה",
+   "title": "זוהי קריאה אחרונה / רענן שקד",
+   "summary": "האנושות כבר לא רוצה לקרוא. בכלל. והמוח משתנה בהתאם. האם זה הזמן להיפטר סופית מהספרייה שלי?",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14864593",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/S1iFL00xwzx/S1iFL00xwzx_0_0_1920_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14869360",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -214,11 +214,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "עוד לא אבדה / דניאלה לונדון דקל",
-   "summary": "אין ספק שהייאוש נוח יותר, אבל לאחרונה התגנב לליבי רגש מוזר: תקווה. בטח יעבור לי תכף. או שלא",
+   "title": "20 שנה למותו של ס. יזהר ז\"ל: מלחמות אינן נופלות מן השמיים",
+   "summary": "אגי משעול חוזרת ל'חִרבת חִזעה' ו'השבוי', היצירות של ס. יזהר שעוד הספיקה ללמד בתיכון לפני שהפכו מוקצות, אבל ממשיכות לרדוף אותנו גם כשהן קבורות עמוק במרתפי ההדחקה",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14866379",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/18/H1fUSwAlC/H1fUSwAlC_0_0_1920_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14864593",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/S1iFL00xwzx/S1iFL00xwzx_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -243,18 +243,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "פרדוקס הספינה של תזאוס",
-   "summary": "אם מחליפים כל חלק בספינה בהדרגה — האם היא עדיין אותה ספינה? שאלה על זהות ורציפות.",
-   "source": "תמצית ידע יומית · פילוסופיה",
+   "title": "למה נמלים לא הולכות לאיבוד",
+   "summary": "הן משאירות שביל פרומונים; ככל שהמסלול קצר יותר, הריח מתחזק מהר יותר — אלגוריתם מציאת דרך טבעי.",
+   "source": "תמצית ידע יומית · טבע",
    "link": "",
    "stats": [
     [
      "תחום",
-     "פילוסופיה"
+     "טבע"
     ],
     [
      "עובדה בונוס",
-     "המילה 'רובוט' נטבעה במחזה צ׳כי ב-1920."
+     "לב הכחול הכי גדול — הלווייתן הכחול — במשקל של מכונית."
     ]
    ]
   }
