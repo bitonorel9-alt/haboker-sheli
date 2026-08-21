@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 21 באוגוסט 2026",
  "date_he": "21/08/2026",
- "updated": "00:43",
+ "updated": "02:17",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@ window.NEWS_DATA = {
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.9° / 27.6°",
-   "summary": "כרגע 28.2°, לחות 79%, רוח 11.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 28.0°, לחות 81%, רוח 10.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "79%",
-     79
+     "81%",
+     81
     ],
     [
      "רוח",
-     "11.4 קמ״ש"
+     "10.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -200,11 +200,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "זוהי קריאה אחרונה / רענן שקד",
-   "summary": "האנושות כבר לא רוצה לקרוא. בכלל. והמוח משתנה בהתאם. האם זה הזמן להיפטר סופית מהספרייה שלי?",
+   "title": "משוואה עם שתי נעלמות / שלמה ארצי",
+   "summary": "לא כל מי שנעלם רוצה שימצאו אותו מיד. לפעמים הוא רק רוצה לוודא שכשיחזור יישאר בתוכו מישהו או משהו שאפשר למצוא",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14869360",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14869345",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/BJdY1hkNxC/BJdY1hkNxC_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -228,11 +228,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "לא, זה לא גשם / דנה ספקטור",
-   "summary": "",
+   "title": "זוהי קריאה אחרונה / רענן שקד",
+   "summary": "האנושות כבר לא רוצה לקרוא. בכלל. והמוח משתנה בהתאם. האם זה הזמן להיפטר סופית מהספרייה שלי?",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14868377",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/ryGYJ3JEgR/ryGYJ3JEgR_0_0_1920_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14869360",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
