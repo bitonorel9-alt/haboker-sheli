@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 22 באוגוסט 2026",
  "date_he": "22/08/2026",
- "updated": "03:34",
+ "updated": "04:22",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "התחזית: הקלה קלה בעומסי החום - שעדיין יהיו כבדים עד קיצוניים ברוב הארץ",
-  "summary": "הטמפרטורות יירדו מעט היום, בעיקר בהרים ובפנים הארץ, אך ברוב האזורים עדיין ישררו עומסי חום כבדים עד קיצוניים. מחר תחול ירידה קלה נוספת במידות החום",
-  "link": "https://www.ynet.co.il/news/article/ztz7rs0i2",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/B18fp1kiBA/B18fp1kiBA_0_204_3000_1689_0_medium.jpg"
+  "title": "בן 25 נפצע קשה מירי ליד קריית גת",
+  "summary": "כוחות הצלה איתרו את הפצוע בתוך רכב סמוך לצומת פלוגות. כביש 40 מהצומת לכיוון דרום נסגר לתנועה. המשטרה: הרקע פלילי",
+  "link": "https://www.ynet.co.il/news/article/rj8pvqlvze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/13/HkBIu9FJkg/HkBIu9FJkg_125_374_2083_1173_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.6° / 27.8°",
-   "summary": "כרגע 27.8°, לחות 82%, רוח 6.2 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 31.0° / 27.7°",
+   "summary": "כרגע 28.2°, לחות 77%, רוח 7.5 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.6°"
+     "31.0°"
     ],
     [
      "מינימום",
-     "27.8°"
+     "27.7°"
     ],
     [
      "לחות",
-     "82%",
-     82
+     "77%",
+     77
     ],
     [
      "רוח",
-     "6.2 קמ״ש"
+     "7.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -83,16 +83,20 @@ window.NEWS_DATA = {
     [
      "Southern District נגד Hong Kong FC",
      "טרם התחיל"
+    ],
+    [
+     "Hong Kong Rangers נגד Kitchee",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "ארסנל פתחה את העונה בפרמייר-ליג עם 0:3 על קובנטרי",
-   "summary": "האלופה הוציאה לדרך את עונת 2026/7 בליגה האנגלית עם ניצחון משכנע. קאי האברץ כבש ראשון בדקה ה-15, בוקאיו סאקה הכפיל (23) ומרטין אודגור השלים את החגיגה (49)",
+   "title": "רגע לפני שריקת הפתיחה: דירוג העוצמה של קבוצות ליגת העל",
+   "summary": "מהקבוצה שרק תרוויח מההדחה באירופה ואולי תלך הפעם עד הסוף, דרך האימפריה שנרדמה בקיץ ועלולה להתעורר לסיוט - ועד אלופת השערוריות שמתפללת לנס שכמותו הכדורגל הישראלי לא ידע",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hjhnbnlvme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/S1BvTQ8DMl/S1BvTQ8DMl_103_103_2191_1233_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/b1fork7pge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/SkW515XPzl/SkW515XPzl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +106,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "עוזב את דאלאס: קליי תומפסון בדרך למיאמי",
-   "summary": "דיווח ב-ESPN: אחרי שנתיים במאבריקס, הקלעי בן ה-36 ביקש להשתחרר כדי להצטרף לקונטנדרית - וצפוי לחבור ליאניס ואדבאיו בהיט",
+   "title": "34 מיליון ליש\"ט שנראים כמו מציאה: הנשק החדש של ארסנל",
+   "summary": "אחרי שני בישולים במגן הקהילה, חריסטוס זוליס המשיך להרשים גם במחזור הפתיחה של הפרמייר-ליג. הרכש מקלאב ברוז' היה מעורב בשני השערים הראשונים ב-0:3 על קובנטרי וזכה למחמאות. אודוגור: \"הוא מדהים\", ארטטה: \"מביא איתו אנרגיה בכל פעם שהכדור אצלו\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hy40sqidfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/07/SJawKW7Kye/SJawKW7Kye_0_43_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rj1viqipgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/BkgaKcLwfe/BkgaKcLwfe_1_114_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,15 +120,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בבכורה העונה באל-נאסר: כריסטיאנו רונאלדו כבש את שערו ה-977 בקריירה | צפו",
-   "summary": "הכוכב הפורטוגלי בן ה-41 (בשיער ג'ינג'י) עלה מהספסל, כבש בבעיטה נהדרת ברגל שמאל בדרך ל-0:4 על אל-ריאד בסעודיה. כעת נותרו לו 23 בלבד בדרך לציון דרך מטורף",
+   "title": "בגיל 40, בקבוצת חובבים: אוסיין בולט בדרך לקאמבק מפתיע?",
+   "summary": "חולה על כדורגל: שמו של האצן האגדי, שניסה את מזלו בעבר בליגה האוסטרלית, הופיע ברשימת הסגל של קבוצת חובבים ממנצ'סטר. במועדון טרם אישרו רשמית את צירופו, אך האפשרות כבר מעוררת עניין רב",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/ryp11vz8vge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/SJyoffUvzl/SJyoffUvzl_19_451_2191_1233_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hkltc9ivgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/BJQ8h5Uvzg/BJQ8h5Uvzg_145_0_808_455_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "פוליטיקה",
+   "title": "התחזית: הקלה קלה בעומסי החום - שעדיין יהיו כבדים עד קיצוניים ברוב הארץ",
+   "summary": "הטמפרטורות יירדו מעט היום, בעיקר בהרים ובפנים הארץ, אך ברוב האזורים עדיין ישררו עומסי חום כבדים עד קיצוניים. מחר תחול ירידה קלה נוספת במידות החום",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/ztz7rs0i2",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/B18fp1kiBA/B18fp1kiBA_0_204_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - חדשות"
     ]
    ]
   },
@@ -135,20 +153,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/hjb7zp8dge",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/29/Sksb3CJAWx/Sksb3CJAWx_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "אם ובתה נדקרו מחוץ לביתן ברמלה, האב נעצר",
-   "summary": "השתיים, אישה בשנות ה-40 לחייה ובתה בת ה-18, נפצעו בינוני מחוץ לביתן בשכונת ג'ואריש. המשטרה עצרה את האבא: \"הרקע - סכסוך משפחתי\"",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/ryjparipmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/ryPkLSLwzl/ryPkLSLwzl_0_183_2048_1152_0_medium.jpg",
    "stats": [
     [
      "מקור",
