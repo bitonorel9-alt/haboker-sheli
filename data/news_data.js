@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 22 באוגוסט 2026",
  "date_he": "22/08/2026",
- "updated": "06:22",
+ "updated": "07:23",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "שליח טראמפ: ייתכן שישראל רצתה לפתות את טורקיה לתקוף: \"יתקבל טוב בבחירות\"",
-  "summary": "שגריר ארה\"ב בטורקיה טום ברק התייחס לתקיפה הישראלית החריגה בסוריה ואמר: \"תיאוריה אחת היא שישראל פשוט ניסתה לפתות את טורקיה. זה מהלך אגרסיבי, אבל כזה שאולי יתקבל היטב לקראת הבחירות\". עוד אמר, שבניגוד למידע שהציגה ישראל, לא ידוע לארה\"ב על כוונה טורקית להציב כוחות…",
-  "link": "https://www.ynet.co.il/news/article/rkfvu2ivgl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/26/Hy11ki3Szwle/Hy11ki3Szwle_0_108_3000_1689_0_medium.jpg"
+  "title": "על מה הוא כל כך להוט להגן?",
+  "summary": "במקום לסייע בהשבת אמון הציבור שנפגע, נשיא העליון עמית משכתב את החלטת בית המשפט בפרשת הפצ\"רית בנוגע לחובת הליווי החיצוני - ונוקט פוליטיקה של ציפוף שורות",
+  "link": "https://www.ynet.co.il/news/article/yokra14872041",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/yk14872202/yk14872202_0_37_548_309_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.7° / 27.6°",
-   "summary": "כרגע 29.1°, לחות 72%, רוח 10.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.8°, לחות 71%, רוח 11.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "72%",
-     72
+     "71%",
+     71
     ],
     [
      "רוח",
-     "10.4 קמ״ש"
+     "11.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -87,6 +87,10 @@ window.NEWS_DATA = {
     [
      "Hong Kong Rangers נגד Kitchee",
      "טרם התחיל"
+    ],
+    [
+     "Hull City נגד Manchester United",
+     "טרם התחיל"
     ]
    ]
   },
@@ -134,11 +138,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "המחבל נתפס במקרה, ואז החוקר נזכר ברצח המסתורי שלא פוענח: \"יש כאן התאמה\"",
-   "summary": "במשך שלוש שנים וחצי תיק הרצח של בני הזוג כדורי בארמון הנציב נותר בגדר תעלומה. אלא שאז, רצח אחר לגמרי של פועל זר טרף את הקלפים: הסיפור המלא על התפנית הדרמטית, החוקר שחיבר את הקצוות, וטיפת הדם הזעירה שנמצאה במחסן והובילה למחבל דאעש אכזרי - שהיה למדינה תמיד מתחת …",
+   "title": "בצלמו ובדמותו",
+   "summary": "מתפקדי הליכוד, שהציבו בעשירייה הראשונה את תומכי הרפורמה המשפטית של יריב לוין, העבירו מסר ברור: ממשיכים בכל הכוח. השריונים של נתניהו יהיו לא יותר מקישוט",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hjt0fd7dzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/05/31/SkCU6P482/SkCU6P482_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14871852",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/yk14871811/yk14871811_0_0_611_503_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,11 +152,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בן 25 נפצע קשה מירי ליד קריית גת",
-   "summary": "כוחות הצלה איתרו את הפצוע בתוך רכב סמוך לצומת פלוגות. כביש 40 מהצומת לכיוון דרום נסגר לתנועה. המשטרה: הרקע פלילי",
+   "title": "של מי הרצון ומי הבוחר",
+   "summary": "זה לא היה יום הבוחר. זה היה יום רצון הבוחר, כשהבוחר הוא נתניהו. פריימריז של איש אחד, או במקרה זה שלושה - שלישיית \"המדינה זה אנחנו\": ביבי, שרה ויאיר",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rj8pvqlvze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/13/HkBIu9FJkg/HkBIu9FJkg_125_374_2083_1173_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14872894",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/rJieVjxvfe/rJieVjxvfe_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -204,6 +208,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "המוזיקאי מתי גוריון, בנו של ישראל גוריון, הלך לעולמו בגיל 49",
+   "summary": "גוריון, גיטריסט ומתופף שלאורך השנים ניגן גם לצד אביו, נפטר לאחר מאבק במחלה קשה. אמו ספדה לו: \"מנוחה נכונה לך אהוב שלי, לבי בוכה\"",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/ryipd3uvml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/rJDPsnIwfl/rJDPsnIwfl_415_326_1098_618_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "פרמאונט תוקפת את כוכב מארוול, מארק רופאלו: \"משתמש בדימויים אנטישמיים\"",
    "summary": "אחרי שכבר יצא נגד עסקת הענק לרכישת האחים וורנר, השחקן שידוע בעמדותיו נגד ישראל שיתף סרטון שבו צפרא כץ, חברת דירקטוריון פרמאונט ובכירה באורקל, מספרת על הטכנולוגיה שהחברה העמידה לרשות צה\"ל, קשר אותה למשפחת אליסון וטען כי היא מתגאה ב\"רצח-עם\" וב\"אפרטהייד\". בפרמאונ…",
    "source": "ynet - תרבות ובידור",
@@ -223,20 +241,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/h1yjw00nvzx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/ByVVxU4wMx/ByVVxU4wMx_1155_326_1684_948_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "מזל יתומה - חלק שני",
-   "summary": "בלעדי למנויי ידיעות+: יתומה אדומת שיער חובבת ספרות מוצאת עצמה תחת חסותו של סוכן מוסד לשעבר, אך המפגש המסתורי חושף פשע קדום ושאלות על מוצאה האמיתי. מותחן רומנטי ישראלי שמוגש בהמשכים, חלק נוסף מדי יום. החלק הראשון",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/5o3gl9fq0",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/rkxexDVXvMe/rkxexDVXvMe_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
