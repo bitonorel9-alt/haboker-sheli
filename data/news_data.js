@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 22 באוגוסט 2026",
  "date_he": "22/08/2026",
- "updated": "13:24",
+ "updated": "14:12",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "ההודעה החריגה של כ\"ץ, במהלך השבת: זה מה שקדם לתקיפה בעומק סוריה",
-  "summary": "לטענת שר הביטחון, צה\"ל הוא שהמליץ לתקוף את שדה התעופה שממוקם עשרות ק\"מ מטורקיה, בעקבות \"מידע מודיעיני ברור על כוונה של אנקרה לבצע בו פעולות שיסכנו את ביטחון ישראל\". הוא שלח מסר לארדואן ש\"נתפס עם היד בתוך צנצנת העוגיות\" - והשיב גם לשליח האמריקני: \"תגובתו לא מדו…",
-  "link": "https://www.ynet.co.il/news/article/hy6hdmwdzg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/B1OJ6MDvfl/B1OJ6MDvfl_0_0_850_479_0_medium.jpg"
+  "title": "יאיר גולן: \"אסור להיות תמימים - נתניהו רוצה משבר ביטחוני ולשבש את הבחירות\"",
+  "summary": "יו\"ר הדמוקרטים לא מתנצל על התבטאויות מעוררות מחלוקת, ורק דבר אחד מדאיג אותו: \"מי שחושב שנתניהו, סמוטריץ' ובן גביר יקבלו את תוצאות הבחירות לא מבין עם מי יש לנו עסק\". לדבריו, הוא לא בכיס של איש מראשי מחנה השינוי: \"אני חושש מהרשימות שלהם. לא ניכנס לממשלה רק כדי ל…",
+  "link": "https://www.ynet.co.il/news/article/yokra14872007",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/Hygxcl4Qwvfg/Hygxcl4Qwvfg_0_225_853_481_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.8° / 27.6°",
-   "summary": "כרגע 30.1°, לחות 71%, רוח 18.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.8°, לחות 72%, רוח 17.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "71%",
-     71
+     "72%",
+     72
     ],
     [
      "רוח",
-     "18.0 קמ״ש"
+     "17.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,10 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Bnei Yehuda U19 נגד Hapoel Petah Tikva U19",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
      "Ironi Nir Ramat HaSharon נגד Maccabi Ironi Ashdod",
      "2:1 · After ET"
     ],
@@ -59,16 +63,56 @@ window.NEWS_DATA = {
      "1:3 · הסתיים"
     ],
     [
-     "Bnei Yehuda U19 נגד Hapoel Petah Tikva U19",
-     "טרם התחיל"
-    ],
-    [
      "Hapoel Haifa U19 נגד Ironi Ramat Hasharon U19",
      "טרם התחיל"
     ],
     [
      "Hapoel Hadera U19 נגד Hapoel Beer Sheva U19",
      "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "Everton נגד Crystal Palace",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Ipswich נגד Sunderland",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Nottingham Forest נגד Leeds United",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Kairat Almaty נגד Irtysh Pavlodar",
+     "נדחה"
+    ],
+    [
+     "Vale Of Leithen נגד Drumchapel United Fc",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "דקה 6: אברטון - פאלאס 0:0",
+   "summary": "פרמייר ליג, מחזור ראשון: אחרי המעבר המתוקשר בקיץ, כל העיניים נשואות לענאן חלאילי, שנכלל לראשונה בסגל קבוצתו, יפתח על הספסל וימתין להזדמנות",
+   "source": "ynet - ספורט",
+   "link": "https://livegame.ynet.co.il/games/531235",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/20/one1848825/one1848825_0_0_800_444_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -101,16 +145,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "הספורטאי הישראלי הגדול בהיסטוריה: ההישגים של ארטיום דולגופיאט",
-   "summary": "שתי מדליות אולימפיות, זהב עולמי ושלוש זכיות באליפות אירופה - ארטיום דולגופיאט כבר חקק את שמו בספרי ההיסטוריה. מהזהב הבלתי נשכח בטוקיו ועד לרגעים הגדולים על הפודיום, הישראלי ממשיך לאסוף הישגים ולהציב רף חדש. בגיל 29, אחרי שכבר זכה בכל תואר אפשרי, הוא עדיין מסתכ…",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rjk4bridze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/S1JnOWUPMx/S1JnOWUPMx_0_52_1280_721_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "כ\"ץ חושף מה קדם לתקיפה בסוריה - ותוקף את השליח האמריקני: \"סותר את טראמפ\"",
+   "summary": "לטענת שר הביטחון, צה\"ל הוא שהמליץ לתקוף את שדה התעופה שממוקם עשרות ק\"מ מטורקיה, בעקבות \"מידע מודיעיני ברור על כוונה של אנקרה לבצע בו פעולות שיסכנו את ביטחוננו\". הוא שלח מסר לארדואן ש\"נתפס עם היד בצנצנת העוגיות\" - והשיב גם לשליח האמריקני שטען כי ישראל כובשת את …",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/hy6hdmwdzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/B1OJ6MDvfl/B1OJ6MDvfl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -121,20 +165,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/skvmwwpdml",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/rJERPQ11wwGe/rJERPQ11wwGe_0_449_1066_601_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "\"רוצים מנהיגים חדשים\": הצרות של זלנסקי",
-   "summary": "אוקראינה אמנם רושמת הישגים מרשימים בחזית, אבל התדמית הציבורית של הנשיא וולודימיר זלנסקי ממשיכה להיסדק. מקורביו מוצאים את עצמם בחדרי החקירות בזה אחר זה, גנרלים צוברים פופולריות על חשבונו ברקע המלחמה - ורוב הסקרים מראים: העם מאס בשלטון וגם באופוזיציה, ורוצה אנשי…",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hysolouwgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/02/SJhRLF2WWg/SJhRLF2WWg_0_210_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
