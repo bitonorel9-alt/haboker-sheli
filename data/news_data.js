@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 23 באוגוסט 2026",
  "date_he": "23/08/2026",
- "updated": "13:25",
+ "updated": "14:14",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "לאור יום, בתחנת דלק: פצוע אנוש מירי ליד קיסריה",
-  "summary": "גבר כבן 45 נפצע אנושות מירי בתחנת דלק סמוך למחלף קיסריה. מצוד אחר חשודים שנמלטו, ההערכה היא שהרקע פלילי",
-  "link": "https://www.ynet.co.il/news/article/rksbeuddze",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/SJl5fuODfe/SJl5fuODfe_0_115_1280_721_0_medium.jpg"
+  "title": "\"הבאת רק 700 שקל, תביא עוד 250\": בן 14 יואשם בסחיטה | ההתכתבויות - והאיומים",
+  "summary": "כתב אישום יוגש נגד נער מאזור המרכז בגין איומים על שני נערים אחרים: על פי החשד הוא דרש מהם כספים ובגדים בתמורה ל\"הגנה עליהם\" ואיים לפגוע בהם אם לא ישלמו. בין היתר כתב להם: \"את הכסף אתם לא מביאים לאף אחד. רק לי\"",
+  "link": "https://www.ynet.co.il/news/article/r1dcjw00dze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/ryW8URw00Dfe/ryW8URw00Dfe_0_67_965_544_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.8° / 26.3°",
-   "summary": "כרגע 29.1°, לחות 75%, רוח 15.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 28.7°, לחות 76%, רוח 13.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "75%",
-     75
+     "76%",
+     76
     ],
     [
      "רוח",
-     "15.0 קמ״ש"
+     "13.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,33 +82,33 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Angers נגד Lille",
-     "0:1 · מחצית ראשונה"
+     "0:2 · מחצית שנייה"
     ],
     [
      "Brighton נגד Aston Villa",
-     "2:0 · מחצית ראשונה"
+     "4:0 · מחצית שנייה"
     ],
     [
      "Manchester City נגד Bournemouth",
+     "0:1 · מחצית שנייה"
+    ],
+    [
+     "BKMA Yerevan נגד Noah",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "Altay Oskemen נגד FK Atyrau",
-     "נדחה"
-    ],
-    [
-     "Jetisu נגד Kaysar Kyzylorda",
-     "נדחה"
+     "El Gounah נגד Modern Sport FC",
+     "0:0 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "דקה 16: מנ. סיטי - בורנמות' 0:0",
-   "summary": "פרמייר ליג, מחזור 1: הסיטיזנס עם מארסקה על הקווים, לואיס ואוריילי היו קרובים להבקיע מול המפתיעה של העונה שעברה. במקביל: ברייטון - וילה 0:1",
+   "title": "דקה 49: מנ. סיטי - בורנמות' 1:0",
+   "summary": "פרמייר ליג, מחזור 1: הסיטיזנס בפיגור. טאבניר כבש (26') לאחר התקפה קבוצתית של האורחת, הולאנד החמיץ ממצב קורץ. במקביל: ברייטון - וילה 0:4",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/article/one531345",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/one1883889/one1883889_0_0_800_444_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/one1883894/one1883894_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אישום נגד הזמר ששון שאולוב: נכנס לצומת באור אדום - והתנגש ברכב שנסע בירוק",
-   "summary": "שאולוב נסע בחודש שעבר בשעת לילה ברחוב הרצל בת\"א, ולפי האישום חסם את דרכו של נהג שנכנס לצומת מדרך יפו - והשניים התנגשו. נהג הרכב השני נפצע קל",
+   "title": "קטוע רגל פלסטיני הותקף במוט ברזל: \"המתנחל רצה להכות את הבן שלי\" | תיעוד",
+   "summary": "סעיד אל-עמור הותקף בחצר ביתו בהר חברון, אחרי שלדבריו ניסה להרחיק את התוקפים מבנו בן ה-7. החשודים תועדו בסרטון ונעצרו. \"הם התחילו לזרוק אבנים, אחד רצה להכות את הילד. צעקתי והוא המשיך אחריי\", אמר סעיד ל-ynet",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hj4o7duwfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/05/HyrKY0Rzgg/HyrKY0Rzgg_0_159_3000_1688_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hj8jwldwfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/Bk2GpLdDGe/Bk2GpLdDGe_1_294_467_263_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אזרבייג'ן פועלת להרגעת המתיחות בין ישראל לטורקיה: \"אתם השתגעתם?\"",
-   "summary": "בישראל חוסר אמון בשליח האמריקני ברק, ואם יש גורם דיפלומטי שנהנה מאמון שתי המדינות זו אזרבייג'ן, שכבר יזמה דיאלוג ישיר שהביא למנגנון תיאום בסוריה. גורם אזרי: \"גם אתם וגם טורקיה חברים שלנו. חשוב מיד להוריד את המתיחות\"",
+   "title": "לאור יום, בתחנת דלק: בכיר בארגון פשע חוסל ביריות בתחנת דלק ליד קיסריה",
+   "summary": "העבריין, תושב אור עקיבא כבן 40, נפצע אנושות מירי בתחנת דלק סמוך למחלף קיסריה, ובבית החולים נקבע מותו. הרקע פלילי, המשטרה פתחה במצוד אחר חשודים שנמלטו ופרסה מחסומים. מפקד המחוז יקיים בשטח הערכת מצב מיוחדת",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rk9sedddzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/r1AspvdDfx/r1AspvdDfx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rksbeuddze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/HJw9addDze/HJw9addDze_0_0_672_379_0_medium.jpg",
    "stats": [
     [
      "מקור",
