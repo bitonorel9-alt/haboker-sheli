@@ -1,26 +1,26 @@
 {
  "date": "יום ראשון, 23 באוגוסט 2026",
  "date_he": "23/08/2026",
- "updated": "15:12",
+ "updated": "16:14",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אזרבייג'ן פועלת להרגעת המתיחות עם טורקיה, דיווח: \"ראש המוסד נפגש עם שר החוץ הסורי\"",
-  "summary": "בישראל חוסר אמון בשליח האמריקני ברק, ואזרבייג'ן, שכבר יזמה דיאלוג ישיר שהביא למנגנון תיאום בסוריה, פועלת מאחורי הקלעים. גורם אזרי: \"גם אתם וגם טורקיה חברים שלנו. חשוב מיד להוריד את המתיחות\". במקביל דווח ב\"אקסיוס\": ראש המוסד גופמן נועד עם שר החוץ הסורי אחרי תקי…",
-  "link": "https://www.ynet.co.il/news/article/rk9sedddzx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/r1AspvdDfx/r1AspvdDfx_0_0_850_479_0_medium.jpg"
+  "title": "תפנית בחקירת פרשת אלדר דיין: אחרי הנתיחה - לא ניתן לקבוע את סיבת המוות",
+  "summary": "שני חבריו נעצרו בחשד לרצח, חמישה נוספים נחשדו בתקיפה - אבל דוח המכון לרפואה משפטית קבע כי עקב מצב הגופה לא ניתן לקבוע שדיין נרצח, והשבעה יואשמו בעבירות פחותות",
+  "link": "https://www.ynet.co.il/news/article/syjwl9dvme",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/ryULRErrzg/ryULRErrzg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.8° / 26.3°",
-   "summary": "כרגע 28.1°, לחות 77%, רוח 11.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 29.9° / 26.3°",
+   "summary": "כרגע 27.7°, לחות 79%, רוח 8.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.8°"
+     "29.9°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "77%",
-     77
+     "79%",
+     79
     ],
     [
      "רוח",
-     "11.8 קמ״ש"
+     "8.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
-     "Ironi Nir Ramat HaSharon נגד Maccabi Ironi Ashdod",
-     "2:1 · After ET"
+     "Kiryat Yam Sc נגד מכבי בני ריינה",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Maccabi Petach Tikva U19 נגד Maccabi Tel Aviv U19",
-     "1:3 · הסתיים"
+     "Bnei Yehuda נגד Hapoel Kfar Shalem",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Bnei Yehuda U19 נגד Hapoel Petah Tikva U19",
-     "0:1 · הסתיים"
+     "MS Kfar Kassem נגד Hapoel Akko",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Hapoel Hadera U19 נגד Hapoel Beer Sheva U19",
-     "7:1 · הסתיים"
+     "Hapoel Kfar Saba נגד Ironi Modiein",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Kiryat Shmona U19 נגד Maccabi Netanya U19",
-     "0:1 · הסתיים"
+     "Maccabi Hertzliya נגד Hapoel Raanana",
+     "1:1 · מחצית ראשונה"
     ]
    ]
   },
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Turan-Tovuz IK נגד Shamakhi FK",
-     "0:0 · מחצית ראשונה"
+     "Le Havre נגד Monaco",
+     "0:1 · מחצית"
     ],
     [
-     "Atletico Madrid נגד Villarreal",
-     "0:0 · מחצית ראשונה"
+     "Newcastle United נגד Liverpool",
+     "1:0 · מחצית ראשונה"
     ],
     [
-     "Yelimay Semey נגד Ulytau",
-     "נדחה"
+     "Frosinone נגד Juventus",
+     "טרם התחיל"
     ],
     [
-     "Astana נגד Kaspiy Aktau",
-     "נדחה"
+     "Venezia נגד Lecce",
+     "טרם התחיל"
     ],
     [
-     "Aktobe נגד Ordabasy Shymkent",
-     "נדחה"
+     "Gzira United נגד Valletta FC",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "בדקה ה-92: מהפך דרמטי למנצ'סטר סיטי מול בורנמות'",
-   "summary": "עד הדקה ה-85 הקבוצה של אנצו מארסקה הייתה בפיגור ביתי ובדרך לפרמיירה מאכזבת במחזור הפתיחה, אבל צמד בישולים של המחליף ראיין שרקי הציל. אסטון וילה ספגה תבוסה כואבת מול ברייטון",
+   "title": "דקה 5: בני יהודה - כפר שלם 0:0",
+   "summary": "לאומית, מחזור 2: לאחר הניצחון על בני ריינה במחזור הפתיחה, הזהובים רוצים להמשיך במומנטום מול היריבה שגם ניצחה. במקביל: קריית ים - ריינה 0:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/skezkkdwge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/rJII9F00vzl/rJII9F00vzl_380_0_2480_1396_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one531330",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/one1883125/one1883125_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "איגוד השופטים קבע: הפנדל לזכות מכבי חיפה לא היה מוצדק",
-   "summary": "הוועדה התייחסה לאירוע מעורר המחלוקת בניצחון על הפועל ר\"ג וקבעה כי לא הייתה עבירת הכשלה: \"השופט היה צריך לקבל את המלצת ה-VAR\". באיגוד גם ביקרו: \"זמן הבדיקה של השופט אל מול המסך היה ארוך יתר על המידה\"",
+   "title": "הפועל ת\"א יצאה לדרך, איטודיס: \"להיות אגרסיביים מההתחלה\"",
+   "summary": "האדומים נחתו בסופיה ופתחו באופן רשמי את ההכנות לעונת 2026/27 - ללא שחקני הנבחרת. המאמן: \"מאוד מתרגש, שנשאר בריאים ומאוחדים בחדר ההלבשה\". תומר גינת עדיין בחוץ בשל הפציעה בברך",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1xxnm00wgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/HJbllbvPDzx/HJbllbvPDzx_1_260_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/syg5x500wfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/rJgsz7quvGg/rJgsz7quvGg_5_0_880_496_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "בתוספת הזמן: מהפך ו-1:2 לסיטי על בורנמות'",
-   "summary": "עידן מארסקה נפתח בדרמה: התכולים היו בדרך להפסד ביתי, אך גהי (84') וגברדיול (90+1') קבעו ניצחון חשוב. אסטון וילה הושפלה עם הפסד 4:0 לברייטון",
+   "title": "רבע 2, 03:03: גאורגיה - ישראל 39:37",
+   "summary": "משחק הכנה: הנבחרת של בית הלחמי נראית טוב ויצאה לריצת 1:10 שנתן לה יתרון בהובלת מדר וסורקין, אך הגאורגים לא מוותרים והצליחו לצמצם את ההפרש",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one531345",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/one1883931/one1883931_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one531322",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/one1883944/one1883944_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "\"רוצה להתחיל את החיים מחדש\": אביו של בן ה-6 שנדקר למוות בידי אימו מבקש סיוע",
-   "summary": "דורון נתנאל הס, שאיבד לפני שנתיים את בנו ליאם, סיפר ל-ynet על הליך השיקום - והעלות הגבוהה של הכשרת כלבת השירות שמסייעת לו בהתמודדות עם הפוסט-טראומה. \"אני מבקש ממי שיכול ויש לו האפשרות - שיעזור\"",
+   "title": "עד להודעה חדשה: בג\"ץ אוסר על לוין למנות מנהל חדש למח\"ש",
+   "summary": "בג\"ץ קבע כי שר המשפטים לא יוכל למנות מנהל חדש למח\"ש ולקדם את התהליך עד להחלטה אחרת בעניין. אל העתירות שהוגשו נגד חוק מח\"ש הצטרפה גם היועמ\"שית, שהסבירה שמינוי מנהל למח\"ש גורם כבר עתה למימוש החוק",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/byqnwdupfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/B1hoSOdDMl/B1hoSOdDMl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bkucmc00vzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/25/S1ZKg1199QZl/S1ZKg1199QZl_0_111_1063_599_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "אחרי שביקרה את האקדמיה: נתניהו נפגש עם ד\"ר קרן אסייג והציע לה שריון",
-   "summary": "רה\"מ מחפש לשריין אישה נוספת לרשימת הליכוד ונפגש היום עם ד\"ר אסייג, אשת אקדמיה חוקרת סרטן השד. אסייג הביעה חוסר רצון להיכנס למערכת הפוליטית, אך נתניהו ניסה לשכנע אותה. בשנה שעברה נאמה בעצרת תמיכה במהפכה המשפטית, וטענה כי נוכח תמיכתה בכך ובנתניהו - חוותה הדרה בא…",
+   "title": "אזרבייג'ן פועלת להרגעת המתיחות עם טורקיה; ראש המוסד נפגש עם שר החוץ הסורי",
+   "summary": "בישראל חוסר אמון בשליח האמריקני, ואזרבייג'ן, שכבר יזמה דיאלוג ישיר שהביא למנגנון תיאום בסוריה, פועלת מאחורי הקלעים. גורם אזרי: \"גם אתם וגם טורקיה חברים שלנו\". ראש המוסד גופמן נועד אחרי תקיפת הבסיס עם שר החוץ הסורי, שמצפה לחידוש המו\"מ על הסכם ביטחוני: \"נצלו את …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s1zsjtuwzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/BkzFwtOvGg/BkzFwtOvGg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rk9sedddzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/r1AspvdDfx/r1AspvdDfx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "מודל AI מתקדם וחינמי צץ ברשת ואף אחד לא יודע מי עומד מאחוריו",
+   "summary": "מודל AI מסתורי ועוצמתי צץ פתאום ברשת ומחלק למשתמשים 100 טריליון טוקנים ביום בחינם. המודל הזה, שמגיע בלי הכרזה מוקדמת ובלי שאף חברה לוקחת עליו קרדיט, מציג ביצועים שגורמים גם לבכירים בתעשייה להתרשם, ולכל השאר לגרד בראש ולנסות לשער מי עומד מאחוריו. 100 טריליון טו…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/who-is-behind-this-impressive-new-stealth-model/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -192,20 +206,6 @@
    "summary": "מוקדם יותר החודש הכריזה לינקדאין, אלופת החנופה והתעופה העצמית, על כפתור חדש שאמור לפטור אתכם מעונשם של פוסטים גנריים מבוססי AI, שמפרסמים משתמשים על התובנות שהגיעו אליהם בעקבות אירועים שונים. אבל נראה שגם צוותי המוצר האופטימיים ביותר בחברה לא האמינו כמה הפיצ'ר …",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/ai-slop-button-is-super-popular/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "הדשבורד משקר לכם: איך מודדים את ההשפעה האמיתית של AI על הפיתוח?",
-   "summary": "מאת ליעד אלידן לא מזמן, חברת תוכנה גדולה הייתה בטוחה שהיא סוף סוף פיצחה את אחת השאלות הבוערות של השנה האחרונה: מהי ההשפעה האמיתית של כלי AI על ביצועי ה-R&D שלה. הדשבורדים נראו מצוין, הגרפים טיפסו, אחוזי האימוץ עלו ומדד אחד חזר שוב ושוב במצגות להנהלה: AI Code P…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/measuring-real-impact-of-ai-on-development/",
    "image": null,
    "stats": [
     [
