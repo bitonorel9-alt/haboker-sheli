@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 23 באוגוסט 2026",
  "date_he": "23/08/2026",
- "updated": "22:11",
+ "updated": "23:11",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "תוך שעות: שלושה יהודים חולצו משטחי הרש\"פ, בהם חמוש שנתפס ליד רמאללה",
+  "title": "תוך שעות: שלושה ישראלים חולצו משטחי הרש\"פ, בהם חמוש שנתפס ליד רמאללה",
   "summary": "כוחות המנהל האזרחי חילצו את שלושת הישראלים, שני גברים ואישה, משטחי A שאסורים לכניסה על פי חוק. אחד מהם תועד נתפס ברכבו ע\"י המשטרה הפלסטינית",
   "link": "https://www.ynet.co.il/news/article/bkzxp1ydfe",
-  "image": null
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/HJ0xxeFPGg/HJ0xxeFPGg_0_182_592_334_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.0° / 25.0°",
-   "summary": "כרגע 26.2°, לחות 86%, רוח 2.3 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 26.2°, לחות 86%, רוח 2.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "2.3 קמ״ש"
+     "2.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -88,39 +88,39 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
+   "title": "נער הזהב מטקסס: התקווה האולימפית הגדולה של ארה\"ב",
+   "summary": "בגיל 17 הוא הפך לגבר הצעיר בהיסטוריה שזוכה במדליית זהב באליפות עולם באתלטיקה והוא התקווה הכי גדולה של האמריקאים לזכות בזהב אולימפי ב-800 מטר אחרי 56 שנה. קופר לטקנהאוס, תופעה",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/r1wct300vzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/22/ry00w00CpqWx/ry00w00CpqWx_1_63_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "הרבה מעבר להעפלה היסטורית: מסע ההנצחה של אוהד הפועל באר-שבע",
+   "summary": "את באקו מעניין כרגע יותר מרוץ הפורמולה־1 שיתקיים שם בעוד חודש, אבל מחר תארח העיר את הקרב על הצ'מפיונס בין סבאח להפועל באר־שבע. את האלופה הישראלית מלווה האוהד המסור דור דייג, שמנציח במשחקים את אחיו ניב ז\"ל שנפל לפני שנה וחצי: \"בשבילי זאת לא תהיה סתם העפלה, זה י…",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/by0fxtdvzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/S1huVT00PGx/S1huVT00PGx_185_83_2631_1481_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
    "title": "אוהדי הפועל ירושלים טוענים: \"תקפו אותנו בגז פלפל ואלות\"",
    "summary": "אוהדי הפועל ירושלים טוענים כי הותקפו לאחר המשחק מול מכבי ת\"א. לדבריהם, עשרות אוהדים רעולי פנים הכו אותם, ניפצו להם את שמשת הרכב וגנבו תיקים. שני אוהדים פונו לבית החולים, המשטרה תחקור את נסיבות האירוע",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelisoccer/article/bynh20uwfe",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/SJ9yJyYDGg/SJ9yJyYDGg_0_540_1200_676_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "ככה פותחים עונה: ברצלונה הביסה 0:5 את אלצ'ה",
-   "summary": "הקטלונים החלו את המסע לשמור על הכתר עם ניצחון ענק. צמד ובישול לראפיניה, פרמין הוסיף צמד גם. שער בכורה לאדיימי, 2 בישולים לגורדון. צפו בתקציר",
-   "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/531323",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/one1884100/one1884100_0_0_800_444_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "נבחרת ישראל הפסידה לגאורגיה במשחק הכנה",
-   "summary": "לפני פתיחת חלון אגוסוט במוקדמות המונדבאסקט, הכחולים-לבנים נכנעו 101:90 במשחק הכנה. סורקין בלט עם 25 נקודות",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rjup2oddml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/HJ9EO9dPMg/HJ9EO9dPMg_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
