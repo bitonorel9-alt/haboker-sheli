@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 23 באוגוסט 2026",
  "date_he": "23/08/2026",
- "updated": "12:19",
+ "updated": "13:25",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הציון טעון שיפור - והוא מבקש מועד ב': הקדנציה של קיש במשרד החינוך",
-  "summary": "מצד אחד: הבטחת חינוך חינם בגיל הרך לא מומשה, המחסור במורים נמשך, הישגי התלמידים במבחנים בינלאומיים צנחו. מצד שני: הזכאות לבגרות עלתה, חוזקה הזהות היהודית-ציונית, AI שולב בלמידה ובהוראה. קיש רוצה עוד 4 שנים במשרד החינוך: מה השיג בקדנציה שלו - ומה לא? הבטחתם קיי…",
-  "link": "https://www.ynet.co.il/news/article/yokra14855737",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/29/BJxBBa11lmzl/BJxBBa11lmzl_0_0_1080_720_0_medium.jpg"
+  "title": "לאור יום, בתחנת דלק: פצוע אנוש מירי ליד קיסריה",
+  "summary": "גבר כבן 45 נפצע אנושות מירי בתחנת דלק סמוך למחלף קיסריה. מצוד אחר חשודים שנמלטו, ההערכה היא שהרקע פלילי",
+  "link": "https://www.ynet.co.il/news/article/rksbeuddze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/SJl5fuODfe/SJl5fuODfe_0_115_1280_721_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.8° / 26.3°",
-   "summary": "כרגע 29.4°, לחות 72%, רוח 16.6 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.1°, לחות 75%, רוח 15.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "72%",
-     72
+     "75%",
+     75
     ],
     [
      "רוח",
-     "16.6 קמ״ש"
+     "15.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,8 +81,16 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Lee Man FC נגד Kowloon City",
-     "3:0 · מחצית שנייה"
+     "Angers נגד Lille",
+     "0:1 · מחצית ראשונה"
+    ],
+    [
+     "Brighton נגד Aston Villa",
+     "2:0 · מחצית ראשונה"
+    ],
+    [
+     "Manchester City נגד Bournemouth",
+     "0:0 · מחצית ראשונה"
     ],
     [
      "Altay Oskemen נגד FK Atyrau",
@@ -91,24 +99,16 @@ window.NEWS_DATA = {
     [
      "Jetisu נגד Kaysar Kyzylorda",
      "נדחה"
-    ],
-    [
-     "Tobol Kostanay נגד Jenis",
-     "נדחה"
-    ],
-    [
-     "Angers נגד Lille",
-     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "רוי רביבו: \"זה לא סוד שהחלום שלי זה לשחק בחו\"ל, אבל כל עוד אני פה אני מחויב\"",
-   "summary": "אחרי פיצוץ המו\"מ מול אלצ'ה והמשבר מול הנהלת מכבי ת\"א – המגן הצעיר העלה סטורי הרגעה לאוהדים: \"אעשה הכל עבור הקבוצה והקהל שלי\"",
+   "title": "דקה 16: מנ. סיטי - בורנמות' 0:0",
+   "summary": "פרמייר ליג, מחזור 1: הסיטיזנס עם מארסקה על הקווים, לואיס ואוריילי היו קרובים להבקיע מול המפתיעה של העונה שעברה. במקביל: ברייטון - וילה 0:1",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hycrmidvmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/26/rJJe6O7xGg/rJJe6O7xGg_0_147_2285_1287_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one531345",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/one1883889/one1883889_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מפתיע: ארלינג הולאנד קיצר את שיערו",
-   "summary": "חלוץ מנצ'סטר סיטי החליט להסתפר ולהגיע לעונה החדשה עם תספורת חדשה לגמרי, ולהיפטר מהשיער הבלונדיני הארוך שהיה מזוהה איתו. הוא יופיע למשחק פתיחת העונה כבר במהלך היום עם המראה החדש. פפ גווארדיולה הגיב: \"יש לך מזל שלפחות יש לך שיער\". זלאטן עקץ: \"הפסדת בהתערבות?\"",
+   "title": "האם הפועל תל אביב מסוגלת לפייס את האולטראס? | תוכן גולשים",
+   "summary": "האוהדים שהקימו את המועדון מחדש מרגישים שלקחו מהם את הקבוצה, והחרם של האולטראס העיב על עונת יורוליג מוצלחת במיוחד. כדי שהקהל יחזור ליציעים, ההנהלה והארגון יצטרכו להפסיק למשוך לכיוונים מנוגדים, אבל השאלה היא אם הקרע לא עמוק מדי. גם לכם יש מה להגיד? שלחו לנו טורי…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rkayrn00dgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/HJ1111yB00Dze/HJ1111yB00Dze_0_535_1179_664_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hjo00sdvpml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/13/BJtKo2OrA/BJtKo2OrA_0_142_3000_1660_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אחרי הסערה: הפועל ירושלים מציגה את המיתוג והסמל החדש",
-   "summary": "בצל מחאת האוהדים הנחרצת, דחיית ערב ההשקה והעצומה שצברה אלפי חתימות – האדומים מהבירה הוציאו לדרך מהלך אסטרטגי נרחב. המועדון שילב שני נציגי אוהדים בצוות העיצוב: \"הקשבנו לשיח הפתוח, הסמל החדש שומר על כל מרכיבי הזהות\". המנכ\"ל אורן אריאלי: \"אנחנו בשלב הגשר\"",
+   "title": "אוסיין בולט, מלפניך: רובוט שבר את שיא העולם ב-100 מ' | צפו",
+   "summary": "הרובוטים דוהרים קדימה ומציבים רף חדש, עם 9.39 שניות ל-100 מטר - מהיר משיאו האגדי של הג'מייקני. אבל דווקא אחרי קו הסיום התברר: הדרך למהירות אנושית עוד ארוכה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/skx11y400dme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/rJb11qN00DGe/rJb11qN00DGe_2_141_1079_608_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rkpdwpdvzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/B1YHMPdvMe/B1YHMPdvMe_369_375_2173_1224_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "ועדת הבחירות המרכזית: השב\"כ קבע שאין סיבה לאבטח את איזנקוט",
-   "summary": "השופט סולברג, יו\"ר הוועדה, אמר כי אין לו סמכות להחליט על אבטחת אישים, והבהיר שההחלטה נתונה בידי ראש השב\"כ. \"הוא הגורם המקצועי. ראש השב\"כ השיב כי אין התרעות על כוונה לפגוע בראש מפלגת יישר!'\", נמסר",
+   "title": "אישום נגד הזמר ששון שאולוב: נכנס לצומת באור אדום - והתנגש ברכב שנסע בירוק",
+   "summary": "שאולוב נסע בחודש שעבר בשעת לילה ברחוב הרצל בת\"א, ולפי האישום חסם את דרכו של נהג שנכנס לצומת מדרך יפו - והשניים התנגשו. נהג הרכב השני נפצע קל",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b16vrludml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/ry7awK8ZDzx/ry7awK8ZDzx_0_5_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hj4o7duwfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/05/HyrKY0Rzgg/HyrKY0Rzgg_0_159_3000_1688_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"בלי פתרון לעפיפונים - הדבר הבא יהיה רחפן נפץ\"",
-   "summary": "עפיפון נוסף ללא חומר נפץ אותר בשטח חקלאי בכפר עזה, והתושבים שחוזרים לבתיהם חוששים מנרמול: \"התהליכים מדאיגים\", אמר אחד מהם. בר מנשורי, מנהלת אגף הביטחון במועצת שער הנגב, אמרה ל-ynet: \"אי אפשר להגיד לנו 'יהיה בסדר' אחרי 7 באוקטובר. זה פוגע באמון הציבור בצורה משמ…",
+   "title": "אזרבייג'ן פועלת להרגעת המתיחות בין ישראל לטורקיה: \"אתם השתגעתם?\"",
+   "summary": "בישראל חוסר אמון בשליח האמריקני ברק, ואם יש גורם דיפלומטי שנהנה מאמון שתי המדינות זו אזרבייג'ן, שכבר יזמה דיאלוג ישיר שהביא למנגנון תיאום בסוריה. גורם אזרי: \"גם אתם וגם טורקיה חברים שלנו. חשוב מיד להוריד את המתיחות\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sk3g8b00vfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/B1Bil7wvGe/B1Bil7wvGe_0_827_1536_865_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rk9sedddzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/r1AspvdDfx/r1AspvdDfx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
