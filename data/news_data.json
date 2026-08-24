@@ -1,7 +1,7 @@
 {
  "date": "יום שני, 24 באוגוסט 2026",
  "date_he": "24/08/2026",
- "updated": "04:35",
+ "updated": "05:30",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.9° / 25.0°",
-   "summary": "כרגע 25.4°, לחות 86%, רוח 8.2 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 26.7°, לחות 79%, רוח 10.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "86%",
-     86
+     "79%",
+     79
     ],
     [
      "רוח",
-     "8.2 קמ״ש"
+     "10.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,15 +74,15 @@
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
+   "title": "הזוי: עימות בין כדורסלן העבר לכוכבת ה-WNBA בגלל חולצה",
+   "summary": "אניס קאנטר פרידום הורחק ממשחק בין אינדיאנה לשיקגו אחרי עימות מילולי עם נטשה קלאוד. פרידום ישב ביציע עם חולצה שעליה נכתב \"אישה - אדם בוגר ממין נקבה\" - כחלק ממאבקו למען שיתוף טרנג'נדריות בליגה, והאירוע הסלים עד שהאבטחה נאלצה להרחיקו",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/b1ce2rtwfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/S199cBYwMx/S199cBYwMx_330_75_2101_1183_0_medium.jpg",
    "stats": [
     [
-     "Elche נגד FC Barcelona",
-     "0:5 · הסתיים"
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -107,20 +107,6 @@
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjom11hkdgg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/BJuZh6uwGl/BJuZh6uwGl_516_73_2076_1169_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "נער הזהב מטקסס: התקווה האולימפית הגדולה של ארה\"ב",
-   "summary": "בגיל 17 הוא הפך לגבר הצעיר בהיסטוריה שזוכה במדליית זהב באליפות עולם באתלטיקה והוא התקווה הכי גדולה של האמריקאים לזכות בזהב אולימפי ב-800 מטר אחרי 56 שנה. קופר לטקנהאוס, תופעה",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/r1wct300vzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/22/ry00w00CpqWx/ry00w00CpqWx_1_63_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -200,39 +186,39 @@
   },
   {
    "section": "בידור",
+   "title": "כשהתקציב מוגבל והאקשן גנרי - מקומו הטבעי של \"נקמה בלב ים\" הוא המסך הביתי",
+   "summary": "ג'ייסון סטיית'האם מגלם שוטר לשעבר שהפך למנהל אבטחה, ויוצא לצוד את הרוצח של מעסיקו שנמלט לספינת מטענים שבה מסתתרים מהגרים. עוד סרט אקשן בתקציב בינוני שמצטרף לרשימה הארוכה של סרטים נוסחתיים, ושדלף בטעות לזמינות בסטרימינג עוד לפני עלייתו לאקרנים - מה שבטח לא הועי…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/rkrpanddzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/BkGjQR4ODfe/BkGjQR4ODfe_40_7_1284_723_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "שיר החתונה החדש של אושר כהן כמעט הפך לגימיק. זה מה שהציל אותו",
+   "summary": "ב\"אוגוסט דאמפ\", האי-פי החדש של הזמר המצליח, ההפתעות מגיעות דווקא מהצד של השירים הכייפים. בין השניים בולט \"הכלה של המדינה\", שכמעט טבע בטרנד שירי החתונות, אבל ניצל בזכות הפקת רטרו-פופ כייפית שמדלגת בין סטטיק ובן-אל אל סטיבי וונדר",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/sj2ninopfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/H1sJ3Nuwzg/H1sJ3Nuwzg_0_101_2000_1126_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "זוהי קריאה אחרונה / רענן שקד",
    "summary": "האנושות כבר לא רוצה לקרוא. בכלל. והמוח משתנה בהתאם. האם זה הזמן להיפטר סופית מהספרייה שלי?",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/yokra14869360",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "מזל יתומה - חלק רביעי",
-   "summary": "בלעדי למנויי ידיעות+: יתומה אדומת שיער חובבת ספרות מוצאת עצמה תחת חסותו של סוכן מוסד לשעבר, אך המפגש המסתורי חושף פשע קדום ושאלות על מוצאה האמיתי. מותחן רומנטי ישראלי שמוגש בהמשכים, חלק נוסף מדי יום",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/9hkr12hmv",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/rkxexDVXvMe/rkxexDVXvMe_0_0_1920_1080_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "לאחר שנתניהו דיבר לקהל, תביעות קטנות הוגשו נגד הפקת עדן בן זקן: \"'אונסת' אותנו\"",
-   "summary": "שתי תביעות קטנות בסך אלף שקל כל אחת הוגשו נגד הפקתהזמרת, לאחר שראש הממשלה בנימין נתניהו נשא דברים במהלך הופעתה בהיכל מנורה מבטחים. התובעים טוענים כי המופע קיבל אופי פוליטי ותעמולתי מבלי שהקהל עודכן על כך מראש, ובאחת התביעות נכתב כי התחושה הייתה ש\"אונסים\" את הק…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/h1gmjoddmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/SJsj7cdDGl/SJsj7cdDGl_1_21_728_410_0_medium.jpg",
    "stats": [
     [
      "מקור",
