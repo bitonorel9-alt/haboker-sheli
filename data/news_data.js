@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום שני, 24 באוגוסט 2026",
  "date_he": "24/08/2026",
- "updated": "15:29",
+ "updated": "16:24",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,14 +13,14 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.0° / 24.8°",
-   "summary": "כרגע 27.9°, לחות 76%, רוח 12.0 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.2° / 24.8°",
+   "summary": "כרגע 27.3°, לחות 79%, רוח 9.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.0°"
+     "30.2°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "76%",
-     76
+     "79%",
+     79
     ],
     [
      "רוח",
-     "12.0 קמ״ש"
+     "9.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Maccabi Ahi Nazeret נגד Hapoel Afula",
+     "0:1 · מחצית ראשונה"
+    ],
+    [
+     "SC Ashdod נגד Maccabi Kavilio Jaffa",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Maccabi Kiryat Gat נגד Hapoel Rishon Lezion",
+     "0:1 · מחצית ראשונה"
+    ],
+    [
      "Maccabi Petach Tikva U19 נגד Maccabi Tel Aviv U19",
      "1:3 · הסתיים"
     ],
     [
      "Bnei Yehuda U19 נגד Hapoel Petah Tikva U19",
      "0:1 · הסתיים"
-    ],
-    [
-     "Hapoel Hadera U19 נגד Hapoel Beer Sheva U19",
-     "7:1 · הסתיים"
-    ],
-    [
-     "Kiryat Shmona U19 נגד Maccabi Netanya U19",
-     "0:1 · הסתיים"
-    ],
-    [
-     "Hapoel Haifa U19 נגד Ironi Ramat Hasharon U19",
-     "3:2 · הסתיים"
     ]
    ]
   },
@@ -138,11 +138,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אחרי מציאת האלטלנה, נתניהו מתחייב: \"נעלה אותה ממצולות הים\" | ישיר",
-   "summary": "ראש הממשלה קיים הצהרה על מציאת אוניית האצ\"ל שהופגזה ב-1948. לאחר מכן נערכת מסיבת עיתונאים נפרדת של השרים איתמר בן גביר ועמיחי אליהו, שהודיעו הבוקר על האיתור והפתיעו את רה\"מ",
+   "title": "נתניהו צילם הצהרה נפרדת על מציאת האלטלנה, בן גביר תקף: \"לא רצה להצטלם איתי\"",
+   "summary": "מדברים נגד מלחמת אחים - ומתקוטטים לעיני המצלמות: נתניהו צילם הצהרה נפרדת על איתור האלטלנה ועיכב את מסיבת העיתונאים של השר לביטחון לאומי. \"בגין ידע מה זה חרם\", אמר. בשיחה עם ynet הוסיף: \"יש כנראה זמנים שלא צריך להצטלם איתי\". רה\"מ התחייב: \"נעלה את האלטלנה ממצולו…",
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/hydvbakdge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/06/11/SkNNqYXP3/SkNNqYXP3_0_0_798_450_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/H1CcIk9Dzg/H1CcIk9Dzg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
