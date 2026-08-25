@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 25 באוגוסט 2026",
  "date_he": "25/08/2026",
- "updated": "15:33",
+ "updated": "16:25",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "דרמה בפריימריז: הספירה מחדש שמאיימת על מקומה הריאלי של גילה גמליאל",
-  "summary": "פרסום ראשון: הקלפי בבאר יעקב מסעירה את המפלגה, עם מספרים שלא תואמים את רוח הבחירה ביתר המקומות. ההצבעות נספרו מחדש - וכעת מתחוללת סביבן דרמה של ממש, כשאתי עטיה עשויה להיכנס על חשבון גמליאל. בעלה של השרה ניסה להיכנס למקום הספירה וסורב: \"גונבים פה בחירות\"",
-  "link": "https://www.ynet.co.il/news/elections2026/article/skx8u1sdfx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/tgefdmXeSD_/tgefdmXeSD__0_218_384_217_0_medium.jpg"
+  "title": "הנזק הביטחוני והבינלאומי של סוכות: \"בקרוב יתגבר הלחץ על ישראל\"",
+  "summary": "התיעוד של חבר הכנסת ממפלגת \"הציונות הדתית\" הגיע למאות אלפים ברשת X בלבד, וגולשים תהו על נוכחות חיילים ש\"צפו מהצד\" - כשההבהרה שפרסם צה\"ל לכך מהדהדת בעיקר בישראל. בצבא הזהירו: \"אזור יו\"ש עלול לבעור בכל רגע\", גורמים במשרד החוץ: \"זה מסמר בארון הקבורה של הלגיטימיות…",
+  "link": "https://www.ynet.co.il/news/article/b1bu7givgl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/r1rpc7sPGl/r1rpc7sPGl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.4° / 24.3°",
-   "summary": "כרגע 29.0°, לחות 76%, רוח 12.7 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 28.5°, לחות 79%, רוח 9.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "76%",
-     76
+     "79%",
+     79
     ],
     [
      "רוח",
-     "12.7 קמ״ש"
+     "9.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Maccabi Hertzliya U19 נגד Hapoel Rishon LeZion U19",
-     "4:3 · מחצית שנייה"
-    ],
-    [
-     "Hapoel Beer Sheva U19 נגד Hapoel Jerusalem U19",
-     "2:1 · מחצית שנייה"
-    ],
-    [
      "Maccabi Tel Aviv U19 נגד Kiryat Shmona U19",
-     "5:0 · מחצית"
+     "9:1 · מחצית שנייה"
     ],
     [
      "Beitar Jerusalem U19 נגד Hapoel Haifa U19",
-     "1:0 · מחצית ראשונה"
+     "2:0 · מחצית שנייה"
     ],
     [
      "Ironi Ramat Hasharon U19 נגד Maccabi Haifa U19",
-     "0:5 · מחצית ראשונה"
+     "0:7 · מחצית שנייה"
+    ],
+    [
+     "A.S Nordia Jerusalem נגד הפועל חדרה",
+     "0:1 · מחצית שנייה"
+    ],
+    [
+     "Hapoel Petah Tikva U19 נגד Hapoel Tel Aviv U19",
+     "1:1 · מחצית שנייה"
     ]
    ]
   },
@@ -81,12 +81,8 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Tobol Kostanay נגד Kaysar Kyzylorda",
-     "3:2 · מחצית שנייה"
-    ],
-    [
      "A.S Nordia Jerusalem נגד הפועל חדרה",
-     "0:0 · מחצית ראשונה"
+     "0:1 · מחצית שנייה"
     ],
     [
      "Hapoel Migdal HaEmek נגד Hapoel Ironi Arabe",
@@ -99,6 +95,38 @@ window.NEWS_DATA = {
     [
      "Marumo Gallants נגד TS Galaxy",
      "טרם התחיל"
+    ],
+    [
+     "Orlando Pirates נגד Sekhukhune United",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "זלאטנוביץ' בהרכב באר-שבע מול סבאח, גם אמאדור ב-11",
+   "summary": "90 דקות מהיסטוריה: אלופת ישראל מקווה לשמור על ה-1:2 על האזרים מהמשחק הראשון בדרך להופעה ראשונה שלה אי פעם בליגת האלופות. כ-30 אלף אוהדים דוחפים את המארחת, שחולמת על מהפך",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjdyx6qwgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/21/BkMQ4ZIpEze/BkMQ4ZIpEze_170_44_981_552_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "ארסנל ממתינה, ברצלונה חולמת: הסאגה של הקיץ ממשיכה להסתבך",
+   "summary": "החלוץ הארגנטינאי מעוניין לעזוב את אתלטיקו ולהגשים את חלומו הגדול - מעבר לבארסה, אך קבוצתו מסרב בתוקף למכור אותו ליריבה המרה. אלופת אנגליה מחכה להתפתחויות ומוכנה לפעול במהירות אם ישנה את דעתו. בינתיים, היחסים בין הכוכב לאוהדי אתלטיקו הידרדרו, וכשנותרו ימים ספור…",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/bk59n7owfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/Hk00ET7sPzl/Hk00ET7sPzl_0_7_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -117,40 +145,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "אתם תמשיכו לצחוק - רן קוז'וך ימשיך לשבור תקרות זכוכית | טור",
-   "summary": "אחרי שהמאמן טבע את המשפט \"אנחנו בלתי שבירים\", רבים חיפשו אותו ואת הקבוצה בפינה, אבל מה שהקבוצה עשתה עד כה במוקדמות ליגת האלופות מוכיח עד כמה זה נכון. עכשיו, 18 הווינרים של קוז'וך צריכים לנפץ רק עוד תקרת זכוכית אחת",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/byvhokspze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/19/BJVVHmScyze/BJVVHmScyze_0_404_2176_1225_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "\"נמשיך לתמוך בפלסטין\": המחאה שמנסה לגרום לסולומון לעזוב את ווסטהאם",
-   "summary": "בסרטון שהעלה אוהד במסגרת התארגנות שמתיימרת לדבר בשם \"אוהדי ווסטהאם האמיתיים\", נאמר כי \"אנחנו לא מסכימים עם ההחתמה של סולומון ונמשיך להשמיע קול עד שהוא יהיה מחוץ למועדון\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/ryh5kgodgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rylFfExswMg/rylFfExswMg_423_61_2431_1369_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "שלמה בן ה-97 המתין לנשק מאלטלנה: \"היום יהודים לא יירו על יהודים\"",
-   "summary": "איתור שרידי אוניית האצ\"ל הציף מחדש את הסיפורים האישיים של אלו שהיו שם משני צדי המתרס. בתו של ישראל סנדר, שהיה על האלטלנה ויצא ללא פגע: \"אבא איבד חברים רבים ולא דיבר על כך\". יניב סימון, נכדו של בנימין בובש שקיבל את המשימה להטביע את הספינה: \"בזמן אמת הוא לא הבין…",
+   "title": "בפעילות ימ\"מ במחסן בחדרה: נעצר החשוד המרכזי ברצח ראש המאפיה הקווקזית",
+   "summary": "אחרי מצוד שנמשך מאז הירי בתחנת הדלק, עצרה המשטרה את החשוד ברצח של יאניס יושבייב בקיסריה - שתועד בזירה. הוא נתפס במחסן בבניין דירות בידי לוחמי הימ\"מ בשל מידע מודיעיני שלפיו הוא חמוש",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjn11t1ovfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/BklGJffoDMe/BklGJffoDMe_0_0_1280_720_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/byuf94ovmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/S1xRxsdDze/S1xRxsdDze_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הרצוג: \"שב\"כ מעורב בחיפושים אחר היימנוט קסאו\"",
-   "summary": "נשיא המדינה אמר לבני משפחת קסאו כי ראש שב\"כ עדכן אותו שהארגון נכנס לתמונה לאחרונה \"בכל הכוח\" בעקבות בקשה של המשטרה. אביה של הילדה שנעדרת זה שנתיים וחצי: \"דרשנו שיתערב כמה שיותר מהר\"",
+   "title": "וינטר חשף את הרשימה לבחירות: \"רוצים ממשלת ימין רחבה. הפתרון בעזה - הגירה\" | שידור ישיר",
+   "summary": "כפי שנחשף ב-ynet, נטעלי שם טוב ויוסף חדאד חברו למפלגה שתיקרא \"עמך ישראל\" - ואיתם גם האם השכולה ללי דרעי. אלמנתו של רבש\"ץ בארי, אל\"ם במיל', מוביל האופוזיציה בלשכת עוה\"ד ובכיר בשומרון: אלה המועמדים הנוספים שמצטרפים, והמסר של וינטר - \"אנחנו חלק ברור ומובהק במחנה …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjp2t7swml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rJWRAtQjPfl/rJWRAtQjPfl_178_135_1663_937_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/s13ku7jdzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rk00aV4svzx/rk00aV4svzx_0_12_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
