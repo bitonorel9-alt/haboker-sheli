@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 25 באוגוסט 2026",
  "date_he": "25/08/2026",
- "updated": "03:40",
+ "updated": "04:29",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "תחזית מזג האוויר: טמפרטורות גבוהות מהרגיל, תורגש הכבדה בעומס החום",
-  "summary": "",
-  "link": "https://www.ynet.co.il/news/article/z5bft33eb",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/SyUOFaViHA/SyUOFaViHA_0_0_1280_721_0_medium.jpg"
+  "title": "סעודיה תבנה 3 פארקי שעשועים בצרפת במיליארדים: \"לא היה כזה מאז דיסנילנד\"",
+  "summary": "ריאד תממן ותבנה את הפארקים סמוך לבירה הצרפתית, בהם אחד שיתבסס על הזיכיון היפני הפופולרי \"דרגון בול\". יועץ לנשיא צרפת מקרון: \"יש לו וליורש העצר הסעודי תשוקה משותפת למנגה, ולסדרה הזו במיוחד\". במקביל, בפריז דחו את הביקורת על הפקדת הפרויקט בידי סעודיה: \"לא באנו לה…",
+  "link": "https://www.ynet.co.il/news/article/sksocf5wmx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJ47kqcPGl/SJ47kqcPGl_618_148_1808_1018_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.3° / 24.5°",
-   "summary": "כרגע 24.6°, לחות 90%, רוח 7.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 25.0°, לחות 87%, רוח 8.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "90%",
-     90
+     "87%",
+     87
     ],
     [
      "רוח",
-     "7.4 קמ״ש"
+     "8.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,14 +81,6 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "מכבי נתניה נגד בני סכנין",
-     "0:0 · הסתיים"
-    ],
-    [
-     "Osasuna נגד Levante",
-     "0:0 · הסתיים"
-    ],
-    [
      "AS Roma נגד Fiorentina",
      "4:0 · הסתיים"
     ],
@@ -99,6 +91,24 @@ window.NEWS_DATA = {
     [
      "Malaga נגד Deportivo A Coruña",
      "1:1 · הסתיים"
+    ],
+    [
+     "Tobol Kostanay נגד Kaysar Kyzylorda",
+     "טרם התחיל"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "טל ברודי על מחלתו של מיקי ברקוביץ': \"קשה לראות אותו במצב הזה\"",
+   "summary": "מי שהניף יחד עם מספר 9 האגדי את גביע אירופה הראשון עם מכבי ת\"א, הקפיד לבקר אותו מאז שחלה בדמנציה: \"בשנים האחרונות הייתי מעדכן אותו במצב של הקבוצה, הוא תמיד מזהה את הקול שלי\". מוטי דניאל: \"זה ממש כואב בלב\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rywkl99pme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/02/06/rJfLeRllo6/rJfLeRllo6_0_26_1000_563_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -131,26 +141,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "בני סכנין טוענת: \"רכבי שחקנים ואוהדים הותקפו לאחר המשחק מול נתניה\"",
-   "summary": "לטענת המועדון, רכבו של איאד אבו עביד הותקף כשאשתו ההרה שהתה לצדו, וגם כלי הרכב של עילאי חג'ג' ושל כמה מאוהדי הקבוצה נפגעו. אבו עביד זומן למסור עדות במשטרה: \"אירועים חמורים ומדאיגים שעלולים היו להסתיים בפגיעה קשה בנפש\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkw00007cvgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/BJZj3wmqDGx/BJZj3wmqDGx_0_443_961_540_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "המחאה של משפחות החטופים  נגד הארגון האמריקני-ישראלי: אל תתנו לדרמר במה",
-   "summary": "120 בני משפחות של חטופים ושל חיילי יצאו נגד החלטת ארגון IAC להציב את השר לשעבר כדובר הראשי ב-3 אירועים שיקיים בחודש הבא, בטענה שהוא היה אחד מהקולות המשפיעים ביותר בהתנגדות לכמה עסקאות חטופים: \"ההחלטה מזלזלת וחסרת כבוד עבור משפחות ששילמו מחיר ישיר על ההחלטות הל…",
+   "title": "תחזית מזג האוויר: חם מהרגיל, עם הכבדה בעומס החום",
+   "summary": "היום לא יהיה השיא, ומחר תחול הכבדה נוספת בעומסי החום. השינוי המיוחל יגיע ביום שישי",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/byjrrx9dmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/01/r1uBH117qex/r1uBH117qex_333_314_1402_790_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/z5bft33eb",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/SyUOFaViHA/SyUOFaViHA_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +156,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"מהלך עם ערך אסטרטגי\": התמיכה של ראש המוסד במיזם למען היישוב הבדואי",
-   "summary": "ביישוב הבדואי ביר הדאג' החליטו לאחד כוחות עם השכנים היהודים כדי לקדם תוכנית להקמת איזור תעשייה משותף. הנושא זכה להתנגדויות רבות במועצת רמת הנגב, אך גם לתמיכה מפתיעה מראש המוסד גופמן, ששירת באזור וכתב בחוות דעת: \"המיזם אמיץ ועשוי להפחית את הפשיעה\"",
+   "title": "המחאה של משפחות החטופים  נגד הארגון האמריקני-ישראלי: אל תתנו לדרמר במה",
+   "summary": "120 בני משפחות של חטופים וחיילים יצאו נגד החלטת ארגון IAC להציב את השר לשעבר כדובר הראשי ב-3 אירועים שיקיים בחודש הבא, בטענה שהוא היה אחד מהקולות המשפיעים ביותר בהתנגדות לכמה עסקאות חטופים: \"ההחלטה מזלזלת וחסרת כבוד עבור משפחות ששילמו מחיר ישיר על ההחלטות הללו…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14868433",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/10/r1zM0ZhUZfe/r1zM0ZhUZfe_601_37_903_509_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/byjrrx9dmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/01/r1uBH117qex/r1uBH117qex_333_314_1402_790_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,6 +212,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "לא, זה לא גשם / דנה ספקטור",
+   "summary": "כך התרגלנו לחיות במיץ של הזבל, ואפילו לא להתלונן",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14868377",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/ryGYJ3JEgR/ryGYJ3JEgR_0_0_1920_1080_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "מזל יתומה - חלק חמישי",
    "summary": "בלעדי למנויי ידיעות+: יתומה אדומת שיער חובבת ספרות מוצאת עצמה תחת חסותו של סוכן מוסד לשעבר, אך המפגש המסתורי חושף פשע קדום ושאלות על מוצאה האמיתי. מותחן רומנטי ישראלי שמוגש בהמשכים, חלק נוסף מדי יום",
    "source": "ynet - תרבות ובידור",
@@ -235,20 +245,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/syh6ookvmg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/HJw1puYvfe/HJw1puYvfe_2_41_1286_724_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "אחרי האוסקר: יוצרי \"אין ארץ אחרת\" יתחרו בוונציה עם סרט על הרג אזרחים בעזה",
-   "summary": "יובל אברהם ורחל שור יציגו בבכורה עולמית בפסטיבל ונציה את \"נז\"א\", סרט דוקו חדש העוסק במנגנונים שמאחורי תקיפות צה\"ל ברצועה. הסרט, שצולם על גגות בתל אביב ומופק בידי \"הגרדיאן\", צורף לתחרות הרשמית ויהיה הדוקו היחיד שיתמודד בה. בין מפיקיו נמנה גם הבמאי היהודי ג'ונתן…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bjm6qctpfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/11/H17bkVKOtJx/H17bkVKOtJx_631_255_2061_1161_0_medium.jpg",
    "stats": [
     [
      "מקור",
