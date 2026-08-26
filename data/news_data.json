@@ -1,20 +1,20 @@
 {
  "date": "יום רביעי, 26 באוגוסט 2026",
  "date_he": "26/08/2026",
- "updated": "13:45",
+ "updated": "14:35",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "משבר במחוז ת\"א: מפקד מרחב איילון פורש במחאה על הדחת קצין מהמשטרה",
-  "summary": "תת-ניצב דניאל חדד יעזוב את המשטרה בשבועות הקרובים כ\"אקט של גיבוי\" למפקד תחנת חולון - שהודח לאחרונה על-ידי מפקד מחוז ת\"א ניצב חיים סרגרוף",
-  "link": "https://www.ynet.co.il/news/article/hjbxrv3wfl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/20/HkDyQu70gl/HkDyQu70gl_692_421_1323_745_0_medium.jpg"
+  "title": "התקווה החדשה של ישראל: זו המדינה שתמנע סנקציות מהאיחוד האירופי?",
+  "summary": "סלובניה וצ'כיה הטילו וטו על הצהרה משותפת של מדינות האיחוד נגד הבנייה ב-E1 ובכך אילצו את שרת החוץ האירופית קאיה קאלאס לפרסם הצהרה מטעמה בלבד. במקביל, בירושלים מזהים שינוי דרמטי ביחסים עם הממשל החדש בלובליאנה - ובספטמבר צפויה פתיחת השגרירות הישראלית הראשונה במדי…",
+  "link": "https://www.ynet.co.il/news/article/s1omvv3wgx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/19/rkR11HEFkMe/rkR11HEFkMe_0_67_1050_591_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.7° / 25.8°",
-   "summary": "כרגע 29.7°, לחות 75%, רוח 13.7 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 29.3°, לחות 75%, רוח 12.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@
     ],
     [
      "רוח",
-     "13.7 קמ״ש"
+     "12.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -82,7 +82,21 @@
    "stats": [
     [
      "Smouha נגד Petrol Asyut",
-     "טרם התחיל"
+     "0:0 · מחצית ראשונה"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "סערה בספרד: אלופת העולם עברה לסעודיה – ומחקה את התמונות עם בת זוגה",
+   "summary": "אסתר גונזאלס, אלופת העולם עם נבחרת ספרד, הצטרפה לאל-קאדסיה ועוררה ביקורת חריפה לאחר שתמונות עם בת זוגה ובנם נעלמו מחשבון האינסטגרם שלה. ברשת תקפו: \"קל להילחם למען זכויות במקום שבו אפשר לעשות זאת ללא פחד. אומץ אמיתי הוא לעשות זאת במקום שבו יש לכך השלכות\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sjy1wphvmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/rkhWhDnPMe/rkhWhDnPMe_0_315_2604_1466_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -115,16 +129,16 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "מאחורי הקלעים של הטלטלה הניהולית בהפועל ת\"א",
-   "summary": "צחי רייכנשטיין, עד לפני רגע המנכ\"ל, כבר חשב שהצליח לבלום את היו\"ר אורן חסון לאחר שסתיו שחם מונה במקומו. אלא שכעבור יממה התבררה התמונה המלאה: חסון מונה למנכ\"ל - ורייכנשטיין סיים את דרכו במועדון",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rjtcsvjdme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/BknpvhtSGg/BknpvhtSGg_0_0_850_479_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "משבר במחוז ת\"א: מפקד מרחב איילון פורש במחאה על הדחת קצין מהמשטרה",
+   "summary": "תת-ניצב דניאל חדד יעזוב את המשטרה בשבועות הקרובים כ\"אקט של גיבוי\" למפקד תחנת חולון - שהודח לאחרונה על-ידי מפקד מחוז ת\"א ניצב חיים סרגרוף",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/hjbxrv3wfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/20/HkDyQu70gl/HkDyQu70gl_692_421_1323_745_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -135,20 +149,6 @@
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/rj00o7d2vgl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/19/r1huAjMpbx/r1huAjMpbx_492_121_2017_1136_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "בגלל כוס מים: בן 17 דקר את שותפו לתא המעצר",
-   "summary": "בן 17 עלה לדיון בבית המשפט בנושא אחר, שוחרר לביתו - ואז התגלה כי דקר את שותפו לתא המעצר בפנים ובצוואר עם שבר קרמיקה. הוא מואשם בפציעה בנסיבות מחמירות",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bktxye3wzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/B1vNF43DMg/B1vNF43DMg_1_155_825_465_0_medium.jpg",
    "stats": [
     [
      "מקור",
