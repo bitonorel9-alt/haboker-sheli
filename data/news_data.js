@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום רביעי, 26 באוגוסט 2026",
  "date_he": "26/08/2026",
- "updated": "03:44",
+ "updated": "04:30",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "עלייה בטמפרטורות, ובסוף השבוע תפנית: גשם וסופות רעמים בדרך | התחזית המלאה",
-  "summary": "היום תחול עלייה קלה נוספת במידות החום, שיהיו גבוהות מהרגיל - ועומסי חום קיצוניים יורגשו באזורים נרחבים. ביום שישי צפויה הקלה מסוימת, אך בשבת שוב יתחמם - ולקראת הלילה צפוי גשם מקומי בצפון ובמרכז, לצד סופות רעמים",
-  "link": "https://www.ynet.co.il/news/article/spsp99z00",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/SyUOFaViHA/SyUOFaViHA_0_73_1280_721_0_medium.jpg"
+  "title": "ביקור חריג במוסקבה: \"ראש ה-CIA הגיע לשיחות עם הרוסים\"",
+  "summary": "לפי דיווחים בארה\"ב, ג'ון רטקליף הגיע לבירה הרוסית לביקור שנמשך שעות. בוושינגטון או במוסקבה לא אישרו את הפרטים, אך האמריקנים הודיעו לקייב מראש על הכוונה לשלוח משלחת בכירה. \"דיילי מייל\": ראש ממשלת בריטניה הוזהר מפני \"תגובה ישירה\" בגלל הסיוע לאוקראינה",
+  "link": "https://www.ynet.co.il/news/article/bjvz1jnpge",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/06/Bkhp1u113Ze/Bkhp1u113Ze_0_0_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.8° / 25.9°",
-   "summary": "כרגע 25.9°, לחות 92%, רוח 6.4 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.7° / 25.8°",
+   "summary": "כרגע 26.1°, לחות 89%, רוח 6.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.8°"
+     "30.7°"
     ],
     [
      "מינימום",
-     "25.9°"
+     "25.8°"
     ],
     [
      "לחות",
-     "92%",
-     92
+     "89%",
+     89
     ],
     [
      "רוח",
-     "6.4 קמ״ש"
+     "6.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -83,6 +83,10 @@ window.NEWS_DATA = {
     [
      "Valencia נגד Real Betis",
      "0:1 · הסתיים"
+    ],
+    [
+     "Smouha נגד Petrol Asyut",
+     "טרם התחיל"
     ]
    ]
   },
@@ -93,6 +97,20 @@ window.NEWS_DATA = {
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelisoccer/article/bky2ddovzl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rygYHuoDfx/rygYHuoDfx_1_179_1600_901_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "בבאר-שבע מנסים לאסוף את השברים, קוז'וך: \"עוד נשיג את ליגת האלופות\"",
+   "summary": "הדרומיים מרוסקים אחרי ההדחה הכואבת והדרמטית מהצ'מפיונס בעקבות ההפסד 5:2 בהארכה לסבאח, אך המאמן לא נשבר: \"כל דבר שהשגנו, הגיע אחרי שקודם לא השגנו אותו\". קוז'וך גם נחלץ להגנתו של דיופ המושמץ: \"עוד יתרום להפועל באר-שבע\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkmwwyhdmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rk11xFrOsvGg/rk11xFrOsvGg_0_46_1600_901_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -115,16 +133,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "מאחורי הקלעים של הטלטלה הניהולית בהפועל ת\"א",
-   "summary": "צחי רייכנשטיין, עד לפני רגע המנכ\"ל, כבר חשב שהצליח לבלום את היו\"ר אורן חסון לאחר שסתיו שחם מונה במקומו. אלא שכעבור יממה התבררה התמונה המלאה: חסון מונה למנכ\"ל - ורייכנשטיין סיים את דרכו במועדון",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rjtcsvjdme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/BknpvhtSGg/BknpvhtSGg_0_0_850_479_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "עלייה בטמפרטורות, ובסוף השבוע תפנית: גשם וסופות רעמים בדרך | התחזית המלאה",
+   "summary": "היום תחול עלייה קלה נוספת במידות החום, שיהיו גבוהות מהרגיל - ועומסי חום קיצוניים יורגשו באזורים נרחבים. ביום שישי צפויה הקלה מסוימת, אך בשבת שוב יתחמם - ולקראת הלילה צפוי גשם מקומי בצפון ובמרכז, לצד סופות רעמים",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/spsp99z00",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/15/SyUOFaViHA/SyUOFaViHA_0_73_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -135,20 +153,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/yokra14878103",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/19/HyG7Tvia7o/HyG7Tvia7o_0_68_786_443_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "טבח בארוחת הערב: הוריו ביקשו שיעזוב את הבית - והוא רצח אותם ועוד 6 בני משפחה",
-   "summary": "ארה\"ב: אלן סמית' (44) חזר לבית הוריו במונטנה שבועות אחרי שביקשו ממנו לעזוב, בזמן שבני המשפחה התכנסו לארוחת הערב השבועית - ופתח באש. ההורים, סבתו, אחותו וארבעת אחייניו בני 7 עד 15 נרצחו. שרלוט בת ה-12 הספיקה להתקשר למשטרה: \"היא הייתה גיבורה\". לאחר הירי הצית סמי…",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjebiiswgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/26/ByHv6aovzg/ByHv6aovzg_0_0_1672_941_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -200,6 +204,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "משוואה עם שתי נעלמות / שלמה ארצי",
+   "summary": "לא כל מי שנעלם רוצה שימצאו אותו מיד. לפעמים הוא רק רוצה לוודא שכשיחזור יישאר בתוכו מישהו או משהו שאפשר למצוא",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14869345",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/BJdY1hkNxC/BJdY1hkNxC_0_0_1920_1080_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "מזל יתומה - חלק שישי",
    "summary": "בלעדי למנויי ידיעות+: יתומה אדומת שיער חובבת ספרות מוצאת עצמה תחת חסותו של סוכן מוסד לשעבר, אך המפגש המסתורי חושף פשע קדום ושאלות על מוצאה האמיתי. מותחן רומנטי ישראלי שמוגש בהמשכים, חלק נוסף מדי יום",
    "source": "ynet - תרבות ובידור",
@@ -219,20 +237,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/rjvrf2idml",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/04/HyVBVEEskg/HyVBVEEskg_682_256_1810_1019_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "\"הייתה מתנה מופלאה וכישרון אדיר\": הכוכבים נפרדים מדולי פרטון",
-   "summary": "קולגות, זמרים, שחקנים ועוד נפרדו בתדהמה מאגדת הקאנטרי שהלכה לעולמה בגיל 80. נשיא ארצות הברית הורה להוריד את הדגלים לחצי התורן, וג'וליה רוברטס, קלי קלרקסון, ריבה מקנטייר וכוכבים רבים נוספים ספדו לזמרת האהובה: אישה בסדר גודל אסטרונומי. איזו מורשת. איזה אובדן. לע…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bks9hvjvze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/SJVXa8jwGx/SJVXa8jwGx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
