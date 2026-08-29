@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 29 באוגוסט 2026",
  "date_he": "29/08/2026",
- "updated": "02:56",
+ "updated": "09:39",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "גשם נדיר באוגוסט: מהצהריים בצפון, בלילה במרכז - וחשש להצפות | התחזית המלאה",
-  "summary": "גשם מקומי צפוי משעות הצהריים בצפון, ובלילה יתפשט גם למרכז. ייתכנו סופות רעמים וקיים חשש קל להצפות לאורך מישור החוף. מחר בבוקר הגשם יימשך עד צפון הנגב, ובהמשך ייפסק",
-  "link": "https://www.ynet.co.il/news/article/uxctpc89h",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/B1r5fm1vMx/B1r5fm1vMx_1057_595_1944_1094_0_medium.jpg"
+  "title": "סחט נערות ששלחו לו תמונות חושפניות - ואיים ברצח: חייל חשוד בהטרדה מינית",
+  "summary": "חייל כבן 20 חשוד שהתחזה לנער בן 16, גרם לשתי נערות בנות 14 ו-15 לשלוח לו תמונות חושפניות - ואז סחט אותן לשלוח לו תכנים נוספים ואף איים ברצח שלהן ושל משפחותיהן. מעצרו הוארך ב-4 ימים",
+  "link": "https://www.ynet.co.il/news/article/bkzmgxl00fe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/03/BJqjjYa11Zx/BJqjjYa11Zx_0_0_1280_720_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.6° / 25.2°",
-   "summary": "כרגע 25.2°, לחות 90%, רוח 11.0 קמ״ש. סיכוי משקעים 8%.",
+   "title": "עתלית · 30.6° / 25.3°",
+   "summary": "כרגע 30.6°, לחות 66%, רוח 28.3 קמ״ש. סיכוי משקעים 10%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,21 +24,21 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "25.2°"
+     "25.3°"
     ],
     [
      "לחות",
-     "90%",
-     90
+     "66%",
+     66
     ],
     [
      "רוח",
-     "11.0 קמ״ש"
+     "28.3 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "8%",
-     8
+     "10%",
+     10
     ]
    ]
   },
@@ -50,6 +50,10 @@ window.NEWS_DATA = {
    "link": "https://www.365scores.com/he/football/israel",
    "image": null,
    "stats": [
+    [
+     "Hapoel Kauhav נגד Maccabi Ihud Bnei Ivtin",
+     "0:0 · מחצית ראשונה"
+    ],
     [
      "SC Arad נגד M.S Ramla",
      "3:1 · הסתיים"
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Kiryat Ono נגד Bnei Jaffa",
      "1:3 · הסתיים"
-    ],
-    [
-     "Ironi Nir Ramat HaSharon נגד FC Jerusalem",
-     "3:2 · After ET"
     ]
    ]
   },
@@ -82,25 +82,29 @@ window.NEWS_DATA = {
    "stats": [
     [
      "North District נגד Kitchee",
-     "טרם התחיל"
+     "0:0 · מחצית שנייה"
     ],
     [
      "Southern District נגד Kowloon City",
-     "טרם התחיל"
+     "1:1 · מחצית שנייה"
     ],
     [
      "Hapoel Kauhav נגד Maccabi Ihud Bnei Ivtin",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Kudrivka נגד Epicentr",
      "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "פ.ס.ז' נחלצה מהפסד בתום דרמת ענק, באיירן פתחה עונה עם חמישייה",
-   "summary": "אלופת אירופה חילצה שוב 2:2, הפעם מליל, בזכות שני שערים בתוספת הזמן. הבווארים המשיכו בדיוק היכן שסיימו את העונה שעברה, עם 1:5 על שטוטגרט. איטליה: ניצחון למילאן",
+   "title": "19 שנה למותו של אנסופוואה: \"שניות לפני שהיה צריך להיות מוחלף\"",
+   "summary": "רגע לפני פתיחת המסע להגנה על האליפות, מציינים בהפועל באר-שבע את היום שבו החלוץ הזמבי התמוטט במשחק אימון. סוכנו ניר קרין מספר על היום הטארגי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hkk1jdkome",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/BkJduukufg/BkJduukufg_0_176_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjskg7gdml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/03/29/9877067/9877067_213_0_3381_1903_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -110,11 +114,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "סילבן לנדסברג הודיע על פרישה: \"תודה לאלה שעודדו - ולאלה ששרקו בוז\"",
-   "summary": "אקס מכבי ת\"א ומכבי חיפה, ששיחק גם בנבחרת ישראל, פרסם באינסטגרם כי הוא תולה את הנעליים: \"תודה למאמנים על כל העבודה - שהייתם איתי לאורך כל הדרך\"",
+   "title": "אחרי שעסקת הענק סוכמה: בראדלי ברקולה יחתום בליברפול עד 2031",
+   "summary": "הצרפתי בן ה-23 שעוזב את פ.ס.ז' תמורת 123 מיליון ליש\"ט, יחתום במהלך סוף השבוע על חוזה לחמש שנים - ויהפוך לרכש השני היקר בתולדות המועדון. ליברפול תשלם 106 מיליון ליש\"ט באופן מיידי. בעקבות העסקה, גאקפו עשוי לעזוב",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1ig11dyume",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2014/12/21/5770900/5770900_0_92_1650_929_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/byimzmedge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/B1YvOfxuzg/B1YvOfxuzg_402_0_1985_1118_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -124,11 +128,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בעקבות פציעה: תמיר בלאט לא ישחק במשחק הבא של נבחרת ישראל בכדורסל",
-   "summary": "הגארד, שנפצע במשחק מול פולין, אובחן עם קרע קטן בשריר ונגרע מהסגל של הכחולים-לבנים לקראת המפגש עם לטביה. יותם חנוכי זומן במקומו",
+   "title": "לקראת מכבי ת\"א: ההתלבטות הגדולה של ברק בכר",
+   "summary": "הירוקים מקווים להמשיך את המומנטום ממחזור הפתיחה עם ניצחון בבלומפילד (שני, 20:30), כאשר המאמן מהכרמל טרם החליט האם לשמור על המערך שניצח את הפועל ר\"ג או לשנות לקישור מעובה. עלי מוחמד בתמונת ההרכב, ברוניניו עשוי לעבור לאגף השמאלי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rykqaukdzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/28/r1eeTCUJuGg/r1eeTCUJuGg_373_170_628_354_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bk3l9bxoze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/rkSm0XvwDGl/rkSm0XvwDGl_0_269_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -138,11 +142,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"עסקת הנפט הגדולה בהיסטוריה\": ארה\"ב תשלוט ב-65 מיליארד חביות בוונצואלה",
-   "summary": "כ-8 חודשים אחרי שכוחות אמריקניים לכדו את הרודן מדורו, טראמפ הכריז על עסקת ענק עם ונצואלה - שלדבריו \"יותר מתכפיל\" את עתודות הנפט של ארה\"ב. הנשיאה רודריגז: \"הסכם היסטורי שיכניס 209 מיליארד דולר לקופת המדינה\". ברקע: מחירי הדלק הגבוהים בארה\"ב, והפגיעה באספקת הנפט …",
+   "title": "זה הזמן לעשות להם בית ספר",
+   "summary": "מערכת החינוך קורסת, וצריך לטפל בזה לפני שתגיע הקטסטרופה. זה הזמן לפירוק והרכבה מחדש, \"פינוי בינוי\". הציבור מבין את זה, ואפילו מוכן לשלם מחיר של שביתה ארוכה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjrcviy00fg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/23/B1qeYrv0ge/B1qeYrv0ge_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14879960",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/yk14880162/yk14880162_1_24_601_339_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -152,15 +156,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "דיווח: פיט הגסת' שוקל להתמודד לנשיאות ארה\"ב ב-2028",
-   "summary": "לפי רשת NBC, שר ההגנה של טראמפ כבר משוחח עם מקורבים על האפשרות שינסה להגיע לבית הלבן. הספקולציות סביבו גברו אחרי שהגיע החודש לאיווה, תחנה מסורתית עבור פוליטיקאים שבוחנים ריצה לנשיאות, ונכנס עמוק יותר לקמפיינים של מועמדים רפובליקנים. הגסת' מכחיש: \"שקר ב-100%\"",
+   "title": "זה מה שיש - שב איתנו כאן",
+   "summary": "תהום פעורה בחברה הציונית בישראל וכל צד מנסה למצוא מעקפים. דווקא מפלגות שדורשות (ובצדק) ממשלה עם רוב ציוני, אמורות להבין את גודל השעה מול האזרחים הערבים. עבאס וסגלוביץ' מציעים שותפות מסוג חדש שחבל לפסול מראש. ייתכן שכשהיהודים יבשילו, לא תהיה הנהגה ערבית שתושיט …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hy5eg5jogl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/07/SJdReiM11fl/SJdReiM11fl_0_148_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14879873",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/yk14880601/yk14880601_0_0_559_446_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "הרכבים של Volvo יזהירו אחד את השני מסכנות בכביש",
+   "summary": "שמעו. אני לא אוהב להתרברב, אבל אתם מדברים כאן עם \"משתמש Waze אלוף\" עם 442,836 נקודות נכון למועד כתיבת שורות אלו. סורי ליידיז, אני תפוס. אבל יכול להיות שבקרוב כל העבודה הקשה והרקורד שלי לאורך כמעט 20 שנים יהפכו לנחלת העבר, כיוון שיצרנית הרכב השוודית-סינית וולבו…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/volvo-evs-are-about-to-warn-each-other/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -184,20 +202,6 @@ window.NEWS_DATA = {
    "summary": "בזמן שהתרעננתם בבריכה או חיכיתם בתורים הבלתי נגמרים בנתב\"ג, ההייטק הישראלי העביר את אוגוסט על טורבו. עם גיוסים של חצי מיליארד דולר, אקזיט ענק אחד ועוד כמה הפתעות מתחת לרדאר – מתברר שחודש הקיץ המנומנם הפך לפעיל ביותר שראינו בשנים האחרונות. הנה כל המספרים והעסקא…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/israeli-startup-ecosystem-funding-roundup-august-2026/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "צפו: 26 דקות מתוך GTA 6 שיפילו לכם את הלסת",
-   "summary": "הלילה זה קרה. אחרי שני טריילרים, דחיות שוברות לב וכמובן יותר מדי הדלפות, Rockstar Games חשפה את הצצה המוקדמת הראשונה ל-Grand Theft Auto VI (או GTA 6, בשבילכם). באופן חריג מאוד, החשיפה הזאת שודרה קודם כל בשירות הסטרימינג Netflix, ורק לאחר מספר שעות ארוכות עלתה …",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/grand-theft-auto-vi-gta-6-extended-look/",
    "image": null,
    "stats": [
     [
