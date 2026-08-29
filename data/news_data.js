@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 29 באוגוסט 2026",
  "date_he": "29/08/2026",
- "updated": "21:23",
+ "updated": "23:43",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הגנרל בפרונט",
-  "summary": "כתבת השער בגיליון האחרון של \"אלמג'לה\" מוקדשת לדמות מוכרת היטב אצלנו - גדי איזנקוט, שתצלומו הענק על השער מלווה בכותרת \"האם יצליח איזנקוט להדוף את קללת הגנרלים בישראל?",
-  "link": "https://www.ynet.co.il/news/article/yokra14881662",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/H1W6DtIbPMe/H1W6DtIbPMe_0_823_2001_1127_0_medium.jpg"
+  "title": "חשד לרצח ביפו: גבר נורה למוות, וכעבור דקות - פצוע קשה מירי ברחוב הסמוך",
+  "summary": "ב-1:11 התקבל דיווח על ירי ברחוב לייב בן שרה, ומותו של כבן ה-30 נקבע במקום. \"הייתה המולה רבה, ראינו את הפצוע כשהוא מחוסר הכרה, עם פציעות חודרות קשות\", סיפרו במד\"א. 6 דקות לאחר מכן דווח על פצוע קשה מירי נוסף ברחוב הרבי מלילוב",
+  "link": "https://www.ynet.co.il/news/article/syexjkzufl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rkPS0Rg00fg/rkPS0Rg00fg_0_167_1600_901_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.0° / 24.7°",
-   "summary": "כרגע 25.7°, לחות 75%, רוח 18.1 קמ״ש. סיכוי משקעים 3%.",
+   "title": "עתלית · 30.3° / 24.7°",
+   "summary": "כרגע 25.4°, לחות 80%, רוח 13.2 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.0°"
+     "30.3°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "75%",
-     75
+     "80%",
+     80
     ],
     [
      "רוח",
-     "18.1 קמ״ש"
+     "13.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -74,29 +74,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
-   "stats": [
-    [
-     "Sevilla נגד Atletico Madrid",
-     "1:3 · מחצית שנייה"
-    ],
-    [
-     "JS Kabylie נגד MB Rouisset",
-     "נדחה"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "בית\"ר ירושלים חטפה רביעייה מנתניה, אוהדי הקבוצה פרצו למגרש",
-   "summary": "מספר אוהדים הצליחו להיכנס לכר הדשא אחרי השער השני של מכבי נתניה. המשחק נעצר למספר דקות לפני שחודש. האורחת חגגה עם הצגה ענקית על חשבון הקבוצה של אלמוג כהן, שלושער לדאבו",
+   "title": "נפצע אנושות בג'באליה וחזר לגלוש: \"אני לא נכנע לשום מוגבלות\"",
+   "summary": "תמיר דודי נפצע בקרב מול מחבלים, עבר 17 ניתוחים ולבסוף נאלץ להיפרד מידו. עכשיו, כשהוא מכוון לפודיום באליפות העולם בגלישת גלים, קצין סיירת נח\"ל מספר על רגעי ההישרדות בג'באליה, הדרך הארוכה בחזרה למים והאהבה שהתחילה מפוסט בפייסבוק: \"אם הייתי צריך, הייתי יוצא עוד א…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1ka6ilugg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/H1br4Z2x00Mx/H1br4Z2x00Mx_0_339_1998_1125_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/byn6cnedfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/r1tqyplOfg/r1tqyplOfg_142_16_1017_573_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -106,11 +88,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "פותחת מול דינמו זאגרב, יובנטוס בדצמבר: לוח המשחקים של הפועל באר-שבע",
-   "summary": "פורסם הלוח המלא של האלופה בליגה האירופית: המשחק המסקרן מול מול האימפריה האיטלקית ב-10 בדצמבר בבוקרשט",
+   "title": "הזאב בחורף: המלחמה האחרונה של נובאק ג'וקוביץ'",
+   "summary": "בגיל 39, עם 24 תארי גראנד סלאם וגוף שכבר מתחיל לבגוד בו, נובאק ג'וקוביץ' עדיין מסרב לרדת מהבמה. הדוקו החדש עליו חוזר לילדות תחת ההפצצות בבלגרד, לכעס שהפך לדלק ולמרדף אחר האהבה שפדרר ונדאל קיבלו באופן טבעי. עכשיו, באליפות ארה\"ב ה־20 שלו, נותרה רק שאלה אחת: האם …",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjerysgofl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rJx2xhUswzg/rJx2xhUswzg_0_100_900_507_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/r1a00dhxdme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/10/BkzJUBqCmGe/BkzJUBqCmGe_533_398_2468_1390_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -120,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "עדיין מושלמת: מכבי פ\"ת ניצחה 1:2 את בני סכנין",
-   "summary": "קבוצתו של אריה נקלעה לפיגור כבר לאחר פחות מדקה, אך סמואל אווסו ולירן חזן כבשו והפכו את התוצאה. המלאבסים עדיין במאזן מושלם לאחר שני מחזורים",
+   "title": "אוהדים שמתלוננים ומוחים נגד גולדהאר הם מפונקים | טור",
+   "summary": "כפיות הטובה של חלק מאוהדי מכבי ת\"א מקוממת: רגע אחרי שקיטרו על שוליות הקונפרנס־ליג, הם מתלוננים על חורף נטול מפעל אירופי.  גולדהאר לא שופך מיליונים כמו פעם? נכון, הוא לא חייב להרגיש פראייר. תקציב שפוי זו לא מילה גסה",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/531878",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884911/one1884911_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sykmf3xdgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/24/Bkzdo00yzxl/Bkzdo00yzxl_0_104_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -134,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מנהיג ש\"ס משתלח ביועמ\"שית: \"משוגעת, הקב\"ה יכלה אותה\"",
-   "summary": "",
+   "title": "אזהרת מערכת הביטחון - נגד האוצר: \"אנחנו על פי תהום\"",
+   "summary": "\"מחיר שלא ישולם כעת בכסף ישולם מחר בביטחון המדינה\": במערכת הביטחון מזהירים כי באגף התקציבים בולמים העברת 15 מיליארד שקלים שכבר סוכמה. התוצאה: מחסור חמור בהאמרים ובחימושים, ועסקאות ענק מול ארה\"ב שלא יצאו לפועל. החשש - שיתוק בתקופת בחירות: \"צרכים א-פוליטיים לחלו…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/ryzvu6x00zx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/S1ghFHqEPzx/S1ghFHqEPzx_148_19_424_239_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14881398",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/yk14881951/yk14881951_0_0_592_403_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "משותפת לגברים בלבד",
-   "summary": "כאשר חיברו את הרשימות של המפלגות הערביות, חיברו גם את ההיררכיות הגבריות שלהן. האיחוד פתר את משוואת חלוקת המושבים בין המפלגות, אך לא תיקן את אי-השוויון",
+   "title": "בן גביר פסל סופית, וינטר רוצה להיות \"כליא  ברק\" | האופציות הפוחתות של נתניהו",
+   "summary": "נתניהו יצא לבחירות במטרה לעצב 4 רשימות ימין שיאפשרו הסכמי עודפים ויבטיחו שכולן יעברו את אחוז החסימה. סירובם של וינטר ובן גביר להתאחד הוא אירוע הרסני מבחינת רה\"מ: בן גביר עשוי לצמוח על חשבון הליכוד, בעוד שווינטר פונה ל\"ימין המאוכזב\" - גם ממפלגת השלטון. \"פגישה מ…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14882194",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/09/SyqG3S88Gx/SyqG3S88Gx_0_437_961_541_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/skhd45g00ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/HktrY2xOMl/HktrY2xOMl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
