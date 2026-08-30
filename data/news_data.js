@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 30 באוגוסט 2026",
  "date_he": "30/08/2026",
- "updated": "18:16",
+ "updated": "21:44",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,32 +13,32 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.9° / 25.5°",
-   "summary": "כרגע 28.7°, לחות 59%, רוח 11.2 קמ״ש. סיכוי משקעים 3%.",
+   "title": "עתלית · 30.5° / 25.8°",
+   "summary": "כרגע 28.1°, לחות 64%, רוח 7.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.9°"
+     "30.5°"
     ],
     [
      "מינימום",
-     "25.5°"
+     "25.8°"
     ],
     [
      "לחות",
-     "59%",
-     59
+     "64%",
+     64
     ],
     [
      "רוח",
-     "11.2 קמ״ש"
+     "7.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "3%",
-     3
+     "0%",
+     0
     ]
    ]
   },
@@ -50,10 +50,6 @@ window.NEWS_DATA = {
    "link": "https://www.365scores.com/he/football/israel",
    "image": null,
    "stats": [
-    [
-     "הפועל חיפה נגד הפועל תל אביב",
-     "0:0 · מחצית"
-    ],
     [
      "SC Sderot נגד Shimshon Tel Aviv",
      "1:0 · הסתיים"
@@ -69,6 +65,10 @@ window.NEWS_DATA = {
     [
      "Ironi Nir Ramat HaSharon נגד FC Jerusalem",
      "3:2 · After ET"
+    ],
+    [
+     "Hapoel Lod נגד Maccabi Ramat HaSharon",
+     "4:3 · הסתיים"
     ]
    ]
   },
@@ -81,27 +81,43 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Deportivo A Coruña נגד Valencia",
-     "2:1 · מחצית ראשונה"
-    ],
+     "Celta Vigo נגד Athletic Bilbao",
+     "0:2 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "בעל הבית: בטורינה כיכב, 1:2 לקומו על נאפולי",
+   "summary": "צפו: הבן של אקס בני יהודה הצטיין עם שער ובישול לדוביקאס, באצטדיון המראדונה מול הפרטנופיי, והוביל את קבוצתו לניצחון בכורה. הוילון איזן זמנית",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/one532053",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885188/one1885188_0_0_800_444_0_medium.jpg",
+   "stats": [
     [
-     "Lazio נגד Genoa",
-     "טרם התחיל"
-    ],
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "אליפות ארה\"ב: ג'סיקה פגולה פתחה ברגל ימין",
+   "summary": "המדורגת 3 בעולם ניצחה  3:6, 2:6 את אלנה-גבריאלה רוסה מרומניה ותפגוש את המנצחת בין סופיה קנין לוונוס וויליאמס. הלילה: ג'וקוביץ' יתחיל את המסע",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/bj1rrgzdfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rJ7U7bzOGx/rJ7U7bzOGx_0_43_3000_1688_0_medium.jpg",
+   "stats": [
     [
-     "Cagliari נגד Inter Milan",
-     "טרם התחיל"
-    ],
-    [
-     "Monaco נגד Olympique de Marseille",
-     "טרם התחיל"
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
   {
    "section": "כדורגל",
    "title": "חגיגה: 0:4 לאייאקס על טלסטאר, אוסקר גלוך בישל",
-   "summary": "האורחת הציגה כדורגל חיובי והביסה משערים של דייבי קלאסן, סטיבן ברחאוס, טולו ארוקודארה ולאונרדו. הישראלי השלים 73 דקות ובישל את השער השני",
+   "summary": "האורחת הציגה כדורגל חיובי והביסה משערים של דייבי קלאסן, סטיבן ברחאוס, טולו ארוקודארה ולאונרדו. הישראלי השלים 73 דקות ובישל את השער השני. צפו",
    "source": "ynet - ספורט",
    "link": "https://livegame.ynet.co.il/games/531992",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885127/one1885127_0_0_800_444_0_medium.jpg",
@@ -113,40 +129,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "3:4 מטורף לצ'לסי מול ברייטון, שלושער לפרננדש בניצחון של יונייטד",
-   "summary": "הבלוז כבר הוליכו 0:3 מול השחפים, שכמעט השלימו קאמבק מרשים. אחרי שני מחזורים הקבוצה של צ'אבי אלונסו שומרת על מאזן מושלם. השדים האדומים חגגו ניצחון בכורה: 2:5 על איפסוויץ', הקפטן להט",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sk4ryabufg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/S1Yc5aWufl/S1Yc5aWufl_0_165_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "מחצית: הפועל חיפה - הפועל ת\"א 0:0",
-   "summary": "ליגת העל, מחזור 2: קצב שקול בפתיחה. המארחת יוזמת יותר, כשמספר ניסיונות שלה מרחוק לא הלכו למסגרת. מנגד, ברדה וחניכיו מתקשים להיכנס למשחק",
-   "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/531988",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/one1885156/one1885156_0_0_800_444_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "אחרי התלונה במשטרה, בליכוד עדכנו רשמית: גמליאל נדחקה למקום ה-35",
-   "summary": "ספירת הקולות המחודשת בבאר יעקב קבעה רשמית - שרת החדשנות נדחקה למקום לא-ריאלי ואת מקומה במקום ה-25 תתפוס ח\"כ אתי עטיה, המקורבת לשר חיים כץ, שהגיב: \"עובר מסכת שקרים והשמצות מצד הגברת גמליאל\". השרה טענה לאי-סדרים והתלוננה במשטרה, בעלה תועד צועק: \"גונבים בחירות\"",
+   "title": "מה קרה במיאמי?",
+   "summary": "הצורך להבין מה בדיוק קרה במיאמי בדצמבר 25' עונה על ההגדרה הבסיסית ביותר של \"עניין לציבור\", ממש כמו התדרוך לפיו בארגון \"מזהים נכונות גוברת בחמאס לחיכוך\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/rjvzgyzdme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/rkC7oBjwGl/rkC7oBjwGl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14883017",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/06/SkpSa3KJbx/SkpSa3KJbx_0_0_2000_1126_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -156,11 +144,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "נאשמים בפרשת רצח ימנו זלקה יחזרו לבתי הספר: \"למה הבן שלי צריך לפחד?\"",
-   "summary": "יומיים ל-1 בספטמבר, הורים לתלמידים באחד מבתי הספר בפתח תקווה גילו שנער הנאשם בפרשת רצח ימנו זלקה ועולה לכיתה י' אמור לשוב למוסד החינוכי. \"לא נסכן את הילדים שלנו\", אומר אב לילד שבנו עולה לאותה שכבה. בעירייה ובמשרד החינוך מחפשים מסגרת חלופית, ההורים מודאגים: \"לא…",
+   "title": "16 הלוחמים שסירבו לצאת לסיור עם פרמדיקית בעזה נשלחו לכלא",
+   "summary": "5 מהלוחמים שהובילו את האירוע נשלחו ל-10 ימי מחבוש, ו-11 נוספים ל-5 ימים. סירובם לצאת לפעילות הוביל לביטול פעילות מבצעית ברצועה, וחלק מהחיילים יעברו ועדת הערכה לפני חזרתם ללחימה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjojasbuzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/24/ByODKJt6Ze/ByODKJt6Ze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sk5nfjguze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/Hkef41RtwGl/Hkef41RtwGl_0_97_1601_901_0_medium.jpg",
    "stats": [
     [
      "מקור",
