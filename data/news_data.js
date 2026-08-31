@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שני, 31 באוגוסט 2026",
  "date_he": "31/08/2026",
- "updated": "14:37",
+ "updated": "20:30",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אזרחית ישראלית נוספת נעדרת בנפאל",
-  "summary": "קתרינה זקוביץ  (41) מחזיקה בדרכון של בלארוס והוגדרה עד כה כנעדרת בלארוסית. משרד החוץ: \"נמצאים בקשר עם משפחתה\". באסון נעדר ישראלי נוסף",
-  "link": "https://www.ynet.co.il/news/article/sjv8k11xuzx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/S1qu6bmOMx/S1qu6bmOMx_0_236_558_315_0_medium.jpg"
+  "title": "רוכב אופנוע נהרג מפגיעת רכב ברמת השרון",
+  "summary": "מותו של רוכב האופנוע בשנות ה-60 לחייו נקבע בבית החולים בתום מאמצי החייאה ממושכים. המשטרה פתחה בחקירה",
+  "link": "https://www.ynet.co.il/news/article/bjypglqugx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/rJu0RBX00zg/rJu0RBX00zg_131_1_1050_591_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.6° / 25.8°",
-   "summary": "כרגע 29.3°, לחות 65%, רוח 16.1 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.7° / 25.8°",
+   "summary": "כרגע 27.6°, לחות 76%, רוח 7.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.6°"
+     "30.7°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "65%",
-     65
+     "76%",
+     76
     ],
     [
      "רוח",
-     "16.1 קמ״ש"
+     "7.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,30 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Yelimay Semey נגד Kairat Almaty",
-     "0:2 · מחצית ראשונה"
+     "Atalanta נגד Bologna",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Araz PFK נגד Sabah",
-     "0:0 · מחצית ראשונה"
+     "Aston Villa נגד Arsenal",
+     "0:1 · מחצית שנייה"
     ],
     [
-     "Petrol Asyut נגד National Bank Of Egypt",
-     "0:0 · מחצית ראשונה"
+     "FC Barcelona נגד Rayo Vallecano",
+     "2:1 · מחצית"
     ],
     [
-     "Bukovyna נגד Dynamo Kyiv",
-     "טרם התחיל"
+     "Zamalek SC נגד Petrojet",
+     "2:1 · הסתיים"
+    ],
+    [
+     "Al Masry נגד Pyramids",
+     "0:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "עוזב את מכבי ת\"א: אבו פרחי חתם בקולורדו",
-   "summary": "החלוץ יחתום לארבע שנים בקבוצה מה-MLS ויוצג מחר באופן רשמי. מחזיקת הגביע תקבל עבורו 5.4 מיליון דולר",
+   "title": "דקה 67: אסטון וילה - ארסנל 1:0",
+   "summary": "פרמייר ליג, מחזור 2: בוקאיו סאקה העלה את האלופה ליתרון לאחר שליטה של התותחנים במשחק, מהצד השני אמי בוונדיה נעצר במשקוף בבעיטה חזקה מרחוק",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/132lpfy3n",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/12/B1HFRqYUzx/B1HFRqYUzx_0_0_850_479_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/532117",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1885376/one1885376_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -114,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "עסקת הענק נחתמה: בראדלי ברקולה הוצג בליברפול",
-   "summary": "הצרפתי בן ה-23 עזב את פ.ס.ז' תמורת 123 מיליון ליש\"ט, סיכם על חוזה לחמש שנים - והפך לרכש השני היקר בתולדות המועדון. ליברפול תשלם 106 מיליון ליש\"ט באופן מיידי. בעקבות העסקה, גאקפו עשוי לעזוב",
+   "title": "רומא חגגה עם 0:4 גדול על לצ'ה, גאנדלמן לא שותף",
+   "summary": "הג'יאלארוסי השיגו 0:4 שני ברציפות ושמרו על מאזן מושלם אחרי תצוגה גדולה נגד קבוצתו של הישראלי, שלא שותף. מאלן כבש צמד, סולה ומורה הוסיפו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/lgp1dok9i",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/B1YvOfxuzg/B1YvOfxuzg_402_0_1985_1118_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one532154",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1884275/one1884275_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -128,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אבידה קשה למכבי תל אביב | תוכן גולשים",
-   "summary": "סייד אבו פרחי שיחק בכל מקום שבו הצהובים היו זקוקים לו – כמגן שמאלי, כמגן ימני ואפילו כשוער – וממי שהתנדב לעשות את העבודה השחורה הפך לחלוץ הפותח ולאחד האקזיטים הגדולים בתולדות המועדון • עכשיו, בגיל 20 ובתמורה לשישה מיליון דולר, הוא עובר לקולורדו ומשאיר אחריו הר…",
+   "title": "מחצית: ברצלונה - ראיו 1:2",
+   "summary": "ליגה ספרדית, מחזור 3: האלופה ביצעה מהפך בזק. קאמייו כבש (12'), אבל הקטלונים חזרו במהרה עם גולים של ראפיניה (19') ולאמין ימאל (21'). חי ב-ONE",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/bkohpp6dzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/16/B1Z7EsLNGl/B1Z7EsLNGl_0_70_3000_1660_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/532096",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1885411/one1885411_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -142,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"גזע האדונים הוא אנחנו\": האלופים לשעבר נגד המתנחלים הקיצונים, בכותרות \"ניו יורק טיימס\"",
-   "summary": "\"ניו יורק טיימס\" הקדיש כתבה נרחבת לאלימות ביו\"ש, והבליט התבטאויות חריפות של בכירים לשעבר במערכת הביטחון. איל בן ראובן טען כי המתנחלים הם \"האיום האמיתי על ישראל, יותר מאיראן\", אפרים סנה דיבר על \"טיהור אתני\" ואסף אגמון השווה את הניסיון \"למחוק את הנוכחות הפלסטיני…",
+   "title": "הקונספירציה של שרה נתניהו: \"יאיר גולן היה לבוש ומוכן ב-7/10, מוקדם. כשרה\"מ לא ידע\"",
+   "summary": "אשת רה\"מ, שמסרבת להתראיין בערוצים שאינם מקורבים אליה ואליו, רומזת כי יו\"ר הדמוקרטים ידע על המתקפה ב-7/10, בזמן שבעלה לא. גולן שהציל מבלים בנובה העיד שבאותו יום, ירד דרומה רק שעה וחצי אחרי תחילת המתקפה. שרה נתניהו על שב\"כ תחת רונן בר: \"שמר עלינו, עובדה שלמרות ה…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s1ngoamuzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/19/HyG7Tvia7o/HyG7Tvia7o_0_77_786_443_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/r1q9tsxome",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/24/r1Fh0Mxjbl/r1Fh0Mxjbl_1_86_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -156,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בהמלצת המשטרה: תוגברה האבטחה על יו\"ר ועדת הבחירות נעם סולברג",
-   "summary": "המשנה לנשיא בית המשפט העליון, שמשמש גם כיו\"ר ועדת הבחירות, זוכה בימים האחרונים לאבטחה מוגברת. מוועדת הבחירות נמסר: \"סולברג מאובטח בהתאם לצרכים הביטחוניים\". כבר בתחילת יוני, לאחר התפרעות חרדים בביתו במחאה על חוק הגיוס, הוגדר המשנה לנשיא בית המשפט העליון כ\"אישיו…",
+   "title": "מיקי לוי לא יהיה ברשימת ביחד בבחירות: \"אין בי כעס ואין מרירות\"",
+   "summary": "אחרי מאיר כהן, ח\"כ נוסף מיש עתיד הודיע שלא יתמודד לכנסת הבאה: \"מסיים פרק בראש מורם ובלב שלם\". לוי ימונה לאב בית הדין של המפלגה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/syeadw7dgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/rJFUxXSCyx/rJFUxXSCyx_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b15btumdze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/12/04/BklYSFGira/BklYSFGira_0_90_1397_787_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "שוחרר OpenClaw 2.0: הנה מה שחדש (ויש הרבה)",
+   "summary": "קשה קצת להאמין עם קצב הפיתוחים בתחום, אבל רק לפני פחות משנה פרץ לחיינו OpenClaw (שאז עוד נקרא Clawdbot). תוך פחות מחודש, הפיתוח של פיטר סטיינברגר הפך לוויראלי כל כך שהוא הספיק לקבל איומים מ-Anthropic, לגרום למחסור ב-Mac Mini, לסדר לסטיינברגר אקזיט מהיר ל-OpenA…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/openclaw-2-0-released/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -197,16 +215,30 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "טעות בצ'אט? מוחקים. טעות בעולם האמיתי? אסון",
-   "summary": "מאת: פרופ' נדב כהן נדמה שאי אפשר לפתוח את פיד הטכנולוגיה בלי להיתקל בעוד הכרזה על גיוס ענק בתחום ה-Physical AI. מעבדות וחברות מרכזות כיום מאמץ חסר תקדים סביב מודלים שיאפשרו למכונות לפעול בעולם הפיזי, החל מרובוטים ורכבים אוטונומיים, ועד רחפנים, מפעלים ותשתיות ק…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/physical-ai-real-world-challenges/",
-   "image": null,
+   "section": "בידור",
+   "title": "אורי בנאי ואנה גופמן הם הזוכים ב\"פאוור קאפל\"",
+   "summary": "בני הזוג גברו בגמר העונה של תוכנית הריאליטי על הזוגות המתחרים אסי ועדי בוזגלו, ועמרי ודורין קנדה. התוכנית, בהנחיית רון שחר, צולמה בהודו ומהווה גלגול חדש של \"זוג מנצח VIP\". עם זכייתם בגמר, בנאי וגופמן זכו גם בפרס של 399 אלף שקלים שאותם צברו במהלך העונה",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/byxcegmdfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/ryDq11efOGl/ryDq11efOGl_0_27_1166_657_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "האם הדג נחש ויונתן ברק יעשו שכטה?",
+   "summary": "רגע לפני ההופעה החגיגית בקיסריה, ואחרי שלושה עשורים יחד, מחליטים חברי הדג נחש לחפש את הצלע השביעית של הלהקה. אבל ליונתן \"שאכטה קלאוס\" ברק יש תוכניות אחרות. \"חבר חדש לדג נחש\" - סדרת מיקרו-קומדיה חדשה ב-ynet. צפו בפרק המלא",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/skmdkngugg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/ryfpMv6fuMx/ryfpMv6fuMx_201_284_2415_1360_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -217,34 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/bjlj9kmofl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/H1muv00y7Ozl/H1muv00y7Ozl_0_332_2000_1126_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "בכאן בוחנים: הקפאה של שידורי מנהיג ש\"ס",
-   "summary": "במהלך שיעורו השבועי שמשודר בתחנת הרדיו כאן מורשת, אמר הרב יצחק יוסף על היועצת המשפטית לממשלה, \"משוגעת. מי היא בכלל? הקב\"ה יכלה אותה\". בתאגיד בוחנים כעת אם שידורים כאלה אפשריים בתקופת בחירות",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hyyhzy7ugl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/S1ghFHqEPzx/S1ghFHqEPzx_156_33_432_243_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "אייל גולן ועדן בן זקן יככבו יחד במופע חנוכה חדש",
-   "summary": "המופע \"היסטריה\", שיעלה בתל אביב ובירושלים, יפגיש על במה אחת שבעה אמנים ישראלים, כשלצד גולן ובן זקן, צפויים להשתתף חמישה אמנים נוספים ששמותיהם ייחשפו בהמשך. תאריכי האירוע, כמו גם מחירי הכרטיסים, טרם פורסמו",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/rkoli0gdze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/06/21/r1gH3LXlOn/r1gH3LXlOn_117_255_2455_1382_0_medium.jpg",
    "stats": [
     [
      "מקור",
