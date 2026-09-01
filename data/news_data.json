@@ -1,26 +1,26 @@
 {
  "date": "יום שלישי, 1 בספטמבר 2026",
  "date_he": "01/09/2026",
- "updated": "15:18",
+ "updated": "19:00",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "פייגלין וסמוטריץ' ירוצו יחד בבחירות: \"חיבור טכני\"",
-  "summary": "ראשי \"הציונות הדתית\" ו\"זהות\" סיכמו כי משה פייגלין יקבל את המקום השני ברשימה המאוחדת לכנסת. השניים השאירו פתח לחבירה גם לעופר וינטר",
-  "link": "https://www.ynet.co.il/news/elections2026/article/rjuhrwvdfl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/BJJPvP4Ofx/BJJPvP4Ofx_0_0_850_479_0_medium.jpg"
+  "title": "רגע לפני 1/9 עפרי שסובלת משיתוק מוחין התבשרה: לא תוכלי לשוב לביה\"ס",
+  "summary": "עפרי רפאל ממושב נתיב העשרה לומדת בכיתת חינוך מיוחד באשקלון ומוגדרת סיעודית ב-100%. לטענת הוריה, למרות שהמועצה ידעה כבר ביולי כי היא זקוקה לסייעת צמודה, עד פתיחת שנת הלימודים לא נמצא עבורה פתרון. אביה אמר ל-ynet: ״היא זקוקה לחברה. היא בכתה כששמעה שאולי לא תלך ל…",
+  "link": "https://www.ynet.co.il/news/article/s1zx0ne00mg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/HkgtRqEVuGx/HkgtRqEVuGx_0_142_720_405_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.3° / 24.9°",
-   "summary": "כרגע 28.4°, לחות 72%, רוח 18.0 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.5° / 24.9°",
+   "summary": "כרגע 27.6°, לחות 74%, רוח 13.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.3°"
+     "30.5°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "72%",
-     72
+     "74%",
+     74
     ],
     [
      "רוח",
-     "18.0 קמ״ש"
+     "13.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,7 +51,15 @@
    "image": null,
    "stats": [
     [
-     "Hapoel Hod HaSharon נגד Beitar Petah Tikva",
+     "Amishav Petah Tikva נגד Ironi Bet Dagan",
+     "3:0 · מחצית שנייה"
+    ],
+    [
+     "Bnei Jaffa נגד Bnei Jaljulia",
+     "2:3 · מחצית שנייה"
+    ],
+    [
+     "Maccabi Or Akiva נגד Ironi Kfar Yona",
      "0:1 · מחצית שנייה"
     ],
     [
@@ -61,14 +69,6 @@
     [
      "Hapoel Haifa U19 נגד Maccabi Haifa U19",
      "1:2 · הסתיים"
-    ],
-    [
-     "Bnei Yehuda U19 נגד Maccabi Tel Aviv U19",
-     "0:1 · הסתיים"
-    ],
-    [
-     "Hapoel Tel Aviv U19 נגד Maccabi Netanya U19",
-     "3:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "El Geish נגד Zed FC",
+     "Wadi Degla נגד El Qanah FC",
      "0:0 · מחצית שנייה"
     ],
     [
-     "Ghazl El-Mehalla נגד ENPPI",
+     "Amishav Petah Tikva נגד Ironi Bet Dagan",
+     "3:0 · מחצית שנייה"
+    ],
+    [
+     "Wolfsberger AC נגד LASK Linz",
+     "1:2 · מחצית שנייה"
+    ],
+    [
+     "Durban City נגד Stellenbosch FC",
      "0:0 · מחצית שנייה"
     ],
     [
-     "Hapoel Hod HaSharon נגד Beitar Petah Tikva",
-     "0:1 · מחצית שנייה"
-    ],
-    [
-     "Entebbe UPPC נגד Updf",
-     "2:1 · הסתיים"
-    ],
-    [
-     "Nec Fc נגד Lugazi FC",
-     "3:1 · הסתיים"
+     "Kruger United נגד Orlando Pirates",
+     "0:2 · מחצית שנייה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "רשמית: אדריאן אוגריסה חתם בהפועל באר-שבע לשלוש שנים",
-   "summary": "האלופה השלימה את צירופו של אחד החלוצים הבולטים בליגת העל בעונה שעברה, שהגיע מעירוני קריית שמונה: \"בטוח שיחד נוכל לעשות דברים גדולים\". הפרואני כבש 20 שערים בכל המסגרות אשתקד וארבעה נוספים העונה",
+   "title": "מתי הדרבי התל אביבי? פורסמו מועדי ליגת העל עד מחזור 15",
+   "summary": "מנהלת הליגות פרסמה את מועדי המשחקים למחזורים 4 עד 15: מכבי ת\"א תארח את הפועל ת\"א ב-14 בספטמבר, מכבי חיפה והפועל באר-שבע ייפגשו ב-26 באוקטובר והמפגש השני בין הירוקים לצהובים נקבע ל-21 בדצמבר. וגם: לא מעט משחקים ייערכו בימי שישי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skti3iv00gg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/rkcisUEuGe/rkcisUEuGe_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ryijek4dzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/14/r1lnouPrH11x/r1lnouPrH11x_0_244_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "שיחק לצד גלוך ובליגת האלופות: הכירו את הרכש החדש של באר-שבע",
-   "summary": "הוא נרכש על ידי נוריץ' אחרי שהרשים באוסטריה, בגיל 23 ואחרי שנתיים לא פשוטות בצ'מפיונשיפ, אמנקווה פורסון מגיע בהשאלה לטרנר. המסלול המרשים, הרבגוניות והפוטנציאל הגדול, לצד סימני השאלה וההשוואה לקינגס קאנגווה",
+   "title": "אובחן עם הפרעת קצב: מקטומיניי יעבור הליך רפואי בליבו",
+   "summary": "קשר נאפולי ונבחרת סקוטלנד יעבור בימים הקרובים ניתוח בעקבות הפרעת קצב קלה ושפירה שהתגלתה אצלו. האיטלקים מעריכים כי ישוב למגרשים בתחילת אוקטובר, השחקן הרגיע: \"לא איעדר להרבה זמן\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b12oiheogg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/BJCV2SEdzg/BJCV2SEdzg_0_76_1793_1010_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkjnzdn00fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/23/HJxFkf80bge/HJxFkf80bge_616_56_1517_854_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "רשמית: תאי עבד חתם בויאדוליד מהליגה השנייה בספרד",
-   "summary": "נחשף ב-ynet | הכדורגלן הישראלי יעבור בהשאלה לקבוצה מליגת המשנה - שתוכל לרכוש אותו בסיום תקופת ההשאלה אם תעלה ליגה תמורת 20 מיליון אירו",
+   "title": "מכבי ת\"א הציעה חוזה עם הפחתה בשכר, סורקין מתוסכל: \"מרגיש שמתעלמים ממנו\"",
+   "summary": "הסנטר ציפה לשדרוג בחוזהו כבר בתחילת העונה שעברה, אך השיחות נדחו שוב ושוב עד שהצהובים חזרו אליו עם הצעה שכללה 1.2 מיליון דולר לשלוש שנים ולאחר מכן ירידה בשכר, ובסביבתו מספרים כי הוא נעלב מההתנהלות: \"שמר הכול בבטן במשך זמן רב\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/y82pkvc2c",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/21/rykDqzABbx/rykDqzABbx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rjw8qpvdfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/16/ByD11MnCh11x/ByD11MnCh11x_0_77_961_541_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "\"רקטות מאולתרות\" ופיצוץ ליד תחנת כוח בגרמניה, חבלה גם במפעל כטב\"מים בפולין",
-   "summary": "בגרמניה מדווחים על נזק לתחנת משנה הסמוכה לתחנת כוח פחמית גדולה בברנדנבורג: \"היה לפחות פיצוץ אחד, אותרו רקטות מאולתרות\", נטען בדיווחים שטרם אושרו. לא ברור מי אחראי, החשודים האפשריים: רוסיה, שברלין צפויה להאשים אותה הערב בהחדרת רחפן הנפץ שאותר ליד מטוס אוקראיני …",
+   "title": "המפכ\"ל: ישראל נתפסת כמדינה של בריונים ועבריינים בגלל הפשיעה ביו\"ש",
+   "summary": "פרסום ראשון: רב-ניצב דני לוי התייחס בשיחה סגורה לנזקי אלימות הפורעים ביהודה ושומרון, ואמר כי \"יש קומץ שכל תכליתו היא לתקוף פלסטינים\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bjtik8vufg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B15SA8EOzg/B15SA8EOzg_0_173_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rjsb4teuzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/SyEnYDQLzl/SyEnYDQLzl_0_84_1006_566_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "גדעון סער מאיים: \"אם בריטניה תטיל עלינו סנקציות – אנחנו נפעל נגדה. יש לנו כלים\"",
-   "summary": "שר החוץ התייחס להצהרות הממשלה בלונדון בעקבות קידום מכרזי הבנייה באזור E1: \"אם הם יעשו טעות – תהיה תגובה. זה יעבוד הפוך מכפי שהם חולמים\". שר החוץ הבריטי שב ואיים: \"לא יכולים לעמוד מנגד. עובדים על צעדים\". הפרק המלא ב\"120 ואחת\", הפודקאסט הפוליטי של ynet, יעלה במל…",
+   "title": "תיעוד קשה לצפייה: תלמידים התנפלו על חברם ביום הראשון ללימודים, הכו וצילמו",
+   "summary": "תלמיד בית ספר מרהט הותקף באכזריות על ידי חבריו לספסל הלימודים ותיעוד המכות שספג הופץ ברשת. תושבים בעיר: \"התיעוד קורע את הלב. זה תמרור אזהרה להורים\". המשטרה פתחה בחקירה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/byihyqeufx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/r1VhtX4EuGg/r1VhtX4EuGg_0_0_3000_1687_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b1fo0d400fx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/SyJWIFNdMl/SyJWIFNdMl_0_256_524_295_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,39 +216,39 @@
   },
   {
    "section": "בידור",
+   "title": "כשג׳וי ריגר החליטה להכניס קצת טאץ' נשי ל\"הדג נחש\"",
+   "summary": "אחרי שלושה עשורים, חברי הדג נחש מחפשים את הצלע השביעית שלהם. ג׳וי ריגר מגיעה לאודישן עם כמה דרישות - וגם הצעה לשם חדש ללהקה. \"חבר חדש להשד נגח\", סדרת המיקרו-קומדיה החדשה של ynet והדג נחש. צפו בפרק המלא",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/s1u3fznuzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/H1Mmnx4E00Ml/H1Mmnx4E00Ml_298_525_1924_1083_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "אחרי הסערה האנטישמית: תמיכה יהודית מפתיעה במארק רופאלו",
+   "summary": "יותר מ-170 אנשי תעשיית הבידור, אקדמאים והוגי דעות יהודים - בהם ג'ואל כהן, האנה איינביינדר, וואלאס שון, טוני קושנר ואילנה גלייזר - חתמו על מכתב נגד \"השימוש הכוזב באנטישמיות ככלי נשק\", אחרי שהשחקן תקף את משפחת אליסון ואת קשרי אורקל לישראל",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/sypvlvndgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/HJoSu00N00zg/HJoSu00N00zg_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "\"כמה זה פתטי שחשבתי שידעתי מה זאת אהבה\": השינוי המפתיע בלהיט של פול טראנק",
    "summary": "פול טראנק וליעד מאיר חברו לביצוע מיוחד של \"אין מילים איתך\" לרגל המצעד הישראלי השנתי של גלגלצ ו-ynet, שצולם על ספינת סער 6 של שייטת 3 בחיפה. מאיר הוסיף לביצוע חלק חדש שכתב במיוחד, והשניים מתמודדים השנה בכמה מהקטגוריות המרכזיות במצעד. צפו בביצוע המלא - והצביעו ל…",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/s1x2fbe00me",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/BJXmsXbEOGx/BJXmsXbEOGx_413_144_1937_1091_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "גל גדות מגינה על השימוש ב-AI בסרטה החדש: \"או שתעבדו איתו - או שתצאו מהמשחק\"",
-   "summary": "גדות מככבת בסרט שגרר ביקורת בעקבות שימוש בבינה מלאכותית ליצירת התפאורה והתאורה, מה שלטענת המפיק חסך להפקה יותר מ-200 מיליון דולר. לדבריה, עורכי דינה הקדישו חצי שנה לעבודה על החוזה כדי להגן על הופעתה משינוי באמצעות AI. עוד מתחה ביקורת על האופן שבו טיפלו אולפני …",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/s1jkuk4dfx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/14/Hyaaf0jnWe/Hyaaf0jnWe_871_125_1218_685_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "8 אלבומים שהוכיחו ששלום חנוך הוא מלך הרוק הלאומי",
-   "summary": "כשזה נוגע לרוק העברי, שלום חנוך הוא היוצר הכי חשוב ומשפיע שהיה כאן. שמונה אלבומים - מהבכורה האנגלית הנשכחת של 1971, דרך \"מחכים למשיח\" הפוליטי והאהוב מכולם, ועד \"הרצל לילנבלום\" האינטימי - מציירים דיוקן של אמן שתמיד הלך עם האמת האמנותית שלו, גם כשזה היה נגד הרוח…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/h1kqta9vfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/13/r1fWIoEB7j/r1fWIoEB7j_1247_396_1754_988_0_medium.jpg",
    "stats": [
     [
      "מקור",
