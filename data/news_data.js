@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
- "date": "יום שני, 31 באוגוסט 2026",
- "date_he": "31/08/2026",
- "updated": "20:30",
+ "date": "יום שלישי, 1 בספטמבר 2026",
+ "date_he": "01/09/2026",
+ "updated": "00:12",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "רוכב אופנוע נהרג מפגיעת רכב ברמת השרון",
-  "summary": "מותו של רוכב האופנוע בשנות ה-60 לחייו נקבע בבית החולים בתום מאמצי החייאה ממושכים. המשטרה פתחה בחקירה",
-  "link": "https://www.ynet.co.il/news/article/bjypglqugx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/rJu0RBX00zg/rJu0RBX00zg_131_1_1050_591_0_medium.jpg"
+  "title": "פאניקה בטיימס סקוור: לוקה בנפשה דקרה אישה למוות",
+  "summary": "חמושה בסכיני מטבח, ליד תחנת משטרה: אישה לוקה בנפשה דקרה שני בני אדם בכיכר המרכזית בניו יורק - ונורתה למוות בידי שוטרים. מותה של אחת הקורבנות נקבע מאוחר יותר. המשטרה: זה ניסיון שוד שהשתבש",
+  "link": "https://www.ynet.co.il/news/article/hkcaokmuzl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/rJgnRtQufl/rJgnRtQufl_0_79_605_341_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.7° / 25.8°",
-   "summary": "כרגע 27.6°, לחות 76%, רוח 7.1 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.4° / 25.2°",
+   "summary": "כרגע 26.7°, לחות 80%, רוח 3.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.7°"
+     "30.4°"
     ],
     [
      "מינימום",
-     "25.8°"
+     "25.2°"
     ],
     [
      "לחות",
-     "76%",
-     76
+     "80%",
+     80
     ],
     [
      "רוח",
-     "7.1 קמ״ש"
+     "3.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Tzeirei Umm al-Fahm נגד Hapoel Ironi Baka El Garbia",
+     "Hapoel Kauhav נגד Maccabi Ihud Bnei Ivtin",
+     "2:1 · הסתיים"
+    ],
+    [
+     "Hapoel Haifa U19 נגד Maccabi Haifa U19",
+     "1:2 · הסתיים"
+    ],
+    [
+     "Bnei Yehuda U19 נגד Maccabi Tel Aviv U19",
+     "0:1 · הסתיים"
+    ],
+    [
+     "Hapoel Tel Aviv U19 נגד Maccabi Netanya U19",
+     "3:0 · הסתיים"
+    ],
+    [
+     "MS Bnei Hagolan נגד Akhva Sha'ab",
      "3:1 · הסתיים"
-    ],
-    [
-     "Ironi Nesher נגד Maccabi Neve Sha'anan",
-     "5:1 · הסתיים"
-    ],
-    [
-     "SC Tzeirei Tamra נגד Hapoel Nof Ha'galil",
-     "0:6 · הסתיים"
-    ],
-    [
-     "Maccabi Ashkelon נגד Beitar Ironi Kiryat Gat",
-     "2:0 · הסתיים"
-    ],
-    [
-     "Beitar Haifa נגד Hapoel Bnei Arara",
-     "3:1 · After ET"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Atalanta נגד Bologna",
-     "0:0 · מחצית שנייה"
-    ],
-    [
-     "Aston Villa נגד Arsenal",
-     "0:1 · מחצית שנייה"
-    ],
-    [
-     "FC Barcelona נגד Rayo Vallecano",
-     "2:1 · מחצית"
-    ],
-    [
      "Zamalek SC נגד Petrojet",
      "2:1 · הסתיים"
     ],
     [
      "Al Masry נגד Pyramids",
      "0:1 · הסתיים"
+    ],
+    [
+     "מכבי תל אביב נגד מכבי חיפה",
+     "3:1 · הסתיים"
+    ],
+    [
+     "Osasuna נגד Getafe",
+     "1:0 · הסתיים"
+    ],
+    [
+     "Hapoel Segev Shalom נגד Hapoel Ironi Ashkelon",
+     "3:0 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "דקה 67: אסטון וילה - ארסנל 1:0",
-   "summary": "פרמייר ליג, מחזור 2: בוקאיו סאקה העלה את האלופה ליתרון לאחר שליטה של התותחנים במשחק, מהצד השני אמי בוונדיה נעצר במשקוף בבעיטה חזקה מרחוק",
+   "title": "מכבי חיפה לא מנוהלת | טור",
+   "summary": "קני מילר החזיר למכבי ת\"א את השקט והסדר שהיו חסרים לה, דור פרץ כבר נראה כמו הכוכב הבלתי מעורער של הצהובים – וההדחה מאירופה נשכחה בתוך מחצית. מנגד, ברק בכר ממשיך להתרחק מהימים הגדולים שלו, הירוקים שוב נראו חסרי אונים במשחק שאמור היה להגדיר אותם, והבעיה כבר גדולה…",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/532117",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1885376/one1885376_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/s117zdxoge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/Byo8ZFIrzx/Byo8ZFIrzx_586_81_1947_1096_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "רומא חגגה עם 0:4 גדול על לצ'ה, גאנדלמן לא שותף",
-   "summary": "הג'יאלארוסי השיגו 0:4 שני ברציפות ושמרו על מאזן מושלם אחרי תצוגה גדולה נגד קבוצתו של הישראלי, שלא שותף. מאלן כבש צמד, סולה ומורה הוסיפו",
+   "title": "כשהמלך אמר שלום: סופו של עידן מסי בארגנטינה",
+   "summary": "הוא כבר פרש פעם אחת וחזר, אבל הפעם זה סופי: מהילד שנתפס כ\"לא מספיק ארגנטינאי\", דרך השנים הכואבות והפרישה ב-2016, ועד לזכייה במונדיאל והפיכתו לאליל של מדינה שלמה. הסרטון המרגש, הטלטלה בעקבות מות אביו וסגירת המעגל של הכדורגלן הגדול בדורו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one532154",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1884275/one1884275_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/bjif1v700mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/12/18/HyeAbkp00i/HyeAbkp00i_0_6_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מחצית: ברצלונה - ראיו 1:2",
-   "summary": "ליגה ספרדית, מחזור 3: האלופה ביצעה מהפך בזק. קאמייו כבש (12'), אבל הקטלונים חזרו במהרה עם גולים של ראפיניה (19') ולאמין ימאל (21'). חי ב-ONE",
+   "title": "מתחילה רצף חיובי: מ.ס אשדוד ניצחה 1:2 את ריינה",
+   "summary": "הדרומיים גברו הודות לשעריהם של ממאטה (13') ודבוש (31') על המארחים, שצימקו עם פנדל שנוי במחלוקת של חבשי (77'). 0:3 לבני יהודה על הפועל עכו",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/532096",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1885411/one1885411_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one532094",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/one1885305/one1885305_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הקונספירציה של שרה נתניהו: \"יאיר גולן היה לבוש ומוכן ב-7/10, מוקדם. כשרה\"מ לא ידע\"",
-   "summary": "אשת רה\"מ, שמסרבת להתראיין בערוצים שאינם מקורבים אליה ואליו, רומזת כי יו\"ר הדמוקרטים ידע על המתקפה ב-7/10, בזמן שבעלה לא. גולן שהציל מבלים בנובה העיד שבאותו יום, ירד דרומה רק שעה וחצי אחרי תחילת המתקפה. שרה נתניהו על שב\"כ תחת רונן בר: \"שמר עלינו, עובדה שלמרות ה…",
+   "title": "מזכיר צבא ארה\"ב הודיע לטראמפ על התפטרותו",
+   "summary": "המזכיר הצבאי דן דריסקול מסר לנשיא את מכתב ההתפטרות שלו, אחרי מתיחות ארוכה עם שר ההגנה הגסת' - שהדיח את חברו. לפי ה\"וול סטריט ג'ורנל\", גם סגנו יעזוב את התפקיד בשבוע הקרוב",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1q9tsxome",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/24/r1Fh0Mxjbl/r1Fh0Mxjbl_1_86_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjgafymugl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/H1L5uK7dMl/H1L5uK7dMl_0_21_800_451_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מיקי לוי לא יהיה ברשימת ביחד בבחירות: \"אין בי כעס ואין מרירות\"",
-   "summary": "אחרי מאיר כהן, ח\"כ נוסף מיש עתיד הודיע שלא יתמודד לכנסת הבאה: \"מסיים פרק בראש מורם ובלב שלם\". לוי ימונה לאב בית הדין של המפלגה",
+   "title": "אחרי מחאת חרדים: המשטרה תאבטח בי\"ס חילוני בירושלים - ביום הראשון ללימודים",
+   "summary": "עשרות חרדים הגיעו אתמול לשטח בית הספר בשכונת קריית יובל, והמשטרה החליטה לאבטח את הגעת התלמידים ליום הראשון בשנת הלימודים. המפגינים טענו ל\"פריצות\" בשכונה, כיסו את החלונות במסרים נגד גיוס ושפכו צבע בכניסה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b15btumdze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/12/04/BklYSFGira/BklYSFGira_0_90_1397_787_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bj105omdmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/r1Fviumdfe/r1Fviumdfe_0_422_961_540_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -259,18 +259,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "למה השמיים כחולים",
-   "summary": "אור השמש מתפזר באטמוספרה, והצבע הכחול (גל קצר) מתפזר הכי הרבה — לכן אנחנו רואים אותו מכל הכיוונים.",
-   "source": "תמצית ידע יומית · פיזיקה",
+   "title": "ריבית דריבית",
+   "summary": "כשהריבית מצטברת גם על הריבית עצמה, הכסף גדל אקספוננציאלית. איינשטיין כינה זאת 'הפלא השמיני'.",
+   "source": "תמצית ידע יומית · כלכלה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "פיזיקה"
+     "כלכלה"
     ],
     [
      "עובדה בונוס",
-     "דבש לא מתקלקל — נמצא דבש בן 3,000 שנה שעדיין אכיל."
+     "בננות הן פיזור רדיואקטיבי קל בגלל האשלגן שבהן."
     ]
    ]
   }
