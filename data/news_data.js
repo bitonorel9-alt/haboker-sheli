@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 1 בספטמבר 2026",
  "date_he": "01/09/2026",
- "updated": "10:47",
+ "updated": "15:18",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מכתב אישי ליואב סגלוביץ', הרצל של התקופה",
-  "summary": "אני מכיר אותך יואב הקצין, המפקד, ניצב המשטרה, איש הציבור, פוליטיקאי ובעיקר חבר. אבל לפני כל אלה אני מכיר את יואב האדם. אדם שאכפת לו מהמדינה הזאת עד כאב. ולכן אני יודע שהצעד שאתה עושה היום אינו נובע מחולשה, מתמימות או מחיפוש אחר כיסא. הוא נובע מאמונה עמוקה שאפש…",
-  "link": "https://www.ynet.co.il/news/article/hjl6gxnogx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/B1XBEeSXOze/B1XBEeSXOze_0_0_1280_721_0_medium.jpg"
+  "title": "פייגלין וסמוטריץ' ירוצו יחד בבחירות: \"חיבור טכני\"",
+  "summary": "ראשי \"הציונות הדתית\" ו\"זהות\" סיכמו כי משה פייגלין יקבל את המקום השני ברשימה המאוחדת לכנסת. השניים השאירו פתח לחבירה גם לעופר וינטר",
+  "link": "https://www.ynet.co.il/news/elections2026/article/rjuhrwvdfl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/BJJPvP4Ofx/BJJPvP4Ofx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.5° / 24.9°",
-   "summary": "כרגע 30.5°, לחות 64%, רוח 18.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.3° / 24.9°",
+   "summary": "כרגע 28.4°, לחות 72%, רוח 18.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.5°"
+     "30.3°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "64%",
-     64
+     "72%",
+     72
     ],
     [
      "רוח",
-     "18.8 קמ״ש"
+     "18.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,10 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Hapoel Hod HaSharon נגד Beitar Petah Tikva",
+     "0:1 · מחצית שנייה"
+    ],
+    [
      "Hapoel Kauhav נגד Maccabi Ihud Bnei Ivtin",
      "2:1 · הסתיים"
     ],
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Tel Aviv U19 נגד Maccabi Netanya U19",
      "3:0 · הסתיים"
-    ],
-    [
-     "MS Bnei Hagolan נגד Akhva Sha'ab",
-     "3:1 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "MS Netanya נגד Ihud Bnei Baka",
-     "טרם התחיל"
+     "El Geish נגד Zed FC",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Dpmm FC נגד Terengganu FC",
-     "טרם התחיל"
+     "Ghazl El-Mehalla נגד ENPPI",
+     "0:0 · מחצית שנייה"
+    ],
+    [
+     "Hapoel Hod HaSharon נגד Beitar Petah Tikva",
+     "0:1 · מחצית שנייה"
     ],
     [
      "Entebbe UPPC נגד Updf",
-     "טרם התחיל"
+     "2:1 · הסתיים"
     ],
     [
      "Nec Fc נגד Lugazi FC",
-     "טרם התחיל"
-    ],
-    [
-     "Perak נגד Kuala Lumpur",
-     "טרם התחיל"
+     "3:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "\"למען ביטחון הציבור\": עיריית לובן הבלגית הודיעה - לא מוכנים לארח את באר-שבע",
-   "summary": "ראש העיר מוחמד רידואני בישר לסן ז'ילואז כי הוא מסרב שתארח בשטחה את האלופה הישראלית בליגה האירופית: \"לא יתקיים אצלנו גם אם יהיה בדלתיים סגורות\". לעומת זאת, המשחקים מול סלטיק, ריאל סוסיאדד ולך פוזנן יתקיימו בעיר",
+   "title": "רשמית: אדריאן אוגריסה חתם בהפועל באר-שבע לשלוש שנים",
+   "summary": "האלופה השלימה את צירופו של אחד החלוצים הבולטים בליגת העל בעונה שעברה, שהגיע מעירוני קריית שמונה: \"בטוח שיחד נוכל לעשות דברים גדולים\". הפרואני כבש 20 שערים בכל המסגרות אשתקד וארבעה נוספים העונה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h14sdx4oge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/rydLiZ4buze/rydLiZ4buze_0_63_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skti3iv00gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/rkcisUEuGe/rkcisUEuGe_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "קלארק נפצע וייעדר ממשחקי ההכנה של מכבי ת\"א",
-   "summary": "הגארד החליק באימון וסובל מקרע חלקי בשריר הירך. הוא צפוי להיעדר בין שבועיים לשלושה, כשבמכבי מקווים שיהיה כשיר לפתיחת היורוליג",
+   "title": "שיחק לצד גלוך ובליגת האלופות: הכירו את הרכש החדש של באר-שבע",
+   "summary": "הוא נרכש על ידי נוריץ' אחרי שהרשים באוסטריה, בגיל 23 ואחרי שנתיים לא פשוטות בצ'מפיונשיפ, אמנקווה פורסון מגיע בהשאלה לטרנר. המסלול המרשים, הרבגוניות והפוטנציאל הגדול, לצד סימני השאלה וההשוואה לקינגס קאנגווה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bkm4imvugl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/BycTLQ400zg/BycTLQ400zg_515_148_2251_1267_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b12oiheogg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/BJCV2SEdzg/BJCV2SEdzg_0_76_1793_1010_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מהוליווד למגרש: אליפות ארה\"ב נערכת ל\"כפילה של סרינה וויליאמס\"",
-   "summary": "בגיל 10 היא חיקתה את החבטות של אגדת הטניס על סט הצילומים של \"משפחה מנצחת\". חמש שנים אחר כך תיאה פרודין כבר לא משחקת תפקיד של אף אחת: בגיל 17 היא תגשים הערב חלום כשתעלה להופעת הבכורה שלה בגראנד סלאם - ועוד מול אחת הטניסאיות הטובות בעולם: \"ההזדמנות הזו באמת מיוח…",
+   "title": "רשמית: תאי עבד חתם בויאדוליד מהליגה השנייה בספרד",
+   "summary": "נחשף ב-ynet | הכדורגלן הישראלי יעבור בהשאלה לקבוצה מליגת המשנה - שתוכל לרכוש אותו בסיום תקופת ההשאלה אם תעלה ליגה תמורת 20 מיליון אירו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/sk6hrg4dzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/ByS1LgEOMl/ByS1LgEOMl_165_29_831_468_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/y82pkvc2c",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/21/rykDqzABbx/rykDqzABbx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "התפתחות בחקירת רצח המשפחה בהרי האלפים: אקדח נדיר נמצא בקרקעית אגם",
-   "summary": "פריצת דרך בפרשה המסתורית שהסעירה את אירופה ב-2012 ונותרה מאז בלתי-מפוענחת? 14 שנה אחרי שמהנדס הלוויינים העיראקי סעד אל-חילי, אשתו, חמותו ורוכב אופניים מקומי נמצאו ירויים בהרים הפסטורליים, מדווחים בצרפת כי תיירים בריטים מצאו בקרקעית אגם ננסי אקדח שווייצרי מהסוג…",
+   "title": "\"רקטות מאולתרות\" ופיצוץ ליד תחנת כוח בגרמניה, חבלה גם במפעל כטב\"מים בפולין",
+   "summary": "בגרמניה מדווחים על נזק לתחנת משנה הסמוכה לתחנת כוח פחמית גדולה בברנדנבורג: \"היה לפחות פיצוץ אחד, אותרו רקטות מאולתרות\", נטען בדיווחים שטרם אושרו. לא ברור מי אחראי, החשודים האפשריים: רוסיה, שברלין צפויה להאשים אותה הערב בהחדרת רחפן הנפץ שאותר ליד מטוס אוקראיני …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1831gedme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/rJo1mM400Ml/rJo1mM400Ml_0_50_2500_1408_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjtik8vufg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B15SA8EOzg/B15SA8EOzg_0_173_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "להפוך את י\"ב לשנת מכינה ושנת שירות משולבת",
-   "summary": "כיתה י\"ב סובלת מפער מבני עמוק: הלמידה הפורמלית ומבחני הבגרות מסתיימים כבר סביב חודש מרץ כאשר המשמעות היא חודשים ארוכים של פערים, שבהם המערכת מאבדת אחיזה והמשאב היקר של הזמן מתפספס",
+   "title": "גדעון סער מאיים: \"אם בריטניה תטיל עלינו סנקציות – אנחנו נפעל נגדה. יש לנו כלים\"",
+   "summary": "שר החוץ התייחס להצהרות הממשלה בלונדון בעקבות קידום מכרזי הבנייה באזור E1: \"אם הם יעשו טעות – תהיה תגובה. זה יעבוד הפוך מכפי שהם חולמים\". שר החוץ הבריטי שב ואיים: \"לא יכולים לעמוד מנגד. עובדים על צעדים\". הפרק המלא ב\"120 ואחת\", הפודקאסט הפוליטי של ynet, יעלה במל…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bjb0qm4ogl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/19/rJrDvG7Dzx/rJrDvG7Dzx_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/byihyqeufx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/r1VhtX4EuGg/r1VhtX4EuGg_0_0_3000_1687_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "רכבת ישראל מאיימת בתביעה על אפליקציה בקוד פתוח שניסתה לעזור לנוסעים",
+   "summary": "זה לא דבר חדש שמפתחים (והיום, בעזרת ה-Vibe Coding, כבר כולם) מנסים לשדרג את חיי היומיום שלנו, ובעיקר התחב\"צ, עם אפליקציות ושירותים שונים ולא רשמיים. אבל עכשיו, אחת מהאפליקציות הוותיקות בתחום, נמצאת בעין הסערה עם איום של רכבת ישראל על הפעילות שלה. עומס חריג רכב…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/israel-railways-vs-better-rail/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -192,20 +206,6 @@ window.NEWS_DATA = {
    "summary": "קשה קצת להאמין עם קצב הפיתוחים בתחום, אבל רק לפני פחות משנה פרץ לחיינו OpenClaw (שאז עוד נקרא Clawdbot). תוך פחות מחודש, הפיתוח של פיטר סטיינברגר הפך לוויראלי כל כך שהוא הספיק לקבל איומים מ-Anthropic, לגרום למחסור ב-Mac Mini, לסדר לסטיינברגר אקזיט מהיר ל-OpenA…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/openclaw-2-0-released/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "המודל שאני עובד עליו קטן פי 100 משלכם, וסוכן ה-AI שלי עדיין עובד מצוין",
-   "summary": "מאת: יהודה נוימן לפני כמה חודשים ביקשתי מסוכן AI שאני בונה לנתח ריפו גדול. זה התחיל מבטיח – הוא קרא קבצים, מיפה תלויות, לרגע נראה בדיוק כמו הדמו שמריצים רגע לפני סבב גיוס – ואז נחנק. עצרתי את הריצה והסתכלתי על המספרים: הניתוח דרש 633 אלף טוקנים, לתוך חלון קונט…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/ai-agent-architecture-context-window-solution/",
    "image": null,
    "stats": [
     [
