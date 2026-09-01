@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 1 בספטמבר 2026",
  "date_he": "01/09/2026",
- "updated": "19:00",
+ "updated": "22:11",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "רגע לפני 1/9 עפרי שסובלת משיתוק מוחין התבשרה: לא תוכלי לשוב לביה\"ס",
-  "summary": "עפרי רפאל ממושב נתיב העשרה לומדת בכיתת חינוך מיוחד באשקלון ומוגדרת סיעודית ב-100%. לטענת הוריה, למרות שהמועצה ידעה כבר ביולי כי היא זקוקה לסייעת צמודה, עד פתיחת שנת הלימודים לא נמצא עבורה פתרון. אביה אמר ל-ynet: ״היא זקוקה לחברה. היא בכתה כששמעה שאולי לא תלך ל…",
-  "link": "https://www.ynet.co.il/news/article/s1zx0ne00mg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/HkgtRqEVuGx/HkgtRqEVuGx_0_142_720_405_0_medium.jpg"
+  "title": "נתניהו: \"לא חושב שהייתה בגידה ב-7/10\"; גולן: \"מגמגם מול עלילות דם\"",
+  "summary": "ראש הממשלה, שעד כה לא לקח אחריות על טבח 7/10, האשים שוב את ראשי מערכת הביטחון אך אמר כי \"אני חושב שהיה כשל גדול, אבל לא בגידה - וגם אשתי לא אמרה את זה\". יאיר גולן ענה: \"ב-7/10 יצאנו להציל חיים בזמן שאתה קפאת\"",
+  "link": "https://www.ynet.co.il/news/elections2026/article/bkpjjh4dgg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/r1VCSJIiDze/r1VCSJIiDze_332_187_633_357_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.5° / 24.9°",
-   "summary": "כרגע 27.6°, לחות 74%, רוח 13.0 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.0° / 26.4°",
+   "summary": "כרגע 27.1°, לחות 83%, רוח 11.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.5°"
+     "30.0°"
     ],
     [
      "מינימום",
-     "24.9°"
+     "26.4°"
     ],
     [
      "לחות",
-     "74%",
-     74
+     "83%",
+     83
     ],
     [
      "רוח",
-     "13.0 קמ״ש"
+     "11.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Amishav Petah Tikva נגד Ironi Bet Dagan",
-     "3:0 · מחצית שנייה"
-    ],
-    [
-     "Bnei Jaffa נגד Bnei Jaljulia",
-     "2:3 · מחצית שנייה"
-    ],
-    [
-     "Maccabi Or Akiva נגד Ironi Kfar Yona",
-     "0:1 · מחצית שנייה"
-    ],
-    [
      "Hapoel Kauhav נגד Maccabi Ihud Bnei Ivtin",
      "2:1 · הסתיים"
     ],
     [
      "Hapoel Haifa U19 נגד Maccabi Haifa U19",
      "1:2 · הסתיים"
+    ],
+    [
+     "Bnei Yehuda U19 נגד Maccabi Tel Aviv U19",
+     "0:1 · הסתיים"
+    ],
+    [
+     "Hapoel Tel Aviv U19 נגד Maccabi Netanya U19",
+     "3:0 · הסתיים"
+    ],
+    [
+     "MS Bnei Hagolan נגד Akhva Sha'ab",
+     "3:1 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Wadi Degla נגד El Qanah FC",
-     "0:0 · מחצית שנייה"
+     "Ipswich נגד Liverpool",
+     "טרם התחיל"
     ],
     [
-     "Amishav Petah Tikva נגד Ironi Bet Dagan",
-     "3:0 · מחצית שנייה"
+     "Kharkiv נגד Obolon Kyiv",
+     "טרם התחיל"
     ],
     [
-     "Wolfsberger AC נגד LASK Linz",
-     "1:2 · מחצית שנייה"
+     "Dynamo Kyiv נגד LNZ Cherkasy",
+     "טרם התחיל"
     ],
     [
-     "Durban City נגד Stellenbosch FC",
-     "0:0 · מחצית שנייה"
+     "Epicentr נגד Bukovyna",
+     "טרם התחיל"
     ],
     [
-     "Kruger United נגד Orlando Pirates",
-     "0:2 · מחצית שנייה"
+     "Villa נגד Express Fc",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "מתי הדרבי התל אביבי? פורסמו מועדי ליגת העל עד מחזור 15",
-   "summary": "מנהלת הליגות פרסמה את מועדי המשחקים למחזורים 4 עד 15: מכבי ת\"א תארח את הפועל ת\"א ב-14 בספטמבר, מכבי חיפה והפועל באר-שבע ייפגשו ב-26 באוקטובר והמפגש השני בין הירוקים לצהובים נקבע ל-21 בדצמבר. וגם: לא מעט משחקים ייערכו בימי שישי",
+   "title": "סולומון ו-ווסטהאם ניצחו לראשונה בליגה, שער בכורה לעיסאת בבריסטול",
+   "summary": "שחקן הכנף הישראלי פתח והשלים 79 דקות ב-2:4 של הפטישים על וולבס, בריסטול ניצחה 1:3 בחוץ את פרסטון, כאשר הבלם הבקיע את השער השני של המנצחת. סאות'המפטון ופרץ נפרדו ב-1:1 מבירמינגהאם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ryijek4dzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/14/r1lnouPrH11x/r1lnouPrH11x_0_244_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/b1xqphvdze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/H1dhLnE00fe/H1dhLnE00fe_0_54_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אובחן עם הפרעת קצב: מקטומיניי יעבור הליך רפואי בליבו",
-   "summary": "קשר נאפולי ונבחרת סקוטלנד יעבור בימים הקרובים ניתוח בעקבות הפרעת קצב קלה ושפירה שהתגלתה אצלו. האיטלקים מעריכים כי ישוב למגרשים בתחילת אוקטובר, השחקן הרגיע: \"לא איעדר להרבה זמן\"",
+   "title": "רשמית: רוי רביבו חתם לארבע שנים באלצ'ה | נחשף ב-ynet",
+   "summary": "המגן השמאלי, שנמכר ממכבי ת\"א לקבוצה מהליגה הספרדית תמורת 2.5 מיליון אירו, הוצג בסרטון וולקאם מקורי שפורסם בעמוד X של המועדון. צפוי להרוויח 450 אלף אירו לעונה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/bkjnzdn00fl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/23/HJxFkf80bge/HJxFkf80bge_616_56_1517_854_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sy6tp5vdgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/SJKIBi4OMl/SJKIBi4OMl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מכבי ת\"א הציעה חוזה עם הפחתה בשכר, סורקין מתוסכל: \"מרגיש שמתעלמים ממנו\"",
-   "summary": "הסנטר ציפה לשדרוג בחוזהו כבר בתחילת העונה שעברה, אך השיחות נדחו שוב ושוב עד שהצהובים חזרו אליו עם הצעה שכללה 1.2 מיליון דולר לשלוש שנים ולאחר מכן ירידה בשכר, ובסביבתו מספרים כי הוא נעלב מההתנהלות: \"שמר הכול בבטן במשך זמן רב\"",
+   "title": "רשמית: תאי עבד חתם בויאדוליד מהליגה השנייה בספרד",
+   "summary": "נחשף ב-ynet | הכדורגלן הישראלי יעבור בהשאלה לקבוצה מליגת המשנה - שתוכל לרכוש אותו בסיום תקופת ההשאלה אם תעלה ליגה תמורת 20 מיליון אירו. צפו בסרטון ה\"וולקאם\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rjw8qpvdfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/16/ByD11MnCh11x/ByD11MnCh11x_0_77_961_541_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/y82pkvc2c",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/21/rykDqzABbx/rykDqzABbx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "המפכ\"ל: ישראל נתפסת כמדינה של בריונים ועבריינים בגלל הפשיעה ביו\"ש",
-   "summary": "פרסום ראשון: רב-ניצב דני לוי התייחס בשיחה סגורה לנזקי אלימות הפורעים ביהודה ושומרון, ואמר כי \"יש קומץ שכל תכליתו היא לתקוף פלסטינים\"",
+   "title": "מתקפה איראנית על ירדן אחרי הרוגים בהפצצות באזור הורמוז: \"תפסו מחסה\"",
+   "summary": "תושבים באילת זיהו מיירטים בשמיים ודיווחו על הדי פיצוצים בעקבות ירי לעקבה. גורמים באיראן אמרו ל\"ניו יורק טיימס\" שהתקיפות האמריקניות הסבו נזק משמעותי. מחיר הנפט מזנק, גם הגז באירופה. באיראן האשימו את ארה\"ב: הרגתם 4 אזרחים בחתונה. לפני הירי האיראני איים טראמפ: \"א…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjsb4teuzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/07/SyEnYDQLzl/SyEnYDQLzl_0_84_1006_566_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hy4keoedgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/08/rkOM1111EWMl/rkOM1111EWMl_1_0_960_540_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "תיעוד קשה לצפייה: תלמידים התנפלו על חברם ביום הראשון ללימודים, הכו וצילמו",
-   "summary": "תלמיד בית ספר מרהט הותקף באכזריות על ידי חבריו לספסל הלימודים ותיעוד המכות שספג הופץ ברשת. תושבים בעיר: \"התיעוד קורע את הלב. זה תמרור אזהרה להורים\". המשטרה פתחה בחקירה",
+   "title": "נמלט ממנהרות המוות בהימלאיה: \"המים רדפו אחריי 20 דקות\"",
+   "summary": "שבוע אחרי אסון השיטפון, בנפאל נמשך מרוץ נגד הזמן לחילוץ מאות עובדים שנלכדו במנהרות של תחנות הידרואלקטריות - אבל גם רחפנים שטסו בפנים לא מצאו סימני חיים: \"הן התמלאו בבוץ כמו משחת שיניים בשפופרת. לא נשאר שום חלל\". אחד הניצולים משחזר בפני BBC: \"רצנו בכל הכוח, כמע…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1fo0d400fx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/SyJWIFNdMl/SyJWIFNdMl_0_256_524_295_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sjeqajn00fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/BJOSrRzOGx/BJOSrRzOGx_0_98_1202_677_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "מה גרם למייסדי Wiz, דקארט וקרן סקויה להשקיע 50 מיליון דולר בסטארטאפ שנחשף היום?",
+   "summary": "מה מביא את מייסדי Decart, Wiz, Eon ואת נשיא Cognition להצטרף לאחת מסבבי ה-Seed הגדולים ביותר שנראו השנה, של סטארטאפ שיצא רק היום (ג') מ-Stealth? תשאלו את מייסדי חברת AIR, שחושפים היום לראשונה את הסטארטאפ שלהם, ומודיעים גם על השלמת סבב גיוס Seed בהיקף של 50 מיל…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/air-comes-out-of-stealth-with-50m-seed/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -192,20 +206,6 @@ window.NEWS_DATA = {
    "summary": "זה לא סוד שאימון של מודלי שפה גדולים דורש כמויות עצומות של מידע, אבל ענקיות ה-AI עושות הכל כדי להסתיר כיצד אימנו את המודלים שלהן ובעיקר על איזה מידע. אתם יודעים, כמו עם נקניקיות… \"עדיף לא לראות איך עושים את זה\". אז לרוב, הן מתבססות על מידע שהן קוצרות מרחבי הרש…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/z-library-torrent-claude-anthropic/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "שוחרר OpenClaw 2.0: הנה מה שחדש (ויש הרבה)",
-   "summary": "קשה קצת להאמין עם קצב הפיתוחים בתחום, אבל רק לפני פחות משנה פרץ לחיינו OpenClaw (שאז עוד נקרא Clawdbot). תוך פחות מחודש, הפיתוח של פיטר סטיינברגר הפך לוויראלי כל כך שהוא הספיק לקבל איומים מ-Anthropic, לגרום למחסור ב-Mac Mini, לסדר לסטיינברגר אקזיט מהיר ל-OpenA…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/openclaw-2-0-released/",
    "image": null,
    "stats": [
     [
