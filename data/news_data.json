@@ -1,26 +1,26 @@
 {
  "date": "יום רביעי, 2 בספטמבר 2026",
  "date_he": "02/09/2026",
- "updated": "21:26",
+ "updated": "23:41",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "ירדן מחכה  לבחירות, בישראל",
-  "summary": "אם השלום עם מצרים נודע כשלום קר, עם ירדן ניתן להגדירו כקפוא. אבל מהזווית הפוליטית הוא פתוח עדיין להפתעות - בתיווך אמריקני-אמירתי ואחרי הבחירות אצלנו. אם תרצו: סוג של שלום כל כך קרוב אבל רחוק",
-  "link": "https://www.ynet.co.il/news/article/yokra14886903",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/04/03/Hycch7UBu/Hycch7UBu_0_0_594_335_0_medium.jpg"
+  "title": "שני פלסטינים נהרגו מירי צה\"ל באזור רמאללה: \"יידו בלוקים ואבנים\"",
+  "summary": "בצה\"ל מסרו כי הכוחות נכנסו לכפר אל-מורייר כדי לאבטח החזרת בעלי חיים שאותרו במקום ושייכים לישראלים, וכי במהלך יציאתם התפתחה הפרת סדר שבמהלכה בוצע ירי לעבר \"מסיתים מרכזיים\". הפלסטינים טוענים כי השניים, בני 16 ו-19, נהרגו במהלך עימות עם מתנחלים. נסיבות התקרית מתו…",
+  "link": "https://www.ynet.co.il/news/article/s1ed1xlufl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/Bk4WspBDPZe/Bk4WspBDPZe_0_105_1601_901_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.5° / 27.2°",
-   "summary": "כרגע 27.7°, לחות 76%, רוח 6.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.7° / 27.2°",
+   "summary": "כרגע 27.4°, לחות 79%, רוח 2.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.5°"
+     "30.7°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "76%",
-     76
+     "79%",
+     79
     ],
     [
      "רוח",
-     "6.8 קמ״ש"
+     "2.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -44,11 +44,71 @@
   },
   {
    "section": "כדורגל",
-   "title": "ממשיכה בשלה: 1:4 לבאיירן נגד אוסנברוק",
-   "summary": "הבווארים גברו על היריבה מליגת המשנה, ועלו לסיבוב הבא בגביע הגרמני. מייסנר קבע יתרון מפתיע כבר לאחר חמש דקות. קיין (צמד), בישוף, ואוליסה הפכו",
+   "title": "תוצאות בזמן אמת · ישראל",
+   "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football/israel",
+   "image": null,
+   "stats": [
+    [
+     "Maccabi Petach Tikva U19 נגד Hapoel Beer Sheva U19",
+     "3:2 · הסתיים"
+    ],
+    [
+     "Ironi Modiein נגד Maccabi Kiryat Gat",
+     "1:1 · הסתיים"
+    ],
+    [
+     "Maccabi Hertzliya נגד Hapoel Kfar Saba",
+     "0:2 · הסתיים"
+    ],
+    [
+     "Hapoel Rishon Lezion נגד MS Kfar Kassem",
+     "2:1 · הסתיים"
+    ],
+    [
+     "Hapoel Kfar Shalem נגד Kiryat Yam Sc",
+     "3:2 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "Hibernians Paola נגד Valletta FC",
+     "0:2 · הסתיים"
+    ],
+    [
+     "Red Bull Salzburg נגד Rapid Vienna",
+     "5:1 · הסתיים"
+    ],
+    [
+     "Borac Banjaluka נגד Zeljeznicar Sarajevo",
+     "2:0 · הסתיים"
+    ],
+    [
+     "Siroki Brijeg נגד FK Sarajevo",
+     "1:2 · הסתיים"
+    ],
+    [
+     "Floriana FC נגד Gzira United",
+     "4:1 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "כשהכסף הגדול מדבר: שחקני ה-NFL שרוצים לחזור לקולג'",
+   "summary": "פעם הם הושעו בגלל ארוחה בחינם, היום הם עושים מיליונים בלי לצאת מהקמפוס. אז מה הפלא ששחקני פוטבול וכדורסל רוצים לחזור לעוד עונה במכללות? הבעיה: הליגות מאיימות בעונשים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one532341",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/one1885685/one1885685_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/b1fhveuuze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/rJNOHgIOMg/rJNOHgIOMg_0_20_1024_577_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -58,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "קוז'וך: \"בדקות האחרונות הלכנו אחורה כמו פחדנים\"",
-   "summary": "מאמן הפועל באר-שבע כעס אחרי ה-2:2 הביתי הדרמטי מול הפועל חיפה: \"ננסה לשמור את הסגל הזה בריא\". סילבס: \"נלחמנו בכל הכוח כדי לחזור למשחק\"",
+   "title": "פריצת הקומץ של בית\"ר למגרש - רגע של מפנה במועדון | טור",
+   "summary": "דרמה ביציעי בית\"ר: על כל אוהד שפרץ לדשא היו רבים שניסו לעצור אותו. עד כמה מדובר בשינוי אמיתי והאם השפויים ינצחו?",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skr1dx8ome",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/ryrx00CBdGl/ryrx00CBdGl_0_62_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjtswy800ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/H1br4Z2x00Mx/H1br4Z2x00Mx_1_320_1998_1125_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -72,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "אליפות ארה\"ב: רובלב הודח, מדבדב ופגולה טיילו לשלב הבא",
-   "summary": "המדורג 23 בעולם הפסיד לדניאל מרידה הספרדי בארבע מערכות ונפרד מהטורניר בניו יורק כבר בסיבוב השני. מדבדב לא התקשה מול המדורג 731, פגולה דרסה את קנין בדרבי האמריקאי - וגם פאוליני בשלב הבא",
+   "title": "פאוור ריינג'ר: סיפורו של הכוכב הגדול שנחת במכבי ת\"א",
+   "summary": "הגעתו של ג'יימס טברניר לקריית שלום מסמנת את אחת ההחתמות הנוצצות, המפתיעות ובעלות הפרופיל הגבוה ביותר שנראו בכדורגל הישראלי בשנים האחרונות. הוא גדול הכובשים בהיסטוריה מעמדת המגן הימני ומגיע בהמלצתו של המאמן קני מילר, ששיחק איתו בגלזגו ריינג'רס",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rytecyloge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/H1B0cJLdMl/H1B0cJLdMl_0_0_1977_1113_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rjvo20h00ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/05/17/rkOBFBIbvc/rkOBFBIbvc_0_40_1300_732_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -86,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "שב\"כ באיזור הדמדומים",
-   "summary": "המועמדים המובילים בבחירות לראשות הממשלה ראויים לאבטחת שב\"כ. זו לא פריבילגיה אלא העיקרון הבסיסי ביותר בדמוקרטיה: מניעת אלימות פוליטית ערב בחירות",
+   "title": "חוצים באפלה: המבצע החשאי בהורמוז שמאחורי ההסלמה - והאם טראמפ מנפח מספרים",
+   "summary": "נשיא ארה\"ב מעדיף להימנע מהסלמה נרחבת, וטרם מימש את איומו לתקוף שוב בתגובה לתקיפה האיראנית האחרונה. הוא מתמקד בלחץ כלכלי, וטוען ל\"שליטה\" בהורמוז: \"האם כדאי לשנות את שמו למצר טראמפ?\", הטריל. ברקע: הטענות להצלחת המבצע האמריקני לליווי עשרות ספינות מדי לילה, במטרה …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14886889",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/rJiuKUFPfe/rJiuKUFPfe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b100k3ab00gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/18/HkqFNlbTbg/HkqFNlbTbg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -100,11 +160,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "החליפו את ה\"מי\" ב\"מה\"",
-   "summary": "מה שעגום הוא שאפשר גם להתחיל לנווט את ישראל לפרק חדש אחרי שלוש שנות מלחמה, אבל הפוליטיקאים מציעים לנו להמשיך לחיות את אותה מציאות",
+   "title": "בגרמניה היללו את הטיל הימי הישראלי ל-500 ק\"מ: \"להרתיע את מחרחר המלחמה פוטין\"",
+   "summary": "הטיל הבליסטי LORA נוסה בהצלחה מאוניית קרב בצפון האוקיינוס האטלנטי, וכעת מצפים הגרמנים לקדם עסקאות רכישה שלו מול ישראל. לפי ה\"בילד\", ישראל עשתה בו שימוש גם בלבנון - וגם באיראן, בגרסתו האווירית המותאמת למטוסים",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14886896",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/31/rkgz4Noi811e/rkgz4Noi811e_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/byop711udzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/06/02/10007551/10007551_0_0_640_360_0_medium.jpg",
    "stats": [
     [
      "מקור",
