@@ -1,7 +1,7 @@
 {
- "date": "יום שלישי, 1 בספטמבר 2026",
- "date_he": "01/09/2026",
- "updated": "22:11",
+ "date": "יום רביעי, 2 בספטמבר 2026",
+ "date_he": "02/09/2026",
+ "updated": "00:40",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,27 +13,27 @@
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.0° / 26.4°",
-   "summary": "כרגע 27.1°, לחות 83%, רוח 11.6 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.2° / 26.6°",
+   "summary": "כרגע 27.1°, לחות 82%, רוח 11.5 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.0°"
+     "30.2°"
     ],
     [
      "מינימום",
-     "26.4°"
+     "26.6°"
     ],
     [
      "לחות",
-     "83%",
-     83
+     "82%",
+     82
     ],
     [
      "רוח",
-     "11.6 קמ״ש"
+     "11.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
-     "Hapoel Kauhav נגד Maccabi Ihud Bnei Ivtin",
+     "Maccabi Petach Tikva U19 נגד Hapoel Beer Sheva U19",
+     "3:2 · הסתיים"
+    ],
+    [
+     "Ironi Modiein נגד Maccabi Kiryat Gat",
+     "1:1 · הסתיים"
+    ],
+    [
+     "Maccabi Hertzliya נגד Hapoel Kfar Saba",
+     "0:2 · הסתיים"
+    ],
+    [
+     "Hapoel Rishon Lezion נגד MS Kfar Kassem",
      "2:1 · הסתיים"
     ],
     [
-     "Hapoel Haifa U19 נגד Maccabi Haifa U19",
-     "1:2 · הסתיים"
-    ],
-    [
-     "Bnei Yehuda U19 נגד Maccabi Tel Aviv U19",
-     "0:1 · הסתיים"
-    ],
-    [
-     "Hapoel Tel Aviv U19 נגד Maccabi Netanya U19",
-     "3:0 · הסתיים"
-    ],
-    [
-     "MS Bnei Hagolan נגד Akhva Sha'ab",
-     "3:1 · הסתיים"
+     "Hapoel Kfar Shalem נגד Kiryat Yam Sc",
+     "3:2 · הסתיים"
     ]
    ]
   },
@@ -81,24 +81,40 @@
    "image": null,
    "stats": [
     [
-     "Ipswich נגד Liverpool",
-     "טרם התחיל"
+     "Maccabi Or Akiva נגד Ironi Kfar Yona",
+     "1:2 · הסתיים"
     ],
     [
-     "Kharkiv נגד Obolon Kyiv",
-     "טרם התחיל"
-    ],
+     "Zrinjski נגד BSK Banja Luka",
+     "3:1 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "יובל זוסמן: \"אין לי איך לעזור לנבחרת במצבי הנוכחי\"",
+   "summary": "חצי שנה ישב יובל זוסמן בצד וראה את החלומות שלו ושל הפועל ירושלים מתנפצים. עכשיו הפורוורד בן ה־28 מספר מה למד על עצמו בתקופה הזו ולמה הוא עדיין לא מסופק לגמרי מהכדורסל, מתייחס לראשונה להחלטת הקבוצה שלא לשוב לפרקט בזמן המתקפה האיראנית בחצי גמר הפלייאוף, מסביר מד…",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bksvg2nume",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/B1UaKqEOMg/B1UaKqEOMg_0_0_850_479_0_medium.jpg",
+   "stats": [
     [
-     "Dynamo Kyiv נגד LNZ Cherkasy",
-     "טרם התחיל"
-    ],
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "מגמר היורוליג ללליגה השלישית: הקריסה הבלתי נתפסת של אלופת צרפת",
+   "summary": "הנפילה של מונאקו לליגה השלישית בצרפת מוכיחה שוב מה שווה הספורט כשהוא הופך לכלי בידיהם של אוליגרכים. מי שהולך לישון עם מיליארדר מפוקפק, שלא יתפלא כשהוא מתעורר בליגה החובבנית",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/hydksq400ge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/30/B1nuE5bOMg/B1nuE5bOMg_0_227_3000_1689_0_medium.jpg",
+   "stats": [
     [
-     "Epicentr נגד Bukovyna",
-     "טרם התחיל"
-    ],
-    [
-     "Villa נגד Express Fc",
-     "טרם התחיל"
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -109,34 +125,6 @@
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/worldsoccer/article/b1xqphvdze",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/H1dhLnE00fe/H1dhLnE00fe_0_54_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "רשמית: רוי רביבו חתם לארבע שנים באלצ'ה | נחשף ב-ynet",
-   "summary": "המגן השמאלי, שנמכר ממכבי ת\"א לקבוצה מהליגה הספרדית תמורת 2.5 מיליון אירו, הוצג בסרטון וולקאם מקורי שפורסם בעמוד X של המועדון. צפוי להרוויח 450 אלף אירו לעונה",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sy6tp5vdgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/SJKIBi4OMl/SJKIBi4OMl_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "רשמית: תאי עבד חתם בויאדוליד מהליגה השנייה בספרד",
-   "summary": "נחשף ב-ynet | הכדורגלן הישראלי יעבור בהשאלה לקבוצה מליגת המשנה - שתוכל לרכוש אותו בסיום תקופת ההשאלה אם תעלה ליגה תמורת 20 מיליון אירו. צפו בסרטון ה\"וולקאם\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/y82pkvc2c",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/21/rykDqzABbx/rykDqzABbx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -259,18 +247,18 @@
   {
    "section": "לומדים",
    "learn": true,
-   "title": "ריבית דריבית",
-   "summary": "כשהריבית מצטברת גם על הריבית עצמה, הכסף גדל אקספוננציאלית. איינשטיין כינה זאת 'הפלא השמיני'.",
-   "source": "תמצית ידע יומית · כלכלה",
+   "title": "מדוע חתולים מגרגרים",
+   "summary": "גרגור בתדר 25-150Hz עשוי לזרז ריפוי עצמות ולהרגיע — לא רק סימן לשמחה.",
+   "source": "תמצית ידע יומית · ביולוגיה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "כלכלה"
+     "ביולוגיה"
     ],
     [
      "עובדה בונוס",
-     "בננות הן פיזור רדיואקטיבי קל בגלל האשלגן שבהן."
+     "כוכב הנוגה מסתובב הפוך משאר כוכבי הלכת."
     ]
    ]
   }
