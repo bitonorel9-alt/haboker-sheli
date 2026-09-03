@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 3 בספטמבר 2026",
  "date_he": "03/09/2026",
- "updated": "16:45",
+ "updated": "19:30",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "נתניהו פרסם: זה לו\"ז ראש הממשלה בבוקר 7 באוקטובר",
-  "summary": "",
-  "link": "https://www.ynet.co.il/news/article/sjvhlqvdfl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/07/Byeum0090g6/Byeum0090g6_0_0_848_480_0_medium.jpg"
+  "title": "צה\"ל שולט בעלי טאהר: \"הטיהור הסתיים. חלק מהמחבלים חוסלו, חלק נמלטו\"",
+  "summary": "מעל ומתחת לקרקע: שעות אחרי האיום האיראני, הודיע צה\"ל על סיום טיהור התשתיות ב\"רכס הלכודים\" האסטרטגי של חיזבאללה, ומסר כי הוא \"פועל לנטרולן\". מחמ\"לים ועד מקלחות: זה מה שאיתרו הכוחות. גם הערב: תקיפות באזור",
+  "link": "https://www.ynet.co.il/news/article/h18ng4vdmg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/rkROLzSOfg/rkROLzSOfg_0_530_1200_676_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.6° / 27.0°",
-   "summary": "כרגע 27.9°, לחות 77%, רוח 10.2 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.5°, לחות 78%, רוח 7.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "77%",
-     77
+     "78%",
+     78
     ],
     [
      "רוח",
-     "10.2 קמ״ש"
+     "7.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,8 +51,12 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Maccabi Yavne נגד Hapoel Azur",
-     "1:0 · מחצית"
+     "Maccabi Ironi Ashdod נגד Hapoel Hertzliya",
+     "1:2 · מחצית שנייה"
+    ],
+    [
+     "FC Tzeiri Tira נגד SC Sderot",
+     "1:4 · מחצית שנייה"
     ],
     [
      "Hapoel Yarka נגד Hapoel Ihud Bnei Sumei FC",
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "מכבי בני ריינה נגד SC Ashdod",
      "1:2 · הסתיים"
-    ],
-    [
-     "Hapoel Afula נגד Hapoel Raanana",
-     "3:2 · הסתיים"
     ]
    ]
   },
@@ -81,24 +81,52 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "ES Setif נגד Es Ben Aknoun",
+     "0:0 · מחצית שנייה"
+    ],
+    [
+     "Toulouse נגד Lille",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Real Sociedad נגד Celta Vigo",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
      "Alashkert Martuni נגד Van",
-     "2:0 · מחצית ראשונה"
+     "4:0 · הסתיים"
     ],
     [
      "Al Ahly SC נגד Smouha",
-     "טרם התחיל"
-    ],
+     "1:0 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "חי, מחצית שנייה: הפועל ת\"א - בית\"ר ירושלים 0:3",
+   "summary": "היריבות הגדולות נפגשות בבלומפילד למשחק השלמה מהמחזור הראשון, רועי אלקוקין העלה את האדומים ליתרון (17), אווסו הכפיל בשער בכורה נהדר (73). הצהובים-שחורים נשארו בעשרה שחקנים אחרי כרטיס אדום לגדראני (48)",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkyrlyuume",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/ByNEHEwufg/ByNEHEwufg_0_292_3000_1689_0_medium.jpg",
+   "stats": [
     [
-     "Express Fc נגד KCC Kampala",
-     "טרם התחיל"
-    ],
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "שוויונטק עלתה לסיבוב השלישי באליפות ארה\"ב, אוז'ה אליאסים הודח",
+   "summary": "המדורגת שמינית בעולם ניצחה 3:6, 2:6 את נדיה פודורוסקה (449 בעולם) ועלתה לשלב הבא. היפנית (13 בעולם) עלתה גם היא לאחר ניצחון 2:6, 7:5, 1:6 על קטרינה סיניאקובה (42 בעולם). גברים: הרביעי בעולם הפסיד לחצ'אנוב וסיים את דרכו",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/bk8omqpozg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/ByqnXXvdfx/ByqnXXvdfx_0_80_3000_1689_0_medium.jpg",
+   "stats": [
     [
-     "הפועל תל אביב נגד בית\"ר ירושלים",
-     "טרם התחיל"
-    ],
-    [
-     "ES Setif נגד Es Ben Aknoun",
-     "טרם התחיל"
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -117,40 +145,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "פתחה ברגל שמאל: מכבי ת\"א הפסידה להרצליה במשחק ההכנה הראשון שלה",
-   "summary": "הצהובים הובילו כבר ב-17 הפרש מול הקבוצה של יהוא אורלנד, אך נוצחו 86:84 לאחר מחצית שנייה שבה הקבוצה מהשרון ניצחה 31:48. קיטון וואלאס קלע 20 לחבורה של קטש, די.ג'יי ברטון הוליך את המנצחת עם 16 נקודות",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rkcbogwdzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/SyNRaOGD00fg/SyNRaOGD00fg_0_265_853_481_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "סרטון גנרי ותזמון בעייתי - הפרידה העצובה של מסי",
-   "summary": "נבחרת ישראל הפכה לחוג, הקלישאות של בכר, הסוף העצוב של ג'וקוביץ' - והפרידה החיוורת של הפרעוש. דירוג העצבים השבועי יוצא לדרך",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hkitkardgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/BJe8UpcVfg/BJe8UpcVfg_527_312_2122_1195_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "זו תושבת יבנאל שחשודה בנישואי בתה הקטינה: \"נלחמת נגד זה - אז מתנקמים בי\"",
-   "summary": "שרה מימוני, שאולצה להתחתן בגיל 15, חשפה שנעצרה בפשיטה על יעדים בסביבת הכת החרדית - שנגדה היא מנהלת מאבק פומבי. היא חשודה בארגון חתונה לבתה בגיל 16, אך טענה: \"אף ילד שלי מעולם לא נישא כקטין, הכול האשמות שווא. אמשיך עד שהתופעה המזוויעה תיפסק\"",
+   "title": "9 בעד, 0 נגד: בג\"ץ ביטל את חוק הקפאת מעצרי העריקים החרדים",
+   "summary": "תשעת שופטי בג\"ץ ביטלו את תיקון החוק שמנע מעצר של חרדים משתמטים מגיוס. השופטים נימקו את ההחלטה בפגמים מהותיים בהליך החקיקה. השופט סולברג: \"האכיפה כלפי החרדים - לא בגלל לימוד תורה, אלא נוכח השתמטותם משירות\". ח\"כ פרוש: \"ההחלטה היא המשך ישיר למסע רדיפה דורסני נגד …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bymtumd00fe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/26/BJepDUbQefe/BJepDUbQefe_0_552_816_459_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bk3u0mpoze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/17/Bkm9EXeGMg/Bkm9EXeGMg_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "החטיפות והרציחות שהכחידו קהילה: היהודים שלבנון תחפש אחר שרידיהם",
-   "summary": "באמצע שנות ה-80 חיזבאללה הוציא לפועל מבצע מתוכנן של חטיפה ורצח של מנהיגי הקהילה היהודית בלבנון. תמורת חלקם דרש ארגון הטרור שחרור של 300 מחבלים - וכשישראל סירבה למו\"מ הם הוצאו להורג בזה אחר זה. כעת הושג הסדר, שבמסגרתו שוחררו 5 לבנונים וממשלת ביירות תחפש אחר שרי…",
+   "title": "למרות התנגדות סולברג: בג\"ץ מקפיא את חוק מח\"ש",
+   "summary": "נשיא העליון יצחק עמית והשופטת דפנה ברק ארז החליטו על הוצאת צו ביניים המעכב את יישום חלק מסעיפי החוק שנחשב לאחד מחוקי המהפכה המשפטית. המשנה לנשיא היה בדעת מיעוט. השר לוין: \"ההחלטה - הוכחה לתסכול השופטים\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1jcpwwofe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/27/S1SEJ92GMx/S1SEJ92GMx_0_0_1914_1077_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjvt8xwugg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/25/SJtxb95Xbg/SJtxb95Xbg_0_5_576_325_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,6 +216,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "דניאל חן ל\"הדג נחש\": \"מהיום, מעריצות מעל גיל 70 - אליי\"",
+   "summary": "אחרי שלושה עשורים, החליטו חברי הדג נחש לחפש את הצלע השביעית שלהם. דניאל חן מחליט לקבל את ההצעה - אבל יש לו כמה תנאים ברורים. \"חבר חדש להדג נחש\", סדרת מיקרו-קומדיה חדשה ב-ynet. צפו בפרק המלא",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/sj5asywuzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/ByGhCT1v00Gx/ByGhCT1v00Gx_295_462_1497_843_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "הבוזגלוס החדשים? פחחח: צפינו ב\"החיים של קוקו\" כדי שאתם לא תצטרכו",
    "summary": "הדוקו-ריאליטי החדש של yes, שעוסק בזמר האיקוני קוקו מאילת ובני משפחתו על תסבוכותיהם, מתקשה להצדיק את עצם קיומו. שישה פרקים לתוך העונה, עם משפחה שנראית חמה ואוהבת אבל לא מצליחה לייצר עניין, דרמה או אפילו מודעות עצמית, וזה כבר די ברור: אין מספיק פאסט פורוורד בעול…",
    "source": "ynet - תרבות ובידור",
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/rkbajxlumg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/SJWuf2lLdzg/SJWuf2lLdzg_0_10_535_302_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "\"כשאמות אז אישן\": ענבל פרלמוטר נחשפת מחדש בספר המאגד חומרים מעיזבונה",
-   "summary": "תיאורי הפגיעה העצמית והתקיפה המינית, המחשבות על המוות והדיכאון: ענבל פרלמוטר, המייסדת והסולנית של להקת המכשפות, הייתה אחת הדמויות הבולטות והייחודיות ברוק הישראלי של שנות ה-90. עכשיו היא נחשפת מחדש בספר המאגד טקסטים, יומנים ואיורים מעיזבונה, ומציג צדדים אפלים, …",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14874347",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/SJlK9S9Ywzg/SJlK9S9Ywzg_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
