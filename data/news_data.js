@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 3 בספטמבר 2026",
  "date_he": "03/09/2026",
- "updated": "12:21",
+ "updated": "16:45",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "השביתה את הרכבות, והשתוללה שעות: נבדק אם הצתה גרמה לשריפה בירקון",
-  "summary": "בשלב זה אין עצורים, ובמשטרה ממשיכים לבדוק אם שריפת הקוצים על גדות הירקון, נגרמה בעקבות הצתה. חוקרי הדליקות קבעו שיש חשד",
-  "link": "https://www.ynet.co.il/news/article/r115baluge",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/r111Qxv1Uuzl/r111Qxv1Uuzl_0_313_3000_1688_0_medium.jpg"
+  "title": "נתניהו פרסם: זה לו\"ז ראש הממשלה בבוקר 7 באוקטובר",
+  "summary": "",
+  "link": "https://www.ynet.co.il/news/article/sjvhlqvdfl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/07/Byeum0090g6/Byeum0090g6_0_0_848_480_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.6° / 27.0°",
-   "summary": "כרגע 30.0°, לחות 68%, רוח 17.1 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.9°, לחות 77%, רוח 10.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "68%",
-     68
+     "77%",
+     77
     ],
     [
      "רוח",
-     "17.1 קמ״ש"
+     "10.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,10 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Maccabi Yavne נגד Hapoel Azur",
+     "1:0 · מחצית"
+    ],
+    [
      "Hapoel Yarka נגד Hapoel Ihud Bnei Sumei FC",
      "4:0 · הסתיים"
     ],
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Afula נגד Hapoel Raanana",
      "3:2 · הסתיים"
-    ],
-    [
-     "Beitar Jerusalem U19 נגד Maccabi Hertzliya U19",
-     "1:1 · הסתיים"
     ]
    ]
   },
@@ -82,7 +82,7 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Alashkert Martuni נגד Van",
-     "טרם התחיל"
+     "2:0 · מחצית ראשונה"
     ],
     [
      "Al Ahly SC נגד Smouha",
@@ -104,11 +104,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "רוי רביבו נפרד ממכבי ת\"א: \"תודה עצומה, זכיתי להגשים כאן חלומות\" | נחשף ב-ynet",
-   "summary": "המגן השמאלי נפרד מקבוצתו אחרי שחתם באלצ'ה מהליגה הספרדית. \"כאן גדלתי, למדתי, התפתחתי, חוויתי אליפויות, גביעים, ומפעלים אירופאיים בלתי נשכחים – ובעיקר זכיתי להגשים חלומות\"",
+   "title": "הוא חוזר: ברונו קאבוקלו חתם לשנתיים בהפועל ת\"א",
+   "summary": "שחקן הפנים הברזילאי, שעזב את האדומים במהלך העונה שעברה לדובאי, שב לקדנציה שנייה בשורות סגנית האלופה - וסוגר סופית את הסגל שלה לקראת העונה הקרובה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjknmyvogx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/rksbj7NOGg/rksbj7NOGg_1_30_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/h1or9fwdzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/30/ByJv2zY2xl/ByJv2zY2xl_0_99_2190_1233_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "נוריס לוהט, פרארי חולמת על דאבל: הקרב עובר למונצה | תוכן גולשים",
-   "summary": "שני ניצחונות רצופים החזירו לנוריס את התנופה, אנטונלי ממשיך להוביל את האליפות ופרארי תולה תקוות בשדרוגים לקראת המרוץ הביתי. עם לקלר והמילטון על המסלול והיציעים צבועים באדום, במונצה מחכים לתשובה אחת: האם הפעם החגיגה תישאר בבית?  גם לכם יש מה להגיד? שלחו לנו טורי…",
+   "title": "פתחה ברגל שמאל: מכבי ת\"א הפסידה להרצליה במשחק ההכנה הראשון שלה",
+   "summary": "הצהובים הובילו כבר ב-17 הפרש מול הקבוצה של יהוא אורלנד, אך נוצחו 86:84 לאחר מחצית שנייה שבה הקבוצה מהשרון ניצחה 31:48. קיטון וואלאס קלע 20 לחבורה של קטש, די.ג'יי ברטון הוליך את המנצחת עם 16 נקודות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rkqxaovofl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/03/B1ZN9lTwlg/B1ZN9lTwlg_0_0_3000_1660_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rkcbogwdzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/SyNRaOGD00fg/SyNRaOGD00fg_0_265_853_481_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "3 שחקני עבר נעצרו בחשד להטיית משחקים בליגת העל לנשים בכדורגל",
-   "summary": "אחרי חקירה סמויה שנמשכה חודשים, המשטרה עברה לשלב הגלוי ועצרה ועיכבה שלושה חשודים - שני גברים ואישה, שחקני עבר - בחשד שהיו מעורבים במנגנון מאורגן ושיטתי להטיית משחקים והימורי ספורט תמורת כסף",
+   "title": "סרטון גנרי ותזמון בעייתי - הפרידה העצובה של מסי",
+   "summary": "נבחרת ישראל הפכה לחוג, הקלישאות של בכר, הסוף העצוב של ג'וקוביץ' - והפרידה החיוורת של הפרעוש. דירוג העצבים השבועי יוצא לדרך",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjtqthu00fl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/12/HkBUcEGlF/HkBUcEGlF_0_109_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hkitkardgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/20/BJe8UpcVfg/BJe8UpcVfg_527_312_2122_1195_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בית הקפה בירושלים סוגר רשמית את שעריו בשבת: \"הפכנו למוקד של חיכוך וסכנה\"",
-   "summary": "אחרי שמהומות, ניסיונות פריצה ואף חסימה של הדלתות הפכו לחלק משגרת השבת של בית הקפה בחודשיים האחרונים, בעליו החליטו לסגור. \"ההחלטה התקבלה בלב כבד - מתוך רצון להנמיך את גובה הלהבות\", אמר המנכ\"ל",
+   "title": "זו תושבת יבנאל שחשודה בנישואי בתה הקטינה: \"נלחמת נגד זה - אז מתנקמים בי\"",
+   "summary": "שרה מימוני, שאולצה להתחתן בגיל 15, חשפה שנעצרה בפשיטה על יעדים בסביבת הכת החרדית - שנגדה היא מנהלת מאבק פומבי. היא חשודה בארגון חתונה לבתה בגיל 16, אך טענה: \"אף ילד שלי מעולם לא נישא כקטין, הכול האשמות שווא. אמשיך עד שהתופעה המזוויעה תיפסק\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/ryvh2auumg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/ByP5jv4Lze/ByP5jv4Lze_0_0_848_476_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bymtumd00fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/26/BJepDUbQefe/BJepDUbQefe_0_552_816_459_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,43 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "ההתגרות האיראנית בטראמפ, \"שיא הנפט\" במבצע החשאי - וההלם ממצב נושאת המטוסים",
-   "summary": "ארה\"ב לא תקפה שוב - אבל איראן \"מתגרה\" בטראמפ שמבקש להימנע מהסלמה נרחבת, והכריזה: \"תקפנו שוב כוחות אמריקניים בכוויית ובאמירויות\". בינתיים נמשך המצור, וגם המבצע האמריקני לליווי מכליות דרך הורמוז. גורמים אמריקניים ל-CNN: \"הוצאנו 18 מיליון חביות נפט ביום אחד\". אחד…",
+   "title": "החטיפות והרציחות שהכחידו קהילה: היהודים שלבנון תחפש אחר שרידיהם",
+   "summary": "באמצע שנות ה-80 חיזבאללה הוציא לפועל מבצע מתוכנן של חטיפה ורצח של מנהיגי הקהילה היהודית בלבנון. תמורת חלקם דרש ארגון הטרור שחרור של 300 מחבלים - וכשישראל סירבה למו\"מ הם הוצאו להורג בזה אחר זה. כעת הושג הסדר, שבמסגרתו שוחררו 5 לבנונים וממשלת ביירות תחפש אחר שרי…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syrnq3ldzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/S1Rpta8dzx/S1Rpta8dzx_0_279_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b1jcpwwofe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/27/S1SEJ92GMx/S1SEJ92GMx_0_0_1914_1077_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "אחרי האיום של הרכבת: עשרת אלפים משתמשים חדשים באפליקציית Better Rail",
+   "summary": "רק שלשום דיווחנו לכם על הדרמה סביב Better Rail, אפליקציית קוד פתוח, שנועדה לעשות סדר בזמני הרכבות של ישראל ולהנגיש לנוסעים מידע מעודכן עם ממשק נוח. מי שעומד מאחורי בטר רייל הם קבוצת מפתחים, שפועלים בהתנדבות, ומציעים כבר 5 שנים את האפליקציה בחינם ללא פרסומות. ל…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/israel-railways-better-rail-strikes-back-10k/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "אנבידיה מודיעה רשמית: רכשנו את Hugging Face ב-12.9 מיליארד דולר",
+   "summary": "אנבידיה עושה עוד צעד בדרך להפוך מחברת שבבים שמתמקדת ב-GPU לחברה שמעורבת כמעט בכל שלב של מחשוב ה-AI. היום (ה') החברה מודיעה רשמית על רכישת פלטפורמת פיתוח ה-AI הפופולרית Hugging Face תמורת 12.9 מיליארד דולר. העסקה, ששמועות עליה צצו כבר בשבוע שעבר, מסמנת עליית מד…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/nvidia-acquires-hugging-face/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -178,34 +206,6 @@ window.NEWS_DATA = {
    "summary": "Enterprise software giant ServiceNow is expanding its AI and metadata management capabilities with the acquisition of Israeli startup Sweep. A spokesperson for ServiceNow confirmed the acquisition, but declined to comment on the financial terms of the deal. Ho…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/servicenow-acquires-israeli-enterprise-startup-sweep-for-400-million/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "פרסום ראשון: ServiceNow רוכשת את הסטארטאפ הישראלי Sweep ב-400 מיליון דולר",
-   "summary": "עוד רכישה בישראל לענקית התוכנה האמריקאית ServiceNow. לגיקטיים נודע שהחברה השלימה לאחרונה את הרכישה של הסטארטאפ הישראלי Sweep. בתגובה לפניית גיקטיים, אישרו ב-ServiceNow את הפרטים. החברות לא פרסמו את סכום הרכישה אולם על פי המידע שהגיע אלינו הסטארטאפ הישראלי נמכר…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/servicenow-acquires-sweep/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "פייפאל מפטרת כ-20% מהעובדים בישראל",
-   "summary": "ענקית התשלומים הבינלאומית PayPal נפרדת מכ-70 עובדים מתוך כ-300 המועסקים במרכז הפיתוח שלה בישראל, שעוסק בין היתר במניעת הונאות, סייבר ופיתוחי AI שונים. הקיצוץ במרכז המקומי של פייפאל הוא חלק מתוכנית התייעלות עולמית נרחבת שהוביל המנכ\"ל אנריקה לורס, במסגרתה יקוצצו…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/payapal-israel-layoffs-bizzabo/",
    "image": null,
    "stats": [
     [
