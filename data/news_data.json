@@ -1,39 +1,39 @@
 {
  "date": "יום חמישי, 3 בספטמבר 2026",
  "date_he": "03/09/2026",
- "updated": "07:30",
+ "updated": "12:21",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "האיום הקיברנטי האיראני והחובה הציבורית להגנת תשתיות",
-  "summary": "מנקודת המבט של המשפט הבינלאומי הפומבי, תקיפות סייבר המכוונות נגד תשתיות אזרחיות חיוניות אינן יכולות להיחשב עוד למעשי פשיעה קיברנטית גרידא או לפעולות איסוף מודיעין לגיטימיות",
-  "link": "https://www.ynet.co.il/news/article/rjulic8ogx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/14/SJbShUVjll/SJbShUVjll_0_67_1000_563_0_medium.jpg"
+  "title": "השביתה את הרכבות, והשתוללה שעות: נבדק אם הצתה גרמה לשריפה בירקון",
+  "summary": "בשלב זה אין עצורים, ובמשטרה ממשיכים לבדוק אם שריפת הקוצים על גדות הירקון, נגרמה בעקבות הצתה. חוקרי הדליקות קבעו שיש חשד",
+  "link": "https://www.ynet.co.il/news/article/r115baluge",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/02/r111Qxv1Uuzl/r111Qxv1Uuzl_0_313_3000_1688_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · None° / None°",
-   "summary": "כרגע None°, לחות None%, רוח None קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.6° / 27.0°",
+   "summary": "כרגע 30.0°, לחות 68%, רוח 17.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "None°"
+     "30.6°"
     ],
     [
      "מינימום",
-     "None°"
+     "27.0°"
     ],
     [
      "לחות",
-     "None%",
-     0
+     "68%",
+     68
     ],
     [
      "רוח",
-     "None קמ״ש"
+     "17.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -104,11 +104,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "מועל יד וצלב קרס בקרב אמנויות לחימה באורלנדו: \"מופע מביש של שנאה\"",
-   "summary": "נאו-נאצי, שהורשע בעבר בעבירות נשק, ניצח לוחם יהודי-ישראלי וחגג עם הצדעה נאצית וגידופים אנטישמיים. ביציעים נפרס דגל עם צלב קרס, שהוחרם על ידי אנשי האולם",
+   "title": "רוי רביבו נפרד ממכבי ת\"א: \"תודה עצומה, זכיתי להגשים כאן חלומות\" | נחשף ב-ynet",
+   "summary": "המגן השמאלי נפרד מקבוצתו אחרי שחתם באלצ'ה מהליגה הספרדית. \"כאן גדלתי, למדתי, התפתחתי, חוויתי אליפויות, גביעים, ומפעלים אירופאיים בלתי נשכחים – ובעיקר זכיתי להגשים חלומות\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/bkuebc800zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/H1uWQqU00Mg/H1uWQqU00Mg_0_26_604_340_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjknmyvogx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/rksbj7NOGg/rksbj7NOGg_1_30_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "רשמי: אורי דהן עבר מבית\"ר ירושלים לבני סכנין",
-   "summary": "הבלם בן ה־26 עזב את הקבוצה מהבירה לאחר ארבע עונות. דהן, שלא נכלל בתוכניות המקצועיות של אלמוג כהן, יתאחד עם יוסי אבוקסיס ועשוי לערוך את הבכורה דווקא מול האקסית",
+   "title": "נוריס לוהט, פרארי חולמת על דאבל: הקרב עובר למונצה | תוכן גולשים",
+   "summary": "שני ניצחונות רצופים החזירו לנוריס את התנופה, אנטונלי ממשיך להוביל את האליפות ופרארי תולה תקוות בשדרוגים לקראת המרוץ הביתי. עם לקלר והמילטון על המסלול והיציעים צבועים באדום, במונצה מחכים לתשובה אחת: האם הפעם החגיגה תישאר בבית?  גם לכם יש מה להגיד? שלחו לנו טורי…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjlfat8dzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/B131yqLdGg/B131yqLdGg_0_141_919_518_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rkqxaovofl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/03/B1ZN9lTwlg/B1ZN9lTwlg_0_0_3000_1660_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "את מלמד אפשר למכור, את מכבי ת\"א לא צריך לחזק | תוכן גולשים",
-   "summary": "אם מכבי חיפה הגיעה למסקנה שהוא לא מתאים לה מקצועית, לגיטימי. זו החלטה של מאמן ומועדון. אבל מכאן ועד להעביר אותו ישירות לצהובים יש מרחק גדול מאוד. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "3 שחקני עבר נעצרו בחשד להטיית משחקים בליגת העל לנשים בכדורגל",
+   "summary": "אחרי חקירה סמויה שנמשכה חודשים, המשטרה עברה לשלב הגלוי ועצרה ועיכבה שלושה חשודים - שני גברים ואישה, שחקני עבר - בחשד שהיו מעורבים במנגנון מאורגן ושיטתי להטיית משחקים והימורי ספורט תמורת כסף",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/sjnrx9somx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/14/rJv4XBthzbe/rJv4XBthzbe_0_212_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjtqthu00fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/12/HkBUcEGlF/HkBUcEGlF_0_109_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "נתניהו כבר לא יכול להסתתר מאחורי המחנה",
-   "summary": "בניסיונו לחמוק מכתב האישום השלישי נאחז רה\"מ בטענות על \"מרד גנרלים\", אלא שזוהי מלכודת. אם המרד אמיתי, הוא אשם שאיפשר לצבא לגדול למידות הללו תחתיו. ואם הוא אינו אמיתי – הרי שהוא מפרק את אמון הציבור בצה\"ל רק כדי להציל את עצמו",
+   "title": "בית הקפה בירושלים סוגר רשמית את שעריו בשבת: \"הפכנו למוקד של חיכוך וסכנה\"",
+   "summary": "אחרי שמהומות, ניסיונות פריצה ואף חסימה של הדלתות הפכו לחלק משגרת השבת של בית הקפה בחודשיים האחרונים, בעליו החליטו לסגור. \"ההחלטה התקבלה בלב כבד - מתוך רצון להנמיך את גובה הלהבות\", אמר המנכ\"ל",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjz0y98dfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/BJrwkkcPGl/BJrwkkcPGl_127_4_1186_668_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ryvh2auumg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/08/ByP5jv4Lze/ByP5jv4Lze_0_0_848_476_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,43 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "אין שום סיבה לעצור רק ב-7 באוקטובר",
-   "summary": "את מפיצי הקונספירציות האמת פשוט לא מעניינת, ואין שום סיבה להניח שהיא מה שמניע אותם. המוטיבציה היא פוליטית לחלוטין, וחוסר הגבולות הוא פשוט חוסר גבולות",
+   "title": "ההתגרות האיראנית בטראמפ, \"שיא הנפט\" במבצע החשאי - וההלם ממצב נושאת המטוסים",
+   "summary": "ארה\"ב לא תקפה שוב - אבל איראן \"מתגרה\" בטראמפ שמבקש להימנע מהסלמה נרחבת, והכריזה: \"תקפנו שוב כוחות אמריקניים בכוויית ובאמירויות\". בינתיים נמשך המצור, וגם המבצע האמריקני לליווי מכליות דרך הורמוז. גורמים אמריקניים ל-CNN: \"הוצאנו 18 מיליון חביות נפט ביום אחד\". אחד…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkrehqudfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/S1I119zV00fg/S1I119zV00fg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/syrnq3ldzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/S1Rpta8dzx/S1Rpta8dzx_0_279_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "ServiceNow Acquires Israeli Enterprise Startup Sweep for $400 Million",
+   "summary": "Enterprise software giant ServiceNow is expanding its AI and metadata management capabilities with the acquisition of Israeli startup Sweep. A spokesperson for ServiceNow confirmed the acquisition, but declined to comment on the financial terms of the deal. Ho…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/servicenow-acquires-israeli-enterprise-startup-sweep-for-400-million/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "פרסום ראשון: ServiceNow רוכשת את הסטארטאפ הישראלי Sweep ב-400 מיליון דולר",
+   "summary": "עוד רכישה בישראל לענקית התוכנה האמריקאית ServiceNow. לגיקטיים נודע שהחברה השלימה לאחרונה את הרכישה של הסטארטאפ הישראלי Sweep. בתגובה לפניית גיקטיים, אישרו ב-ServiceNow את הפרטים. החברות לא פרסמו את סכום הרכישה אולם על פי המידע שהגיע אלינו הסטארטאפ הישראלי נמכר…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/servicenow-acquires-sweep/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -178,34 +206,6 @@
    "summary": "ענקית התשלומים הבינלאומית PayPal נפרדת מכ-70 עובדים מתוך כ-300 המועסקים במרכז הפיתוח שלה בישראל, שעוסק בין היתר במניעת הונאות, סייבר ופיתוחי AI שונים. הקיצוץ במרכז המקומי של פייפאל הוא חלק מתוכנית התייעלות עולמית נרחבת שהוביל המנכ\"ל אנריקה לורס, במסגרתה יקוצצו…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/payapal-israel-layoffs-bizzabo/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "תשכחו מפוטושופ או קאנבה: גוגל חושפת כלי עיצוב מבוסס AI שמבין עברית",
-   "summary": "אם אתם צריכים להכין מצגת, להכין חומרים שיווקיים או סתם הזמנה ליום הולדת, כנראה שמצאתם את עצמכם עוברים בין קאנבה, אדובי אקספרס, אולי גוגל דוקס או איזה אתר רנדומלי ברשת, והכל כדי למצוא כלי נוח שיעשה לכם את העבודה. עכשיו, גם לגוגל יש מה להציע לכם עם Google Pics, …",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/google-pics-workspace-ai-design/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "סטודנט ישראלי ניצל את המשלוחים בוולט כדי לנסות לקבל משרה בהייטק",
-   "summary": "שוק העבודה הנוכחי לא פשוט לאף אחד ובטח לא לג'וניורים, שמנסים להשיג דריסת רגל ראשונה בתחום. אבל בזמן שרבים פשוט שולחים קורות חיים ומקווים לטוב, עידן הרשקו, בוגר 81 וסטודנט, החליט למקסם את עבודת הצד שלו ולהגיע היישר ללב של חברות ההייטק בתל אביב דרך הנקודה הרגישה…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/wolt-delivery-puts-qr-on-bags-to-get-into-the-high-tech/",
    "image": null,
    "stats": [
     [
