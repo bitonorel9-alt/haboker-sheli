@@ -1,39 +1,39 @@
 {
  "date": "יום שישי, 4 בספטמבר 2026",
  "date_he": "04/09/2026",
- "updated": "05:14",
+ "updated": "10:10",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "המגישה הוותיקה שמחבב טראמפ פוטרה במפתיע: \"העבירה מידע פנימי לבית הלבן\"",
-  "summary": "מריה ברטירומו שהגישה את תוכנית הבוקר של פוקס ביזנס ועבדה ברשת 12 שנים וחצי עזבה את החברה במפתיע. בפוקס סירבו לאשר את הדיווחים וטענו כי מדובר ב\"החלטה עסקית\", אבל בארה\"ב פורסם כי המגישה הוותיקה העבירה מידע על הנחיות פנימיות: מנאום זיוף הבחירות, ועד כתבה על מעורב…",
-  "link": "https://www.ynet.co.il/news/article/rkbzdpwdzl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/rJw0kRPdGl/rJw0kRPdGl_0_0_3000_2001_0_medium.jpg"
+  "title": "מסתמן שגם מאי גולן תשוריין אצל בן גביר: \"היא חברה טובה, חכו\"",
+  "summary": "השרה מהליכוד הגיעה למקום ה-23 בפריימריז, אבל בגלל השריונים נדחקה למקום לא ריאלי במפלגה. בן גביר לא שלל שתצטרף לעוצמה יהודית כמו טלי גוטליב. אחרי ההפסד האשימה גולן \"מתדרכים מטעם רה\"מ\": \"הם החליטו שאני ימנית מדי ויכולה להפריע לתוכניות העתידיות\"",
+  "link": "https://www.ynet.co.il/news/article/ryysyguozg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/06/18/rJsTYL2Pn/rJsTYL2Pn_380_187_2026_1141_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.9° / 25.7°",
-   "summary": "כרגע 26.6°, לחות 77%, רוח 10.1 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 31.2° / 25.8°",
+   "summary": "כרגע 31.2°, לחות 60%, רוח 17.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.9°"
+     "31.2°"
     ],
     [
      "מינימום",
-     "25.7°"
+     "25.8°"
     ],
     [
      "לחות",
-     "77%",
-     77
+     "60%",
+     60
     ],
     [
      "רוח",
-     "10.1 קמ״ש"
+     "17.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
+     "Tzofi Haifa נגד Maccabi Or Akiva",
+     "0:1 · מחצית"
+    ],
+    [
+     "Hapoel Ironi Ashkelon נגד Maccabi Bnei Eilat",
+     "0:1 · מחצית ראשונה"
+    ],
+    [
+     "Amishav Petah Tikva נגד Hapoel Lod",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
      "FC Shfaram נגד Maccabi Bnei Abu Snan",
      "5:1 · הסתיים"
     ],
     [
      "MS Netanya נגד Ihud Bnei Baka",
      "1:0 · הסתיים"
-    ],
-    [
-     "Hapoel Hod HaSharon נגד Beitar Petah Tikva",
-     "0:2 · הסתיים"
-    ],
-    [
-     "Hapoel Jerusalem U19 נגד Hapoel Ra'anana U19",
-     "4:2 · הסתיים"
-    ],
-    [
-     "Beitar Haifa נגד Hapoel Daliat El Karmel",
-     "1:2 · הסתיים"
     ]
    ]
   },
@@ -80,10 +80,6 @@
    "link": "https://www.365scores.com/he/football",
    "image": null,
    "stats": [
-    [
-     "JS El Biar נגד Olympique Akbou",
-     "0:2 · הסתיים"
-    ],
     [
      "Chornomorets Odesa נגד Livyi Bereh",
      "טרם התחיל"
@@ -99,16 +95,20 @@
     [
      "FK Gabala נגד Imisli Fk",
      "טרם התחיל"
+    ],
+    [
+     "Polissya נגד Kudrivka",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "אחרי הפרידה מרביבו: במכבי ת\"א סימנו את ירדן כהן | פרסום ראשון",
-   "summary": "אחרי העזיבה של המגן לליגה הספרדית, הצהובים העבירו מסרים לנציגיו של שחקן בית\"ר ירושלים אותו סימנו כמועמד לעונה הבאה. גם הפועל באר-שבע בתמונה",
+   "title": "זברב הזיע בדרך לשלב הבא, גם שוויונטק וגוף בסיבוב השלישי באליפות ארה\"ב",
+   "summary": "הגרמני נזקק לחמש מערכות (4:6, 6:4, 6:7, 7:6, 3:6) וארבע שעות וחצי כדי להכניע את האלי הצרפתי (44) במשחק שנגמר אחרי 02:00 שעון ניו יורק.  אוז'ה אליאסים ומוסטי הפתיעו עם הדחה מוקדמת. נשים: לראשונה מאז ווימבלדון ב-2009 כל עשר המדורגות הבטיחו את מקומן בסיבוב השלישי…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hk3noppumx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/Bkuz6TP00Gl/Bkuz6TP00Gl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bk8omqpozg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/HJVR7JOdGx/HJVR7JOdGx_0_148_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "אחרי ההצגה - בהפועל ת\"א חגגו: \"יכולנו לכבוש יותר\"",
-   "summary": "אחרי ה-0:3 הגדול על בית\"ר ירושלים והניצחון הראשון בליגה, האדומים עקצו את המבקרים: \"אמרו שאנחנו לא יודעים להבקיע\". ברדה בכל זאת מיהר להרגיע: \"לא קופץ מעל הפופיק\". עד סגירת החלון ינסו בקבוצה להתחזק בשחקן התקפה ישראלי",
+   "title": "\"בגלל הסבל הפלסטיני\": בוטלה השתתפותם של ישראלים בטריאתלון בצפון אירלנד",
+   "summary": "הארבעה היו אמורים לקחת חלק בגביע אירופה בלונדונדרי, אך המועדון המקומי הודיע כי לא יאשר את השתתפותם והבהיר: \"החלטה זו אינה מכוונת נגד אף אדם בשל דתו או מוצאו האתני - אלא נגד ייצוגה של מדינת ישראל בספורט הבינלאומי\". חברת פרלמנט מקומית: \"תמונה עצובה מאוד עבור לונ…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b16reawozx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/r1vye118D00fx/r1vye118D00fx_0_496_2499_1407_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hj6v9rpogg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/Hyoa5Awdfl/Hyoa5Awdfl_0_0_928_523_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "הסגל טוב, אז מה באמת תוקע את מכבי חיפה? | תוכן גולשים",
-   "summary": "על הנייר יש לירוקים מספיק איכות כדי להיאבק על האליפות, אבל הפציעות, חוסר היציבות והלחץ לא נעלמים. אולי הגיע הזמן להפסיק לתלות הכל במערך ובהרכב, ולבחון גם את מה שאנשים מביאים איתם למועדון - מעבר לרזומה ולמילים היפות. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: k…",
+   "title": "\"כל מה שבנינו קרס\": הביקורת, הגיבוי והלחץ בבית\"ר",
+   "summary": "שני ההפסדים הכואבים בפתיחת העונה הכניסו את ירושלים לסחרור מוקדם. אברמוב מיהר לעומד מאחורי אלמוג כהן לאחר התבוסה אתמול מול הפועל ת\"א - וגם הכוכבים סופגים ביקורת חריפה. המשחק ביום שני הקרוב מול בני סכנין הפך למשימה שאסור להיכשל בה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/byt00bk400fg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/25/rytsBuGSfg/rytsBuGSfg_0_35_3000_1660_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r18bgcwufg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/B1vEGQLw00Gx/B1vEGQLw00Gx_0_198_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "התוכנית: הפעלת מודל לבנון גם בעזה",
-   "summary": "פרסום ראשון: צה\"ל בוחן מתווה להכנסת כוחות בינלאומיים לטיהור תשתיות טרור ברצועה, במתכונת דומה לזו שבדרום לבנון. הצעד, בתיאום עם ארה\"ב, יחל באזורים שאינם נכללים בתחום הקו הצהוב, כך שבפועל לא באמת תהיה יציאה של לוחמי צה\"ל מאזור מסוים. לפי כחודש הקבינט כבר אשר פיי…",
+   "title": "ישראלי מואשם בעבירות ביטחון: \"הופעל על ידי גורמים זרים והיה מעורב בפעילות השפעה\"",
+   "summary": "כמעט כל פרטי הפרשה נאסרו לפרסום. בית המשפט התיר לכתוב כי הוא נעצר לחקירת שב\"כ ומשטרה בחשד שהופעל על ידי גורמי מודיעין זרים. למרות הצו בישראל, בעולם דיווחו פרטים רבים סביב הפרשה - שראשיתה במעצר בנתב\"ג",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14888456",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/31/rJMMjyWqBGe/rJMMjyWqBGe_0_148_3000_1688_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bkqzabuume",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/05/20/9255954/9255954_0_0_1000_563_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,43 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "קמתי בשלוש בבוקר ומצאתי את הרוצח שוטף כלים במטבח",
-   "summary": "זאת הייתה שבת שגרתית עבור משפחת אלמקייס מבאר שבע, עד שלפתע הייתה דפיקה בדלת ואל הבית נכנס, באיומי אקדח, הרצל אביטן, רוצח מורשע שברח מהכלא. הפודקאסט עיתונות חופרת חוזר לשנת 1988 ולמשפחה ש״אירחה״ לשבת את אחד הפושעים כי מסוכנים בארץ",
+   "title": "בן גביר הכריז על הצטרפות גוטליב: \"היא תהיה מספר 2\"",
+   "summary": "יו\"ר עוצמה יהודית הכריז על הצטרפות חברת הכנסת שעברה מהליכוד וציין כי היא אמורה הייתה להשתבץ במקום השלישי, אבל וסרלאוף הסכים לפנות את מקומו עבורה. גוטליב: \"בן גביר הוא יהודי עוצמתי. ההתבוננות בעוצמה עוררה בי השתאות\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syo7iczdfx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/12/01/H1g6f0NYY/H1g6f0NYY_170_216_2612_1471_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/bjiaqbd00ml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/HJzBZzOuMe/HJzBZzOuMe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "רובורוק חושפת את כל הרובוטים החדשים שיגיעו לישראל",
+   "summary": "תערוכת IFA 2026 נפתחה בברלין, ולמרות שחלקנו מרגישים שהיא \"CES מ-Temu\", היא עדיין מספקת לא מעט השקות מעניינות, כשאחת מהן היא של חברת Roborock הסינית. מי שהתחילה בתור טוענת לכתר של iRobot הפכה תוך שנים ספורות לאחת היצרניות הגדולות בעולם, וגם בישראל היא זוכה לפופ…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/roborock-ifa-2026-robot-onslaught/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "חברת OpenAI חושפת את GPT-6 Astra ומשוכנעת שזו תחילת ה-AGI",
+   "summary": "יותר משנה עברה מאז ש-OpenAI השיקה את GPT-5, ועכשיו היא חושפת את GPT-6 Astra, הדור הבא של ה-LLM הפופולרי שלה. ואם התרגלנו עד עכשיו לשיפורים פה ושם, עכשיו טוענים בחברה שמדובר בציון דרך בתעשייה. למעשה, גרג ברוקמן, נשיא OpenAI, אמר בתדרוך של החברה לעיתונאים שנסמן …",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/openai-gpt-6-astra-launched/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -183,48 +211,6 @@
     [
      "מקור",
      "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "אנבידיה מודיעה רשמית: רכשנו את Hugging Face ב-12.9 מיליארד דולר",
-   "summary": "אנבידיה עושה עוד צעד בדרך להפוך מחברת שבבים שמתמקדת ב-GPU לחברה שמעורבת כמעט בכל שלב של מחשוב ה-AI. היום (ה') החברה מודיעה רשמית על רכישת פלטפורמת פיתוח ה-AI הפופולרית Hugging Face תמורת 12.9 מיליארד דולר. העסקה, ששמועות עליה צצו כבר בשבוע שעבר, מסמנת עליית מד…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/nvidia-acquires-hugging-face/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "ServiceNow Acquires Israeli Enterprise Startup Sweep for $400 Million",
-   "summary": "Enterprise software giant ServiceNow is expanding its AI and metadata management capabilities with the acquisition of Israeli startup Sweep. A spokesperson for ServiceNow confirmed the acquisition, but declined to comment on the financial terms of the deal. Ho…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/servicenow-acquires-israeli-enterprise-startup-sweep-for-400-million/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "\"השמועה\" מתחילה כדרמת פשע, אבל אושרי כהן לוקח אותה הרבה יותר עמוק",
-   "summary": "הסדרה החדשה של HOT עוקבת אחר חוקר משטרה שמתמודד במקביל עם פרשת התעללות מטלטלת ועם זיכרונות מודחקים מעברו. למרות כמה קלישאות בעלילת החקירה, הכתיבה המדויקת, השילוב בין המתח לדרמה הפסיכולוגית והמשחק המצוין של אושרי כהן הופכים אותה לסדרה חכמה ומסקרנת ששווה צפייה",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/b1cncnduzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/ryefpREPdGl/ryefpREPdGl_310_2_952_536_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -249,6 +235,20 @@
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/sy8j0iiofe",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/SJlMEZ2Ldzx/SJlMEZ2Ldzx_0_209_2048_1152_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "\"השמועה\" מתחילה כדרמת פשע, אבל אושרי כהן לוקח אותה הרבה יותר עמוק",
+   "summary": "הסדרה החדשה של HOT עוקבת אחר חוקר משטרה שמתמודד במקביל עם פרשת התעללות מטלטלת ועם זיכרונות מודחקים מעברו. למרות כמה קלישאות בעלילת החקירה, הכתיבה המדויקת, השילוב בין המתח לדרמה הפסיכולוגית והמשחק המצוין של אושרי כהן הופכים אותה לסדרה חכמה ומסקרנת ששווה צפייה",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/b1cncnduzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/ryefpREPdGl/ryefpREPdGl_310_2_952_536_0_medium.jpg",
    "stats": [
     [
      "מקור",
