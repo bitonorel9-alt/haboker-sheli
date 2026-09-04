@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
- "date": "יום חמישי, 3 בספטמבר 2026",
- "date_he": "03/09/2026",
- "updated": "22:00",
+ "date": "יום שישי, 4 בספטמבר 2026",
+ "date_he": "04/09/2026",
+ "updated": "00:32",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,27 +13,27 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.9° / 25.7°",
-   "summary": "כרגע 27.1°, לחות 76%, רוח 3.3 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 31.0° / 25.9°",
+   "summary": "כרגע 26.3°, לחות 80%, רוח 5.0 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.9°"
+     "31.0°"
     ],
     [
      "מינימום",
-     "25.7°"
+     "25.9°"
     ],
     [
      "לחות",
-     "76%",
-     76
+     "80%",
+     80
     ],
     [
      "רוח",
-     "3.3 קמ״ש"
+     "5.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Yarka נגד Hapoel Ihud Bnei Sumei FC",
-     "4:0 · הסתיים"
+     "FC Shfaram נגד Maccabi Bnei Abu Snan",
+     "5:1 · הסתיים"
     ],
     [
-     "Hapoel Akko נגד Bnei Yehuda",
-     "0:3 · הסתיים"
+     "MS Netanya נגד Ihud Bnei Baka",
+     "1:0 · הסתיים"
     ],
     [
-     "מכבי בני ריינה נגד SC Ashdod",
+     "Hapoel Hod HaSharon נגד Beitar Petah Tikva",
+     "0:2 · הסתיים"
+    ],
+    [
+     "Hapoel Jerusalem U19 נגד Hapoel Ra'anana U19",
+     "4:2 · הסתיים"
+    ],
+    [
+     "Beitar Haifa נגד Hapoel Daliat El Karmel",
      "1:2 · הסתיים"
-    ],
-    [
-     "Hapoel Afula נגד Hapoel Raanana",
-     "3:2 · הסתיים"
-    ],
-    [
-     "Beitar Jerusalem U19 נגד Maccabi Hertzliya U19",
-     "1:1 · הסתיים"
     ]
    ]
   },
@@ -104,11 +104,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אביזרי מין שנזרקים למגרש, טענות לגזענות ודיוני מגדר: כשהטראמפיזם פוגש את כדורסל הנשים",
-   "summary": "דווקא בתקופת השיא שלה נגררה ליגת הכדורסל המקצוענית לנשים,  ה–WNBA, למלחמה החברתית–פוליטית שמפלגת את ארצות–הברית. פוליטיקאים מהימין, עיתונאים שמרנים וסתם טרולים מנצלים את ההייפ סביב הכישרון של קייטלין קלארק והפרובוקציות של סופי קנינגהם, כדי להבעיר מדורה שמערבבת…",
+   "title": "בלעדי | דיא סבע עשוי לסיים את דרכו בנבחרת ישראל",
+   "summary": "למרות כושר השיא של הלגיונר בליגה הטורקית, הקשר לא יזומן לקמפיין ליגת האומות הקרוב. הסיבה: הסכמה שקטה בין הצדדים מחשש לסערה פוליטית ותגובות חריפות בטורקיה ובישראל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/yokra14876081",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/25/r1Q3oINivzg/r1Q3oINivzg_0_383_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skuspspdml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/r19qNzDufx/r19qNzDufx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "כהן אחרי התבוסה להפועל: \"רצינו לפתוח את העונה בצורה הרבה יותר טובה\"",
-   "summary": "מאמן בית\"ר ירושלים מודה שקבוצתו נראית רע בשני המחזורים הראשונים של העונה, אך הבהיר: \"ככל שקשה יותר וככל שהלחץ עולה, כך המוטיבציה שלי עולה\". ברק אברמוב גיבה אותו: \"אנחנו רק במחזור השני\"",
+   "title": "בגיל 3 הוא ניצח את הסרטן - שבע שנים אחרי הוא מתכוון לצלוח את הכינרת",
+   "summary": "אחרי שהתגבר על סרטן אלים, מסתער תומר מן בן העשר על אתגר נוסף: צליחת הכינרת במקצה של 1.5 ק\"מ. כעת הוא מבטיח: \"בתוך המים אני יכול לעשות הכל\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b1ostsv00gg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/rJQJx118vuGe/rJQJx118vuGe_0_104_2254_1269_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hy00hniwugx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/rJw0011E8wdfl/rJw0011E8wdfl_0_336_1508_849_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הצגה אדומה: הפועל ת\"א הביסה 0:3 את בית\"ר ירושלים",
-   "summary": "אלקוקין נגח את הראשון מבישול של טוריאל (17), גדראני הורחק (48), אווסו כבש שער בכורה (73) ודאפה חתם את החגיגה בבלומפילד (82). האדומים רשמו ניצחון ראשון העונה והותירו את הקבוצה של אלמוג כהן ללא נקודות",
+   "title": "התחרתה לפני שלוש שנים בישראל - ועכשיו יכולה לשבור שיא של 43 שנה",
+   "summary": "התוצאה של ירמילה קראטוכבילובה בריצת 800 מטרים מחזיקה כבר 43 שנה – אבל רבים מאמינים שהשווייצרית בת ה־22 תהיה זו שתנפץ את שיא העולם העתיק, אולי כבר בשבת בבריסל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkyrlyuume",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/ByNEHEwufg/ByNEHEwufg_0_292_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hj5u78w00mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/HyRIQUDdzg/HyRIQUDdzg_0_85_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -169,6 +169,48 @@ window.NEWS_DATA = {
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "אחרי האיום של הרכבת: עשרת אלפים משתמשים חדשים באפליקציית Better Rail",
+   "summary": "רק שלשום דיווחנו לכם על הדרמה סביב Better Rail, אפליקציית קוד פתוח, שנועדה לעשות סדר בזמני הרכבות של ישראל ולהנגיש לנוסעים מידע מעודכן עם ממשק נוח. מי שעומד מאחורי בטר רייל הם קבוצת מפתחים, שפועלים בהתנדבות, ומציעים כבר 5 שנים את האפליקציה בחינם ללא פרסומות. ל…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/israel-railways-better-rail-strikes-back-10k/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "אנבידיה מודיעה רשמית: רכשנו את Hugging Face ב-12.9 מיליארד דולר",
+   "summary": "אנבידיה עושה עוד צעד בדרך להפוך מחברת שבבים שמתמקדת ב-GPU לחברה שמעורבת כמעט בכל שלב של מחשוב ה-AI. היום (ה') החברה מודיעה רשמית על רכישת פלטפורמת פיתוח ה-AI הפופולרית Hugging Face תמורת 12.9 מיליארד דולר. העסקה, ששמועות עליה צצו כבר בשבוע שעבר, מסמנת עליית מד…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/nvidia-acquires-hugging-face/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "ServiceNow Acquires Israeli Enterprise Startup Sweep for $400 Million",
+   "summary": "Enterprise software giant ServiceNow is expanding its AI and metadata management capabilities with the acquisition of Israeli startup Sweep. A spokesperson for ServiceNow confirmed the acquisition, but declined to comment on the financial terms of the deal. Ho…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/servicenow-acquires-israeli-enterprise-startup-sweep-for-400-million/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -217,18 +259,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "פרדוקס הספינה של תזאוס",
-   "summary": "אם מחליפים כל חלק בספינה בהדרגה — האם היא עדיין אותה ספינה? שאלה על זהות ורציפות.",
-   "source": "תמצית ידע יומית · פילוסופיה",
+   "title": "למה נמלים לא הולכות לאיבוד",
+   "summary": "הן משאירות שביל פרומונים; ככל שהמסלול קצר יותר, הריח מתחזק מהר יותר — אלגוריתם מציאת דרך טבעי.",
+   "source": "תמצית ידע יומית · טבע",
    "link": "",
    "stats": [
     [
      "תחום",
-     "פילוסופיה"
+     "טבע"
     ],
     [
      "עובדה בונוס",
-     "המילה 'רובוט' נטבעה במחזה צ׳כי ב-1920."
+     "לב הכחול הכי גדול — הלווייתן הכחול — במשקל של מכונית."
     ]
    ]
   }
