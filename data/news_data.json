@@ -1,20 +1,20 @@
 {
  "date": "יום ראשון, 6 בספטמבר 2026",
  "date_he": "06/09/2026",
- "updated": "18:44",
+ "updated": "20:57",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "סיבוב פרסה: מינויה בוטל - אבל טל גלבוע משמשת בפועל כדוברת נתניהו",
-  "summary": "מינויה הרשמי של גלבוע בוטל לפני כחצי שנה לאחר סערה בעקבות התבטאויות עבר, אך בימים האחרונים היא חזרה לפעילות בלשכת רה\"מ. בין השאר היא הוכנסה לקבוצת הדוברות, פרסמה את לוח הזמנים של נתניהו וטיפלה בפניות עיתונאים",
-  "link": "https://www.ynet.co.il/news/article/skglkmi00fg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/B1F7Zmsdfx/B1F7Zmsdfx_0_0_850_479_0_medium.jpg"
+  "title": "איראן ממערב לישראל: המפה המביכה שפרסם טראמפ - והאיום החדש של טהרן",
+  "summary": "האיראנים הודיעו כי יכריזו על \"אזור מוגבל\" סביב הורמוז: \"כל ספינה שתיכנס - תוכנס לרשימת הסנקציות\". טראמפ במתקפת ציוצים, כולל מפה של איראן בדמותו - כשהמזה\"ת הפוך. שר האנרגיה האמריקני: \"הסכם? אולי ימתין לממשל הבא\". נתניהו: \"איראן תתקוף? היא תספוג מכה שהיא אפילו ל…",
+  "link": "https://www.ynet.co.il/news/article/sj4q5no00gx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SyZdcVj00zg/SyZdcVj00zg_1_490_517_292_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.4° / 26.5°",
-   "summary": "כרגע 28.1°, לחות 76%, רוח 6.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.7°, לחות 80%, רוח 6.3 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "76%",
-     76
+     "80%",
+     80
     ],
     [
      "רוח",
-     "6.0 קמ״ש"
+     "6.3 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,14 +51,6 @@
    "image": null,
    "stats": [
     [
-     "Hapoel Bnei Musmus נגד Tzeirei Umm al-Fahm",
-     "0:0 · מחצית שנייה"
-    ],
-    [
-     "Beitar Ramat Gan נגד AS Holon",
-     "0:1 · מחצית שנייה"
-    ],
-    [
      "Kiryat Malahi נגד Hapoel Mahne-Yehuda",
      "1:1 · הסתיים"
     ],
@@ -69,6 +61,14 @@
     [
      "Shimshon Tel Aviv נגד Ironi Bet Shemesh",
      "2:0 · הסתיים"
+    ],
+    [
+     "Maccabi Yavne נגד Hapoel Azur",
+     "3:0 · הסתיים"
+    ],
+    [
+     "הפועל תל אביב נגד בית\"ר ירושלים",
+     "3:0 · הסתיים"
     ]
    ]
   },
@@ -81,48 +81,18 @@
    "image": null,
    "stats": [
     [
-     "Zrinjski נגד Siroki Brijeg",
-     "1:0 · מחצית ראשונה"
-    ],
-    [
-     "St. Patrick נגד Hamrun Spartans",
-     "0:0 · מחצית ראשונה"
-    ],
-    [
-     "Juventus נגד AC Milan",
-     "טרם התחיל"
-    ],
-    [
-     "Olympique de Marseille נגד Paris FC",
-     "טרם התחיל"
-    ],
-    [
      "Espanyol נגד Sevilla",
-     "טרם התחיל"
+     "1:1 · מחצית שנייה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "עוד הופעה מחשמלת לברצלונה: \"ימאל הזכיר את מסי, רודרי מאסטרו\"",
-   "summary": "17 שערים בארבעה מחזורים - ובארסה נראית כבר בפתיחת העונה כמו קבוצה בלתי ניתנת לעצירה. הפעם זה הסתיים ב-0:5 קליל במסטאייה מול ולנסיה, וגם פליק הודה: \"הופעה כמעט מושלמת\" | צפו בתקציר",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rjwfamsdzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SJb811Vs00fe/SJb811Vs00fe_1_315_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "אליפות ארה\"ב: סבאלנקה העפילה לרבע הגמר",
-   "summary": "האלופה המכהנת גברה 4:6, 3:6 על טיילור טאונסנד, האריכה את רצף הניצחונות שלה בניו יורק ל-17 והעפילה לרבע הגמר בפעם השישית ברציפות",
+   "title": "אליפות ארה\"ב: אלקראס וסבאלנקה העפילו לרבע הגמר",
+   "summary": "הספרדי הרשים עם 4:6, 3:6, 4:6 על טומי פול. נשים: האלופה המכהנת גברה 4:6, 3:6 על טיילור טאונסנד והאריכה את רצף הניצחונות שלה בניו יורק ל-17",
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/article/r1dke7odzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/ryH7xmiOMe/ryH7xmiOMe_0_121_3000_1689_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/BJXH9Ei00Gl/BJXH9Ei00Gl_0_91_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +102,25 @@
   },
   {
    "section": "כדורגל",
-   "title": "דבוש כבש צמד מרהיב, אשדוד חגגה 0:4 מול כפר שלם",
-   "summary": "הביתיים רקדו בי\"א עם פנדל של תמם (18'), צמד נהדר של הכישרון הצעיר (27', 66') ושער של בואן (75'). סמארי הורחק (53'). עפולה הפסידה 0:1 ליפו",
+   "title": "יקבל דקות ראשונות? רוי רביבו בסגל אלצ'ה מול סוסיאדד",
+   "summary": "המגן הישראלי, שחתם רק בשבוע שעבר בקבוצה הספרדית, נכלל בסגל לקראת המפגש עם ריאל סוסיאדד (שני, 22:30). אלצ'ה מחפשת ניצחון ראשון העונה לאחר שצברה נקודה אחת בלבד בשלושה מחזורים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one532636",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/one1886414/one1886414_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/h1gs8rodgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/HybDRXOOMl/HybDRXOOMl_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "עם הכתף:  צפו בבישול המרהיב של אוריין גורן במדי ברצלונה ב'",
+   "summary": "הקשר הישראלי בן ה־17 פתח בהרכב וסידר לאיגנאסי קר את השער השלישי ב-0:5 על נאחארה, לאחר שהקפיץ את הכדור ביצירתיות לאחור בין שחקני ההגנה",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hyrfzhjume",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SkVw7HiOze/SkVw7HiOze_0_171_1179_664_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +130,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "היסטוריה בגרמניה: ניצחון מוחץ למפלגת הימין הקיצוני",
-   "summary": "לפי המדגמים, \"אלטרנטיבה לגרמניה\" זכתה ב-44% מהקולות בבחירות במדינת המחוז סקסוניה-אנהלט - אבל כנראה לא תוכל להרכיב שם ממשלה, כי רוב המפלגות שללו הצטרפות לקואליציה בראשותה. \"עשינו היסטוריה\", אמר מנהיגה בן ה-35 אולריך זיגמונד. \"מושיט יד לכל המפלגות כדי להפוך את ה…",
+   "title": "אין קונים לאחדות: הקריסה של מפלגות \"הגוש השלישי\"",
+   "summary": "ארדן ואדלשטיין מחוץ למרוץ, מפלגת המילואימניקים לא הצליחה להתרומם וחברה לזליכה, שקד נשארה בחוץ - וגנץ מסרב לפרוש, למרות שבאף סקר הוא לא עובר את אחוז החסימה. כך קרס הניסיון לבנות אלטרנטיבה ל\"כן ביבי\", \"לא ביבי\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syane11s00ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/S1X7FXMoOzl/S1X7FXMoOzl_0_23_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/rkdymejoze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/r1EpCViuGe/r1EpCViuGe_0_0_1672_941_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +144,29 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "ליברמן הוצג כ\"רה\"מ הבא\" והפתיע: רפי בן שטרית במקום השני, טליה לנקרי שלישית",
-   "summary": "יו\"ר ישראל ביתנו חשף את הרשימה. בצמרת: בן שטרית ששכל את בנו ב-7/10 ושרון שרעבי, שנאבק להשיב את אחיו מהשבי. דן אילוז שעזב את הליכוד - עשירי. ליברמן בביקורת על איזנקוט: \"צריך ניסיון, הכי חשוב זה מנהיג שיודע להכריע\"",
+   "title": "לו\"ז 7/10 המפורט שפרסמה לשכת נתניהו, טענת יועצו - ועדות לפיד: \"בקושי תפקד\"",
+   "summary": "הקרב על תפקוד נתניהו: לשכתו פרסמה לו\"ז מפורט יותר מבוקר הטבח, הכולל דיון עם שרים ותדרוך לראש האופוזיציה. למזכירו הצבאי אמר ש\"צריך להתכנס במטכ\"ל במהירות האפשרית\", אך רה\"מ הגיע לקריה כמעט שעתיים אחרי שיחתם הראשונה. לפיד העיד שהשיירה יכולה הייתה לצאת תוך דקות, וא…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bki6ywjdge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/B1WGGTGjuGx/B1WGGTGjuGx_0_23_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h1hougo00zg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/20/SymgqaoGkl/SymgqaoGkl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "הזוכה ב\"דה וויס\": אמה מהנבחרת של נועה קירל",
+   "summary": "אמה זיזה כהן גברה על הפיינליסטים תמיר סרי, רננה חובב ואושר כהן בדרכה לזכייה בתוכנית הריאליטי המוזיקלית - שחזרה אחרי הפוגה של שבע שנים. צפו בביצוע המנצח",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/r1rcvriufg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/BJ52ASj00Gg/BJ52ASj00Gg_0_132_1067_601_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -193,20 +191,6 @@
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/rkoli0gdze",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/06/21/r1gH3LXlOn/r1gH3LXlOn_117_255_2455_1382_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "\"תתחנן שאחזור שוב אליך\": התשובה המצמררת של אגם בוחבוט לנועם בתן",
-   "summary": "לרגל המצעד הישראלי השנתי של ynet וגלגלצ, אגם בוחבוט ונועם בתן שיתפו פעולה לראשונה וביצעו מאש-אפ לשניים מהלהיטים שהוציאו בשנה החולפת - \"המבט בעיניך\" ו\"מדאם\". השניים מתמודדים השנה בקטגוריות המרכזיות במצעד. צפו בביצוע המלא - והצביעו לשירים ולאמנים שעשו לכם את השנ…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/rjlbn9qoml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SJRvyo5ufx/SJRvyo5ufx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
