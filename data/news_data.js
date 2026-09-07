@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שני, 7 בספטמבר 2026",
  "date_he": "07/09/2026",
- "updated": "05:27",
+ "updated": "11:04",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אירוע חריג בעזה: כלי הנדסי עלה על מטען, צה\"ל תקף בתגובה תשתיות של חמאס",
-  "summary": "בשטח הקו הצהוב שבצפון הרצועה עלה הכלי הצבאי על מטען, מבלי שהיו נפגעים בתקרית. בתגובה תקף צה\"ל תשתיות ששימשו לקידום מתווי טרור. \"מדובר בהפרה בוטה של הסכם הפסקת האש על ידי ארגון הטרור\", מסרו בצה\"ל",
-  "link": "https://www.ynet.co.il/news/article/b1z7rai00gx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/24/B1odq1qPMe/B1odq1qPMe_0_0_3000_1689_0_medium.jpg"
+  "title": "אחרי הישראלי שאיתו התעמת - גם המנהל הצרפתי בגן החיות בקוסמוי יגורש מתאילנד",
+  "summary": "במדינה חתמו על צו גירוש נגד האזרח הצרפתי קווין דימינו, שסירב להכניס ישראלים לגן החיות באי. הוא הורשע ב\"הטרדה, אלימות פיזית והסתה לפילוג על רקע גזעי ודתי\" - ויוכל לערער על ההחלטה",
+  "link": "https://www.ynet.co.il/news/article/syd2qb200fe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/13/HJxhmwo8Me/HJxhmwo8Me_1_287_512_289_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.5° / 26.1°",
-   "summary": "כרגע 26.8°, לחות 80%, רוח 8.3 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.7° / 26.1°",
+   "summary": "כרגע 30.7°, לחות 66%, רוח 16.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.5°"
+     "30.7°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "80%",
-     80
+     "66%",
+     66
     ],
     [
      "רוח",
-     "8.3 קמ״ש"
+     "16.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -87,16 +87,28 @@ window.NEWS_DATA = {
     [
      "Al Ittehad נגד Petrol Asyut",
      "טרם התחיל"
+    ],
+    [
+     "Cagliari נגד Lecce",
+     "טרם התחיל"
+    ],
+    [
+     "מכבי נתניה נגד הפועל חיפה",
+     "טרם התחיל"
+    ],
+    [
+     "הפועל תל אביב נגד Hapoel Ramat Gan",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "אליפות ארה\"ב: אלקראס וסבאלנקה העפילו לרבע הגמר",
-   "summary": "הספרדי הרשים עם 4:6, 3:6, 4:6 על טומי פול. נשים: האלופה המכהנת גברה 4:6, 3:6 על טיילור טאונסנד והאריכה את רצף הניצחונות שלה בניו יורק ל-17",
+   "title": "מאבק השליטה במכבי ת\"א: הצדדים הופנו לבוררות דחופה",
+   "summary": "בית המשפט הורה לבעלי המניות למנות בורר עד 9 בספטמבר והבהיר כי כלל העסקאות שבמחלוקת יהיו כפופות להליך. הבוררות צפויה להתחיל כבר בשבוע הבא ולהתנהל בפני עורך דין מסחרי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/r1dke7odzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/BJXH9Ei00Gl/BJXH9Ei00Gl_0_91_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/syo9zzhogx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/ryI2n11iOze/ryI2n11iOze_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -106,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "\"משחק שיכול להשפיע על עונה\": כהן צפוי להדיח את שועה מההרכב מול סכנין",
-   "summary": "אחרי שני הפסדים ושבעה שערי חובה, מאמן בית\"ר ירושלים מתכנן זעזוע בהרכב לקראת המשחק בדוחא. וייסמן צפוי להחליף את הקפטן, קאלו ויוספי יקבלו את הקרדיט. עדי יונה עשוי לשוב ולשחק אחרי מספר חודשים",
+   "title": "רשמי: חלוץ נבחרת זמביה חתם בהפועל ירושלים",
+   "summary": "אדוארד צ'ילופיה בן ה־26, ששיחק במיטיולן, דיורגרדן והאקן, הצטרף בהשאלה לעונת 2026/27. לזמבי 39 שערים ו־21 בישולים בקריירה וניסיון עשיר במפעלים האירופיים: \"אתן את כל האנרגיה, הלחימה והתשוקה שלי\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjghqhsuge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/30/SkWUZ5TLGlg/SkWUZ5TLGlg_391_281_1913_1077_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkobzx2ofx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/23/S111s1300DGl/S111s1300DGl_0_91_2366_1332_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -120,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "קניקובסקי חושף: \"היו שמועות, אבל רק יומיים לפני החתימה סגרתי במכבי ת\"א\"",
-   "summary": "הקשר צפוי לפתוח הערב מול הפועל באר-שבע וחשף כי חזרתו לקריית־שלום הושלמה בתוך 48 שעות. טברנייר עדיין לא נרשם ולא צפוי להיכלל בסגל. מליקה יחזור אל בין הקורות, בן הרוש יחליף את רביבו",
+   "title": "רשמי: טברנייר חתם במכבי ת\"א - הכירו את אחד הכוכבים הגדולים שהיו פה",
+   "summary": "קפטן ריינג'רס לשעבר הצטרף לצהובים בחוזה לעונה עם אופציה לעונה נוספת וילבש את החולצה מספר 2. המגן בן ה־34, שרשם 565 הופעות ו־144 שערים במועדון הסקוטי, אמר: \"מכבי רוצה להיאבק על תארים – וזה בדיוק מה שאתה רוצה כשחקן\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skfid3sdml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/27/SJjmnOjNex/SJjmnOjNex_681_326_2312_1302_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bygrf1hofl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/SkzdYk2uGx/SkzdYk2uGx_0_0_818_460_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -134,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "לא בגידה - אלא קריסת מערכות",
-   "summary": "העובדות שמרסקות תיאוריות קונספירציה על השבעה באוקטובר. את מי מעירים ומתי ומה הם כשלי הדרג האסטרטגי, המערכתי והטקטי?",
+   "title": "תיפרד מהכנסת: בן גביר לא ישבץ את מאי גולן ברשימה",
+   "summary": "בהצהרה על צירופה של ח\"כ גוטליב לעוצמה יהודית לא פסל יו\"ר המפלגה את האפשרות כי ישריין גם את השרה שנדחקה למקום לא-ריאלי בפריימריז של הליכוד: \"היא חברה טובה\". גולן טוענת: בן גביר הציע לי להצטרף - וסירבתי",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkmsq6idme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/13/BkQWvpZkzl/BkQWvpZkzl_107_0_638_360_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/syl6zzn00fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/15/HyxJc006TMZl/HyxJc006TMZl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,15 +160,71 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "זה אירוע קיומי: אם הרופאים יעזבו, ישראל לא תשרוד בכלל",
-   "summary": "לשווא יצעקו שופרות ביבי - \"נסתדר בלעדיכם\". ישראלים עם הון כלשהו, עם השכלה מתקדמת ועם ילדים קטנים, שהחשש מאובדן זהותה הדמוקרטית של המדינה, יחד עם הזדמנויות אטרקטיביות בחו\"ל, הכריע אצלם את הכף",
+   "title": "הוגשה רשימת \"ביחד\" לבחירות | שידור ישיר מוועדת הבחירות המרכזית",
+   "summary": "הנציגים מגישים את הרשימות יחד עם הכינוי והאותיות שיבקשו לפתק בקלפי. היום צפויות מפלגות המילואימניקים, ביחד, ישר! ועמך ישראל להגיש את רשימותיהן, וההליך יימשך גם מחר",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1na23oofe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/H1mnFj5uMg/H1mnFj5uMg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/bkrod1n00fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/rkcB11fnuMx/rkcB11fnuMx_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "אנבידיה, גוגל ו-AWS כבר עוברות ל-AI הטרוגני, אבל מה זה אומר בכלל?",
+   "summary": "מאת דודי כהן בשנים האחרונות עולם ה-AI היה ממוקד כמעט לחלוטין באימון: מי יבנה את המודל הגדול ביותר, על גבי הקלאסטר הגדול ביותר ומהר יותר מהמתחרים. אבל מרכז הכובד זז. מודל מאמנים פעם אחת, ומשרתים באמצעותו מיליארדי בקשות. ככל שיישומי AI – כגון צ'אטבוטים, סוכני קו…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/heterogeneous-ai-architecture/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "הכנס הגדול של קהילת העסקים וה-IT בישראל חוזר: הנה מה שיחכה לכם",
+   "summary": "שמונה מסלולים מקצועיים, תערוכת Expo, תחרות סטארטאפים וזירת AI & Cyber חדשה: ועידת ישראל לטכנולוגיות המידע חוזרת לתל אביב וצפויה לארח כ-3,000 יזמות ויזמים, משקיעים, נציגי סטארטאפים ובכירים בארגונים. הכנס יעסוק בשינויים שיוצרת מהפכת ה-AI בשוק העבודה, שוק היזמות,…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/israel-information-technology-conference-2026-save-the-date/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "משתמשים ב-Google Photos? סוכן ה-AI של גוגל מגיע לעשות לכם סדר",
+   "summary": "בכנס Google I/O האחרון נזרקו לא מעט פעמים לאוויר המילים AI וסוכנים לצד שלל פיתוחים קטנים וגדולים, אולם אחד הפיתוחים המרשימים ביותר שבלטו לא מעט הוא Gemini Spark, פלטפורמת הסוכנים של גוגל. כעת, היא מגיעה גם לאחד מהמוצרים החשובים ביותר עבורכם: Google Photos. עם …",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/gemini-spark-is-coming-to-google-photos/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "הפרגון של ג'ון מלקוביץ' לישראל - וההבהרה של ההפקה: \"נפלה טעות, הציטוט שגוי\"",
+   "summary": "ימים לאחר שפורסם כי השחקן יגיע להופעה בישראל  וכי מסר שהוא \"חש קרבה והזדהות רבה עם הקהל הישראלי\", ביקשה ההפקה להסיר את הדברים. מפיק המופע, אלון יוריק, הבהיר כי הציטוט שיוחס למלקוביץ' נשלח בעקבות אי-הבנה והתנצל על הטעות",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/bj3aikh00zx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/01/HkDeEmEuMg/HkDeEmEuMg_348_52_2437_1372_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -181,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/yokra14878807",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/17/HJNZH4TxC/HJNZH4TxC_0_0_1920_1080_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "ליהי קורנובסקי מדברת על אהבה, שנאה והדרמה שעברה בלידה",
-   "summary": "הכניסה של ליהי קורנובסקי לאימהות לא הייתה קלה, עם מצב חירום רפואי וימים של חוסר ודאות. חודשיים לאחר לידת בנה השני, היא מספרת בגילוי לב על הטראומה שנלחמה להחלים ממנה, מסבירה למה בתחילת הזוגיות עם בעלה השחקן רועי ניק הרגישה שנפלה בפח וחושפת את ההודעות שקיבלה אחר…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14882782",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/S1W11Mzlmuzx/S1W11Mzlmuzx_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
