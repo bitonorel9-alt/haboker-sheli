@@ -1,20 +1,20 @@
 {
  "date": "יום שלישי, 8 בספטמבר 2026",
  "date_he": "08/09/2026",
- "updated": "16:55",
+ "updated": "19:40",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "תחת סודיות מוחלטת: ועידה אמריקנית בהשתתפות ישראל ומדינות ערב",
-  "summary": "בפעם הרביעית נערכת בוושינגטון ועידת MEAD שעוסקת בשורה של סוגיות פתוחות מהלחימה בשלל הזירות במזרח התיכון. בין משתתפי הוועידה נציגים ממדינות שלישראל אין יחסים דיפלומטיים עימן",
-  "link": "https://www.ynet.co.il/news/article/skjuucaomg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/Bkt500cT00fx/Bkt500cT00fx_0_0_1280_721_0_medium.jpg"
+  "title": "מחר: מבצע אכיפה רחב של משטרת ישראל בכבישים",
+  "summary": "משעות הבוקר המוקדמות ועד לשעות הלילה יתקיים המבצע בכל רחבי הארץ. מאמץ האכיפה המרכזי: נגד עבירות בריונות ונהיגה מסכנת חיים. במבצע ישתתפו מאות שוטרים, שיעשו שימוש גם באמצעים טכנולוגיים ויקבלו סיוע אווירי",
+  "link": "https://www.ynet.co.il/news/article/hjn5trtozl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/Syxe2hAauze/Syxe2hAauze_0_66_1280_720_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.2° / 26.5°",
-   "summary": "כרגע 28.1°, לחות 85%, רוח 13.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.3°, לחות 84%, רוח 7.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "85%",
-     85
+     "84%",
+     84
     ],
     [
      "רוח",
-     "13.0 קמ״ש"
+     "7.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,12 +51,8 @@
    "image": null,
    "stats": [
     [
-     "Hapoel Kiryat Ono נגד Hakoah Amidar Ramat Gan F.C.",
-     "0:0 · מחצית"
-    ],
-    [
-     "Bnei Yehuda U19 נגד Hapoel Beer Sheva U19",
-     "0:0 · מחצית ראשונה"
+     "Hapoel Segev Shalom נגד Maccabi Bnei Eilat",
+     "3:3 · מחצית שנייה"
     ],
     [
      "Akhva Sha'ab נגד Maccabi Bnei Jdeide",
@@ -69,6 +65,10 @@
     [
      "Hapoel Bnei Jdaidie Makr נגד Bnei Mejar",
      "1:1 · הסתיים"
+    ],
+    [
+     "Hapoel Ra'anana U19 נגד Maccabi Petach Tikva U19",
+     "0:4 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,30 @@
    "image": null,
    "stats": [
     [
-     "Club Brugge נגד Aston Villa",
+     "FC Porto נגד Manchester City",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "AEK Athens נגד LASK Linz",
+     "Borussia Dortmund נגד Villarreal",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "Smouha נגד Ceramica Cleopatra",
-     "טרם התחיל"
+     "Lille נגד Real Betis",
+     "2:1 · מחצית ראשונה"
     ],
     [
-     "Zamalek SC נגד Abo Qir Semad",
-     "טרם התחיל"
-    ],
-    [
-     "Hapoel Segev Shalom נגד Maccabi Bnei Eilat",
-     "טרם התחיל"
+     "Real Madrid נגד Inter Milan",
+     "2:0 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "מחצית ראשונה: קלאב ברוז' - אסטון וילה 0:0",
-   "summary": "שלב הליגה של ליגת האלופות, מחזור 1: האנגלים רוצים להתאושש מפתיחת העונה הרעה מול הבלגים, שנמצאים בכושר נהדר. במקביל: א.א.ק אתונה – לאסק 0:0",
+   "title": "דקה 31: בולטון וונדררס - ווסטהאם 1:2",
+   "summary": "צ'מפיונשיפ, מחזור 6: עם סולומון בספסל, הפטישים מקווים לחבר ניצחון ליגה שלישי ברצף מול הקבוצה מתחתית הליגה. במקביל: סאות’המפטון – סוונסי 0:2",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one532855",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/18/one1842295/one1842295_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one532852",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/16/one1882660/one1882660_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +114,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "מחצית: מכבי אשדוד - הפועל י-ם 51:50",
-   "summary": "גביע ווינר סל, מחזור 1: האדומים מראים רוח לחימה גבוהה על כל כדור מול החבורה של קציר ואינם מוותרים בקלות. במקביל: קריית אתא - נס ציונה 46:40",
+   "title": "דקה 34: פורטו - מנ. סיטי 0:0",
+   "summary": "ליגת האלופות, מחזור 1: האורחת שולטת בנעשה על כר הדשא, אך לא מצליחה להביא את הדומיננטיות לשערים. הולאנד נעצר. במקביל: דורטמונד - ויאריאל 0:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one532868",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/one1886822/one1886822_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one532859",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/03/one1881119/one1881119_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +128,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "גם מסי ברשימה: אלה המועמדים הסופיים לכדור הזהב 2026",
-   "summary": "אחרי שזכה שמונה פעמים בעבר, הכוכב הארגנטינאי שוב ברשימה היוקרתית. מועמדים נוספים: זוכה השנה שעברה, עוסמאן דמבלה, הארי קיין, לאמין ימאל, ג'וד בלינגהאם וקיליאן אמבאפה",
+   "title": "דקה 33: ריאל מדריד - אינטר 0:2",
+   "summary": "שלב הליגה של ליגת האלופות, מחזור 1: למרות פתיחה טובה של הנראזורי, הבלאנקוס ניצלו את הטעויות וכבשו פעמיים מרגלי אמבפה (14') ו-ואלוורדה (23')",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sktnespdge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/22/B1NfdNJ2xl/B1NfdNJ2xl_0_57_3000_1689_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/532851",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/one1886899/one1886899_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +142,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "כישלון מודיעיני-מדיני: בישראל הופתעו מגיוס קואליציית הסנקציות של הבריטים",
-   "summary": "מפעל ההתנחלויות הפך לבומרנג של כל המשק הישראלי. הצהרות קיצוניות של שרים בממשלה והיעדר האכיפה נגד פורעים יהודים בשטחים סיפקו לקהילה הבינלאומית רוח גבית חסרת תקדים. בלונדון לא ראו בעיניים, והלכו על קביעת איסור הכנסת מוצרים שמקורם בהתנחלויות בכל הכוח. נתניהו ירוו…",
+   "title": "האנשים שלא ידעתם שרצים לכנסת",
+   "summary": "\"מיליונר סוציאליסט\", סמיון גרפמן ואשתו של יגאל עמיר הם בין מובילי המפלגות שלא יעברו את אחוז החסימה. סגלוביץ' הוא היהודי היחיד בין 73 מועמדי רע\"מ, במפלגה החרדית החדשה שתי נשים ברביעייה. וגם: המשוררים והספורטאים האולימפיים שבמעמקי הרשימות, ואלו שקיבלו את הכבוד ל…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s11gj9puzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/H1q9dV4wzl/H1q9dV4wzl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/rj2wniaomg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/HyAX9uTufx/HyAX9uTufx_29_35_790_445_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +156,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "נתניהו: \"זה או ממשלה לאומית חזקה או ממשלת שמאל צרה עם המפלגות הערביות\"",
-   "summary": "אחרי שהודיע על שישה משוריינים חדשים לליכוד, רה\"מ נתניהו מסר הצהרה מירושלים. \"יש עוד משימה להשלים - להכריע את המשטר באיראן. הוא יפול\", אמר רה\"מ. \"מי יעשה זאת? אנחנו, שנלחמנו, או איזנקוט שביקש להיכנע ולצאת מעזה?\"",
+   "title": "תמיכת המדינה האירופית בישראל - וה\"קיצונים\" שעליהם הוטלו סנקציות אישיות",
+   "summary": "על רקע הסנקציות שהטילה בריטניה על ישראל, ביקר ראש מועצת שומרון יוסי דגן בסלובניה ונפגש עם ראש הממשלה החדש יאנז יאנשה. לדברי דגן: \"הסנקציות הן מהלך אנטישמי מחפיר\". וגם: אלו \"המתנחלים הקיצוניים\" שעליהם הטילו הבריטים סנקציות אישיות - ותגובות שלהם: \"בהצלחה לאירופה…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/sy5z2stufl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/ByZzvt3TuMx/ByZzvt3TuMx_0_0_1280_720_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rk2vg6tuze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/ByAx1ATufe/ByAx1ATufe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
