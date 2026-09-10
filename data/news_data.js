@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 10 בספטמבר 2026",
  "date_he": "10/09/2026",
- "updated": "16:45",
+ "updated": "19:21",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"כלי מרכזי לשמירה על הקרקע\": מפת החוות ביהודה ושומרון נחשפת",
-  "summary": "איגוד החוות חשף לראשונה את המפה, שבה ניתן לראות כי החוות החקלאיות שומרות על יותר מ-1.1 מיליון דונם, לעומת כ-200 אלף המוחזקים במרחבי הערים והיישובים. העיקרון המלווה: \"במקום שבו תעבור המחרשה היהודית - שם יעבור גבולנו\". בתנועת \"שלום עכשיו\" תקפו: \"זו מפת הטרור והס…",
-  "link": "https://www.ynet.co.il/news/article/skmecrxtfg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/HkxKRreKGl/HkxKRreKGl_0_254_841_474_0_medium.jpg"
+  "title": "רצח בטייבה: ראאד נורה למוות ברכבו",
+  "summary": "ראאד חאג' יחיא, בשנות ה-50 לחייו, נורה למוות בטייבה. רכבו תועד מחורר בכדורים - והחלונות נופצו. הרקע פלילי, המשטרה: \"נפתחה חקירה\"",
+  "link": "https://www.ynet.co.il/news/article/bkam1kekme",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/BJFIbtxFfx/BJFIbtxFfx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.6° / 24.6°",
-   "summary": "כרגע 27.4°, לחות 76%, רוח 12.8 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.3°, לחות 79%, רוח 10.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "76%",
-     76
+     "79%",
+     79
     ],
     [
      "רוח",
-     "12.8 קמ״ש"
+     "10.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "MS Bnei Hagolan נגד Hapoel Yarka",
-     "0:0 · מחצית שנייה"
+     "MS Netanya נגד Hapoel Daliat El Karmel",
+     "1:4 · מחצית שנייה"
     ],
     [
-     "Hapoel Kfar Saba נגד Maccabi Kiryat Gat",
-     "2:0 · מחצית ראשונה"
+     "Bnei Yehuda נגד Hapoel Rishon Lezion",
+     "0:0 · הסתיים"
     ],
     [
-     "Ironi Modiein נגד Bnei Yehuda",
-     "0:3 · מחצית ראשונה"
+     "MS Kfar Kassem נגד Ironi Modiein",
+     "0:0 · הסתיים"
     ],
     [
-     "Hapoel Rishon Lezion נגד Kiryat Yam Sc",
-     "2:0 · מחצית ראשונה"
+     "Maccabi Kiryat Gat נגד Maccabi Hertzliya",
+     "1:1 · הסתיים"
     ],
     [
-     "Hapoel Kfar Shalem נגד Maccabi Ahi Nazeret",
-     "2:0 · מחצית ראשונה"
+     "Maccabi Beer Sheva נגד Maccabi Ironi Netivot",
+     "0:2 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "MS Bnei Hagolan נגד Hapoel Yarka",
-     "0:0 · מחצית שנייה"
+     "Es Ben Aknoun נגד Us Biskra",
+     "1:2 · מחצית שנייה"
     ],
     [
-     "Riffa Club נגד Al Khalidiyah",
+     "MS Netanya נגד Hapoel Daliat El Karmel",
+     "1:4 · מחצית שנייה"
+    ],
+    [
+     "Slavia Praha נגד Lens",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "Muharraq SC נגד Manama Club",
+     "Como נגד RB Leipzig",
      "1:0 · מחצית ראשונה"
     ],
     [
-     "Fenerbahçe SK נגד AS Roma",
-     "טרם התחיל"
-    ],
-    [
-     "PSV Eindhoven נגד Shakhtar Donetsk",
-     "טרם התחיל"
+     "Manchester United נגד Sabah",
+     "0:0 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "דקה 38: הפועל ראשל\"צ - קריית ים 0:1",
-   "summary": "ליגה לאומית, מחזור 5: הכתומים עלו ליתרון מוקדם מפנדל מדויק הנטי בדקה ה-14, לאחר נגיעת יד של פרדה ברחבה. במקביל: בני ריינה - הפועל עפולה 2:0",
+   "title": "דקה 8: באיירן - בודה גלימט 0:0",
+   "summary": "ליגת האלופות, מחזור 1: הגרמנים רוצים להתחיל את העונה האירופית ברגל ימין מול ההפתעה מאשתקד. במקביל: יונייטד - סבאח 0:0, קומו - לייפציג 0:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one533057",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/one1829783/one1829783_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one533055",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/29/one1884769/one1884769_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דיווח: אינפנטינו בדרך להיבחר מחדש, מתנגדיו שוקלים לשנות אסטרטגיה",
-   "summary": "למרות המשבר החריף סביב התוכנית למכירת נתח מהמונדיאל למשקיעים פרטיים, נשיא פיפ\"א מחזיק בתמיכה מספקת כדי לנצח בבחירות במרץ. באירופה עדיין מחפשים מועמד שיכול לאחד את העולם נגדו, ובמקביל נשקלת האפשרות לצמצם את סמכויותיו",
+   "title": "נשארה מושלמת: נס ציונה גברה 72:77 על חולון",
+   "summary": "הכתומים שלטו לאורך רוב שלבי המשחק ואף ביצעו ריצת 0:19 בחצי הראשון. המארחים השיגו ניצחון שני בגביע ווינר סל ועלו לרבע הגמר. לי בלט עם 16 נק'",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/skqa0rgkzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/HySr6Jiuzx/HySr6Jiuzx_445_33_2407_1355_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one533060",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/25/one1735456/one1735456_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מאבקי השליטה במכבי ת\"א: טענת דיץ בבוררות - המהלך נועד לעקוף את זכות הסירוב",
-   "summary": "הבוררות בין בעלי המניות צפויה להתחיל בשבוע הבא, בעקבות טענותיו של ריצ'רד דיץ כי רקנאטי ושמעון מזרחי פעלו יחד כדי לעקוף את זכות הסירוב שלו ולהבטיח את כניסתו של ג'ייסון לוין למועדון",
+   "title": "פ.ס.ז' התחילה בתיקון | תוכן גולשים",
+   "summary": "עוסמאן דמבלה והרכש פראן טורס היו בשיאם בליגת האלופות והראו שיש להם מה לתת גם העונה לקבוצה ולכדורגל העולמי. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/ryqrcvgfme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/ryI2n11iOze/ryI2n11iOze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rj78gwgyzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/29/SkfTE7OdJe/SkfTE7OdJe_0_120_2262_1274_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אישום נגד צעיר מהצפון: ניסה לדרוס רוכב אופנוע - ואז דקר אותו בראש",
-   "summary": "תאמר סלפיתי מהכפר אום אל גאנם הואשם כי ניסה לדרוס אדם ואז דקר אותו - בעקבות טענות על מעצר של בני משפחתו שהיו מעורבים ברצח בן דודו של הקורבן. \"מאז נעצרו בני משפחת הנאשם, הוא ומשפחתו מתנכלים למשפחת הקורבן ובן דודו המנוח\", תיארה חוקרת במשטרת תבור",
+   "title": "300 פניות על שימוש בסמי אונס - רק 2 הרשעות: מדוע נסגר התיק נגד יובל וילנר?",
+   "summary": "איגוד מרכזי הסיוע דיווח על שיא של עשור בפניות על פגיעה מינית שמתרחשת תוך שימוש בסמי אונס וחומרים מטשטשים. אך רק מיעוט מהפניות מבשילות לתלונה במשטרה ומיעוט קטן עוד יותר לכתבי אישום. עו\"ד הלה נויבך: \"הרשעה מצריכה סיפור קוהרנטי שהנפגעות לא יכולות לספק\". על סגירת …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hy6jvslyzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/12/HkBUcEGlF/HkBUcEGlF_0_0_3000_2000_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjz09pekge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/17/Hyw9L0Ikzg/Hyw9L0Ikzg_0_0_1280_713_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מחוסר ראיות: נסגר התיק נגד יובל וילנר שנחשד באונס שי לי עטרי ונעמה שחר",
-   "summary": "בפרקליטות הוחלט שלא להגיש כתב אישום נגד המוזיקאי, שנגדו התלוננו השתיים כי אנס אותן. עטרי: \"ישראל מלמדת אנסים איפה יש החורים שדרכם אפשר לברוח\". עוד אמרה: \"הדבר שנלקח ממני באותו לילה - היכולת לזכור - הפך עכשיו גם לדבר שמונע ממני צדק\". נציגו של וילנר: \"אמת יש רק …",
+   "title": "צה\"ל השמיד את מנהרות חיזבאללה ברכס עלי טאהר - ומאיים על איראן: \"אם תגיבו, תחטפו\"",
+   "summary": "יותר מ-1,100 טון חומר נפץ הוטל להשמדת המתחם התת-קרקעי ברכס שבלבנון, שנבנה במשך שני עשורים במימון איראני. לפי דיווחים, טהרן הזהירה שתגיב על פעולה כוללת שכזו - ובצה\"ל נערכים גם ל\"תרחיש רב-זירתי\". תא\"ל דפרין בהצהרה \"עמוק מתחת\" לעלי טאהר: \"חיזבאללה נכשל\". צפו בתיע…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hj8jfrekzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/17/BJwwICUJMe/BJwwICUJMe_121_45_1072_604_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/skph9iefml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/tgZzrbgi4R9/tgZzrbgi4R9_0_0_848_478_0_medium.jpg",
    "stats": [
     [
      "מקור",
