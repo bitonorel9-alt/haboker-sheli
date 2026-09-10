@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 10 בספטמבר 2026",
  "date_he": "10/09/2026",
- "updated": "12:30",
+ "updated": "16:45",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "חשד למחדל בהתרסקות הקטלנית של מטוס אמזון במיאמי: הטייס הזהיר \"זה מהר מדי!\"",
-  "summary": "5 עובדי חברת ניקיון נהרגו ושני בני אדם נפצעו אנוש כשמטוס תובלה של \"אמזון Prime Air\" סטה ביום ראשון מהמסלול במיאמי והתנגש בכלי רכב. הקלטות מתא הטייס חושפות כעת כי אחד הטייסים הזהיר את חברו שוב ושוב, במשך כמעט שתי דקות, שהמהירות גבוהה מדי, ושאזהרות אוטומטיות שהו…",
-  "link": "https://www.ynet.co.il/news/article/bkbylggtme",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/rk3s7zxKGl/rk3s7zxKGl_0_232_3000_1689_0_medium.jpg"
+  "title": "\"כלי מרכזי לשמירה על הקרקע\": מפת החוות ביהודה ושומרון נחשפת",
+  "summary": "איגוד החוות חשף לראשונה את המפה, שבה ניתן לראות כי החוות החקלאיות שומרות על יותר מ-1.1 מיליון דונם, לעומת כ-200 אלף המוחזקים במרחבי הערים והיישובים. העיקרון המלווה: \"במקום שבו תעבור המחרשה היהודית - שם יעבור גבולנו\". בתנועת \"שלום עכשיו\" תקפו: \"זו מפת הטרור והס…",
+  "link": "https://www.ynet.co.il/news/article/skmecrxtfg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/HkxKRreKGl/HkxKRreKGl_0_254_841_474_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.6° / 24.6°",
-   "summary": "כרגע 30.0°, לחות 65%, רוח 16.4 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.4°, לחות 76%, רוח 12.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "65%",
-     65
+     "76%",
+     76
     ],
     [
      "רוח",
-     "16.4 קמ״ש"
+     "12.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Bnei Yehuda נגד Hapoel Rishon Lezion",
-     "0:0 · הסתיים"
+     "MS Bnei Hagolan נגד Hapoel Yarka",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "MS Kfar Kassem נגד Ironi Modiein",
-     "0:0 · הסתיים"
+     "Hapoel Kfar Saba נגד Maccabi Kiryat Gat",
+     "2:0 · מחצית ראשונה"
     ],
     [
-     "Maccabi Kiryat Gat נגד Maccabi Hertzliya",
-     "1:1 · הסתיים"
+     "Ironi Modiein נגד Bnei Yehuda",
+     "0:3 · מחצית ראשונה"
     ],
     [
-     "Maccabi Beer Sheva נגד Maccabi Ironi Netivot",
-     "0:2 · הסתיים"
+     "Hapoel Rishon Lezion נגד Kiryat Yam Sc",
+     "2:0 · מחצית ראשונה"
     ],
     [
-     "מכבי נתניה נגד הפועל חיפה",
-     "1:1 · הסתיים"
+     "Hapoel Kfar Shalem נגד Maccabi Ahi Nazeret",
+     "2:0 · מחצית ראשונה"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Police נגד Updf",
-     "טרם התחיל"
-    ],
-    [
-     "Beitar Petah Tikva נגד Bnei Jaffa",
-     "טרם התחיל"
-    ],
-    [
-     "Kitara Fc נגד URA SC",
-     "טרם התחיל"
-    ],
-    [
      "MS Bnei Hagolan נגד Hapoel Yarka",
-     "טרם התחיל"
+     "0:0 · מחצית שנייה"
     ],
     [
      "Riffa Club נגד Al Khalidiyah",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Muharraq SC נגד Manama Club",
+     "1:0 · מחצית ראשונה"
+    ],
+    [
+     "Fenerbahçe SK נגד AS Roma",
+     "טרם התחיל"
+    ],
+    [
+     "PSV Eindhoven נגד Shakhtar Donetsk",
      "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "אורי עזו יושאל לבית\"ר ירושלים | פרסום ראשון",
-   "summary": "מכבי ת\"א ובית\"ר ירושלים הגיעו להבנות על מעברו של הקשר לעונה הקרובה. אם ישחק ב-70 אחוז ממשחקי הקבוצה מהבירה, תעמוד לבית\"ר אפשרות לרכוש אותו בסיום העונה. במקביל, המועדון צפוי להשלים את רכישת סרנה ב-450 אלף יורו",
+   "title": "דקה 38: הפועל ראשל\"צ - קריית ים 0:1",
+   "summary": "ליגה לאומית, מחזור 5: הכתומים עלו ליתרון מוקדם מפנדל מדויק הנטי בדקה ה-14, לאחר נגיעת יד של פרדה ברחבה. במקביל: בני ריינה - הפועל עפולה 2:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/byrjnzgffg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/SJl8FfgKfl/SJl8FfgKfl_0_0_443_250_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one533057",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/one1829783/one1829783_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "\"עיר עם גאווה וחוסן\": שדרות מחלימה מה-7 באוקטובר בזכות הכדורגל",
-   "summary": "סמל של בית\"ר ירושלים על הקווים, שחקן שלומד בישיבה ומרביץ תורה בחדר ההלבשה, קפטן שעושה מילואים כלוחם בעזה, מחלקת נוער שסוחפת מאות ילדים וקבוצה שהפכה לשיחת היום בבתי הקפה. אחרי 58 שנה, לשדרות יש שוב נציגה בליגה השלישית – ניצחון אדיר לעיר שעדיין מתמודדת עם פצעי 7…",
+   "title": "דיווח: אינפנטינו בדרך להיבחר מחדש, מתנגדיו שוקלים לשנות אסטרטגיה",
+   "summary": "למרות המשבר החריף סביב התוכנית למכירת נתח מהמונדיאל למשקיעים פרטיים, נשיא פיפ\"א מחזיק בתמיכה מספקת כדי לנצח בבחירות במרץ. באירופה עדיין מחפשים מועמד שיכול לאחד את העולם נגדו, ובמקביל נשקלת האפשרות לצמצם את סמכויותיו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1pkbeytmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/rk00KM4yKfx/rk00KM4yKfx_0_201_2953_1663_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/skqa0rgkzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/HySr6Jiuzx/HySr6Jiuzx_445_33_2407_1355_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "\"כל יהודי שאני רואה - אני מכה\": השיר המקומם של אוהדי ריאל מדריד | צפו",
-   "summary": "אוהדי הבלאנקוס תועדו לפני המשחק מול אינטר כשהם משמיעים קריאות אנטישמיות ומצדיעים במועל יד. בתיעודים נוספים נראו רעולי פנים שורפים דגלי מרוקו ותמונות של ראש ממשלת ספרד ומלך מרוקו. המועדון טרם הגיב",
+   "title": "מאבקי השליטה במכבי ת\"א: טענת דיץ בבוררות - המהלך נועד לעקוף את זכות הסירוב",
+   "summary": "הבוררות בין בעלי המניות צפויה להתחיל בשבוע הבא, בעקבות טענותיו של ריצ'רד דיץ כי רקנאטי ושמעון מזרחי פעלו יחד כדי לעקוף את זכות הסירוב שלו ולהבטיח את כניסתו של ג'ייסון לוין למועדון",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/bjeucgxkzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/S100A5xgYGg/S100A5xgYGg_0_30_315_178_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/ryqrcvgfme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/ryI2n11iOze/ryI2n11iOze_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"חטפנו אותו, רצחנו אותו\": חשש כבד לחיי נעדר מהצפון",
-   "summary": "הודעה אנונימית ברשתות על אודות גורלו של שריף טאהר (21) משפרעם הגבירה את החשד שנרצח וגופתו הועלמה. רכבו הוצת, אך כל החשודים במעורבות בהיעלמותו שוחררו. בני המשפחה ממתינים לתשובות",
+   "title": "אישום נגד צעיר מהצפון: ניסה לדרוס רוכב אופנוע - ואז דקר אותו בראש",
+   "summary": "תאמר סלפיתי מהכפר אום אל גאנם הואשם כי ניסה לדרוס אדם ואז דקר אותו - בעקבות טענות על מעצר של בני משפחתו שהיו מעורבים ברצח בן דודו של הקורבן. \"מאז נעצרו בני משפחת הנאשם, הוא ומשפחתו מתנכלים למשפחת הקורבן ובן דודו המנוח\", תיארה חוקרת במשטרת תבור",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hyqawxxkmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/rJBiKlxKMx/rJBiKlxKMx_0_207_1023_576_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hy6jvslyzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/12/HkBUcEGlF/HkBUcEGlF_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"ככה חודרים מחבלים\": מנהרה אותרה סמוך למכשול התפר באזור ירושלים | תיעוד",
-   "summary": "כוחות צה\"ל ומג\"ב אטמו את המנהרה שנחפרה סמוך לגבעת זאב בתוך בור מים יבש - והגיעה עד 5 מטרים מהמכשול. חשוד נתפס בזמן שחפר במקום. מפקד הגדוד במג\"ב עוטף ירושלים הזהיר שזה לא מקרה יחיד: \"לצד הסתננות לעבודה, בעבר כך חדרו מחבלים והועבר אמל״ח\"",
+   "title": "מחוסר ראיות: נסגר התיק נגד יובל וילנר שנחשד באונס שי לי עטרי ונעמה שחר",
+   "summary": "בפרקליטות הוחלט שלא להגיש כתב אישום נגד המוזיקאי, שנגדו התלוננו השתיים כי אנס אותן. עטרי: \"ישראל מלמדת אנסים איפה יש החורים שדרכם אפשר לברוח\". עוד אמרה: \"הדבר שנלקח ממני באותו לילה - היכולת לזכור - הפך עכשיו גם לדבר שמונע ממני צדק\". נציגו של וילנר: \"אמת יש רק …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bkxs4wgkfx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/SybMX0gxKfe/SybMX0gxKfe_0_61_1600_901_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hj8jfrekzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/17/BJwwICUJMe/BJwwICUJMe_121_45_1072_604_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,11 +216,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "השחקן דן תורג'מן יישלח למאסר בפועל: \"אני המום ומופתע\"",
-   "summary": "בית המשפט המחוזי בתל אביב קיבל את ערעור הפרקליטות והחמיר את עונשו של כוכב \"לגעת באושר\" מתשעה חודשי עבודות שירות ל-10 חודשי מאסר בפועל, בגין עבירות מס שביצע במשך 12 שנים. לצד זאת, הופחת הקנס שהוטל עליו מ-100 אלף שקל ל-50 אלף שקל. תורג'מן ל-ynet: \"אנחנו מדברים ע…",
+   "title": "עינת ארליך חושפת שאובחנה עם סרטן מוח: \"אני אנצח - אין אופציה אחרת\"",
+   "summary": "מנחת הטלוויזיה והשחקנית חשפה כי אובחנה בגליובלסטומה, סרטן מוח, וכי עברה ניתוח להסרת הגידול. \"אני משתפת שאומנם יש בי פחד\", כתבה ברשתות החברתיות, \"אבל אני חזקה, אני על הרגליים - ואני אנצח\"",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/sjfz5zxfzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/10/B1vu00OPFJg/B1vu00OPFJg_342_374_1099_619_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/bymzksgyfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/24/rJPJU5MONlg/rJPJU5MONlg_355_170_1122_632_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -230,11 +230,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "המצעד הישראלי השנתי של ynet וגלגלצ: עומר אדם הוא איש השנה | צפו",
-   "summary": "התחלנו את המצעד הישראלי השנתי של ynet וגלגלצ עם 40 השירים הגדולים שאתם בחרתם, כשדלית רצ'שטר תארח את הזוכים החגיגיים לביצועים מיוחדים באולפן. מי יהיו האמנים הזוכים? מי יקטוף את פרס האלבום הטוב ביותר? והשאלה החשובה מכולן - מה יהיה שיר השנה של תשפ\"ו? הצטרפו למשדר",
+   "title": "אתם בחרתם: \"כולם גנבים\" של אושר כהן הוא שיר השנה במצעד של ynet וגלגלצ",
+   "summary": "המצעד הישראלי השנתי הגיע לסיום החגיגי, כשאושר כהן זכה במקום הראשון עם הלהיט \"כולם גנבים\". עומר אדם, אודיה ועדן בן זקן הוכרזו כאנשי השנה, נועם בתן הוכרז כפריצת השנה ואיתי לוי זכה באלבום השנה על \"13\". צפו ברגעים הגדולים",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/hjwxbo0umg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/Hyx9Iyzltfl/Hyx9Iyzltfl_522_309_2108_1187_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/SJZe34UxFMx/SJZe34UxFMx_256_151_740_417_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -244,11 +244,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "כוכבי \"קופה ראשית\": \"יש פה הרבה אנשים עם אגו גדול, אבל אין פה סולנים\"",
-   "summary": "חבורת המופלאים של \"קופה ראשית\" עשתה את זה שוב והפכה את \"קופה ראשית: הסרט\" להצלחה הגדולה של הקיץ. בראיון מיוחד לראש השנה שיתפרסם ב\"7 לילות\", הם מדברים על החשש להיקלע למשחקים פוליטיים, על ההערות מילדים ברחוב שנוטעות בהם תקווה, ועל החיבור \"הפלאי והקוסמי\" ביניהם: …",
+   "title": "הסרט הישראלי שיעורר סערה: \"ביצענו פשעי מלחמה בעזה. זה היה הרג מכוון\"",
+   "summary": "הסרט \"נז\"א\" של הבמאים הישראלים זוכי האוסקר יובל אברהם ורחל שור שיוקרן בפסטיבל ונציה, מציג עדויות קשות של חיילי 8200 החושפים לכאורה שימוש ב-AI בבחירת היעדים לחיסול וטוענים להרג המוני של אזרחים: \"טבחנו באמצעות צלפים באוכלוסייה בתור לאוכל\". למרות הנושא הרגיש, בעי…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/ryhhcnkfgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/H1sE006T00Gl/H1sE006T00Gl_0_0_708_399_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/r14vvbeffg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/HkWr4BzgFfg/HkWr4BzgFfg_23_226_982_553_0_medium.jpg",
    "stats": [
     [
      "מקור",
