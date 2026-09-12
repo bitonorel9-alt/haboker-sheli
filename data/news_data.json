@@ -1,7 +1,7 @@
 {
  "date": "יום שבת, 12 בספטמבר 2026",
  "date_he": "12/09/2026",
- "updated": "19:53",
+ "updated": "21:49",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,27 +13,27 @@
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.0° / 26.0°",
-   "summary": "כרגע 27.1°, לחות 84%, רוח 9.0 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.4° / 26.4°",
+   "summary": "כרגע 26.8°, לחות 85%, רוח 6.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.0°"
+     "30.4°"
     ],
     [
      "מינימום",
-     "26.0°"
+     "26.4°"
     ],
     [
      "לחות",
-     "84%",
-     84
+     "85%",
+     85
     ],
     [
      "רוח",
-     "9.0 קמ״ש"
+     "6.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -44,11 +44,83 @@
   },
   {
    "section": "כדורגל",
-   "title": "דקה 44: ריאל מדריד - ראיו 0:3",
-   "summary": "הליגה הספרדית, מחזור 5: אמבפה כבש מפנדל (14'), קארראס ניצל טעות (17') ובלינגהאם נעץ את השלישי (35') מול האורחת, שנותרה חסרת אונים. חי ב-ONE",
+   "title": "תוצאות בזמן אמת · ישראל",
+   "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football/israel",
+   "image": null,
+   "stats": [
+    [
+     "Maccabi Bialik Ata נגד Maccabi Nujidat",
+     "3:1 · הסתיים"
+    ],
+    [
+     "Hapoel Azur נגד FC Tzeiri Tira",
+     "2:0 · הסתיים"
+    ],
+    [
+     "Hapoel Nof Ha'galil נגד Hapoel Tirat HaCarmel",
+     "1:0 · הסתיים"
+    ],
+    [
+     "Ironi Nir Ramat HaSharon נגד Hapoel Mahne-Yehuda",
+     "1:1 · הסתיים"
+    ],
+    [
+     "MS Dimona נגד Maccabi Yavne",
+     "1:0 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "CS Constantine נגד ASO Chlef",
+     "2:0 · מחצית שנייה"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "חי מגמר אליפות ארה\"ב: ארינה סבאלנקה - ילנה ריבאקינה",
+   "summary": "שתי הטניסאיות הטובות בעולם נפגשות לקרב ראש בראש על התואר בניו יורק. הבלארוסית תזכה בפעם השלישית ברציפות או הקזחית בפעם הראשונה?",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/syssvf7tfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/ryqTLf7tGg/ryqTLf7tGg_0_0_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "מושלמת: ארסנל גברה 0:2 על סנדרלנד",
+   "summary": "התותחנים הציגו יכולת לא מרשימה, אך עצירת פנדל של ראיה ושערים של גימראייש המחליף וסאקה העניקו לארטטה שלוש נקודות ושמירה על מאזן מושלם בליגה",
+   "source": "ynet - ספורט",
+   "link": "https://livegame.ynet.co.il/games/533251",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/one1887543/one1887543_0_0_800_444_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "לבשה חג: ריאל מדריד הביסה 1:4 על ראיו וייקאנו",
+   "summary": "הבלאנקוס פתחו בסערה עם שערים של אמבפה שכבש פעמיים (14',90+1'), קאררס (17') ובלינגהאם (35') סידרו יתרון מוקדם. קאמייו (51') רק צימק לאורחת",
    "source": "ynet - ספורט",
    "link": "https://livegame.ynet.co.il/games/533188",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/one1887522/one1887522_0_0_800_444_0_medium.jpg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/one1887525/one1887525_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -57,30 +129,16 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "פותחים שנה עם שלוש מדליות: הישגים לישראל באליפות העולם בסקי מים",
-   "summary": "ים לב זכה במדליית הכסף ומושיקו צדקה בארד בתחרות הסלאלום לבוגרים שנערכה בהולנד. אליאב שמר הוסיף ארד בתחרות עד גיל 19. מחר: אולגה טרבקינה וליזה דובג'ביץ' ינסו להמשיך את הרצף הישראלי",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/r1tw7mmtze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/Hk3OZmQFfg/Hk3OZmQFfg_0_26_961_541_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "השוטר ירד מהניידת - ותועד שובר את חלונות הרכב הריק | צפו",
+   "summary": "סרטון מצלמות האבטחה בכפר מוסמוס חשף כיצד שוטר מג\"ב שבר את חלונות רכבו של מוחמד אגבריה, שכלל לא היה באזור. \"המשטרה אמורה לשמור על רכוש, זה לא תקין\", אמר ל-ynet. ממג\"ב טרם נמסרה תגובה",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/bj11i0qqffx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/BkxxAlQYfl/BkxxAlQYfl_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "ערן זהבי: \"גזרו לנו את כבל האינטרנט כדי שלא נשמע מוזיקה בבית\"",
-   "summary": "כדורגלן העבר סיפר כי במהלך החג גילה שחיבור האינטרנט בביתו בסביון נותק לאחר שכבלים במקום נחתכו. בסטורי שפרסם עקץ: \"אין ברירה, צריכים להזמין די.ג'יי\". בהמשך הדגיש כי בשעות 14:00–16:00 כלל לא הושמעה מוזיקה בבית",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r10em7mfzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/15/By2BoCmUxl/By2BoCmUxl_0_145_2000_1126_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -91,20 +149,6 @@
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/hk11exnozl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/rJgmWgWh00fe/rJgmWgWh00fe_0_305_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "גורם ביטחוני על הירי בפלסטיני באזור ג'נין: \"בוחנים אם החייל חרג מהנהלים\"",
-   "summary": "הגורם אמר שהאירוע מתוחקר בשל החשד שירי החייל בכפר פקועה \"חרג מהוראות הפתיחה באש\". הפלסטיני נורה ללא סיבה נראית לעין - ומבדיקה ראשונית עלה כי החיכוך החל כאשר כמה פלסטינים התקהלו סביב רועה צאן במרחב",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/by115fbxfgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/ByeRyEoMFMe/ByeRyEoMFMe_55_572_985_555_0_medium.jpg",
    "stats": [
     [
      "מקור",
