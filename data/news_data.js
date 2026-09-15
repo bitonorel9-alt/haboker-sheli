@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 15 בספטמבר 2026",
  "date_he": "15/09/2026",
- "updated": "13:59",
+ "updated": "18:01",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "נשיא העליון והיועמ\"שית נגררים ברחובות בוערים: הקמפיין של סמוטריץ'",
-  "summary": "הקמפיין של הציונות הדתית, שנקרא \"משחררים את החסימה\", מתמקד במערכת המשפט ומציג את המשך המהפכה המשפטית כתנאי סף לכניסה לכל קואליציה עתידית. סרטון ה-AI פורסם כחלק מהשקת התוכנית, ובו נראים בכירי המערכת נגררים על-ידי שוטרים במצב שמדמה הפגנה וכאוס ברחובות",
-  "link": "https://www.ynet.co.il/news/elections2026/article/hksvqhitmx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/rkwk62UFGg/rkwk62UFGg_1_16_904_509_0_medium.jpg"
+  "title": "הרמטכ\"ל זמיר לנתניהו וכ\"ץ בדיון סגור באוגדת עזה: \"חמאס הובס\"",
+  "summary": "על-רקע המשך סיכולי המחבלים ברצועה, אמר ראש חטיבת המחקר באמ\"ן בדיון: \"חמאס עדיין ארגון מאיים, אנחנו מזהים ניסיון שלו להתעצם\". הרמטכ\"ל הסתייג מעט, והבהיר לראש הממשלה ולשר הביטחון: \"חמאס הוא ארגון מוכרע, חמאס הובס\"",
+  "link": "https://www.ynet.co.il/news/article/sk8ajyvkmx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/07/SJlfo00z9RWg/SJlfo00z9RWg_0_0_1608_906_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 31.3° / 24.9°",
-   "summary": "כרגע 30.3°, לחות 59%, רוח 19.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 28.1°, לחות 74%, רוח 14.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "59%",
-     59
+     "74%",
+     74
     ],
     [
      "רוח",
-     "19.0 קמ״ש"
+     "14.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Ihod Bnei Jat נגד Beitar Nahariya",
-     "0:4 · מחצית שנייה"
-    ],
-    [
-     "Beitar Petah Tikva נגד Bnei Shefi Yehod",
-     "1:0 · מחצית"
-    ],
-    [
-     "FC Shfaram נגד Hapoel Yarka",
-     "0:0 · מחצית"
-    ],
-    [
-     "Maccabi Tel Aviv U19 נגד Hapoel Rishon LeZion U19",
-     "1:0 · מחצית ראשונה"
-    ],
-    [
-     "Hapoel Hadera U19 נגד Hapoel Jerusalem U19",
+     "Hapoel Bnei Jesser-A-Zarqa נגד Ihud Bnei Kfar Kara",
      "0:0 · מחצית ראשונה"
+    ],
+    [
+     "עירוני טבריה נגד הפועל ירושלים",
+     "1:1 · מחצית שנייה"
+    ],
+    [
+     "בית\"ר ירושלים נגד מכבי פתח תקווה",
+     "2:0 · מחצית"
+    ],
+    [
+     "Ironi Kfar Yona נגד Hapoel Daliat El Karmel",
+     "0:1 · מחצית"
+    ],
+    [
+     "Ironi Bet Shemesh נגד Hapoel Hertzliya",
+     "0:2 · מחצית"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Ihod Bnei Jat נגד Beitar Nahariya",
-     "0:4 · מחצית שנייה"
+     "בית\"ר ירושלים נגד מכבי פתח תקווה",
+     "2:0 · מחצית"
     ],
     [
-     "Bul נגד Blacks Power Fc",
-     "1:1 · מחצית"
+     "Rayo Vallecano נגד Espanyol",
+     "2:0 · מחצית"
     ],
     [
-     "Beitar Petah Tikva נגד Bnei Shefi Yehod",
-     "1:0 · מחצית"
-    ],
-    [
-     "FC Shfaram נגד Hapoel Yarka",
+     "Al Masry נגד Al Ittehad",
      "0:0 · מחצית"
     ],
     [
-     "Nec Fc נגד URA SC",
-     "3:1 · מחצית"
+     "Al Ahly SC נגד Abo Qir Semad",
+     "1:0 · מחצית"
+    ],
+    [
+     "Ironi Kfar Yona נגד Hapoel Daliat El Karmel",
+     "0:1 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "שמעון מזרחי: \"עושים את מירב המאמצים להחזיר את משחקי היורוליג לישראל\"",
-   "summary": "מכבי ת\"א ערכה את מסיבת העיתונאים לפתיחת העונה. היו\"ר הודיע כי תקציב הקבוצה גדל משמעותית, המנכ\"ל אבי בן־טל חשף כי יותר מ־9,250 מנויים כבר נמכרו, ועודד קטש התייחס לחזרה האפשרית הביתה: \"הדלק והאנרגיה מגיעים מהקהל שלנו\"",
+   "title": "מחצית: בית\"ר י-ם - מכבי פ\"ת 0:2",
+   "summary": "ליגת העל, מחזור 4: הירושלמים חוגגים. לאחר פתיחה בה שתי הקבוצות הגיעו למצבי הבקעה, החבורה של אלמוג כהן השתלטה על המשחק משערים של אצילי וויסמן",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/sk0pckukfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/SkLMuspUKfg/SkLMuspUKfg_48_1027_1954_1100_270_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/533466",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/one1888106/one1888106_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אופ\"א הכריעה: אלה האצטדיונים שיארחו את גמר הצ'מפיונס בשנים הקרובות",
-   "summary": "גמר ליגת האלופות ב-2028 ייערך באליאנץ ארנה במינכן וב-2029 יחזור לקאמפ נואו לראשונה מאז 1999. גם גמרי הליגה האירופית והקונפרנס-ליג קיבלו שיבוץ",
+   "title": "אפקט ארלינג הולאנד: \"שיגעון הגזרים\" שסוחף את נורבגיה",
+   "summary": "כוכב מנצ'סטר סיטי חשף את החיבה המפתיעה שלו לירק הכתום, ומאז נרשמה עלייה בביקוש במדינתו – בעיקר בקרב ילדים. החלוץ מקפיד על תזונה נקייה, אוכל גזר כחטיף ואף נצפה מנשנש אותו בזמן שחתם לאוהדים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hk0e5h8tgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/rkL69hIKGg/rkL69hIKGg_1_313_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/ryg1newfml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/09/rJb1yrAOfx/rJb1yrAOfx_307_103_2150_1211_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מאבקי השליטה במכבי ת\"א: זהו הבורר עליו סיכמו הצדדים | פרסום ראשון",
-   "summary": "ריצ'רד דיץ, משפחת רקנאטי ושמעון מזרחי החליטו על מינוי ד\"ר ישראל (רלי) לשם לניהול ההליך, שצפוי לצאת לדרך כבר בשבוע הבא",
+   "title": "דקה 65: טבריה - הפועל י-ם 1:1",
+   "summary": "ליגת העל, מחזור 4: גאנם העניש לאחר טעות בהגנת האורחת (41').מנגד, ורסאנה השווה מקרוב בנגיעה הראשונה בכדור (47'). אלמגור ושמיר פגשו את המשקוף",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rygzto8ymg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/SkW50JnLYfe/SkW50JnLYfe_0_0_850_479_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/533465",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/one1888099/one1888099_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "המילואימניקים חזרו לסבב - ונדהמו: \"הבסיס מג'ויף, המיטות שבורות ואין מים\"",
-   "summary": "לוחמים ששבו לבא\"פ לכיש לראשונה מאז נובמבר 2025, אז רבים סבלו מקלקול קיבה, גילו שלא הרבה השתנה. הלוחם צ' תיאר מצב מקומם: \"שמים קרש מתחת למזרן כדי לישון, האוכל בחד\"פ, ברזייה אחת עובדת מתוך שלוש - ואנשים חיים על השק\"ם\". בעיית הביוב, הפסקות החשמל, והתרומות לציוד: …",
+   "title": "שופטי טראמפ בלמו את \"ניסיון החבלה\" בבחירות - והוא זועם: \"פוחדים ממטורפי השמאל!\"",
+   "summary": "נשיא ארה\"ב ניסה לשנות את כללי ההצבעה בדואר רגע לפני הבחירות לקונגרס בנובמבר, כך ששירות הדואר הנתון לשליטתו יוכל למנוע מאזרחים מסוימים לקבל מעטפות הצבעה - לכאורה כדי למנוע \"זיופים\". הדמוקרטים עתרו והזהירו מכאוס, והשופטים השמרנים בבית המשפט העליון חברו לליברלים …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sywc0i8tgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/B1m4WpLtfl/B1m4WpLtfl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hjnoujdtzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/21/Hy5d1DBAle/Hy5d1DBAle_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,43 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"תיק 7/10\" של משפחות נפגעי הטבח נחשף: \"תוצאה של מדיניות ארוכת שנים\"",
-   "summary": "המשפחות מחו על ניצול הטבח במערכת הבחירות, האם נטליה חשפה את השיחה האחרונה של בנה קשת: \"אני פה במתקפה של החיים. אני מת מפחד, כואב לי\". אמה של ליבי שנרצחה בנובה: \"הקונספציה קברה את הבת שלי באדמה, והאשמים ממשיכים בחייהם\". עינב צנגאוקר: \"מתנהל קמפיין בריחה מאחריות…",
+   "title": "\"מורה באונר\"א החזיק את אמי בעליית הגג\": העדות באו\"ם - וה\"רפורמה\" בסוכנות",
+   "summary": "בתה של דיצה הימן, שנחטפה מניר עוז בגיל 84, סיפרה במועצת זכויות האדם כי אמה הוחזקה 48 ימים בביתו של מורה באונר\"א: \"איך אפשר להפקיד בידיו את חינוך הדור הבא בעזה?\". דוח של UN Watch טוען כי סוכנות הסעד יישמה רק 13 רפורמות שנדרשה לבצע - אף שדיווחה על 41: \"בדקה לעצמ…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h1yxokukfx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/SkeiLP2UKzg/SkeiLP2UKzg_0_99_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h1icb1ptfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/rkZ68Jvtfe/rkZ68Jvtfe_0_486_961_541_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "מה הסיפור של ההודעה שקפצה לכם באייפון?",
+   "summary": "אמש (ב') אפל שיחררה את iOS 27, הגירסה החדשה שלה למערכת ההפעלה של ה-iPhone. היא מגיעה עם שלל פיצ'רים חדשים, תיקונים ושיפורים, אבל החגיגה האמיתית של אפל טמונה כאן כמובן ב-Siri AI החדשה, שמגיעה באיחור של שנתיים. אם גם אתם בדרך לעדכן את המכשיר שלכם, אתם עומדים להי…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/apple-has-a-new-ai-foundation-models-setting/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "וואטסאפ, פייסבוק ואינסטגרם: זה מה שתקבלו בתוכניות הפרימיום החדשות של מטא",
+   "summary": "נראה שלמטא נמאס לשרוף מיליארדים על פיתוח מודלי הבינה המלאכותית שלה או לתת לכם לשלוח שנות טובות או לקדם עסקים בוואטסאפ בלי לראות מזה דולרים בחזרה. היום (ג'), החברה מעלה הילוך ומציגה את Meta One – תוכנית מנויים חדשה שתאפשר לכם לקבל פיצ'רים מתקדמים, התאמות אישיות…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/meta-one-launch/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -187,30 +215,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "50 דולר בשעה: האנשים שמקבלים כסף מ-OpenAI לקרוא את הצ'אטים שלכם",
-   "summary": "רבים כבר התרגלו להתייעץ עם ChatGPT על הכל – מבעיות קוד ומסמכים פיננסיים ועד לשיחות נפש אינטימיות. אבל מה אם נגיד לכם שמאחורי הקלעים, יש אנשים אמיתיים שמקבלים תשלום כדי לקרוא את ההודעות הכי אישיות שלכם? תחקיר חדש חושף את הפרויקט הסודי (עד עכשיו) של OpenAI, שאמו…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/these-people-read-your-chatgpt-prompts/",
-   "image": null,
+   "section": "בידור",
+   "title": "אד שירן מגיב לראשונה להדחת מקלמור מהטור שלו בעקבות הנאום הפרו-פלסטיני: \"זו לא הייתה החלטה שלי\"",
+   "summary": "המוזיקאי התייחס לסערה סביב הדחת מקלמור מהטור שלו, והבהיר שההחלטה לא הייתה שלו אלא של המפיקים והאולמות, שאיימו לבטל את הגעתו אם הראפר יישאר בליינאפ אחרי שנאם נאום פרו-פלסטיני בהופעה. לדבריו, הוא ניסה להגיע לפשרה, אך ללא הצלחה, והדגיש שאף שהוא מכבד את זכותו של מ…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/sjqwx1dtml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/Hyqliq9ufe/Hyqliq9ufe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "אפל מפתיעה: ישראלים עם iCloud+ יקבלו בחינם את Apple TV ו-Apple Arcade",
-   "summary": "לרוב, אנחנו, כישראלים, לא מקבלים יותר מדי אהבה מאפל. אתם יודעים, כל מיני פיצ'רים ושירותים שלא זמינים בארץ, חוסר בתמיכה בעברית ב-Siri AI ו-Apple Intelligence וכמובן עצם העובדה שהשנה היא 2026 ועדיין אין Apple Store בישראל. אבל היום הוא יום חריג, שבו אפל דווקא מפ…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/apple-annonuces-icloud-plus-include-apple-tv-and-apple-arcade/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/sk88qvutge",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/BJZr4Pv8YGx/BJZr4Pv8YGx_329_194_624_351_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "התקיפות המיניות שעבר, הקעקוע הענק בעברית והדו-קוטביות: החיים הסוערים של כוכב \"ריצ'ר\"",
-   "summary": "הוא היה דוגמן מצליח שנחשף לצד האפל של התעשייה, עבר משבר נפשי שהוביל לניסיון התאבדות, הפך לכוכב אקשן בינלאומי בלהיט \"ריצ'ר\", וכעת מככב בסרט האקשן \"ראנר\" לצד אוון ווילסון. אלא שבחודשים האחרונים נקלע אלן ריצ'סון לעימות אלים עם שכנו, וכעת הודיע במפתיע על פרידה מאש…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hk112esbyzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/14/BJ72fBSFze/BJ72fBSFze_0_156_2000_1126_0_medium.jpg",
    "stats": [
     [
      "מקור",
