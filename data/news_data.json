@@ -1,20 +1,20 @@
 {
  "date": "יום רביעי, 16 בספטמבר 2026",
  "date_he": "16/09/2026",
- "updated": "13:53",
+ "updated": "17:51",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "רכב הקצין החשוד בשוחד, וזה שצבר רק 30 אלף: עימות צי המכוניות בין השר למפכ\"ל",
-  "summary": "עוד פרק בקרב על התקציב המוקפא: מטבלה שהגיעה לידי ynet עולה כי המשטרה מבקשת להחליף כלי רכב לשורת קצינים בכירים. השר לביטחון לאומי מתנגד בטענה שמדובר ב\"בזבוזים\". המכוניות שמיועדות להחלפה - הרשימה המלאה",
-  "link": "https://www.ynet.co.il/news/article/hj11lak00yfl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/15/HkGceNBHogx/HkGceNBHogx_401_133_660_372_0_medium.jpg"
+  "title": "משימות נשארו, לוחמים שוחררו: צה\"ל קיצץ במילואימניקים יום לפני העלייה לקו",
+  "summary": "כ-600 לוחמי חטיבת כרמלי התייצבו לאימון לקראת תעסוקה צבאית של כמעט 4 חודשים בגזרה הסורית. יממה בלבד לפני העלייה לקו התקבלה הנחיה על צמצום מכסת כוח האדם. מפקד באחד הגדודים: \"הם כבר בתוך האירוע, ועכשיו צריך להגיד להם ללכת הביתה\". צה\"ל טרם מסר תגובה",
+  "link": "https://www.ynet.co.il/news/article/s1hlieokzl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/18/SkZ49gmbmZx/SkZ49gmbmZx_0_0_1601_901_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.4° / 24.4°",
-   "summary": "כרגע 29.2°, לחות 65%, רוח 20.1 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.6°, לחות 72%, רוח 18.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "65%",
-     65
+     "72%",
+     72
     ],
     [
      "רוח",
-     "20.1 קמ״ש"
+     "18.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
+     "Maccabi Asa Tel Aviv (W) נגד Maccabi Kishronot Hadera (W)",
+     "1:1 · מחצית שנייה"
+    ],
+    [
+     "Hapoel Ra'anana (W) נגד Hapoel Katamon Jerusalem (W)",
+     "1:2 · מחצית שנייה"
+    ],
+    [
+     "SC Kiryat Gat (W) נגד Bnot Netanya (W)",
+     "3:0 · מחצית שנייה"
+    ],
+    [
+     "Maccabi Holon (W) נגד Hapoel Tel Aviv (W)",
+     "1:0 · מחצית שנייה"
+    ],
+    [
      "הפועל פתח תקווה נגד הפועל באר שבע",
      "0:2 · הסתיים"
-    ],
-    [
-     "Maccabi Hertzliya נגד MS Kfar Kassem",
-     "1:0 · הסתיים"
-    ],
-    [
-     "Hapoel Akko נגד SC Ashdod",
-     "0:4 · הסתיים"
-    ],
-    [
-     "Hapoel Ramat Gan נגד מכבי נתניה",
-     "2:0 · הסתיים"
-    ],
-    [
-     "הפועל חיפה נגד בני סכנין",
-     "3:1 · הסתיים"
     ]
    ]
   },
@@ -81,22 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Updf נגד Maroons",
-     "טרם התחיל"
+     "Omonia נגד Celta Vigo",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Heart of Lions נגד Swedru All Blacks",
-     "טרם התחיל"
+     "FC Ararat-Armenia נגד Sparta Praha",
+     "0:2 · מחצית שנייה"
+    ],
+    [
+     "Deportivo A Coruña נגד Sevilla",
+     "0:0 · מחצית"
+    ],
+    [
+     "Atletico Madrid נגד Osasuna",
+     "1:0 · מחצית"
+    ],
+    [
+     "Ghazl El-Mehalla נגד Zamalek SC",
+     "0:0 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "צפו בשידור הישיר: מסיבת העיתונאים של מכבי והפועל ת\"א לקראת הסופרקאפ",
-   "summary": "הדרבי הראשון של העונה כבר כאן: האלופה וסגניתה ייפגשו מחר בהיכל מנורה מבטחים על תואר ראשון ב-2026/27. רגע לפני המפגש הטעון, המאמנים והקפטנים של שתי הקבוצות מדברים במסיבת העיתונאים המסורתית",
+   "title": "לא כל ניצחון חייב להיות הצהרה: כך מכבי חיפה תתמודד עם הלחץ | תוכן גולשים",
+   "summary": "לפני המשחק דורשים ממנה לנצח, ואחריו מסבירים שזה לא היה משכנע מספיק. במועדון שבו כל פעולה נבחנת בזכוכית מגדלת, הדרך להתקדם אינה לברוח מהציפיות – אלא להתמקד במשימה הבאה. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bk3urgpkgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/09/r1xgxkgUKkx/r1xgxkgUKkx_0_176_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/skikn0ifzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/05/HyJ7EHFOGl/HyJ7EHFOGl_0_0_3000_1660_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -106,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "ועכשיו, אירופה: הזיכרון מאנסטיס, הסגל החסר והאתגר הגדול של באר-שבע",
-   "summary": "האלופה תפתח הערב (22:00) את שלב הליגה של הליגה האירופית מול דינמו זאגרב, שמולה הובסה 5:0 בטראומה של 2018. קוז'וך יחסר שחקנים מרכזיים בהגנה ובקישור, ניב יהושע הצעיר יקבל את המפתחות",
+   "title": "ליגת העל לנשים מציגה: שיטה חדשה ותוכנית להגדלת החשיפה",
+   "summary": "מנהלת ליגת אתנה ווינר בכדורסל נשים פתחה רשמית את עונת 2026/27 באירוע חגיגי בקריה האקדמית אונו. העונה תכלול שיטת משחקים חדשה, מהלכים להגדלת החשיפה לליגה ופעילות קהילתית רחבה - כולל \"קבוצה בונה קהילה\" ו\"הכיסא הוורוד\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/s1d0amvffl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/HyBqKKvKMg/HyBqKKvKMg_0_133_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/skzgdrdfze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/ryFCdBOYGx/ryFCdBOYGx_0_0_1536_865_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -120,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "חגג בדרבי מול יציע הפועל ת\"א - וקבוצתו נקנסה בשל \"פגיעה בתדמית הליגה\"",
-   "summary": "יו\"ר מינהלת הליגות ארז כלפון השית את הקנס על מכבי ת\"א בעקבות חגיגת השער של אושר דוידה בדרבי: \"התרסה והקנטה מכוונת ובוטה\". במקביל, המינהלת הבהירה לכל הקבוצות כי התנהגות דומה תוביל לענישה קשה",
+   "title": "מאבקי השליטה במכבי ת\"א: השופט יכריע האם לוין יהיה חלק מהבוררות",
+   "summary": "לאחר חילופי ההאשמות בין משפחת רקנאטי ושמעון מזרחי לבין ריצ'רד דיץ, שופט בית המשפט המחוזי, אריאל צימרמן, יקבע האם ג'ייסון לוין יקח חלק בהליך - ורק לאחר שיקבל את ההחלטה תחל הבוררות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkj5pk00fge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/H1uawJdYfl/H1uawJdYfl_0_138_2479_1396_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hjyfwrdffe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/Bk5SkvO00Gl/Bk5SkvO00Gl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -134,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "\"קריסה מוחלטת\": ראשי רשויות התייצבו למחאה במשרד של רגב - אך היא לא הייתה",
-   "summary": "בשומרון ובאזור ירושלים הלינו על שיבושים קשים בפעילות חברת האוטובוסים \"תנופה\", ופנו לקבלת תשובות ממשרד התחבורה: \"לא נהיה בני ערובה של כישלון ממשלתי\". בינתיים, תושבים נאלצים להסתמך על שירות מצומצם ולקוי - בלי חלופות: \"קווים לת\"א פשוט לא הגיעו, לקחתי 4 אוטובוסים\"…",
+   "title": "איים על המתדלק בקרש עץ, גנב כסף - ונמלט | תיעוד",
+   "summary": "צעיר מרהט מואשם בשוד של כ-700 שקלים מתחנת דלק בעיר בחודש יולי. בסרטון ממצלמת אבטחה במקום נראה רעול פנים מאיים על המתדלק, וכשזה סירב לשתף איתו פעולה נכנס בכוח לעמדה והתעמת איתו",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1kloeufmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/08/22/BJxBpo4oA/BJxBpo4oA_0_63_1280_720_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sk9vexuyzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/HJFK4SuYze/HJFK4SuYze_2_0_825_464_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -148,15 +160,29 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "\"אין על הקציצה של ביבי\": הפוסט של המסעדה בטהרן - ותגובת השלטון | צפו",
-   "summary": "הרשויות באיראן סגרו את העמוד של מסעדת \"המטבח של ביבי\" בטענה שפרסם תוכן פלילי. הסיבה היא משחק מילים המשלב את כינויו של נתניהו עם המונח \"קוטלט\", המשמש את מתנגדי המשטר ללעג על בכירי משמרות המהפכה שחוסלו",
+   "title": "מי שבאמת רוצה שינוי, צריך להצביע למשותפת",
+   "summary": "אי אפשר להתלונן על זה שהדמוקרטיה בסכנה ובה בעת להצביע למפלגות שמתעלמות לחלוטין מהביטויים הכי מזוקקים ואלימים של היעדר הדמוקרטיה: הכיבוש, ההרג בעזה ובגדה וקידום העליונות היהודית",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sy5xkcpkfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/HJvTuCvtfx/HJvTuCvtfx_0_8_345_195_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/byfiardfzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/HJzAImkCOfg/HJzAImkCOfg_0_0_2560_1707_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "האם ChatGPT עומד להציג פרסומות גם בישראל?",
+   "summary": "לכולנו היה ברור שזה עניין של זמן, ובין אם נרצה את זה או לא, הפרסומות נמצאות בדרך לכלי ה-AI השונים. כעת, אחרי ניסוי שככל הנראה היה די מוצלח, OpenAI מתחילה להתריע בפני המשתמשים שלה שהרגע הזה מתקרב – ונראה שגם המשתמשים הישראליים בדרך לקבל פרסומות ב-ChatGPT. לא מש…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/openai-privacy-policy-update-ads/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -189,16 +215,30 @@
    ]
   },
   {
-   "section": "AI",
-   "title": "מה הסיפור של ההודעה שקפצה לכם באייפון?",
-   "summary": "אמש (ב') אפל שיחררה את iOS 27, הגירסה החדשה שלה למערכת ההפעלה של ה-iPhone. היא מגיעה עם שלל פיצ'רים חדשים, תיקונים ושיפורים, אבל החגיגה האמיתית של אפל טמונה כאן כמובן ב-Siri AI החדשה, שמגיעה באיחור של שנתיים. אם גם אתם בדרך לעדכן את המכשיר שלכם, אתם עומדים להי…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/apple-has-a-new-ai-foundation-models-setting/",
-   "image": null,
+   "section": "בידור",
+   "title": "הזוכה הראשון בתולדות The Voice נמצא מת באגם בגיל 43",
+   "summary": "בן סונדרס, שזכה בעונה הראשונה של The Voice of Holland ב-2011 והיה למעשה הזוכה הראשון בתולדות הפורמט שעלה ביותר מ-150 גרסאות ברחבי העולם, נמצא מת באגם באזור ארנהם שבהולנד. גופתו נמצאה לאחר שדווח כנעדר והמשטרה פתחה בחיפושים נרחבים באזור. המשטרה מסרה כי אין חשד ל…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/b1lqhnotzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/rJRt1rOKGe/rJRt1rOKGe_0_20_1149_647_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "רשמית: בעלים חדשים לערוץ 13 - אחרי שקבוצת אסף רפפורט אושרה",
+   "summary": "אחרי חודשים של עיכובים, מועצת הרשות השנייה אישרה את העברת השליטה ברשת 13 לקבוצת הרוכשים של אסף רפפורט וינון קוסטיקה. במהלך תקופת הביניים כבר היו רפפורט ואנשיו מעורבים בהתנהלות הערוץ ובהחלטות תוכן. כעת מצהירים הבעלים החדשים על השקעה בתוכן, בטכנולוגיה ובחברת החד…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/bygwf400kzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/11/Sy11feCOLzl/Sy11feCOLzl_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -209,34 +249,6 @@
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/hj00j9rdyfx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/rybci0wYzg/rybci0wYzg_354_277_1183_666_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "\"למען השם, הוא היה אגדה\": הזעם על השמטת צ'אק נוריס מטקס האמי",
-   "summary": "ג'אדסון מילס, שכיכב לצד נוריס בסדרה הפופולרית \"ווקר, טקסס ריינג'ר\", תקף את ההחלטה שלא לכלול את השחקן המנוח בקטע הההנצחה המסורתי בטקס האמי: \"הוא היה אגדה, זה פגע ברגשות שלי\". נוריס, שמת בתחילת השנה בגיל 86, לא היה השם הבולט היחיד שנעדר מקטע ההנצחה",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/byf5ycdkzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/31/BJYyxnrH0K/BJYyxnrH0K_488_25_1082_609_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "משלמה ארצי ועד אושר כהן: האמנים שיופיעו בטקס של משפחות 7 באוקטובר",
-   "summary": "גלי עטרי, מירי מסיקה, רן דנקר, נועם בתן, נונו ועוד יופיעו בטקס הזיכרון הלאומי של משפחות 7 באוקטובר ועמותת \"קומו\". המארגנים מבקשים את תמיכת הציבור בקמפיין גיוס ההמונים שיאפשר להכניס לאירוע רבבות משתתפים",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/b1y9ohwkzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/SyiMNpwKfl/SyiMNpwKfl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
