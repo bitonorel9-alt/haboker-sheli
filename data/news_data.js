@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 17 בספטמבר 2026",
  "date_he": "17/09/2026",
- "updated": "17:54",
+ "updated": "20:45",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "עם קריאות \"ביבי מלך ישראל\" ושרה: הליכוד משיק את הרשימה בת\"א | ישיר",
-  "summary": "מאות תומכים הגיעו להרמת כוסית בהשתתפות נתניהו, שהוצג באירוע ככוכב היחיד ושריו לא הוזכרו. סלוגן \"הניצחון המוחלט\" נשכח, \"נתניהו לא נכנע\" החליף אותו על הכובעים. לפני תחילת האירוע הוצב בחוץ רכב עם מסכים ועליהם סיסמאות מתחלפות מהקמפיין של \"ישר!\": \"רק ביבי יתעלם מהא…",
-  "link": "https://www.ynet.co.il/news/elections2026/article/sjcuuoftfl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/SkfpViKtMe/SkfpViKtMe_0_562_3000_1689_0_medium.jpg"
+  "title": "מבצע הפיפי של ממדאני: פורס שירותים חינם בניו יורק, אבל אחרי 10 דקות – הדלת נפתחת",
+  "summary": "ראש העיר השיק פרויקט פיילוט שבו יוצבו בתפוח הגדול 17 תאי שירותים ציבוריים עם אסלה נשטפת, מיזוג אוויר, טפט מרגיע - וחיישן שידווח: \"צריך מנקה\". הקץ'? אחרי 5 דקות המוזיקה נפסקת, אחרי 8 נשמעת אזהרה, בדקה העשירית האורות מהבהבים, ובתום 30 שניות הדלת נפתחת - גם אם לא…",
+  "link": "https://www.ynet.co.il/news/article/rjamgtftgl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/rkJwsaKKGx/rkJwsaKKGx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.6° / 24.2°",
-   "summary": "כרגע 27.7°, לחות 73%, רוח 9.2 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 28.2°, לחות 74%, רוח 8.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "73%",
-     73
+     "74%",
+     74
     ],
     [
      "רוח",
-     "9.2 קמ״ש"
+     "8.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Afula נגד Hapoel Kfar Shalem",
-     "3:3 · מחצית שנייה"
+     "Maccabi Hertzliya נגד MS Kfar Kassem",
+     "1:0 · הסתיים"
     ],
     [
-     "Hapoel Raanana נגד Maccabi Kiryat Gat",
-     "0:1 · מחצית שנייה"
+     "Hapoel Akko נגד SC Ashdod",
+     "0:4 · הסתיים"
     ],
     [
-     "Beitar Kfar Saba FC נגד Amishav Petah Tikva",
-     "1:3 · מחצית שנייה"
+     "Hapoel Ramat Gan נגד מכבי נתניה",
+     "2:0 · הסתיים"
     ],
     [
-     "F.C Kfar Saba 1928 נגד הפועל חדרה",
-     "0:0 · מחצית שנייה"
+     "הפועל חיפה נגד בני סכנין",
+     "3:1 · הסתיים"
     ],
     [
-     "Ironi Bet Dagan נגד Bnei Jaljulia",
-     "3:1 · מחצית"
+     "Kiryat Shmona נגד מכבי חיפה",
+     "0:4 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Levski Sofia נגד Red Bull Salzburg",
-     "0:1 · מחצית שנייה"
+     "Crystal Palace נגד Lech Poznan",
+     "3:0 · מחצית שנייה"
     ],
     [
-     "OFI Crete נגד Hoffenheim",
-     "1:0 · מחצית שנייה"
+     "Lillestrom נגד Torreense",
+     "1:2 · מחצית שנייה"
     ],
     [
-     "Express Fc נגד Kitara Fc",
-     "1:1 · מחצית"
+     "Viktoria Plzen נגד Union St. Gilloise",
+     "0:3 · מחצית שנייה"
     ],
     [
-     "Real Betis נגד Getafe",
-     "1:0 · מחצית"
+     "Celtic נגד Ferencvaros",
+     "1:3 · מחצית שנייה"
     ],
     [
-     "ENPPI נגד Pyramids",
-     "0:0 · מחצית"
+     "Juventus נגד N.E.C. Nijmegen",
+     "5:0 · מחצית שנייה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "אירלנד בשלה: \"אף אחד לא מרגיש בנוח לשחק מול ישראל\"",
-   "summary": "רגע לפני פתיחת קמפיין ליגת האומות, גם היימיר הלגרימסון פרסם את הסגל שלו למשחקים והתייחס למפגשים הצפויים מול רן בן שמעון ושחקניו: \"נישאר מאוחדים\"",
+   "title": "בקצב הסמבה: מנצ׳סטר סיטי הביסה 0:5 את נוריץ׳",
+   "summary": "התכולים טיילו נגד היריבה מליגת המשנה בדרך לשמינית גמר גביע הליגה. הכשרון הצעיר כיכב עם צמד, אלן שרקי ומקאיידו הוסיפו. ברייטון מחכה בשלב הבא",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hyb00aqtymg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/12/ryxmi5iD11x/ryxmi5iD11x_0_170_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one533727",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/one1888540/one1888540_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מסעו של אלכסנדר זברב מ\"הלוזר הנצחי\" לראש הפודיום | תוכן גולשים",
-   "summary": "כדי להגיע למעמד הזה, הגרמני נאלץ לעבור דרך חתחתים רצופת ספקות לגבי חוסנו המנטלי – מסלול מכשולים שמעטים היו שורדים. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "ים מדר זכה בתואר ראשון עם מכבי ת\"א: \"מאושר על ההחלטה שקיבלתי\"",
+   "summary": "הגארד כיכב מול האקסית הפועל ת\"א ב-83:101 החד-צדדי בסופרקאפ: \"שמח על הניצחון, בטח בשביל האוהדים. אעבוד הכי קשה כדי להחזיר על המגרש\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/sym800xdfze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/rJvhQd5ufx/rJvhQd5ufx_0_312_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1q7ftytze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/HJAej3KFzl/HJAej3KFzl_240_253_799_450_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דקה 92: מ.ס אשדוד - הפועל ראשל\"צ 2:2",
-   "summary": "ליגה לאומית, מחזור 6: הנטי ופרץ כבשו לזכות הכתומים מעיר היין, ממאטה איזן פעמיים. במקביל: בני יהודה - הרצליה 1:1, מכבי יפו - בני ריינה 2:0",
+   "title": "תואר ראשון העונה: מכבי ת\"א הביסה את הפועל - וזכתה בסופרקאפ",
+   "summary": "דרבי במעמד צד אחד: מדר כיכב מול האקסית (כולל סל כמעט ממגרש שלם), גם קולסון וסורקין הצטיינו - והצהובים שייטו ל-83:101 אדיר בהיכל. קריאות 'תתפטר' לאיטודיס מהיציעים האדומים, כשקבוצתו פשוט התפרקה במחצית השנייה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one533674",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/one1888469/one1888469_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bkw1ebttml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/B1CzrhtKGl/B1CzrhtKGl_0_421_1066_601_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שב\"כ הקפיץ כונן לילה כדי להסיר מאתר ממשלתי דף הרשמה לאירוע ליכוד",
-   "summary": "הדף כלל את לוגו הליכוד ואסף פרטים אישיים של המשתתפים, בהם מספרי תעודות זהות, לצורכי אבטחת האירוע. בעקבות עתירת עמותת \"היחידה הכלכלית\" ליו\"ר ועדת הבחירות סולברג, הודה משרד רה\"מ כי הדף לא הוסר בזמן והודיע כי כונן הוקפץ לטיפול בעניין",
+   "title": "ההתעלמות ממחיר המלחמה, ומה אמר המודיעין: האם ישראל עמדה בפני השמדה?",
+   "summary": "בנאום בחירות שנשא נתניהו הקפיד להתעלם מהמחיר האנושי והכלכלי הכבד של המלחמה, שנמשכת כבר שלוש שנים. 7/10 לא הוזכר, גם הנרצחים וההרוגים. רה\"מ משווק נרטיב שהוא \"הציל את ישראל\", וטען שאיראן \"עמדה להכין פצצות אטום\". גורם שנחשף למודיעין: \"קשקוש היסטרי. לא הייתה פצצה\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/hya8lctkfx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/BkKyIqFYMe/BkKyIqFYMe_726_0_2270_1278_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/h1rl00nytze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/B1TZKpYFGg/B1TZKpYFGg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "צה\"ל: קמ\"ן אוגדת עזה ב-7/10 הודח סופית",
-   "summary": "סא\"ל א', שעתר נגד ההחלטה להדיחו ונבלם על ידי בית המשפט, עודכן על סיום תפקידו בצבא. בצה\"ל אמרו כי הוא רשאי להגיש ערעור לרמטכ\"ל, שהיה זה שקבע כי הוא בין המפקדים שנושאים באחריות פיקודית לטבח",
+   "title": "הירי בלוקה בנפשו תועד: מח\"ש חוקרת - והשוטר נשלח למעצר בית",
+   "summary": "חוקרי המחלקה לחקירת שוטרים בודקים את האירוע שבו נורה למוות תושב העיר עלאא מחאמיד, שלפי משפחתו היה לוקה בנפשו. מחאמיד נורה בתום מרדף לאחר שתקף לוחם. הוא נחקר באזהרה ושוחרר למעצר בית למשך חמישה ימים",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rk3sctktgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/03/02/9094866/9094866_0_0_1921_1081_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b1ftahktzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/HJgH00h2YYMx/HJgH00h2YYMx_0_0_847_474_0_medium.jpg",
    "stats": [
     [
      "מקור",
