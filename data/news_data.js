@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 17 בספטמבר 2026",
  "date_he": "17/09/2026",
- "updated": "02:29",
+ "updated": "08:10",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אבו מאזן שוב ינאם בווידאו, טראמפ מתכנן פסגה באו\"ם על איראן: \"הם רוצים עסקה\"",
-  "summary": "הנשיא חזר על טענתו שבטהרן \"מאוד רוצים\" להגיע להסכם לסיום המלחמה, וטען כי שמע מטהרן \"ישירות\". באירוע בחירות הוסיף: \"זה יהיה סוף טוב - קצת אחרי הבחירות, או לפני\". ארה\"ב שוב אסרה על יו\"ר הרש\"פ להגיע לניו יורק, ב\"אקסיוס\" דווח: טראמפ יפגוש מנהיגים מהמפרץ לדיון על \"…",
-  "link": "https://www.ynet.co.il/news/article/sy0bnnutgl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/14/rJJ8SMrtze/rJJ8SMrtze_1_46_3000_1689_0_medium.jpg"
+  "title": "מטען שמחובר לרחפן: ההיערכות של מתכנן הפיגוע בחוות השרתים של אמדוקס",
+  "summary": "מוסטפא עיסא, בן 19 מכפר קאסם, נאשם כי קרא מדריכים להכנת אמצעי לחימה וחומרי נפץ. הוא העריך כי פגיעה באמדוקס תגרום לנזק מדיני וכלכלי חמור למדינת ישראל. הפרקליטות ביקשה להורות על המשך מעצרו עד תום ההליכים",
+  "link": "https://www.ynet.co.il/news/article/h1g11egktmx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/SJpCRUUFze/SJpCRUUFze_0_0_1280_721_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 30.9° / 24.5°",
-   "summary": "כרגע 24.5°, לחות 92%, רוח 6.2 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 30.7° / 24.2°",
+   "summary": "כרגע 29.4°, לחות 69%, רוח 11.5 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "30.9°"
+     "30.7°"
     ],
     [
      "מינימום",
-     "24.5°"
+     "24.2°"
     ],
     [
      "לחות",
-     "92%",
-     92
+     "69%",
+     69
     ],
     [
      "רוח",
-     "6.2 קמ״ש"
+     "11.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,38 +81,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "AC Milan נגד Benfica",
-     "0:2 · הסתיים"
+     "Tobol Kostanay נגד Yelimay Semey",
+     "טרם התחיל"
     ],
     [
-     "Sunderland נגד AZ Alkmaar",
-     "1:0 · הסתיים"
+     "Astana נגד Kairat Almaty",
+     "טרם התחיל"
     ],
     [
-     "Sturm Graz נגד Rennes",
-     "0:0 · הסתיים"
+     "Updf נגד Maroons",
+     "טרם התחיל"
     ],
     [
-     "Bayer Leverkusen נגד NK Celje",
-     "2:0 · הסתיים"
+     "Zed FC נגד El Qanah FC",
+     "טרם התחיל"
     ],
     [
-     "Olympiacos נגד Jagiellonia",
-     "2:1 · הסתיים"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "שכחו אותו בבית: איך זה ברק יצחקי עדיין ללא קבוצה? | טור",
-   "summary": "הנחת העבודה הייתה שבשלב זה של העונה ברק יצחקי כבר ימצא קבוצה חדשה, אבל בינתיים הטלפון שלו לא מצלצל",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rj9vptoffl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/12/SkWSJqkZJMe/SkWSJqkZJMe_0_153_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "FK Atyrau נגד Ordabasy Shymkent",
+     "טרם התחיל"
     ]
    ]
   },
@@ -132,11 +118,25 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הדבר האמיתי: שתי התל-אביביות מגיעות לדרבי שהוא הכל חוץ ממשחק הכנה",
-   "summary": "תקציבי שיא של עשרות מיליוני דולרים, מאבקי שליטה בהנהלה ומעברים טעונים של ים מדר ותמיר בלאט. מכבי והפועל ת\"א נפגשות הערב לדרבי הראשון של העונה במסגרת הסופרקאפ החברתי, רגע לפני שהדבר האמיתי ביורוליג מתחיל",
+   "title": "רשמית: מודי מאור מונה לעוזר מאמן בדאלאס מאבריקס",
+   "summary": "עוד היסטוריה ישראלית ב-NBA: המאמן, שרק לאחרונה סגר במכללת מישיגן ועמד בעבר על הקווים בהפועל ירושלים והפועל חולון, מצטרף לקבוצה מהליגה הטובה בעולם תחת המאמן דאסטי מיי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rywdftdygx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/16/BJcCwfzkffl/BJcCwfzkffl_0_119_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/jzinsx1ol",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/10/SJiN7MCXzg/SJiN7MCXzg_0_31_1024_577_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "ספרד המומה מפתיחת העונה של ברצלונה: \"רק הולכת ומשתפרת\" | צפו בתקציר",
+   "summary": "אחרי ה-2:7 המטורף על סנטאנדר, שהציב את האלופה עם שבעה ניצחונות בשבעה משחקים בכל המסגרות, בתקשורת הקטלאנית מהללים: \"משחקת כדורגל אחר מכל השאר\". פליק מנסה לצנן את ההתלהבות: \"הדבר החשוב ביותר הוא להישאר מרוכזים במשחק הבא\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sjlb1lfkmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/SkG67eFYMl/SkG67eFYMl_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "סער המריא בחשאי לניו יורק, הסיבה: שדרוג יחסים עם מרוקו | זו המשמעות",
-   "summary": "ישראל ומרוקו כבר הכריזו על חידוש היחסים הדיפלומטיים ב-2020, אך שר החוץ טס במיוחד לארה\"ב כדי לסכם על שדרוג נוסף. דרג הנציגויות יעלה לשגרירויות, הטיסות הישירות יתוגברו. על הפרק: גם הסכמים כלכליים חדשים",
+   "title": "שני הרוגים בתאונה קשה בצפון הנגב",
+   "summary": "שני גברים כבני 30 נהרגו בכביש 310 בתאונה בין שני כלי רכב פרטיים ליד היישוב גבעות בר. חובש מד\"א: \"תאונה מזעזעת, אחד הרכבים היה על גדר ההפרדה\". הכביש נחסם לתנועה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hjkzgh00tzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/S1i00QD00Kzx/S1i00QD00Kzx_1_396_852_480_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hyviizykmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/BJb0aMYKGg/BJb0aMYKGg_0_119_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"דברים שלקח לחיזבאללה 20 שנה לפתח, החות'ים פיתחו בחמש שנים\"",
-   "summary": "הלחימה בין סעודיה לחות'ים נמשכת, ובצל הידלדלות מלאי המיירטים של ארה\"ב במלחמה, ריאד פונה לבעלות ברית אחרות בבקשה לסיוע בהגנה מפני המורדים. התנועה במצר הורמוז עדיין דלילה, הצינור העוקף נפגע והושבת, וכעת הסעודים מנסים דרך חדשה להעברת נפט גולמי. מחירי הנפט בסין הג…",
+   "title": "המתקפה החריפה של איזנקוט על בנט וליברמן: \"פוילשטיקים, פוגעים בסיכוי לנצח\"",
+   "summary": "אחרי פגישת ראשי ביחד וישראל ביתנו וניסיון ליברמן לכוון לראשות הממשלה, תקף אותם יו\"ר ישר!: \"מי שבונה להיות רה\"מ עם 8 מנדטים לא מבין מה קרה במדינה. אני מתנגד לפטנט של ראש ממשלה חלופי, רוטציה לא על הפרק\". על וינטר: \"בתחילת המלחמה עבר והפחיד מפקדי חטיבות ממאות ואל…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bygqqvotml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/24/B1W14l1zgl/B1W14l1zgl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/skkuvzykzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/B1a3Kbaufl/B1a3Kbaufl_0_80_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,11 +216,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "\"את חלק ממני\": הדואט המפתיע של שרית חדד ובתה בפארק הירקון",
-   "summary": "בתה הבכורה של חדד, נויה בת התשע, עלתה לבמה בהופעת 30 שנות הקריירה של אמה בפארק הירקון  - וריגשה את הקהל כששתיהן ביצעו יחד את \"חלק ממני\", השיר שחדד הוציאה לאחר לידתה",
+   "title": "אחרי ההופעה בפארק זה ברור: שרית חדד היא הביונסה שלנו",
+   "summary": "עם הפקה שלא הייתה מביישת דיווה בינלאומית, אורחים חגיגיים שהיוו סגירת מעגל ובתה נויה שגנבה את ההצגה, שרית חדד חגגה 30 שנות קריירה בפארק הירקון. בין בלדות קורעות לב לבדיחות על הפריזורה לאורך השנים ולהיטי ענק, היא הזכירה איך הפכה לקונצנזוס ישראלי - ולמה עכשיו היא…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bkcowuofge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/Hkj1KuOKfx/Hkj1KuOKfx_173_1_1459_821_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/ryw11ewkfze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/SkSV5qWKFGe/SkSV5qWKFGe_407_101_421_237_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -230,11 +230,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "אד שירן והמופע שהפך לסיוט: איך מקלמור סיבך את הכוכב הכי סטרילי בפופ",
-   "summary": "במשך יותר מעשור אד שירן בנה לעצמו תדמית נדירה של סופרסטאר שמצליח להישאר כמעט לחלוטין מחוץ לסערות ציבוריות ופוליטיות. אלא שמופע החימום של מקלמור שינה את המשוואה - בעיקר אחרי שהודח מחימומו של שירן בהמשך מסע ההופעות. שירן ניסה להבהיר שאין לו קשר להחלטה, אבל מצא א…",
+   "title": "אילון מאסק משחק באלוהים. הסרט עליו מנסה להבין לאן הוא לוקח את כולנו",
+   "summary": "ב\"מאסק\", הבמאי זוכה-האוסקר אלכס גיבני מקדיש כמעט ארבע שעות לאדם שהפך מהבטחה טכנולוגית למעצמת כוח חובקת-עולם. באמצעות בני משפחה, בנות זוג, שותפים לשעבר ויריבים, הסרט מנסה לשרטט את החזון שמאחורי האימפריה - ואת המחיר שהעולם משלם בדרך. זהו דיוקן של מיליארדר שלא רק…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hkyf3i00kmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/BJK2kvdFfg/BJK2kvdFfg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/rk8gd00ukze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/S1xT11gKOFMl/S1xT11gKOFMl_304_44_689_388_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -244,11 +244,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "הזוכה הראשון בתולדות The Voice נמצא מת באגם בגיל 43",
-   "summary": "בן סונדרס, שזכה בעונה הראשונה של The Voice of Holland ב-2011 והיה למעשה הזוכה הראשון בתולדות הפורמט שעלה ביותר מ-150 גרסאות ברחבי העולם, נמצא מת באגם באזור ארנהם שבהולנד. גופתו נמצאה לאחר שדווח כנעדר והמשטרה פתחה בחיפושים נרחבים באזור. המשטרה מסרה כי אין חשד ל…",
+   "title": "דויד גרוסמן, הבמאי שעבד עם הנאצים - והלהיט של השנה | ספרים מומלצים ליום כיפור",
+   "summary": "מרומן משפחתי מטלטל של גרוסמן, דרך ספר על במאי שנשאב אל תוך מנגנון התרבות הנאצי, סאטירה עכשווית על טרנד ה-Trad Wives ועד רומן חשוף על אימהות, אובדן והגבולות של הגוף. לקראת יום כיפור, אספנו שבעה ספרים שכדאי להכיר - מסיפורים סוחפים לקריאה רצופה ועד יצירות שנשארות…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/b1lqhnotzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/rJRt1rOKGe/rJRt1rOKGe_0_20_1149_647_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/h1wbdjufge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/HkUR1eOFfl/HkUR1eOFfl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
