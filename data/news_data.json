@@ -1,20 +1,20 @@
 {
  "date": "יום חמישי, 17 בספטמבר 2026",
  "date_he": "17/09/2026",
- "updated": "13:57",
+ "updated": "17:54",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "טרופר בריאיון ראשון: \"וינטר בחר בצד של ההשתמטות ונתניהו\"",
-  "summary": "לראשונה מאז שפירק את השותפות עם הנדל וחבר לאיזנקוט, חילי טרופר מדבר - מנסה להרגיע את החוששים מעריקות ותוקף את וינטר: \"בחר לחבור לממשלה שאחראית על המצב הקשה\"  | הריאיון המלא - מחר ב\"ידיעות אחרונות\"",
-  "link": "https://www.ynet.co.il/news/elections2026/article/skpusiftmx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/02/S1XF006X7Gx/S1XF006X7Gx_0_213_2000_1126_0_medium.jpg"
+  "title": "עם קריאות \"ביבי מלך ישראל\" ושרה: הליכוד משיק את הרשימה בת\"א | ישיר",
+  "summary": "מאות תומכים הגיעו להרמת כוסית בהשתתפות נתניהו, שהוצג באירוע ככוכב היחיד ושריו לא הוזכרו. סלוגן \"הניצחון המוחלט\" נשכח, \"נתניהו לא נכנע\" החליף אותו על הכובעים. לפני תחילת האירוע הוצב בחוץ רכב עם מסכים ועליהם סיסמאות מתחלפות מהקמפיין של \"ישר!\": \"רק ביבי יתעלם מהא…",
+  "link": "https://www.ynet.co.il/news/elections2026/article/sjcuuoftfl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/SkfpViKtMe/SkfpViKtMe_0_562_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 30.6° / 24.2°",
-   "summary": "כרגע 29.8°, לחות 67%, רוח 12.6 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 27.7°, לחות 73%, רוח 9.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "67%",
-     67
+     "73%",
+     73
     ],
     [
      "רוח",
-     "12.6 קמ״ש"
+     "9.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
-     "Maccabi Hertzliya נגד MS Kfar Kassem",
-     "1:0 · הסתיים"
+     "Hapoel Afula נגד Hapoel Kfar Shalem",
+     "3:3 · מחצית שנייה"
     ],
     [
-     "Hapoel Akko נגד SC Ashdod",
-     "0:4 · הסתיים"
+     "Hapoel Raanana נגד Maccabi Kiryat Gat",
+     "0:1 · מחצית שנייה"
     ],
     [
-     "Hapoel Ramat Gan נגד מכבי נתניה",
-     "2:0 · הסתיים"
+     "Beitar Kfar Saba FC נגד Amishav Petah Tikva",
+     "1:3 · מחצית שנייה"
     ],
     [
-     "הפועל חיפה נגד בני סכנין",
-     "3:1 · הסתיים"
+     "F.C Kfar Saba 1928 נגד הפועל חדרה",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Kiryat Shmona נגד מכבי חיפה",
-     "0:4 · הסתיים"
+     "Ironi Bet Dagan נגד Bnei Jaljulia",
+     "3:1 · מחצית"
     ]
    ]
   },
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Tobol Kostanay נגד Yelimay Semey",
-     "טרם התחיל"
+     "Levski Sofia נגד Red Bull Salzburg",
+     "0:1 · מחצית שנייה"
     ],
     [
-     "Astana נגד Kairat Almaty",
-     "טרם התחיל"
+     "OFI Crete נגד Hoffenheim",
+     "1:0 · מחצית שנייה"
     ],
     [
-     "Updf נגד Maroons",
-     "טרם התחיל"
+     "Express Fc נגד Kitara Fc",
+     "1:1 · מחצית"
     ],
     [
-     "Zed FC נגד El Qanah FC",
-     "טרם התחיל"
+     "Real Betis נגד Getafe",
+     "1:0 · מחצית"
     ],
     [
-     "FK Atyrau נגד Ordabasy Shymkent",
-     "טרם התחיל"
+     "ENPPI נגד Pyramids",
+     "0:0 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "בירם כיאל: \"אני אומר לערבים בנבחרת: 'אל תפחדו לדבר בשפה שלכם'\"",
-   "summary": "בכתבה נרחבת של ה-BBC על דור הכדורגלנים הישראלי שצמח במונדיאליטו ב-2023, שחקן הנבחרת לשעבר התייחס למעמדם של הערבים בכדורגל הישראלי, לקשיים מאז 7 באוקטובר ולחשיבות של שמירה על זהותם: \"בכדורגל, על המגרש, אתה אף פעם לא מסתכל על צבע, תרבות או דת. אתה רק רוצה את האנ…",
+   "title": "אירלנד בשלה: \"אף אחד לא מרגיש בנוח לשחק מול ישראל\"",
+   "summary": "רגע לפני פתיחת קמפיין ליגת האומות, גם היימיר הלגרימסון פרסם את הסגל שלו למשחקים והתייחס למפגשים הצפויים מול רן בן שמעון ושחקניו: \"נישאר מאוחדים\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkj5ruykmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/11/13/8881476/8881476_216_0_609_343_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hyb00aqtymg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/12/ryxmi5iD11x/ryxmi5iD11x_0_170_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "דשא היברידי ומערכות תאורה חכמות: השדרוגים החדשים בטדי",
-   "summary": "האצטדיון הירושלמי עבר שורה של חידושים, כולל התקנת מערכת חיישני קרקע מתקדמת הזהה לזו שפעלה במונדיאל. ראש העיר, משה ליאון: \"השדרוגים יבטיחו חוויית ספורט איכותית\"",
+   "title": "מסעו של אלכסנדר זברב מ\"הלוזר הנצחי\" לראש הפודיום | תוכן גולשים",
+   "summary": "כדי להגיע למעמד הזה, הגרמני נאלץ לעבור דרך חתחתים רצופת ספקות לגבי חוסנו המנטלי – מסלול מכשולים שמעטים היו שורדים. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rynlzikymg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/S1LaGUFFGl/S1LaGUFFGl_0_58_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/sym800xdfze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/rJvhQd5ufx/rJvhQd5ufx_0_312_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "כמה יעלה לטוס לראות את לאו מסי במשחק הפרידה שלו מנבחרת ארגנטינה?",
-   "summary": "הפרישה הצפויה של \"הפרעוש\" מהמדים הלאומיים מכניסה את ארגנטינה לטירוף סביב משחקיו האחרונים במדי הנבחרת, שייערכו בחודש הבא. למי שרוצה לטוס לראות את האגדה נפרד - אלו המחירים. נכון לעכשיו",
+   "title": "דקה 92: מ.ס אשדוד - הפועל ראשל\"צ 2:2",
+   "summary": "ליגה לאומית, מחזור 6: הנטי ופרץ כבשו לזכות הכתומים מעיר היין, ממאטה איזן פעמיים. במקביל: בני יהודה - הרצליה 1:1, מכבי יפו - בני ריינה 2:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hylphstygx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/22/rk7303sLfzl/rk7303sLfzl_0_107_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one533674",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/one1888469/one1888469_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "היכונו ל\"מיני יורה\": התחזית המלאה לסוף השבוע - וליום כיפור",
-   "summary": "השירות המטאורולוגי הודיע על אירוע גשם קצר נוסף שצפוי מחר. \"אלו כמויות גבוהות יחסית לחודש ספטמבר\", ציינו. \"צפי לאירועי גשם נוספים גם בשבועות הקרובים, במיוחד באוקטובר\"",
+   "title": "שב\"כ הקפיץ כונן לילה כדי להסיר מאתר ממשלתי דף הרשמה לאירוע ליכוד",
+   "summary": "הדף כלל את לוגו הליכוד ואסף פרטים אישיים של המשתתפים, בהם מספרי תעודות זהות, לצורכי אבטחת האירוע. בעקבות עתירת עמותת \"היחידה הכלכלית\" ליו\"ר ועדת הבחירות סולברג, הודה משרד רה\"מ כי הדף לא הוסר בזמן והודיע כי כונן הוקפץ לטיפול בעניין",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bjb8alttgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/31/BJr2xtfufx/BJr2xtfufx_0_710_2250_1267_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/hya8lctkfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/BkKyIqFYMe/BkKyIqFYMe_726_0_2270_1278_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "לפיד ליועמ\"שית: להקפיא את מינויי השגרירים שמתכנן סער",
-   "summary": "ב-ynet נחשף כי שר החוץ מתכוון למנות 12 שגרירים בעיצומה של תקופת הבחירות. בעקבות זאת, פנה ראש האופוזיציה לגלי בהרב מיארה בדרישה להקפאת המהלך: \"נועד לכבול את ידיו של שר החוץ הבא ואת השירות המקצועי של המשרד\"",
+   "title": "צה\"ל: קמ\"ן אוגדת עזה ב-7/10 הודח סופית",
+   "summary": "סא\"ל א', שעתר נגד ההחלטה להדיחו ונבלם על ידי בית המשפט, עודכן על סיום תפקידו בצבא. בצה\"ל אמרו כי הוא רשאי להגיש ערעור לרמטכ\"ל, שהיה זה שקבע כי הוא בין המפקדים שנושאים באחריות פיקודית לטבח",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/syb6evktgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/09/19/HydIW1q60/HydIW1q60_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rk3sctktgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/03/02/9094866/9094866_0_0_1921_1081_0_medium.jpg",
    "stats": [
     [
      "מקור",
