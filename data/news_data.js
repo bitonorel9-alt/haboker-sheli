@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 18 בספטמבר 2026",
  "date_he": "18/09/2026",
- "updated": "16:49",
+ "updated": "19:19",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אימו של החשוד בדריסת עמיחי: \"ליבי עם האם השכולה - אך הבן שלי קורבן להסתה\"",
-  "summary": "בית המשפט האריך את מעצרו של הנהג מכפר מנדא שחשוד בדריסתו למוות של הנער עמיחי עטיה בתום אירוע סליחות בחדרה. אביו של החשוד ל-ynet: \"הבן שלי חש סכנה בגלל צעירים שזרקו מילים\". עמיחי הובא למנוחות באיתמר: \"אי אפשר להפסיק לבכות\"",
-  "link": "https://www.ynet.co.il/news/article/bjpb099kzl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/rJvxXDqYMe/rJvxXDqYMe_1_385_957_539_0_medium.jpg"
+  "title": "\"נתוני שיא\" במחוז הכבוש, והצבעה \"לא הגיונית\" ברשת: פארסת הבחירות ברוסיה",
+  "summary": "ברוסיה יצאו לדרך שלושה ימי \"בחירות\" לפרלמנט. כל המתנגדים למפלגה שמזוהה עם הנשיא פוטין נפסלו מבעוד מועד, והאירועים הביזאריים לא נפסקים: זינוק של 100 אחוזים במספר המצביעים במערכת האלקטרונית ביחס לבחירות הקודמות במוסקבה, מורים בבית ספר שנדרשים לדווח על הצבעת ההור…",
+  "link": "https://www.ynet.co.il/news/article/r1pfnxjfze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/H1rINYtKfx/H1rINYtKfx_1_220_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.6° / 24.7°",
-   "summary": "כרגע 25.9°, לחות 80%, רוח 12.7 קמ״ש. סיכוי משקעים 60%.",
+   "title": "עתלית · 29.6° / 24.6°",
+   "summary": "כרגע 24.9°, לחות 85%, רוח 8.7 קמ״ש. סיכוי משקעים 60%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,16 +24,16 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "24.7°"
+     "24.6°"
     ],
     [
      "לחות",
-     "80%",
-     80
+     "85%",
+     85
     ],
     [
      "רוח",
-     "12.7 קמ״ש"
+     "8.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -44,11 +44,71 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "עם הגב לקיר: 2:0 לסלובניה על ישראל בהתמודדות",
-   "summary": "פתיחה קשה לכחולים-לבנים בגביע דייויס: אחרי ההפסד של ולס, קמחי נכנע לפלאנינשק בתוצאות 7:6 ו-6:1, והשאיר את הנבחרת בבור עמוק לקראת המשחקים מחר",
+   "title": "תוצאות בזמן אמת · ישראל",
+   "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football/israel",
+   "image": null,
+   "stats": [
+    [
+     "Hapoel Bnei Jesser-A-Zarqa נגד Ihud Bnei Kfar Kara",
+     "1:0 · הסתיים"
+    ],
+    [
+     "Hapoel Ihod Bnei Jat נגד Beitar Nahariya",
+     "1:5 · הסתיים"
+    ],
+    [
+     "Beitar Petah Tikva נגד Bnei Shefi Yehod",
+     "1:1 · After Penalties"
+    ],
+    [
+     "FC Shfaram נגד Hapoel Yarka",
+     "1:1 · After Penalties"
+    ],
+    [
+     "Maccabi Tel Aviv U19 נגד Hapoel Rishon LeZion U19",
+     "7:0 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "Zeljeznicar Sarajevo נגד Celik Zenica",
+     "0:1 · מחצית שנייה"
+    ],
+    [
+     "MC Alger נגד MB Rouisset",
+     "1:0 · מחצית שנייה"
+    ],
+    [
+     "Hamrun Spartans נגד Marsaxlokk",
+     "1:1 · מחצית ראשונה"
+    ],
+    [
+     "Bayern Munich נגד Union Berlin",
+     "3:0 · מחצית"
+    ],
+    [
+     "Monza נגד Sassuolo",
+     "0:0 · מחצית ראשונה"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "דקה 13: אספניול - אלצ'ה 0:0",
+   "summary": "לה ליגה, מחזור 7: רביבו בהרכב. קבוצתו של הישראלי נותרה בעשרה שחקנים לאחר שרדונדו הורחק (6'), הקטלונים ינסו לנצל זאת בשביל לנצח. חי בערוץ ONE",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one533776",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/one1888621/one1888621_0_0_800_444_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/533780",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/one1888651/one1888651_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -58,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בבכורה ההיסטורית בליגת העל בכדוריד: ערד הפסידה להפועל ראשל\"צ",
-   "summary": "העולה החדשה אירחה את סגנית האלופה לראשונה בתולדותיה בליגה הבכירה, אבל הפסידה 38:29. הדאבליסטית א.ס רמת השרון פתחה את העונה בניצחון חלק 21:43 על קריית אונו",
+   "title": "אירלנד ביקשה לחסום אפשרות להיות מוגרלת בעתיד מול ישראל - ונדחתה",
+   "summary": "אופ\"א סירבה לבקשת ההתאחדות האירית, שניסתה למנוע מצב של מפגשים עתידיים עם הכחולים-לבנים לאור הסערה סביב שני המשחקים בין הנבחרות בליגת האומות. הנימוק של אופ\"א: \"מעולם לא היה עימות ישיר בין המדינות\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/sy6ohc5kgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/r1eQ0dC9YMl/r1eQ0dC9YMl_0_216_1600_901_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/s1nakgjkfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/04/BkPavaORgMg/BkPavaORgMg_0_199_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -72,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אליניב ברדה הודה: \"עברנו ארבעה ימים מטלטלים וקשים אחרי הדרבי\"",
-   "summary": "מאמן הפועל ת\"א מרוצה מה-0:3 על הפועל פ\"ת: \"אני שמח לראות שהכוח הקבוצתי הפנימי בא לידי ביטוי, הקבוצה הזאת עושה דרך\". עומר פרץ: \"יצאנו מפה בשן ועין\"",
+   "title": "אנצו מארסקה יוצא מהצל של פפ גווארדיולה | תוכן גולשים",
+   "summary": "אחרי שהצליח בלסטר ובצ'לסי, המאמן האיטלקי קיבל את אחת המשימות הקשות בכדורגל: להחליף את האיש ששינה את מנצ'סטר סיטי. הפתיחה המושלמת והניצחון בדרבי הראו שהוא אינו מתכוון להיות פפ 2.0. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hytoprctzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/B1eEiPR9KGl/B1eEiPR9KGl_0_173_2364_1331_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/skn8rclygx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/one1882759/one1882759_0_0_800_443_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -86,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"צבאות הבוטים\" של איראן וסין - והחברה הישראלית שבמוקד: \"קפיצת מדרגה דרמטית\"",
-   "summary": "בארה\"ב מזהירים מעליית מדרגה מסוכנת בלוחמת התודעה ברשת, החשש - הטיית דעת הקהל. ב\"ניו יורק טיימס\" נחשף שאיראן וסין מפעילות קמפיינים אוטונומיים לחלוטין של בינה מלאכותית - ושזוהו גם קמפיינים מישראל. חברה מת\"א עשתה שימוש בסוכני AI להשתלטות על אלף חשבונות - שהתערבו …",
+   "title": "והנה נשארנו מאחור",
+   "summary": "ח\"כים מהליכוד שיראו את הכנסת הבאה מהבית מספרים מה השתבש בפריימריז: מי חושבת שזה מפני שלא תקפה את מערכת המשפט, מי מסביר שהיה ממלכתי מדי, ומי טוען שלשכת נתניהו \"הלכה לי על הראש\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1c0acqfze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/SJClI1oYMl/SJClI1oYMl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14902240",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/yk14902564/yk14902564_0_63_466_263_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -100,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"ספינת אם\" כזו עוד לא הייתה: הפיתוח הסיני שמשאיר את ארה\"ב הרחק מאחור",
-   "summary": "מתמונות לוויין עולה כי סין בונה ספינת אם תת-ימית ראשונה בעולם המסוגלת לשגר צוללות בלתי מאוישות. אותן צוללות כה גדולות עד שנדרש היה להמציא עבורן מונח חדש. הן כבר נוסו בים סין הדרומי, ואורכן גדול פי כמה מאלו של ארה\"ב",
+   "title": "מסמרים חסרי ראש",
+   "summary": "בג\"ץ, בשם עצמאותה של הפקידות המקצועית, מקשה להזיז בעלי תפקידים בשירות הציבורי מכיסאותיהם. העליון בארצות–הברית כבר הבין את העיקרון הממשלי הפשוט שאמור למנוע את זה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkw11cpqtzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/BkePERqYGe/BkePERqYGe_0_189_633_357_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14902398",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/yk14902578/yk14902578_0_0_899_688_0_medium.jpg",
    "stats": [
     [
      "מקור",
