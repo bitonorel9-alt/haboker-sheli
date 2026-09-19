@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 19 בספטמבר 2026",
  "date_he": "19/09/2026",
- "updated": "00:47",
+ "updated": "05:18",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מיצג באו\"ם: בד באורך 100 מטר עם שמות של 20 אלף ילדים פלסטינים",
-  "summary": "לפני כינוס העצרת הכללית: קואליציה של ארגונים בין דתיים השיקה מיצג זיכרון בצורת תכריך בד באורך מאה מטרים, שעליו נכתבו בכתב יד שמותיהם של יותר מ-20 אלף ילדים פלסטינים",
-  "link": "https://www.ynet.co.il/news/article/b1800owjkmx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/HJTa5WoYfl/HJTa5WoYfl_18_0_691_389_0_medium.jpg"
+  "title": "סוף הטפטוף - לפני ההתחממות שלקראת כיפור | התחזית המלאה ושיאני הגשם",
+  "summary": "הבוקר עוד ייתכן גשם מקומי בצפון ובחוף, ביום ראשון תחול התחממות קלה ולמחרת הטמפרטורות יעלו עוד. 17 מ\"מ גשם ירדו תוך יממה בברעם שבגליל העליון, בת\"א ובירושלים ירד פחות ממילימטר",
+  "link": "https://www.ynet.co.il/news/article/hknkrmjtzx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/S1gsev9tzx/S1gsev9tzx_0_0_2560_1440_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.8° / 23.6°",
-   "summary": "כרגע 23.9°, לחות 90%, רוח 8.8 קמ״ש. סיכוי משקעים 43%.",
+   "title": "עתלית · 29.8° / 23.5°",
+   "summary": "כרגע 24.5°, לחות 77%, רוח 13.1 קמ״ש. סיכוי משקעים 43%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,16 +24,16 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "23.6°"
+     "23.5°"
     ],
     [
      "לחות",
-     "90%",
-     90
+     "77%",
+     77
     ],
     [
      "רוח",
-     "8.8 קמ״ש"
+     "13.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,34 +81,26 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hamrun Spartans נגד Marsaxlokk",
-     "4:1 · הסתיים"
+     "Arambagh נגד Bashundhara Kings",
+     "טרם התחיל"
     ],
     [
-     "Bayern Munich נגד Union Berlin",
-     "7:0 · הסתיים"
+     "Kharkiv נגד Bukovyna",
+     "טרם התחיל"
     ],
     [
-     "Monza נגד Sassuolo",
-     "2:1 · הסתיים"
-    ],
-    [
-     "Monaco נגד Lens",
-     "2:1 · הסתיים"
-    ],
-    [
-     "Brentford נגד Chelsea",
-     "3:0 · הסתיים"
+     "Rasi Salai United נגד Lamphun Warrior",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "0:7 מטורף לבאיירן מינכן בגרמניה; פתיחת העונה המקרטעת של צ'לסי נמשכת",
-   "summary": "אלופת גרמניה פירקה את אוניון ברלין האומללה בפתיחת המחזור הרביעי בליגה הגרמנית, ותפסה זמנית את המקום הראשון. שלושער ובישול לאוליסה. אנגליה: הבלוז הובסו 2:0 בידי ברנטפורד וסופרים נקודה מתוך תשע האחרונות",
+   "title": "\"יכולת אדירה, איזו גישה, משחק נהדר\" | צפו במופע של רוי רביבו",
+   "summary": "המגן הישראלי סיפק הופעה גדולה ב-1:3 של אלצ'ה על אספניול, עם שני בישולים בתוך שלוש דקות בלבד, למרות שקבוצתו נותרה בעשרה שחקנים כבר מהדקה השישית. בספרד התלהבו: \"הגיבור השקט במשחק\". וגם: ההשוואה לאבא חיים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sk1gigjygg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/H111X005MiKzg/H111X005MiKzg_0_71_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/h1d6ldskmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/19/ryqrBvjFMg/ryqrBvjFMg_798_139_1744_982_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +110,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "ערב חלומי לרביבו: 2 בישולים ב-1:3 של אלצ'ה",
-   "summary": "נפלא: דווקא לאחר שקבוצתו נותרה בחיסרון מספרי, הישראלי ששיחק במשך 77 דקות בישל פעמיים לניניו מול אספניול וסחף לניצחון ראשון העונה. ואלרה השלים",
+   "title": "\"איפה ההגנה?\": הרצף העגום של צ'לסי בפרמייר-ליג נמשך",
+   "summary": "הבלוז רשמו 3:0 משפיל אצל ברנטפורד, ספגו כבר 12 שערי ליגה העונה ולא שמרו על רשת נקייה כבר 21 משחקים רצופים בפרמייר-ליג. צ'אבי אלונסו הודה: \"כשמאבדים את המבנה, מאבדים שליטה\"",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/533780",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/one1888714/one1888714_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hywumdstfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/19/BJni8doFzx/BJni8doFzx_94_25_830_467_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,15 +124,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אירלנד ביקשה לחסום אפשרות להיות מוגרלת בעתיד מול ישראל - ונדחתה",
-   "summary": "אופ\"א סירבה לבקשת ההתאחדות האירית, שניסתה למנוע מצב של מפגשים עתידיים עם הכחולים-לבנים לאור הסערה סביב שני המשחקים בין הנבחרות בליגת האומות. הנימוק של אופ\"א: \"מעולם לא היה עימות ישיר בין המדינות\"",
+   "title": "פושע מלחמה וגיבור לאומי: ביציעים בסרביה מאוחדים מאחורי ה\"קצב מסרייבו\"",
+   "summary": "רטקו מלאדיץ' הורשע בפשעי מלחמה ובפשעים נגד האנושות, אך עבור רבים בסרביה הוא עדיין מקור לגאווה. במגרשי הכדורגל מורשתו עושה את הבלתי אפשרי: מאחדת בין השונאים הגדולים ביותר במדינה - אוהדי הכוכב האדום ופרטיזן, אז מה אם התובע הראשי בהאג פסק שמדובר ב\"אחת הדמויות הכי…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/s1nakgjkfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/04/BkPavaORgMg/BkPavaORgMg_0_199_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hymk49ykzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/HkgN29KtGe/HkgN29KtGe_0_97_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "פוליטיקה",
+   "title": "מיצג באו\"ם: בד באורך 100 מטר עם שמות 20 אלף ילדים פלסטינים שנהרגו בעזה",
+   "summary": "לפני כינוס העצרת הכללית: קואליציה של ארגונים בין דתיים השיקה מיצג זיכרון בצורת תכריך בד באורך מאה מטרים, שעליו נכתבו בכתב יד שמותיהם של יותר מ-20 אלף ילדים פלסטינים שנהרגו במלחמה",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/b1800owjkmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/18/HJTa5WoYfl/HJTa5WoYfl_18_0_691_389_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - חדשות"
     ]
    ]
   },
@@ -151,20 +157,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/s1br3qstfx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/16/SJ4800edrZg/SJ4800edrZg_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "אחרי ימים של חיפושים חריגים: נעצר חשוד ברצח הנעדרת ממזרח ירושלים - ואותרה גופה",
-   "summary": "הגופה אותרה במסגרת החיפושים אחרי הנעדרת ממזרח העיר פאטמה א-רג'בי, שנראתה לאחרונה ביום ראשון - ולאחר שנעצר גבר בחשד לרצח ולמעורבות בהיעדרותה. כוחות גדולים השתתפו בחיפושים אחריה, בני המשפחה טענו שהם החלו באיחור. ההערכה - הרקע פלילי",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hkj3o11skzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/16/ByQNGk00KGl/ByQNGk00KGl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,6 +208,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "שתיקה פרסית - חלק שני",
+   "summary": "בלעדי למנויי ידיעות+: בימי עליית ח'ומייני, זוג צעיר יהודי וילדיהם נמלטים מאיראן לישראל במסע מסוכן דרך הרי כורדיסטן, כשהם מותירים מאחור הורים ומולדת. רומן היסטורי דרמטי ומשפחתי שמוגש בהמשכים, חלק נוסף מדי יום",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/ikqfidj04",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/HkldObRLtfx/HkldObRLtfx_0_0_1919_1079_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "מותח, מצחיק ומגעיל: \"האויב שבפנים\" קם לתחייה, והוא מופרע",
    "summary": "אחרי \"ברברי\" ו\"שעת הנעלמים\", זאק קרגר לוקח את זיכיון \"האויב שבפנים\" ושם אותו בידי האדם הכי פחות מתאים לשרוד אפוקליפסה: שליח רפואי שמסכים להעביר חבילה תמורת כסף, בזמן שהוא מתחמק משיחה לא נוחה עם חברתו ההרה. הסרט מתרגם באופן נאמן את חוויית המשחק - ובין רגעים של …",
    "source": "ynet - תרבות ובידור",
@@ -235,20 +241,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/rkioa00iffl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/01/BJYJUSEoWbx/BJYJUSEoWbx_212_247_1578_888_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "שתיקה פרסית - חלק ראשון",
-   "summary": "בלעדי למנויי ידיעות+: בימי עליית ח'ומייני, זוג צעיר יהודי וילדיהם נמלטים מאיראן לישראל במסע מסוכן דרך הרי כורדיסטן, כשהם מותירים מאחור הורים ומולדת. רומן היסטורי דרמטי ומשפחתי שמוגש בהמשכים, חלק נוסף מדי יום",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/ihlx8ftty",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/15/HkldObRLtfx/HkldObRLtfx_0_0_1919_1079_0_medium.jpg",
    "stats": [
     [
      "מקור",
