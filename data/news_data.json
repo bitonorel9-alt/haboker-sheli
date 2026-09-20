@@ -1,7 +1,7 @@
 {
  "date": "יום ראשון, 20 בספטמבר 2026",
  "date_he": "20/09/2026",
- "updated": "17:08",
+ "updated": "19:59",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -14,7 +14,7 @@
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.3° / 23.7°",
-   "summary": "כרגע 26.9°, לחות 67%, רוח 15.9 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 26.6°, לחות 71%, רוח 12.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "67%",
-     67
+     "71%",
+     71
     ],
     [
      "רוח",
-     "15.9 קמ״ש"
+     "12.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,19 +81,23 @@
    "image": null,
    "stats": [
     [
-     "Villarreal נגד Levante",
-     "0:0 · מחצית ראשונה"
+     "AC Milan נגד Lecce",
+     "1:0 · מחצית שנייה"
     ],
     [
-     "Deportivo A Coruña נגד Real Betis",
-     "0:0 · מחצית ראשונה"
+     "Olympique de Marseille נגד PSG",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "SC Paderborn 07 נגד Hoffenheim",
+     "Valencia נגד Real Sociedad",
+     "0:1 · מחצית"
+    ],
+    [
+     "Mount Pleasant נגד Racing United",
      "טרם התחיל"
     ],
     [
-     "FK Sarajevo נגד Sloga Doboj",
+     "Treasure Beach Fc נגד Tivoli Gardens",
      "טרם התחיל"
     ]
    ]
