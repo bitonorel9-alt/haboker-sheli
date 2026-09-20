@@ -1,20 +1,20 @@
 {
  "date": "יום ראשון, 20 בספטמבר 2026",
  "date_he": "20/09/2026",
- "updated": "13:19",
+ "updated": "17:08",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "רוכב אופנוע נהרג בתאונה ליד ירושלים",
-  "summary": "רוכב האופנוע נפצע קשה בכביש 50 סמוך לאזור התעשייה עטרות, ומותו נקבע בבית החולים. המשטרה חוקרת את נסיבות התאונה",
-  "link": "https://www.ynet.co.il/news/article/ryddbiatfx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/12/rk60UVMeY/rk60UVMeY_0_222_3000_1689_0_medium.jpg"
+  "title": "הראשון שיוצא להורג? המחבל מהמעיין ושאלת יישום חוק עונש מוות",
+  "summary": "פעיל חמאס קדרי סמארה נלכד במרפאה ברמאללה, לאחר שרצח ביריות את נתנאל שקרון. בן גביר דרש \"הוצאה להורג עכשיו\", אבל למרות שחוק עונש מוות למחבלים אושר סופית - הדרך עוד ארוכה. האם בג\"ץ יתערב, מה תהיה עמדת היועמ\"שית - ואיך השופטים הצבאיים יוכלו בכל זאת לחמוק מלגזור ע…",
+  "link": "https://www.ynet.co.il/news/article/hkmixl6kme",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/20/SJXHOratzl/SJXHOratzl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.3° / 23.7°",
-   "summary": "כרגע 28.5°, לחות 57%, רוח 20.1 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 26.9°, לחות 67%, רוח 15.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "57%",
-     57
+     "67%",
+     67
     ],
     [
      "רוח",
-     "20.1 קמ״ש"
+     "15.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,24 +81,20 @@
    "image": null,
    "stats": [
     [
-     "Ried נגד Wolfsberger AC",
-     "3:0 · מחצית"
+     "Villarreal נגד Levante",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "TSV Hartberg נגד LASK Linz",
-     "0:2 · מחצית"
+     "Deportivo A Coruña נגד Real Betis",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Karpaty Lviv נגד Veres Rivne",
-     "1:0 · מחצית"
+     "SC Paderborn 07 נגד Hoffenheim",
+     "טרם התחיל"
     ],
     [
-     "Shamakhi FK נגד Araz PFK",
-     "2:1 · מחצית ראשונה"
-    ],
-    [
-     "Bangkok United נגד BG Pathum United",
-     "1:0 · מחצית ראשונה"
+     "FK Sarajevo נגד Sloga Doboj",
+     "טרם התחיל"
     ]
    ]
   },
@@ -146,11 +142,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "נתנאל נרצח בפיגוע ירי במעיין בבנימין, המחבל נלכד בבי\"ח אחרי כשלוש שעות",
-   "summary": "פיגוע טרור לפני כניסת יום הכיפורים: אב לשישה שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון, אך שם נאלצו הרופאים לקבוע את מותו. בנו שהיה ברכב לא נפגע, חייל ירה לעבר המחבל שנמלט ברגל ונתפס ע\"י יחידת דובדבן. במקביל חוסל מחבל שניסה לב…",
+   "title": "רוכב אופנוע נהרג בתאונה ליד ירושלים",
+   "summary": "רוכב האופנוע נפצע קשה בכביש 50 סמוך לאזור התעשייה עטרות, ומותו נקבע בבית החולים. המשטרה חוקרת את נסיבות התאונה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hybligtffx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/20/SJXHOratzl/SJXHOratzl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ryddbiatfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/12/rk60UVMeY/rk60UVMeY_0_222_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +156,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "טרגדיה בחופשה: גיל נהרג בטיול המשפחתי בסלובניה",
-   "summary": "גיל הלל, בן 44 מקיבוץ יזרעאל, נהרג בנפילה בטיול עם המשפחה בבלקן. \"אסון כבד פקד את הקיבוץ, גיל היה אב נפלא לשלושת ילדיו\", ספדו לו ביזרעאל",
+   "title": "נתנאל נרצח בפיגוע ירי במעיין בבנימין, המחבל נלכד בבי\"ח אחרי כשלוש שעות",
+   "summary": "פיגוע טרור לפני כניסת יום הכיפורים: אב לשישה שאותר מחוסר הכרה ברכב באזור מעיין עין ריא ליד נווה צוף פונה לביה\"ח בילינסון, אך שם נאלצו הרופאים לקבוע את מותו. בנו שהיה ברכב לא נפגע, חייל ירה לעבר המחבל שנמלט ברגל ונתפס ע\"י יחידת דובדבן. במקביל חוסל מחבל שניסה לב…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/ry26ki6kfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/20/BkkuZ8pYMe/BkkuZ8pYMe_80_157_453_255_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hybligtffx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/20/SJXHOratzl/SJXHOratzl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
