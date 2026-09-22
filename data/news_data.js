@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 22 בספטמבר 2026",
  "date_he": "22/09/2026",
- "updated": "15:16",
+ "updated": "19:23",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אבו שחאדה: חלק מאנשי ה\"אופוזיציה\" משתפים פעולה עם השתקת הקול הערבי",
-  "summary": "אחרי שאיזנקוט וגנץ יישרו קו עם בן גביר בניסיון לפסול את התמודדותו של יו\"ר בל\"ד בבחירות לכנסת, הוא בחר לתקוף את המתנגדים לו בגוש השינוי: \"הניסיון להיות חיקוי דהוי של ימין לא עזר לכם קודם ולא יעזור לכם עכשיו\"",
-  "link": "https://www.ynet.co.il/news/elections2026/article/byqo9bgqge",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/08/SycM00ppuMl/SycM00ppuMl_135_68_965_543_0_medium.jpg"
+  "title": "ירי בתנין - ועכשיו אונס: כוכב הרשת קלוויקולר שחגג לצלילי \"הייל היטלר\" מסתבך",
+  "summary": "חודשיים אחרי הביקור הסוער בישראל, שהסתיים בטענות על \"כפיות טובה\" בעקבות הדרישה שיתנצל על התיעוד שלו חוגג לצלילי השיר \"הייל היטלר\" של קניה ווסט, משפיען הרשת בריידן פיטרס - המוכר למיליוני עוקביו כ\"קלוויקולר\" - הואשם באונס נערה בת 16. זו טענה כי הוא קיים עמה יחסי…",
+  "link": "https://www.ynet.co.il/news/article/bj00xbhgczl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/10/Bkl211NzCXMx/Bkl211NzCXMx_122_37_690_389_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.6° / 24.6°",
-   "summary": "כרגע 27.2°, לחות 65%, רוח 12.9 קמ״ש. סיכוי משקעים 15%.",
+   "summary": "כרגע 26.5°, לחות 70%, רוח 3.1 קמ״ש. סיכוי משקעים 15%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "65%",
-     65
+     "70%",
+     70
     ],
     [
      "רוח",
-     "12.9 קמ״ש"
+     "3.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,18 +81,18 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Us Biskra נגד JS Saoura",
-     "טרם התחיל"
+     "MC Alger נגד MC Oran",
+     "נדחה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "ישלים עשור על הקווים: מיקל ארטטה יחתום על חוזה חדש בארסנל",
-   "summary": "לפי ה-BBC, המאמן שהחזיר את האליפות לתותחנים צפוי להישאר לפחות עד עונת 2029/30 וליהנות מהעלאה משמעותית בשכרו",
+   "title": "ראש ממשלת אירלנד נגד ההתאחדות: \"חזרו בכם מהדברים על מאמן הנבחרת\"",
+   "summary": "מיהאל מרטין גיבה את היימיר הלגרימסון, שאמר כי נבחרתו תשחק \"נגד רצח עם\" במפגש עם ישראל, ותקף את תגובת ההתאחדות הישראלית: \"הדברים אינם מקובלים. ישראל לא יכולה להמשיך להכחיש את מה שהעולם יודע\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkccuge5gx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/19/H1uwvfNdZg/H1uwvfNdZg_0_0_3000_2002_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkjxz8gqml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/S1ETomiMKGx/S1ETomiMKGx_0_413_1522_856_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בית\"ר ירושלים בהודעה חריגה: \"היחסים בין ירדן שועה לאלמוג כהן מכבדים\"",
-   "summary": "המועדון פרסם הודעה בנוגע ליחסים בין השניים והדגיש כי הם משוחחים באופן שוטף. הקפטן: \"גם אם יש משחקים שבהם אני לא משחק, כשאהיה על הדשא אתן את כל כולי\"",
+   "title": "אוברדוביץ': \"אנחנו בוחנים את השוק, לורנזו בראון? שחקן מצוין\"",
+   "summary": "מאמן הפועל ירושלים התייחס לחיפוש אחר מחליף לג'ארד הארפר באירוע פתיחת העונה, ועל לורנזו בראון אמר: \"הוא שחקן מצוין\". זוסמן צפוי לשחק ביום שישי מול בני הרצליה: \"הפציעה מאחורינו\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bk8olexcml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/05/30/SkWUZ5TLGlg/SkWUZ5TLGlg_0_240_2303_1296_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bkqs5nxcfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/07/one1877551/one1877551_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מחשש לפרובוקציות: נבחרת ישראל לא תתייצב לגאלה לקראת אירלנד",
-   "summary": "לאחר ההתבטאויות בימים האחרונים ומחשש ממחאות נוספות, הודיעו בהתאחדות הישראלית למקבילה האירית כי לא יופיעו למפגש המסורתי לפני המשחק הקרוב, בדברצן",
+   "title": "קיליאן אמבאפה חשף: \"הייתי קרוב מאוד לחתום בליברפול\"",
+   "summary": "הכוכב הצרפתי סיפר כי ניהל מגעים עם המועדון האנגלי לפני שעזב את מונאקו ב-2017, ואף נפגש עם יורגן קלופ: \"אמא שלי ביקרה באנפילד והתאהבה\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1hsrje9ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/25/HynNzObs11x/HynNzObs11x_0_33_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/s1008iel5me",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/27/HJ3LQm6DGl/HJ3LQm6DGl_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "טראמפ באו\"ם: יש לי החלטה גדולה אם להשמיד את איראן. מאמין שנגיע להסכם אחרי בחירות האמצע | ישיר",
-   "summary": "בנאומו בעצרת הכללית הצדיק נשיא ארה\"ב את ההחלטה לפתוח במלחמה נגד איראן, הזכיר ש\"חגגה\" את טבח 7/10. הוא איים \"להשמיד\" אותה, אך העריך שבסוף תושג עסקה - בצל מאמץ לקדם מפגש מו\"מ בשולי הכינוס בניו יורק: \"הם מחכים לראות איך אצליח בבחירות, אבל אני לא מתמודד\". הוא הודה…",
+   "title": "ליברמן ואיזנקוט סיכמו: \"מה שחשוב זה הגוש\"",
+   "summary": "מרגיעים את הרוחות, מפסיקים את המתקפות ההדדיות: ראשי ישר! וישראל ביתנו הסכימו כי המטרה היא להגדיל את \"גוש השינוי\" ולא להתמקד בקמפיין המפלגה הגדולה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hyfolex9ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/rJR4fMxqzx/rJR4fMxqzx_0_83_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/bk2torl9gx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/27/rJDVEeBBzx/rJDVEeBBzx_360_0_2281_1284_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,15 +144,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "רוכב אופניים חשמליים נהרג מפגיעת משאית ליד זכרון יעקב",
-   "summary": "מותו של הגבר כבן ה-30 נקבע בתום פעולות החייאה, לאחר שנפגע ממשאית בכביש 4. \"הוא שכב בצד הכביש כשהוא מחוסר הכרה\", סיפר חובש מד\"א, \"הפציעה הייתה קריטית\"",
+   "title": "אחרי הפרסום ב-ynet: כ\"ץ חתם על תקנות שעת חירום לאנשים עם מוגבלות",
+   "summary": "משרד הביטחון טען כי לא נמצא מקור תקציבי ליישום ההחלטה שאושרה בכנסת כבר לפני חודשיים, אבל כעת חתם השר הממונה על התקנות שמסדירות את אחריות המדינה על מיגון מתאים ואספקת צרכים קיומיים לאנשים עם מוגבלות",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sys5tzg9gx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/SkyV2bl9Ml/SkyV2bl9Ml_0_147_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/s19117ql9gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/15/ryWh8yp611zg/ryWh8yp611zg_0_367_961_541_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "המנכ\"ל דחף לשימוש ב-AI, ועכשיו הוא חושף את הבלאגן שזה יצר",
+   "summary": "אם אתם עובדים בהייטק (ואתם קוראים בגיקטיים – סביר להניח שאתם עובדים בהייטק), סביר להניח שגם אצלכם מנסים לדחוף את כולם להשתמש בכמה שיותר כלי AI כדי להאיץ את העבודה שלכם. אבל מה שהמנהלים שלכם מפספסים תמיד זה ש-AI הוא לא פתרון קסם, ולפעמים זה גם יכול ליצור הרבה י…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/shopify-ceo-has-an-ai-slop-problem/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -185,23 +199,23 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "2,000 אייג'נטים בפרודקשן: כך הפכנו את ה-AI לחלק אמיתי מהצוות בלי לאבד שליטה",
-   "summary": "מאת תומר ברוק, Senior Engineering Manager במאנדיי אטלס, הוא כבר חלק בלתי נפרד מהצוות שלי. הוא היה למעשה האייג'נט הראשון שחבר לצוות. הוא בוחר משימות מאותו בקלוג כמו שאר חברי הצוות, פותח Pull Requests ומבצע Code Reviews לחברי הצוות. אטלס הוא הראשון מתוך כ-2,000 …",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/building-ai-agents-as-team-members/",
-   "image": null,
+   "section": "בידור",
+   "title": "ליונל ריצ'י אושפז בעקבות הפרעת קצב; שלוש הופעות בוטלו",
+   "summary": "על פי אתר TMZ, הזמר בן ה-77 מקבל טיפול בעקבות פרפור פרוזדורים. בשל מצבו בוטלו שלוש ההופעות הקרובות בסיבוב המשותף שלו עם להקת Earth, Wind & Fire. זהו האשפוז השלישי של ריצ'י בתוך שלושה חודשים",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/syi99fx5ml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/07/25/9385206/9385206_0_0_4855_3237_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
   {
    "section": "בידור",
    "title": "לאחר כחודש: נקבעה סיבת מותה של היידן פנטייר",
-   "summary": "נקבעה סיבת מותה הרשמית של כוכבת \"גיבורים\" ו\"נאשוויל\", שהלכה לעולמה בגיל 36. פנטייר מתה כתוצאה מהשפעותיהם הרעילות של כמה חומרים בהם פנטניל ואלפרזולאם. מותה נקבע כתאונה",
+   "summary": "נקבעה סיבת מותה הרשמית של כוכבת \"גיבורים\" ו\"נאשוויל\", שהלכה לעולמה בגיל 36. פנטייר מתה כתוצאה ממנת יתר של כמה חומרים בהם פנטניל ואלפרזולאם. מותה נקבע כתאונה",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/hjnwqzlczx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/17/B1w7TJWwzx/B1w7TJWwzx_187_125_2567_1444_0_medium.jpg",
@@ -219,20 +233,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/byildyg5ze",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/rJuyR1eqfl/rJuyR1eqfl_0_0_850_479_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "אסי כהן אומנם מצחיק, אבל \"אנשים שפגשתי\" מלאה פוטנציאל לא ממומש",
-   "summary": "העיבוד לספרו המצליח של מתן חלק מגיע למסך עם טיפוסים צבעוניים משכונה א' בבאר שבע והרבה אמפתיה ולב. אלא שמתוך הרצון של הסדרה להימנע מהצגת קריקטורות של דמויותיה, היא מפספסת את האפקט המבדר שקיים בנתיב העממי, וגם זונחת כיוונים נועזים ונשכניים יותר",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14905073",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/yk14905161/yk14905161_0_0_465_266_0_medium.jpg",
    "stats": [
     [
      "מקור",
