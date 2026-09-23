@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
- "date": "יום שלישי, 22 בספטמבר 2026",
- "date_he": "22/09/2026",
- "updated": "22:32",
+ "date": "יום רביעי, 23 בספטמבר 2026",
+ "date_he": "23/09/2026",
+ "updated": "01:03",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אף צד לא מוכן לזוז: איראן מציבה תנאים לטראמפ - שמשגר איומים אחרי הפגישה",
-  "summary": "קטאר ופקיסטן תיווכו, עראקצ'י ישב עם וויטקוף וקושנר 3 שעות, אבל בסיום הפגישה, למרות הכרזת טראמפ על \"פגישה פרודוקטיבית\", דיווחה טהרן על תנאיה לפתיחת מצר הורמוז, בלי אף מילה על הגרעין. במפגש עם מנהיגי מדינות ערב נשיא ארה\"ב שוב איים לפגוע בהר המכוש. בישראל מתכונני…",
-  "link": "https://www.ynet.co.il/news/article/b1ictugcgg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/BJbZnLecMl/BJbZnLecMl_0_0_3000_1689_0_medium.jpg"
+  "title": "א-שרע נגד ישראל: \"הבעיה היא אצלכם, לא בסוריה. 7/10 לא צריך לקבוע את המדיניות\"",
+  "summary": "נשיא סוריה תקף בשולי עצרת האו\"ם את המדיניות של ירושלים, וחשף כי הצדדים כבר הגיעו לטענתו ל\"כמעט 90% מהסכם\" לפני שישראל נסוגה והציבה תנאים חדשים. לדבריו, \"ישראל יוצרת בעיות סביבה, אפילו את ארמון הנשיאות היא הפציצה פעמיים. לא ראוי שמה שקרה ב-7/10 יקבע את המדיניות…",
+  "link": "https://www.ynet.co.il/news/article/syb30ye5ze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/23/BkHEN9l9Mx/BkHEN9l9Mx_161_14_510_287_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.2° / 24.7°",
-   "summary": "כרגע 25.0°, לחות 79%, רוח 6.8 קמ״ש. סיכוי משקעים 8%.",
+   "title": "עתלית · 29.4° / 24.5°",
+   "summary": "כרגע 24.8°, לחות 78%, רוח 3.6 קמ״ש. סיכוי משקעים 8%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.2°"
+     "29.4°"
     ],
     [
      "מינימום",
-     "24.7°"
+     "24.5°"
     ],
     [
      "לחות",
-     "79%",
-     79
+     "78%",
+     78
     ],
     [
      "רוח",
-     "6.8 קמ״ש"
+     "3.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Maccabi Petach Tikva U19 נגד Hapoel Hadera U19",
-     "0:2 · הסתיים"
+     "Bnei Mejar נגד Hapoel Bnei Ba'ana",
+     "0:1 · הסתיים"
     ],
     [
-     "Bnei Yehuda U19 נגד Ironi Ramat Hasharon U19",
-     "2:2 · הסתיים"
+     "Hapoel Migdal HaEmek נגד Hapoel Nof Ha'galil",
+     "טרם התחיל"
     ],
     [
-     "Hapoel Haifa U19 נגד Hapoel Jerusalem U19",
-     "1:0 · הסתיים"
+     "SC Tzeirei Tamra נגד Hapoel Beit She'an Mesilot",
+     "טרם התחיל"
     ],
     [
-     "Beitar Jerusalem U19 נגד Maccabi Tel Aviv U19",
-     "1:7 · הסתיים"
+     "Hapoel Ironi Baka El Garbia נגד Hapoel Tirat HaCarmel",
+     "טרם התחיל"
     ],
     [
-     "Hapoel Tel Aviv U19 נגד Hapoel Ra'anana U19",
-     "3:1 · הסתיים"
+     "Tzeirei Umm al-Fahm נגד Hapoel Umm El Fahem",
+     "טרם התחיל"
     ]
    ]
   },
@@ -88,6 +88,34 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
+   "title": "נגמרו התירוצים: לישראל יש חבורת ליגיונרים מרשימה ורף הציפיות עולה",
+   "summary": "מחלאילי וסולומון ועד פרץ ורביבו, מהגולים והמחמאות באנגליה ועד הבישולים וההתלהבות בספרד. נבחרת ישראל סוף־סוף נהנית מחבורה מרשימה של שחקנים בליגות מרכזיות באירופה (פלוס שלוחה באמריקה) ורף הציפיות בהתאם. יש שגרירים, אין תירוצים",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjs8rpxqgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/09/06/BJ11WORdnC/BJ11WORdnC_0_0_3000_2000_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "\"היה לי קשה לשבת על הספסל ולראות את הקבוצה מנצחת בלעדיי. סוג של הלם\"",
+   "summary": "רוצה לפרוש באדום אבל משאיר פתח לעזיבה, כבר מתגעגע לחבר הטוב ים מדר שחצה את הכביש, מותח ביקורת על אלייז'ה בראיינט, לא מסתיר את התנגדותו למעבר הקבוצה לסופיה, חושף את השיחה הגורלית עם איטודיס לפני הארכת חוזהו ומתכוון להילחם מחדש על מקומו ביורוליג. בגיל 31, תומר ג…",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1eigdg5fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/SJ00ugve9fl/SJ00ugve9fl_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
    "title": "הפועל באר שבע/דימונה ברבע גמר גביע ווינר סל",
    "summary": "הדרומיים של ספרדלי צלחו את הפליי-אין עם 75:84 בחוץ על מכבי ראשל\"צ והבטיחו קרב יוקרתי מול הפועל תל אביב בשלב הבא. לובל קאביל כיכב עם 32 נק'",
    "source": "ynet - ספורט",
@@ -101,30 +129,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "סקיילר וויקס חתם בהפועל חולון לשלוש עונות",
-   "summary": "הגארד בעל השורשים היהודיים יוכל לשחק כמתאזרח לאחר השלמת ההליך, ויעמוד לרשות הקבוצה באופן מיידי בליגת האלופות. במועדון ממשיכים לחפש גארד זר נוסף",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bk00f00wgqgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/SJ11ZOwgcMl/SJ11ZOwgcMl_0_112_1288_726_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "אף צד לא מוכן לזוז: איראן מציבה תנאים לטראמפ - שמשגר איומים אחרי הפגישה",
+   "summary": "קטאר ופקיסטן תיווכו, עראקצ'י ישב עם וויטקוף וקושנר 3 שעות, אבל בסיום הפגישה, למרות הכרזת טראמפ על \"פגישה פרודוקטיבית\", דיווחה טהרן על תנאיה לפתיחת מצר הורמוז, בלי אף מילה על הגרעין. במפגש עם מנהיגי מדינות ערב נשיא ארה\"ב שוב איים לפגוע בהר המכוש. בישראל מתכונני…",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/b1ictugcgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/BJbZnLecMl/BJbZnLecMl_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "ראש ממשלת אירלנד נגד ההתאחדות: \"חזרו בכם מהדברים על מאמן הנבחרת\"",
-   "summary": "מיהאל מרטין גיבה את היימיר הלגרימסון, שאמר כי נבחרתו תשחק \"נגד רצח עם\" במפגש עם ישראל, ותקף את תגובת ההתאחדות הישראלית: \"הדברים אינם מקובלים. ישראל לא יכולה להמשיך להכחיש את מה שהעולם יודע\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkjxz8gqml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/S1ETomiMKGx/S1ETomiMKGx_0_413_1522_856_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -135,20 +149,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/yokra14906512",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/22/rkdQhU6yqzg/rkdQhU6yqzg_0_0_2560_1707_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "נאום בשם עצמו: הריקוד האחרון של נתניהו באו\"ם",
-   "summary": "התפקיד של נתניהו על במת האו\"ם יהיה לשכנע עולם עוין, שרואה בו סדין אדום; ובעצם לשדר לנו, כרגיל, איזה בעל שיעור קומה הוא. בשניהם הוא נדון לכישלון",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14906357",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/Byrq02tFGl/Byrq02tFGl_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -243,18 +243,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "ריבית דריבית",
-   "summary": "כשהריבית מצטברת גם על הריבית עצמה, הכסף גדל אקספוננציאלית. איינשטיין כינה זאת 'הפלא השמיני'.",
-   "source": "תמצית ידע יומית · כלכלה",
+   "title": "מדוע חתולים מגרגרים",
+   "summary": "גרגור בתדר 25-150Hz עשוי לזרז ריפוי עצמות ולהרגיע — לא רק סימן לשמחה.",
+   "source": "תמצית ידע יומית · ביולוגיה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "כלכלה"
+     "ביולוגיה"
     ],
     [
      "עובדה בונוס",
-     "בננות הן פיזור רדיואקטיבי קל בגלל האשלגן שבהן."
+     "כוכב הנוגה מסתובב הפוך משאר כוכבי הלכת."
     ]
    ]
   }
