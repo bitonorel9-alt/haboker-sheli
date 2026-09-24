@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 24 בספטמבר 2026",
  "date_he": "24/09/2026",
- "updated": "07:58",
+ "updated": "13:15",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "בנה של זמרת מוכרת נעצר עם יותר מקילו קנאביס: חשד שהסם היה מיועד להפצה",
-  "summary": "פרסום ראשון: רכבו של העצור עורר את חשדם של שוטרי מחוז ירושלים. בחיפוש ברכב אותר קנאביס מחולק לעשרות שקיות",
-  "link": "https://www.ynet.co.il/news/article/rj1glrf9fl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/H1i08Bzcfl/H1i08Bzcfl_1_3_1280_721_0_medium.jpg"
+  "title": "הישג לאיסלאמיסטים במרוקו, גם הפעיל שדרך על דגל ישראל נבחר: \"תומכי חמאס בפרלמנט\"",
+  "summary": "\"קאמבק\" לאיסלאמיסטים במרוקו, ממש באותו חודש שבו שדרגה את היחסים עם ישראל. אף שהם לא ניצחו, הם התחזקו משמעותית בתום קמפיין שהתמקד בדרישה לביטול הנורמליזציה: \"אם נעבוד קשה, המלך יסגור את השגרירות. הוא לא אוהב לפעול בניגוד לרצון העם\". מקור מרוקני מזהיר בשיחה עם y…",
+  "link": "https://www.ynet.co.il/news/article/h1wvaogczl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/HkHRwcf9Gg/HkHRwcf9Gg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.0° / 23.7°",
-   "summary": "כרגע 28.4°, לחות 59%, רוח 9.1 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 29.3° / 23.7°",
+   "summary": "כרגע 27.9°, לחות 67%, רוח 18.6 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.0°"
+     "29.3°"
     ],
     [
      "מינימום",
@@ -28,17 +28,17 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "59%",
-     59
+     "67%",
+     67
     ],
     [
      "רוח",
-     "9.1 קמ״ש"
+     "18.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "0%",
-     0
+     "3%",
+     3
     ]
    ]
   },
@@ -51,23 +51,23 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Maccabi Bialik Ata נגד Hapoel Ihod Bnei Jat",
+     "5:2 · מחצית שנייה"
+    ],
+    [
+     "Hapoel Yarka נגד FC Shfaram",
+     "1:0 · מחצית ראשונה"
+    ],
+    [
+     "Hapoel Ihud Bnei Sumei FC נגד MS Tzeirei Kfar Kana",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
      "Bnei Mejar נגד Hapoel Bnei Ba'ana",
      "0:1 · הסתיים"
     ],
     [
      "SC Tzeirei Tamra נגד Hapoel Beit She'an Mesilot",
-     "1:0 · הסתיים"
-    ],
-    [
-     "Hapoel Azur נגד Hapoel Mahne-Yehuda",
-     "2:0 · הסתיים"
-    ],
-    [
-     "Hapoel Ironi Karmiel נגד Ironi Nesher",
-     "1:1 · הסתיים"
-    ],
-    [
-     "Ironi Bet Shemesh נגד A.S Nordia Jerusalem",
      "1:0 · הסתיים"
     ]
    ]
@@ -83,16 +83,32 @@ window.NEWS_DATA = {
     [
      "Andorra נגד Malta",
      "טרם התחיל"
+    ],
+    [
+     "Netherlands נגד Germany",
+     "טרם התחיל"
+    ],
+    [
+     "Serbia נגד Greece",
+     "טרם התחיל"
+    ],
+    [
+     "Norway נגד Denmark",
+     "טרם התחיל"
+    ],
+    [
+     "Portugal נגד Wales",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "וויין רוני חושף: \"יש לי שורשים יהודיים\"",
-   "summary": "בדוקו חדש, כוכב העבר של מנצ'סטר יונייטד ונבחרת אנגליה מגלה: \"סבתא שלי הייתה יהודית-פולנית. אני אמנם קתולי, אבל תמיד שאלתי שאלות\"",
+   "title": "התקציבים שוברים שיאים - וגם הציפיות: מבחן היורוליג של מכבי והפועל ת\"א",
+   "summary": "הפועל ת\"א מכוונת הפעם לפיינל-פור, מכבי ת\"א רוצה לחזור לפלייאוף - ועם תקציבי שיא וסגלים נוצצים, כל תרחיש אחר ייחשב לכישלון. סימני השאלה סביב היציבות של מיציץ', האתגר של איטודיס לנהל את האגו בחדר ההלבשה, מבחן ההשתלבות של וואלאס ובניית ההתקפה של קטש סביב ים מדר. …",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/b1reg8f5gl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BJTt7IfcGx/BJTt7IfcGx_0_17_1024_577_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/r1s00hqw9mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/23/SycS8cb5Mg/SycS8cb5Mg_153_50_1183_666_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אחרי שתקף את נתניהו: ממדאני תומך בחרם אוהדי אירלנד נגד ישראל",
-   "summary": "ראש עיריית ניו יורק נפגש עם ראש ממשלת אירלנד מיהאל מרטין ונשאל גם הוא לגבי המשחק מול הכחולים-לבנים ביום ראשון הקרוב בהונריה. על הדרך הביע תמיכה באירים ועקץ בצורה מקוממת את ישראל: \"הם התייצבו למען כבוד האדם וזכויות אדם, והחילו את העקרונות האלה גם על הפלסטינים\"",
+   "title": "באירלנד מודאגים מהמצב בישראל, אבל מה עם הצרות של הנבחרת? | טור",
+   "summary": "היימיר הלגרימסון הביע מחאה, לא על המצב של הסגל אלא ממה שקורה בישראל. שיחכה עד שישמע את הצרות שלנו: ציפיות בשמיים והגנה מתחת לקרקע. לפחות יש לנו לגיונרים ברמה ושחקנים מובילים בכושר טוב",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hki40rz9gx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/HyjYe8f5Ge/HyjYe8f5Ge_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sk63pow9zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/20/Sy0EYGpYGg/Sy0EYGpYGg_0_60_1024_577_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הבלגן במכבי ת\"א נמשך: ריצ'רד דיץ הגיש תביעה נגד ג'ייסון לוין וגיא הראל",
-   "summary": "חברת VR קפיטל גרופ, המחזיקה ב-17.5% ממניות המועדון, תובעת 2.55 מיליון דולר בטענה כי לוין, הראל וגורמים נוספים פעלו לעקיפת זכות הסירוב שלה בעסקת העברת המניות",
+   "title": "תמורת סכום עתק: מכבי ת\"א סיכמה עם רומן סורקין על חוזה חדש",
+   "summary": "בשורה מצוינת לצהובים, רגע לפני פתיחת עונת היורוליג: אחרי מו\"מ שהתעכב, אחד מכוכבי הקבוצה יישאר במועדון ל-4 שנים נוספות וישתכר כ-6 מיליון דולר לאורך כל התקופה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/bjyxthf9ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/ByozsntYfl/ByozsntYfl_168_145_793_447_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/skqfykmcze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/HkDYoFG5fx/HkDYoFG5fx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שידור ישיר: ועדת הבחירות דנה בפסילת עוצמה יהודית, הציונות הדתית והדמוקרטים",
-   "summary": "אחרי שפסלה את יו\"ר בל\"ד אבו שחאדה, את כסיף ואת רע\"מ והרשימה המשותפת, פתחה הוועדה את יום הדיונים השני בבקשות הפסילה",
+   "title": "המשטרה הודיעה על איתור \"מנהרה\" בשרון, צה\"ל בהודעה חריגה: \"זה לא נכון, וחסר אחריות\"",
+   "summary": "אחרי שהמשטרה דיווחה כי נחשפה בקלקיליה מנהרה בעומק 25 מטרים, בצה\"ל שללו את הדברים - ואף מתחו ביקורת חריגה: \"בניגוד להודעות רשמיות ולא אחראיות שיצאו בנושא, נשללה הימצאות של תוואי מנהרה\". לפי הצבא, אותרו שני פירים בעומק של כ-12 מטרים, ובסמוך להם נשקים ותחמושת. 4 …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/hj3llhz9zx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/23/H1xIWPfWczl/H1xIWPfWczl_85_0_1029_580_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/s17ncffcgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/H1fhyv9Gqfe/H1fhyv9Gqfe_0_619_1200_676_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מכה לטראמפ: שופט מחייב אותו להסיר את החרם על CNN ו\"פוליטיקו\"",
-   "summary": "שופט פדרלי שהנשיא עצמו מינה בכהונתו הראשונה קבע כי החרם שלו על גופי תקשורת מרכזיים מסיקור הבית הלבן אינו חוקתי - וכי הופרה זכותם להליך הוגן. טראמפ, שתקף את השופט ותיאר אותו כ\"לא נאמן\", המשיך אמש להביע את זעמו על התקשורת - כשברקע השפל בסקרים: \"הם כולם חולים, בו…",
+   "title": "טלי גוטליב: חבל שנתניהו לא גיבה את שרה בנושא הזה | הספינר של ynet",
+   "summary": "ח\"כ טלי גוטליב, שעברה אחרי הפריימריז מהליכוד והפכה לבכירת מפלגת עוצמה יהודית, הגיעה לרולטת האסוציאציות החדשה של ynet וירתה לכל כיוון: מה החלום האישי שהייתה רוצה להגשים, מה היא חושבת על ההאשמה בקונספירציות ולמה לטענתה הממשלה ונתניהו נושאים באחריות ל-7/10 - אבל …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hymktxf9me",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/H1uv11NMqMe/H1uv11NMqMe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rjbf2qm5mx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/ry0nrYzcMl/ry0nrYzcMl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -200,39 +216,39 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "הבמאי ינקול גולדווסר, יוצר \"מתחת לאף\" ו\"אבא גנוב\", הלך לעולמו",
+   "summary": "יעקב (ינקול) גולדווסר, מהבמאים המזוהים עם הקולנוע הישראלי של שנות ה-80 וה-90, הלך לעולמו בגיל 76. מעבר לשוברי-הקופות שביים בקולנוע, בטלוויזיה היה הבמאי הראשי של \"מעורב ירושלמי\" ששודרה במשך שלוש עונות. ב-2018 חזר גולדווסר לקולנוע עם \"שרוכים\" בכיכובם של דב גליקמ…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hyl00kkzqgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/SkxVyRtGcfe/SkxVyRtGcfe_313_82_1566_882_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "יוצרי \"נז\"א\": כולם יוכלו לצפות בסרט באינטרנט - בחינם",
+   "summary": "סרט הדוקו המדובר של יובל אברהם ורחל שור, שזכה בפרס חבר השופטים בפסטיבל ונציה ועורר סערה בינלאומית, יופץ ב-56 בתי קולנוע ברחבי העולם, בעוד היוצרים ו\"הגרדיאן\", שהפיק את הסרט, הודיעו כי בהמשך גם יעלה לצפייה חופשית ברשת. אברהם: \"האיומים לא יעזרו. זה לא מרתיע אותנו…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/bkpkkdfcmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/B1S0Af7tzg/B1S0Af7tzg_645_233_1622_913_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "אחרי סערת \"נז\"א\": סרט נוסף המבוסס על עדויות חיילי צה\"ל מועמד לאמי הבינלאומי",
    "summary": "הטקס הנחשב הכריז על מועמדיו, בהם Breaking Ranks: Inside Israel’s War - תחקיר בריטי המבוסס על עדויות חיילים בנוגע להתנהלות צה\"ל בעזה, וכולל טענות על ירי באזרחים, שימוש בפלסטינים כמגינים אנושיים והפצצות חסרות הבחנה. שתי הפקות נוספות העוסקות במצב באזור נכללו ברשי…",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/hylg7rfcfx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/rk2DBrfcGe/rk2DBrfcGe_0_0_1302_716_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "העיתונאי ואיש הטלוויזיה מנשה רז הלך לעולמו בגיל 80",
-   "summary": "רז היה במשך עשרות שנים מאנשי השידור הציבורי המזוהים בישראל. הוא החל את דרכו בגלי צה\"ל, עבר לקול ישראל ובהמשך הפך לאחד מפניו של הערוץ הראשון. לאורך הקריירה הגיש את \"מבט לחדשות\", ערך והנחה את \"מסיבת עיתונאים\" וביים סרטים תיעודיים",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bykpihm9me",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/SJP3oHfcfl/SJP3oHfcfl_142_700_1819_1024_270_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "פלד, עלמה גוב, פיטר רוט ונונו ממליצים: איזה הופעות אסור לפספס באינדינגב?",
-   "summary": "להקה של בני 20 שמנגנת יחד מגיל 12, הפרפורמר הכי מחשמל בארץ, זמרת עם קול חלומי, רוק גיטרות המנוני שנועד להופעות ומחווה מרגשת לחבר שהלך לעולמו בטרם עת. רגע לפני שהם עולים לבמה בעצמם - האמנים של אינדינגב ממליצים על ההופעות שהם הכי מחכים לראות מהקהל",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hjrqrc19fl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/23/B1yBqzbqze/B1yBqzbqze_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
