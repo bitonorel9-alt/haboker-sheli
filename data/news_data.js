@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 25 בספטמבר 2026",
  "date_he": "25/09/2026",
- "updated": "15:40",
+ "updated": "19:43",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הקריאה החריגה לחיילי סעודיה \"להקריב את חייכם\" - והאיום החות'י \"לכבוש לה עיר מרכזית\"",
-  "summary": "המורדים בתימן ממשיכים לשגר מתקפות כטב\"מים וטילים, ובצל תהיות סביב האפשרות שריאד תפתח במבצע צבאי גדול, איים גורם חות'י: \"הסלמה בגבול - הזדמנות בשבילנו\". במקביל, המופתי הגדול של סעודיה פרסם מסר נדיר הקורא לחיילים בגבולות להקריב את חייהם למען האומה והאל - וקרא ל\"…",
-  "link": "https://www.ynet.co.il/news/article/hkzcay45zg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/25/SyT02ibxzx/SyT02ibxzx_0_102_3000_1689_0_medium.jpg"
+  "title": "הם מגיעים לביה\"ח רק על סף מוות, ומתים ממחלות שנהוג לחשוב שהן נחלת העבר",
+  "summary": "מפחדים מהממסד, סובלים מזיהומים קשים ומשוכנעים שלא מגיע להם דבר: ד\"ר טליה ישראל היא אחת מהרופאים שיוצאים מדי לילה אל דרי הרחוב של ת\"א עם פנס - מאחר שראו שוב ושוב לאן הם מגיעים ללא טיפול בזמן. \"הם פשוט שכחו שמגיע להם שמישהו יסתכל עליהם\", אומרת רכזת השטח יאנה קלר…",
+  "link": "https://www.ynet.co.il/news/article/sydqyocfml",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/20/SJTHmxptMe/SJTHmxptMe_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 28.6° / 25.5°",
-   "summary": "כרגע 26.3°, לחות 60%, רוח 18.8 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 25.5°, לחות 67%, רוח 13.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "60%",
-     60
+     "67%",
+     67
     ],
     [
      "רוח",
-     "18.8 קמ״ש"
+     "13.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Georgia נגד Northern Ireland",
-     "טרם התחיל"
+     "Italy נגד Belgium",
+     "0:1 · מחצית"
     ],
     [
-     "Armenia נגד Latvia",
-     "טרם התחיל"
+     "Turkiye נגד France",
+     "0:0 · מחצית"
     ],
     [
      "Hungary נגד Ukraine",
-     "טרם התחיל"
+     "0:1 · מחצית"
     ],
     [
      "Poland נגד Bosnia & Herzegovina",
-     "טרם התחיל"
+     "0:0 · מחצית"
     ],
     [
      "Sweden נגד Romania",
-     "טרם התחיל"
+     "2:1 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "רשמית: לורנזו בראון חתם בהפועל ירושלים עד לסיום העונה",
-   "summary": "אקס מכבי ת\"א מצטרף בהשאלה ממילאנו לקבוצה של סשה אוברדוביץ' וישמש כמחליפו של ג'ארד הארפר. לירושלמים  אפשרות לצאת מהחוזה בתוך ארבעה חודשים",
+   "title": "ולנסיה גברה על בשיקטאש במחזור הפתיחה ביורוליג",
+   "summary": "אלופת ספרד פתחה את משחקיה במפעל הבכיר באירופה עם ניצחון 94:96 על הטורקים בביתם. טי ג'יי שורטס כיכב עם 26 נקודות, ניקולה מירוטיץ' הוסיף 13",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/syoa00becgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/SkeSFWNqGe/SkeSFWNqGe_0_0_810_456_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one534321",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/one1889741/one1889741_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דרמה באנגליה: מנצ'סטר סיטי הורשעה כמעט בכל סעיפי האישום בפרשת ההפרות הפיננסיות",
-   "summary": "לפי דיווח ב\"אתלטיק\", אלופת אנגליה לשעבר נמצאה אשמה ב-114 מתוך 115 סעיפי האישום שהוגשו נגדה. העונש טרם נקבע, וכל האפשרויות נותרו על הפרק, כולל הפחתת נקודות והרחקה מהפרמייר-ליג. במועדון צפויים לערער על ההחלטה",
+   "title": "יורוקאפ נשים: אליצור רמלה עלתה לשלב הבתים",
+   "summary": "החבורה של עדן ענבר השלימה ניצחון כפול על וולאס היוונית, הפעם עם 56:88 קליל ועלתה שלב. דניאל רבר בלטה עם 18 נקודות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/h17cngeqzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/18/BybdeWVGDzl/BybdeWVGDzl_0_106_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/sj1owh49mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/HkiOeS49Gg/HkiOeS49Gg_0_249_2400_1352_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "גורמים בהפועל ת\"א דוחפים לצרף את בלאט לאימונים, איטודיס מסתייג",
-   "summary": "הרכז זומן לאימון היום והגיע למרות שהוא עדיין פצוע, כשגורמים במועדון רוצים שיהיה חלק מהקבוצה. המאמן לא מרוצה מהאפשרות לצרפו, והוא עדיין לא בתוכניות המקצועיות שלו",
+   "title": "דקה 44: טורקיה - צרפת 0:0",
+   "summary": "ליגת האומות, מחזור 1: זידאן פותח פרק חדש על הקווים של הטריקולור ששולטים בכדור, אמבפה החמיץ הזדמנות טובה להבקעה. במקביל: איטליה - בלגיה 1:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1i4exe9ml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/HJ3y4Z4qGx/HJ3y4Z4qGx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one534265",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/one1889742/one1889742_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "חוסל המחבל שהחזיק בארבעה חטופים בעזה",
-   "summary": "צה\"ל הודיע על חיסולו של חסן מחמוד סיאם, שהחזיק בעמית סוסנה, קית' ואביבה סיגל ודפנה אליקים. מחבל נוסף חוסל גם הוא בעיר עזה. השניים היו מעורבים בירי לעבר הכוחות והטמנת מטענים בקו הצהוב",
+   "title": "עמי טיפס לפסגת האולימפוס ביוון - ונעדר כבר 5 ימים: \"ראו אותו חבוש ברגל, מפחדת שהחליק\"",
+   "summary": "הישראלי שנותק עימו הקשר ביום ראשון נראה בפסגת הר האולימפוס ומאז נעלמו עקבותיו. אימו אמרה ל-ynet כי היא זקוקה לתרומות כדי להמשיך את החיפושים, סיפרה שהיא אופטימית אך \"יש רגעים של התפרקות\" - ובטוחה: \"הוא לא נעלם מרצון\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/ryjwzee5ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/SkABWxE9Me/SkABWxE9Me_0_0_2560_1439_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/syum11vv9mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/Sk5WmrV9Mx/Sk5WmrV9Mx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "החשוד בהשלכת מלחיות לעבר בנט קילל בחקירה: \"שרמוטה\"",
-   "summary": "המשטרה טענה כי מדובר בתקופה נפיצה והגדירה את האירוע \"ניסיון פגיעה בדמות ציבורית\". הסנגורית טענה כי אין די ראיות הקושרות את אליה אזרד למעשה, אך השופט קבע כי עדות שוטר שנכח באירוע מספיקה בשלב זה לביסוס החשד",
+   "title": "חשד לרצח בצפון: צעיר נורה למוות - שנה וחצי אחרי שגם בן דודו נרצח",
+   "summary": "מוחמד סאמר יאסין, תושב טמרה, נורה במועצה המקומית כאבול שבגליל המערבי. על פי המשטרה הרקע לאירוע פלילי והנסיבות נחקרות. 177 בני אדם נרצחו בחברה הערבית מתחילת השנה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/sjwfa0xcfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/SyIBlzmcGg/SyIBlzmcGg_0_505_720_406_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hybh11ne9fx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/H100OaQV9fg/H100OaQV9fg_0_47_517_291_0_medium.jpg",
    "stats": [
     [
      "מקור",
