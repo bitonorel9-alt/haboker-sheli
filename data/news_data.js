@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 27 בספטמבר 2026",
  "date_he": "27/09/2026",
- "updated": "12:35",
+ "updated": "17:21",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "סמוטריץ' נגד היועמ\"שית: \"עובדת בשביל איזנקוט\"",
-  "summary": "בצל הנחייתה לעכב את המכרז לבנייה ב-E1 עד לאחר הבחירות, סמוטריץ' תקף כי היועמ\"שית \"מתערבת בקמפיין הבחירות\", וקרא ליו\"ר ועדת הבחירות סולברג: \"ודא שהיא לא מגבה את השמאל בניסיון למנוע מהימין להרכיב ממשלה\"",
-  "link": "https://www.ynet.co.il/news/elections2026/article/sk8u0u85mx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/29/ryCZdf0eJg/ryCZdf0eJg_0_0_850_479_0_medium.jpg"
+  "title": "המחאה החדשה של משפחות 7/10, אחרי הפרסומים על האזהרות: \"איך נתניהו נרדם בלילה?\"",
+  "summary": "לאחר פרסום התחקירים על אזהרות שקיבל רה\"מ ממצרים ואיחוד האמירויות לפני הטבח, בני משפחות הנפגעים הקימו את \"סוכת המחדל\". עינב צנגאוקר: \"כל מי שהיה על ההגה צריך לפנות את מקומו\". איזנקוט ביקר בסוכה - והתחייב: \"נקים ועדת חקירה ממלכתית בשבועות הראשונים לאחר כינון הממ…",
+  "link": "https://www.ynet.co.il/news/article/synwy3icfx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/SJPwnhUqGl/SJPwnhUqGl_0_200_1280_721_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 27.9° / 22.5°",
-   "summary": "כרגע 27.6°, לחות 54%, רוח 14.1 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 28.0° / 22.5°",
+   "summary": "כרגע 25.7°, לחות 68%, רוח 1.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "27.9°"
+     "28.0°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "54%",
-     54
+     "68%",
+     68
     ],
     [
      "רוח",
-     "14.1 קמ״ש"
+     "1.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,16 +51,8 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Bnei Ein Mahil נגד Bnei Mejar",
-     "0:0 · מחצית ראשונה"
-    ],
-    [
-     "Maccabi Bnei Abu Snan נגד Maccabi Bnei Jdeide",
-     "0:0 · מחצית ראשונה"
-    ],
-    [
-     "Ahva Kfar Manda נגד Hapoel Bnei Ba'ana",
-     "0:0 · מחצית ראשונה"
+     "Maccabi Ramat Hasharon נגד Beitar Petah Tikva",
+     "1:2 · מחצית"
     ],
     [
      "Hapoel Bnei Jdaidie Makr נגד Maccabi Ihud Bnei Ivtin",
@@ -69,6 +61,14 @@ window.NEWS_DATA = {
     [
      "Akhva Sha'ab נגד Hapoel Dir Khana",
      "1:3 · הסתיים"
+    ],
+    [
+     "Maccabi Bialik Ata נגד Hapoel Ihod Bnei Jat",
+     "5:3 · הסתיים"
+    ],
+    [
+     "Hapoel Yarka נגד FC Shfaram",
+     "2:0 · הסתיים"
     ]
    ]
   },
@@ -81,18 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Lithuania נגד Azerbaijan",
+     "Austria נגד Kosovo",
+     "3:0 · מחצית שנייה"
+    ],
+    [
+     "Denmark נגד Wales",
+     "1:0 · מחצית שנייה"
+    ],
+    [
+     "Serbia נגד Netherlands",
+     "1:1 · מחצית שנייה"
+    ],
+    [
+     "Gibraltar נגד Andorra",
+     "0:0 · מחצית שנייה"
+    ],
+    [
+     "CO Korhogo נגד Agboville",
      "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "מעצב פנים: פרידה מה-MVP הראשון של ה-NBA",
-   "summary": "בכל פעם שאתם רואים פורוורד ענק שעושה פעולות של גארד עם הפנים לסל, תנו קרדיט לבוב פטיט.  פרידה מאחד מגדולי שחקני ה-NBA, שלא זכה למלוא ההכרה שמגיעה לו",
+   "title": "דקה 57: סרביה - הולנד 1:1",
+   "summary": "ליגת האומות, מחזור 2: מירדינק העניק יתרון לאורנג' בפנדל (30'), גאקפו נפצע והוחלף. מנגד, יוביץ' השווה (46') מקרוב. כעת: דנמרק - וויילס 0:1",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hjho0kh9ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/BJ0y8FH9zx/BJ0y8FH9zx_0_133_2138_1204_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one534411",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/one1889967/one1889967_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "זהב לארטיום דולגופיאט בגביע האתגר בפריז",
-   "summary": "מתעמל הקרקע הישראלי והמדליסט האולימפי סיים את תרגיל הגמר בתוצאה 14.500 שהבטיחה לו את המקום הגבוה על הפודיום",
+   "title": "רבע 3, 04:19: מכבי ת\"א - קריית אתא 38:67",
+   "summary": "גביע ווינר סל, רבע גמר: האלופה חוגגת נגד הצפוניים. הצהובים הדליקו מבערים וברחו ליתרון גדול עם רבע שני אדיר. ג'ונדי לוהט, גם ליף ותייס בולטים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rydejfu9zx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/BkgCJ11UwMl/BkgCJ11UwMl_0_68_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one534410",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/one1889970/one1889970_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תעשו שננצח: להיות חכמים מול מופע הצדקנות של אירלנד | טור",
-   "summary": "דווקא מול מפגן המחאה המתוכנן הערב, ישראל חייבת להפסיק לשתוק ולספר לעולם את הסיפור שלה – כי הנבחרת הבאה שתעמוד מולנו כבר עלולה לבחור שלא להתייצב",
+   "title": "דקה 55: אוסטריה - קוסובו 0:2",
+   "summary": "ליגת האומות, מחזור שני: החבורה של ראנגניק מובילה, אפנגרובר כבש ראשון בנגיחה (23') ואדאמו הכפיל (45+2'). מנגד, מוריצ'י רשם החמצת ענק בצד השני",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bj0000gibcfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BJvNQemqGe/BJvNQemqGe_119_85_2859_1610_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/534453",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/one1889973/one1889973_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "על המדרכה, אזוקים, ללא חולצה: תיעוד המחבלים ש\"נעצרו לפני פיגוע\" בבריטניה",
-   "summary": "תושב הכפר וולפורד תיעד לפנות בוקר את הרגע שבו עצרו הכוחות לפחות 5 גברים, כנראה בחשד שתכננו לתקוף את בסיס חיל האוויר פיירפורד הסמוך, שממנו המריאו מטוסים אמריקניים להפצצות באיראן. הם צולמו יושבים בצד הדרך כשפנס גדול מאיר עליהם, ייתכן שהופשטו מחשש שיש עליהם חגורו…",
+   "title": "3,000 טון אזהרה לאיראן וטורקיה: בתוך כלי המלחמה החדש של צה\"ל",
+   "summary": "אינספור מכונות ואמצעי מודיעין, מכשור מהמתקדמים בעולם, כלי נשק קטלניים ויכולת להגיח בשקט מתחת לאף של האויב - ולהיעלם מבלי שיבין מה קרה: אח\"י דרקון נמצאת בהכנות האחרונות לפני כניסתה למבצעיות, וכתב ynet זכה להצצה נדירה אל בטן הצוללת שתשפיע על המערכות הבאות של צה\"…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hknexticze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/HJxnbetUczg/HJxnbetUczg_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b1e2wql9ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/SyrIXQ8qGx/SyrIXQ8qGx_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "במשאל עם: שווייץ הצביעה נגד הצעה \"פרו רוסית\" להיות \"עוד יותר ניטרלית\"",
-   "summary": "עקרון הניטרליות, שלפיו שווייץ אינה נוקטת צד במלחמות בין מדינות זרות, מעוגן בחוקה עוד מהמאה ה-19, אבל מפלגת הימין SVP טוענת כי הוא נשחק בגלל הסנקציות שהטילה ברן על פוטין והצטרפותה למועצת הביטחון. במשאל עם נקראו השווייצרים להצביע בעד הקשחת הניטרליות, כך שהחוקה ת…",
+   "title": "הזיהוי, הפגיעה ופטריית העשן: תיעוד חיסול המחבל שחטף את נועה ארגמני",
+   "summary": "המשטרה הפיצה את תיעוד חיסולו של המחבל סאהר סקר שחטף את נועה ארגמני ב-7/10. בתיעוד נראה המעקב אחריו והפגיעה המדויקת במחבל מהאוויר. על פי צה\"ל סקר חוסל משום ש\"המשיך לקדם מתווי טרור\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bkxmcu85gg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/04/04/9167377/9167377_113_122_1116_628_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sknzbpu9fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/rkO00DaU9zl/rkO00DaU9zl_136_83_898_506_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "חשבו שהם גונבים משאית של NVIDIA וקיבלו במקום זה 20 טונות של חול",
+   "summary": "תראו. הטירוף סביב ה-AI כבר חצה מזמן כל גבול. בין אם זו הקולגה ההיא שלא מפסיקה להראות לכם את פרויקט ה-Vibe Coding האחרון שלה שלאף אחד לא אכפת ממנו, או ההוא בבית הקפה שלא יכול להפסיק לדבר על Instinct ו-Muse, מירוץ ההתחמשות בחומרה לאימונים והרצת מודלים, וכמובן הר…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/so-called-nvidia-truck-stolen/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -185,16 +215,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "כולם מדברים על AI Slop, אבל כולם צריכים לדבר על Workslop",
-   "summary": "כולכם נתקלתם לפחות פעם אחת בחייכם באיזשהו תוצר AI מביך ומכוער, שהפך כבר לחלק בלתי נפרד מחיינו עם הזמינות של הכלים הללו – בין אם זה סרטון מביך, טרנד שנות ה-80 או הפוסטר לחוג הקראטה של הילדה שנראה כמו כל פוסטר לחוג שנוצר בשנה האחרונה. אבל מה קורה כשהתופעה הזאת מ…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/workslop-is-a-problem/",
-   "image": null,
+   "section": "בידור",
+   "title": "הסופר יהודה אטלס הובא למנוחות: \"האובדן - כמו צניחה חופשית ללא תחתית\"",
+   "summary": "מאות בני משפחה וחברים ליוו את יהודה אטלס בדרכו האחרונה כשהובא למנוחות במושב עין עירון, שבו גדל. אשתו רונית סיפרה על חודשיו האחרונים בבתי החולים: \"ראיתי אותו, הוא חייך - וזה שבר לי את הלב\", חברו המאייר דני קרמן: \"יהודה - שם נרדף לאמת\"",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/b1gigtl5mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/ByQpJPqU5zl/ByQpJPqU5zl_56_9_978_551_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -219,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/b1x7xcz5zg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/B1WufYrzqGl/B1WufYrzqGl_407_111_481_271_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "ליאור כלפון סבל מפחד במה משתק. מה ששמעתם",
-   "summary": "אחרי שכמעט מת מהתקף שיעול בקורונה,  ליאור כלפון גילה על בשרו שאפשר להופיע 40 שנה ועדיין לחטוף פחד קהל משתק, שגרם לו לפרוש ממשחק ולהתרכז בניהול סטארט-אפים. בסוף נמאס לו מהשאלה \"לאן נעלמת\" ועכשיו  הוא חוגג 20 שנה לווקה פיפל ומספר כמה כסף אפשר לחסוך עם מתלה לתיונ…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14905344",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/HylaIpYttGe/HylaIpYttGe_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
