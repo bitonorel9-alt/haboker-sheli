@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
- "date": "יום שבת, 26 בספטמבר 2026",
- "date_he": "26/09/2026",
- "updated": "21:43",
+ "date": "יום ראשון, 27 בספטמבר 2026",
+ "date_he": "27/09/2026",
+ "updated": "00:04",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מנהיגי \"גוש השינוי\" נפגשו ופרסמו \"מסמך עקרונות\": \"בחירות קריטיות לגורל המדינה\"",
-  "summary": "החליטו לא לסכם על מועמד לראשות הממשלה: איזנקוט, בנט, ליברמן וגולן נפגשו בביתו של לפיד כדי \"לתאם מהלכים\" לקראת הבחירות בעוד חודש. לצד תמונה משותפת שפרסמה ליהיא לפיד, הם פרסמו הצהרה שבה ציינו כי \"מטרת העל שלנו היא הקמת ממשלת שינוי\", והתחייבו \"להגדיל את ציבור המצ…",
-  "link": "https://www.ynet.co.il/news/elections2026/article/s16nsks5ze",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/SkWNZ9H9ze/SkWNZ9H9ze_0_195_1280_721_0_medium.jpg"
+  "title": "נהג סירב לעצור לבדיקה בנתניה, התנגש בניידת - ופצע שוטר",
+  "summary": "מצבו של השוטר הוגדר בינוני, נהג הרכב נפצע קל ונעצר. השוטרים, שעסקו באכיפת עבירות תנועה, חשדו בנהג והורו לו לעצור - אך הוא סירב והתנגש בניידת",
+  "link": "https://www.ynet.co.il/news/article/sytw22h9me",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/r1byhnr9Me/r1byhnr9Me_0_0_1280_720_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 27.9° / 22.8°",
-   "summary": "כרגע 24.8°, לחות 66%, רוח 2.1 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 27.8° / 22.6°",
+   "summary": "כרגע 24.1°, לחות 69%, רוח 4.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "27.9°"
+     "27.8°"
     ],
     [
      "מינימום",
-     "22.8°"
+     "22.6°"
     ],
     [
      "לחות",
-     "66%",
-     66
+     "69%",
+     69
     ],
     [
      "רוח",
-     "2.1 קמ״ש"
+     "4.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,34 +51,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "SC Tzeirei Tamra נגד Hapoel Beit She'an Mesilot",
-     "1:0 · הסתיים"
+     "Hapoel Bnei Jdaidie Makr נגד Maccabi Ihud Bnei Ivtin",
+     "1:2 · הסתיים"
     ],
     [
-     "Hapoel Azur נגד Hapoel Mahne-Yehuda",
+     "Akhva Sha'ab נגד Hapoel Dir Khana",
+     "1:3 · הסתיים"
+    ],
+    [
+     "Maccabi Bialik Ata נגד Hapoel Ihod Bnei Jat",
+     "5:3 · הסתיים"
+    ],
+    [
+     "Hapoel Yarka נגד FC Shfaram",
      "2:0 · הסתיים"
     ],
     [
-     "Hapoel Ironi Karmiel נגד Ironi Nesher",
-     "1:1 · הסתיים"
-    ],
-    [
-     "Ironi Bet Shemesh נגד A.S Nordia Jerusalem",
-     "1:0 · הסתיים"
-    ],
-    [
-     "Hapoel Marmorek נגד Shimshon Tel Aviv",
-     "1:2 · הסתיים"
+     "Hapoel Ihud Bnei Sumei FC נגד MS Tzeirei Kfar Kana",
+     "בוטל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "גביע ווינר כדוריד: חולון בגברים ואשדוד בנשים זכו בתואר ראשון בתולדותיהן",
-   "summary": "הכחולים של ניסים פלח המשיכו את פתיחת העונה הנהדרת שלהם עם ניצחון שביעי ברציפות בכל המסגרות וזכייה בגביע ווינר לאחר 29:35 על מכבי ת\"א. האדומות של אנדראה ווקוייביץ' גברו 30:34 על הטרבליסטית מהעונה שעברה, בנות הרצליה וזכו בגביע אתנה",
+   "title": "שני אחים, שני קפטנים: \"לקחנו מהבית את העבודה הקשה\"",
+   "summary": "האחד קפטן מכבי ר\"ג (כדורסל), אוכל שווארמה אחרי משחק ובטוח שהאבא מפיל עליו את כל הביקורת. השני קפטן בני-יהודה (כדורגל), חולה על ג'ארד הארפר ובטוח שהרבה יותר קשה להיות כדורגלן. האחים גיל וגולן בני מדברים על החלומות, העקיצות והנאומים מול חדר הלבשה אמוציונלי. ראיו…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hygoq5h9fg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/BkHpq5BqMx/BkHpq5BqMx_79_343_1213_683_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjrziib9zg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/BkEyDFS9Gx/BkEyDFS9Gx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -88,11 +88,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אופי של אלופה: נבחרת ספרד ניצחה 2:3 את אנגליה",
-   "summary": "אלופת העולם ביצעה מהפך אדיר: לאמין ימאל כבש ראשון, גורדון וקיין הפכו זמנית, באאנה איזן ואויארסבאל העניק ניצחון. קרואטיה גברה 1:2 על צ'כיה",
+   "title": "תעשו שננצח: להיות חכמים מול מופע הצדקנות של אירלנד | טור",
+   "summary": "דווקא מול מפגן המחאה המתוכנן הערב, ישראל חייבת להפסיק לשתוק ולספר לעולם את הסיפור שלה – כי הנבחרת הבאה שתעמוד מולנו כבר עלולה לבחור שלא להתייצב",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one534337",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/one1889893/one1889893_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bj0000gibcfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BJvNQemqGe/BJvNQemqGe_119_85_2859_1610_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,15 +102,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "ראשון לעונה: הפועל ת\"א הביסה 67:85 את באר שבע",
-   "summary": "טאי אודיאסי וקאדין קרינגטון בלטו בשורות התל אביבים, החבורה של דימיטריס איטודיס לא התקשתה נגד היריבה מהדרום, והמשיכה אל חצי גמר גביע ווינר",
+   "title": "מעצב פנים: פרידה מה־MVP הראשון של ה־NBA",
+   "summary": "בכל פעם שאתם רואים פורוורד ענק שעושה פעולות של גארד עם הפנים לסל, תנו קרדיט לבוב פטיט † פרידה מאחד מגדולי ה־NBA, שלא זכה למלוא ההכרה שמגיעה לו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one534341",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/one1889854/one1889854_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hjho0kh9ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/BJ0y8FH9zx/BJ0y8FH9zx_0_133_2138_1204_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "פוליטיקה",
+   "title": "מנהיגי \"גוש השינוי\" נפגשו ופרסמו \"מסמך עקרונות\": \"בחירות קריטיות לגורל המדינה\"",
+   "summary": "החליטו לא לסכם על מועמד לראשות הממשלה: איזנקוט, בנט, ליברמן וגולן נפגשו בביתו של לפיד כדי \"לתאם מהלכים\" לקראת הבחירות בעוד חודש. לצד תמונה משותפת שפרסמה ליהיא לפיד, הם פרסמו הצהרה שבה ציינו כי \"מטרת העל שלנו היא הקמת ממשלת שינוי\", והתחייבו \"להגדיל את ציבור המצ…",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/elections2026/article/s16nsks5ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/SkWNZ9H9ze/SkWNZ9H9ze_0_195_1280_721_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - חדשות"
     ]
    ]
   },
@@ -121,20 +135,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/yokra14909559",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/HyJB4FVcMe/HyJB4FVcMe_0_0_1672_941_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "הדר מוכתר כמשל",
-   "summary": "השבוע הופץ סרטון נוסף שבו מוכתר טוענת כי החרדים מקבלים מהמדינה הרבה פחות מחלקם היחסי באוכלוסייה, בעוד מילואימניקים מקבלים הרבה יותר. זה כמובן שקר מוחלט",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14909353",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/24/H1nlG3mVs/H1nlG3mVs_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -215,18 +215,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "מהי מטבע קוונטי (Qubit)",
-   "summary": "בניגוד לביט רגיל (0 או 1), קיוביט יכול להיות בשני המצבים בו-זמנית — בסיס למחשוב הקוונטי.",
-   "source": "תמצית ידע יומית · טכנולוגיה",
+   "title": "אפקט דנינג-קרוגר",
+   "summary": "ככל שאדם יודע פחות בתחום, כך הוא נוטה להעריך את הידע שלו בו ביתר. מומחים אמיתיים דווקא מפחיתים בערך עצמם.",
+   "source": "תמצית ידע יומית · מוח וקוגניציה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "טכנולוגיה"
+     "מוח וקוגניציה"
     ],
     [
      "עובדה בונוס",
-     "אין מספיק זהב בעולם כדי לצפות בו את כל היבשה."
+     "לתמנון יש שלושה לבבות ודם כחול."
     ]
    ]
   }
