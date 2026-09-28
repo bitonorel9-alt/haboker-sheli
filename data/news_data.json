@@ -1,20 +1,20 @@
 {
  "date": "יום שני, 28 בספטמבר 2026",
  "date_he": "28/09/2026",
- "updated": "09:07",
+ "updated": "17:52",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אזהרה נוספת ממצרים נחשפת: \"ראש המודיעין התקשר לנתניהו ימים ספורים לפני הטבח\"",
-  "summary": "ב\"וול סטריט ג'ורנל\" מאשרים את הפרסום של סמדר פרי ב-ynet: אחרי שישראל התעלמה מ-2 אזהרות מצריות - בנוסף לאזהרה מהאמירויות - ראש המודיעין עבאס כאמל התקשר לנתניהו ימים ספורים לפני 7/10. לשכת רה\"מ: \"שקרים, נתניהו לא דיבר עם כאמל\"",
-  "link": "https://www.ynet.co.il/news/article/rk4u6wp9zg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/20/SymgqaoGkl/SymgqaoGkl_0_0_850_479_0_medium.jpg"
+  "title": "מהידידה הקרובה לחוד החנית של הלחץ על ישראל: מה קרה להולנד?",
+  "summary": "במשך עשרות שנים הולנד נחשבה לאחת מבעלות הברית הקרובות ביותר של ישראל באירופה; איך הידרדרו היחסים, מה מחכה לישראלי שנוחת בסכיפהול, מה השתנה בדעת הקהל ובפוליטיקה בהאג - והאם מדינות נוספות בדרך? ynet מסביר",
+  "link": "https://www.ynet.co.il/news/article/hkd2bkocgx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/H1ka9xu9Mx/H1ka9xu9Mx_0_54_1599_901_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 28.3° / 23.7°",
-   "summary": "כרגע 27.6°, לחות 63%, רוח 18.0 קמ״ש. סיכוי משקעים 20%.",
+   "summary": "כרגע 24.7°, לחות 73%, רוח 11.6 קמ״ש. סיכוי משקעים 20%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "63%",
-     63
+     "73%",
+     73
     ],
     [
      "רוח",
-     "18.0 קמ״ש"
+     "11.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,14 @@
    "image": null,
    "stats": [
     [
+     "Hapoel Kfar Shalem נגד Maccabi Kavilio Jaffa",
+     "3:1 · מחצית שנייה"
+    ],
+    [
+     "מכבי בני ריינה נגד Hapoel Raanana",
+     "1:2 · מחצית שנייה"
+    ],
+    [
      "Hapoel Bnei Ein Mahil נגד Bnei Mejar",
      "2:6 · הסתיים"
     ],
@@ -61,14 +69,6 @@
     [
      "Ahva Kfar Manda נגד Hapoel Bnei Ba'ana",
      "0:2 · הסתיים"
-    ],
-    [
-     "Maccabi Ramat Hasharon נגד Beitar Petah Tikva",
-     "1:6 · הסתיים"
-    ],
-    [
-     "Beitar Ramat Gan נגד Beitar Kfar Saba FC",
-     "1:3 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Racing United נגד Montego Bay Utd",
-     "0:1 · הסתיים"
-    ],
-    [
-     "Waterhouse FC נגד Treasure Beach Fc",
-     "2:0 · הסתיים"
-    ],
-    [
      "Georgia נגד Ukraine",
-     "טרם התחיל"
+     "0:0 · מחצית שנייה"
     ],
     [
      "Armenia נגד Montenegro",
-     "טרם התחיל"
+     "2:3 · הסתיים הרגע"
     ],
     [
      "Latvia נגד Cyprus",
+     "0:0 · הסתיים הרגע"
+    ],
+    [
+     "Romania נגד Bosnia & Herzegovina",
+     "טרם התחיל"
+    ],
+    [
+     "Sweden נגד Poland",
      "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "הכוכב החדש של הספארי: הנמר שנקרא על שם דני אבדיה",
-   "summary": "כוכב חדש הגיע לספארי רמת גן: נמר פרסי צעיר שנחת בישראל משבדיה קיבל את השם דני, על שמו של כוכב ה-NBA. הוא צפוי להצטרף לנועה, הנמרה שנקראה על שמה של נועה קירל. אבדיה התרגש: \"לא בכל יום קוראים לנמר על שמך\"",
+   "title": "הסוס ניצח במרוץ הבכורה – ונדרש להחליף את שמו בגלל רמיזה להיטלר",
+   "summary": "סוס המרוץ \"הצייר האוסטרי\" עורר סערה בארה\"ב, והגוף האחראי על רישום הסוסים הורה לשנות את שמו. הבעלים טען שמדובר במחווה לגוסטב קלימט, אך התברר כי קודם לכן הציע לקרוא לו \"מאבקי\" או על שם עיירת הולדתו של הצורר הנאצי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/rjjarswcge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/Bkv100iv5Gg/Bkv100iv5Gg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rkhskzdqml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/Syj11vMdcGe/Syj11vMdcGe_0_107_1024_577_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "שינוי מבנה הפלייאוף ודרישת מינימום לאולמות בחצי הגמר",
-   "summary": "במינהלת ליגת העל הוחלט כי רבע הגמר ייערך מעתה בשיטת הטוב משלושה באופן קבוע. בנוסף, החל מהעונה הקרובה, ייקבע רף מינימלי לאולם עבור קבוצות שיעפילו לשלב ארבע הגדולות",
+   "title": "אמריקה מחכה: הכישרון הענק שעומד לכבוש את הנבחרת",
+   "summary": "אחרי ההדחה המוקדמת מדי במונדיאל, נבחרת ארה\"ב שוב מחפשת את השחקן שיהפוך את הסוקר ללהיט .האם קוואן סאליבן בן ה-17, עם חוזה במנצ'סטר סיטי ומנטליות חסרת רחמים, הוא התשובה?",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hyodiidcmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/18/Sye32BWRex/Sye32BWRex_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bkj2ktu5me",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/27/S16GjnU9fl/S16GjnU9fl_0_109_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "במכבי ת\"א נערכים להעברת משחקי היורוליג לקפריסין",
-   "summary": "הצהובים מקדמים את ההיערכות לאירוח באי השכן, אך מדגישים כי מדובר ב\"תוכנית חלופית בלבד\". המטרה המרכזית נותרה: החזרת המשחקים לישראל. גם בהפועל ירושלים מקדמים מעבר דומה. בשבועיים הקרובים צפויים מנכ\"ל היורוליג ומנהל התחרויות להגיע לארץ לביקור התרשמות",
+   "title": "לברון הוצג בפילדלפיה: \"לא עזבתי את המשפחה שלי כדי להפסיד בסיבוב השני\"",
+   "summary": "ג'יימס הופיע לראשונה במדי הסיקסרס ושלח מסר ברור לקראת עונתו ה-24 ב-NBA. הכוכב סיפר על השיחות עם טייריס מקסי שהובילו להצטרפותו, והותיר את שאלת הפרישה פתוחה: \"אני לא יודע אם זה החוזה האחרון בקריירה שלי\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/b1ioj9vcfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/B1CzrhtKGl/B1CzrhtKGl_0_363_1066_601_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/bk2hi11u5fg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/rJPC5Z00cMl/rJPC5Z00cMl_30_1_1027_578_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "חיילי קים ג'ונג און, ההסכם הסודי – והעריקה שנחשפה: סיאול רותחת על זלנסקי",
-   "summary": "נשיא אוקראינה חשף באו\"ם כי ארצו העבירה לידי דרום קוריאה שני שבויי מלחמה צפון קוריאנים שנלחמו לצד רוסיה ונתפסו בשדה הקרב, וסיפר שאחד מהם ניסה להתאבד ולא הצליח. בסיאול אומרים שהשניים, אנשי הכוחות המיוחדים שיכולים לחשוף מידע על צבא פיונגיאנג, ביקשו לערוק מהדיקטטו…",
+   "title": "בצה\"ל נערכים לאפשרות שחמאס ינסה לחטוף חייל בקו הצהוב בעזה בקרוב",
+   "summary": "בעקבות מידע מודיעיני הועלתה רמת הכוננות של שתי האוגדות הפרוסות ברצועה. גורם צבאי בכיר: \"חמאס מנסה 'לעשות גלעד שליט' עד הבחירות בישראל ובארה״ב\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1tm00cd5ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/Hy1nRqP9fl/Hy1nRqP9fl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ryey7zo5gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/12/Skxp2uxFpgx/Skxp2uxFpgx_0_29_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "נשק מחוץ לגג הנפתח וירי באין מפריע: יותר מ-10 בני אדם נעצרו בנגב | תיעוד",
-   "summary": "המשטרה פשטה על בתים ומתחמים השייכים לשתי משפחות ברהט, שנמצאות בסכסוך הכולל אירועי ירי. לא נמסר אם הנשק שתועד נתפס",
+   "title": "נתניהו טוען ל\"עבירת צנזורה חמורה\" - וחושף: גם שרה נתניהו הייתה באמירויות",
+   "summary": "באופן חריג, משרד רה\"מ ציטט את שב\"כ והמוסד שהאשימו את ערוץ 12 ב\"איום ביטחוני חמור\" לרה\"מ וחברי המשלחת, בטענה שפרסמו על נסיעתו לאמירויות כשעה לפני שנחת בארץ. בין המשתתפים בביקור - גם ראשי המוסד והמל\"ל",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/skqbmidcme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/SkCEroP9fx/SkCEroP9fx_77_483_452_255_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hjmuifucgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/13/r1ajlVGJMx/r1ajlVGJMx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -202,10 +202,10 @@
   },
   {
    "section": "AI",
-   "title": "ב-OpenAI מודים: אנחנו עוצרים את פיתוח מודלי הענק שלנו אחרי שורת תקריות חמורות",
-   "summary": "תקרית Hugging Face הייתה רק ההתחלה. OpenAI לא מפסיקה לחשוף עוד ועוד מקרים שבהם המודלים שלה ברחו לעולם האמיתי ועשו ככל העולה על רוחם. בסוף השבוע היא חשפה שהתקריות הבלתי נגמרות האלו הובילו גם להשלכה משמעותית על ההתקדמות שלה בקרב על ההובלה בתחום ה-AI. התקריות לא …",
+   "title": "היסטוריה: SpaceX שיגרה בהצלחה את הטיל הגדול ביותר בעולם למסלול סביב כדור הארץ",
+   "summary": "אחרי לא פחות מ-13 שיגורים, חברת SpaceX יכולה סוף סוף לסמן וי, כשהחללית הענקית שלה, Starship, מצליחה בטיסת המבחן ה-14 להגיע למסלול סביב כדור הארץ ומהירות של כ-28 אלף קמ\"ש. השיגור ההיסטורי, שיצא לדרך לפני כשעה מ-Starbase בטקסס, לווה (בנוהל) בהתלהבות, מחיאות כפיי…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/openai-halts-sota-models-due-to-misaligned-agents/",
+   "link": "https://www.geektime.co.il/spacex-starship-orbital-flight-starlink-v3/",
    "image": null,
    "stats": [
     [
