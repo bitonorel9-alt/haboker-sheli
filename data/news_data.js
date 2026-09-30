@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום רביעי, 30 בספטמבר 2026",
  "date_he": "30/09/2026",
- "updated": "13:11",
+ "updated": "18:43",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מטוס פליי דובאי בסעודיה מעלה נוסעים, חלק מסרבים; מתחזק החשד: הטייס תכנן פיגוע גדול",
-  "summary": "מטוס חילוץ של חברת התעופה פליי דובאי נחת בסעודיה. אחד הנוסעים סיפר ל-ynet: \"מתחילים להעלות אותנו על המטוס\". חלק מהישראלים מסרבים לעלות על הטיסה. מתחזקת ההערכה שטייס המשנה תכנן לרסק את המטוס כדי להרוג את הישראלים על המטוס. הנחיתה המתוכננת בנתב\"ג - בין 18:00 ל-1…",
-  "link": "https://www.ynet.co.il/news/article/bje5so5czg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/SkDLZK95Ml/SkDLZK95Ml_0_558_1084_611_0_medium.jpg"
+  "title": "כשישראל ניסתה למתוח את הגבול - והסעודים נעמדו על הרגליים האחוריות",
+  "summary": "הסעודים מילאו תפקיד חשוב בליווי מטוס פליי דובאי ובקליטתו בשדה התעופה. על פי הנוסעים, הם זכו לטיפול רפואי ואוכל. מאחורי הקלעים, המוסד היה בקשר שוטף עם גורמים בריאד - אבל מתיחת הגבול הייתה בשאיפה להנחית מטוס של חיל האוויר לחילוץ הישראלים. המטרה: לא לצייר מצב של …",
+  "link": "https://www.ynet.co.il/news/article/hja0wa55fe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/B1mGcpFqqzg/B1mGcpFqqzg_0_294_2837_1598_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 27.3° / 23.3°",
-   "summary": "כרגע 26.8°, לחות 56%, רוח 18.3 קמ״ש. סיכוי משקעים 13%.",
+   "summary": "כרגע 24.2°, לחות 70%, רוח 7.9 קמ״ש. סיכוי משקעים 13%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "56%",
-     56
+     "70%",
+     70
     ],
     [
      "רוח",
-     "18.3 קמ״ש"
+     "7.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,48 +51,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Maccabi Neve Sha'anan נגד SC Tira",
-     "1:2 · מחצית שנייה"
+     "Hapoel Nof Ha'galil נגד SC Tzeirei Tamra",
+     "2:3 · מחצית שנייה"
     ],
     [
-     "Hapoel Ironi Arabe נגד Hapoel Migdal HaEmek",
-     "1:0 · מחצית ראשונה"
+     "Maccabi Ironi Ashdod נגד Yirmiahu Holon",
+     "2:0 · מחצית שנייה"
     ],
     [
-     "Shimshon Tel Aviv נגד Ironi Nir Ramat HaSharon",
-     "0:0 · מחצית ראשונה"
+     "Hapoel Mahne-Yehuda נגד MS Dimona",
+     "2:3 · מחצית שנייה"
     ],
     [
-     "Kiryat Malahi נגד Hapoel Hertzliya",
-     "0:0 · מחצית ראשונה"
+     "Hapoel Beit She'an Mesilot נגד Hapoel Ironi Baka El Garbia",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Hapoel Bnei Ein Mahil נגד Bnei Mejar",
-     "2:6 · הסתיים"
+     "FC Tzeiri Tira נגד FC Jerusalem",
+     "0:1 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
-   "stats": [
-    [
-     "Medeama SC נגד Port City",
-     "טרם התחיל"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "שלוש שנים אחרי 7 באוקטובר: מגרש כדורגל חדש נחנך בכרם שלום",
-   "summary": "המגרש הוקם בהשקעה של 646 אלף שקל מכספי מנהלת תקומה, כחלק מהפעילות לחיזוק הספורט הקהילתי בחבל ובמעמד שחקני הפועל באר-שבע: \"יוצרים כאן אפשרויות חדשות עבור הדור הצעיר\"",
+   "title": "רבע 2, 09:06: מכבי ת\"א - בשיקטאש 29:21",
+   "summary": "יורוליג, מחזור 2: חניכיו של עודד קטש מתקשים בהגנה ומרבים לאבד כדורים ולהיכנס לשטף בצד ההתקפי, במה שאפשר לטורקים לעלות ליתרון. סורקין בולט",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1ydwf9qfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/rJ1xdYc5ze/rJ1xdYc5ze_0_80_1440_811_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one534696",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/one1890471/one1890471_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +88,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "לאציו פתחה נהדר את העונה - אז למה האוהדים מחרימים אותה?",
-   "summary": "בצד אחד: אולטראס פאשיסטים. בצד השני: בעלים קומבינטור שמצפצף על האוהדים. התוצאה: חרם מינויים וטריבונות ריקות באולימפיקו. וכל זה קורה כשג'נארו גאטוסו מוביל את לאציו לפתיחה הכי מסחררת עליה יכל לחלום",
+   "title": "בן שמעון: \"הציפיות נגד אירלנד חנקו אותנו. זה לא תירוץ\"",
+   "summary": "אחרי שני הפסדים בפתיחת ליגת האומות, מאמן נבחרת ישראל התייחס לתבוסה לקראת קוסובו מחר (חמישי, 21:45) בהונגריה: \"הלבישו עלינו תקוות גדולות מאוד\". על השינויים האפשריים בהרכב: \"אין בנבחרת מושג של הדחה\". דסה: \"הביקורות מוצדקות ולגיטימיות\". המאמן יערוך שישה שינויים ב…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/byjtvffqme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/BkfTStKcGx/BkfTStKcGx_581_0_2347_1322_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rj9wh39cge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/SJMZ2kEYtGe/SJMZ2kEYtGe_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מאמן נבחרת אירלנד: \"נשחק מול ישראל, לא אתן לרעשי הרקע להשפיע\"",
-   "summary": "היימיר הלגרימסון דיבר לקראת המשחק מול אוסטריה והתייחס גם למפגש עם ישראל ביום ראשון: \"ההתאחדות אמרה שאנחנו משחקים בשני המשחקים ונקיים אותם. הכוונה שלנו הייתה כזו מהרגע שהגענו למחנה. היה קשה מאוד, אבל אנחנו צריכים לקחת את זה יום אחרי יום\"",
+   "title": "מזרחי, רקנאטי ולוין הפעילו את זכות הסירוב על מניות בן אשכנזי במכבי ת\"א",
+   "summary": "תפנית נוספת במאבק הבעלות במכבי ת\"א: השלושה מימשו את זכותם לרכישת 9% מהמניות שמחזיק בן אשכנזי, לאחר שגם דיץ הפעיל את זכות הסירוב לגביהן. במקביל, פתיחת הבוררות ממתינה להכרעת בית המשפט בשאלת צירופו של לוין",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjuoa89cmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/Sk11cma85cGx/Sk11cma85cGx_0_774_2000_1126_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/skvqwhq5gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/Bk5SkvO00Gl/Bk5SkvO00Gl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הסתעפות בפרשת בניהו רזי: אחרי אשפוז הנאשמת - אמה ביקרה עם מסמך מזויף",
-   "summary": "פרסום ראשון: לינור ששון פונתה בשבוע שעבר לבית החולים ממעצרה בנווה תרצה בחשד לאירוע מוחי, ואמה הגיעה למקום עם פרוטוקול מזויף - שלפיו היא \"רשאית לבקר בתי שנוח לה\". היא נחקרת במשטרת ירושלים, כשבשב\"ס חשבו תחילה שגם בתה מציגה מצג שווא: \"נכנסה למרפאה כשהיא מתקשה ללכ…",
+   "title": "אחרי ניסיון הפיגוע: טיסות פליי דובאי לישראל נעצרו ל-6 ימים",
+   "summary": "שרת התחבורה דרשה להפסיק את טיסותיה של פליי דובאי לישראל עד לבירור נסיבות האירוע. החברה מפעילה 10 טיסות לארץ מדי יום",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkn1xo5qzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/S1dWgGhuzx/S1dWgGhuzx_0_51_714_402_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b17feo55gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/11/04/Skl3uOexKv/Skl3uOexKv_0_0_801_451_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -144,15 +130,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "דיון סוער בהערכת המצב: רגב דורשת לעצור טיסות של פליי דובאי עד לתחקיר המחדל",
-   "summary": "שרת התחבורה טוענת שהחברה הפרה את הסכם התעופה בין האמירויות לישראל בכך ששיבצה לטיסה ארצה טייס מעומאן שאין לישראל יחסים דיפלומטיים איתה. גורם במשרד התחבורה: \"זה מגה-אירוע, היינו קרובים לאסון גדול מאוד שנמנע\"",
+   "title": "הפרופ' שהטריד את הדוקטורנטית שלו בעברית המשיך בקריירה. היא מתה",
+   "summary": "ערעור שנדחה בבית הדין של האוניברסיטה העברית גולל סיפור קשה ועצוב: דוקטורנטית צעירה שהוטרדה שוב ושוב, התלוננה - ועד ההרשעה נמצאה ללא רוח חיים. המתמטיקאי, פרופ' קארים אדיפרסיטו, מכהן כיום בתפקידים בכירים במוסדות אקדמיים בצרפת. העונש: שתי משכורות",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/ryyacd9cfx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/SyGoI0059zx/SyGoI0059zx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ryxt5559ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/SkPR0T99zg/SkPR0T99zg_0_59_1001_563_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "יניב ייצב את המטוס כמו שראה בטלוויזיה: הסדרה שהצילה את נוסעי פליי דובאי?",
+   "summary": "יניב חיון סיפר כי \"חנק את המפגע ומשך בהגאי המטוס\" במהלך האירוע בטיסת פליי דובאי, וייחס את כישוריו לסדרה \"תעופה בחקירה\", שבה הוא צופה. זוהי הסדרה התיעודית הוותיקה שעוקבת אחר אסונות אוויריים, משלבת שחזורים דרמטיים, עדויות והקלטות מתא הטייס - ואפילו הקדישה פרק לה…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/ry6wlt5cfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ry9bxCcqfl/ry9bxCcqfl_0_46_1280_721_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -177,20 +177,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/b1mpv8l5ml",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/ryL005V99zx/ryL005V99zx_430_101_2022_1138_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "הסוד המשפחתי ב\"יתום\" מסקרן, אבל זה דמות הקצב המפחיד שעושה את הסרט",
-   "summary": "אחרי \"הבן של שאול\", הבמאי זוכה-האוסקר לזלו נמש חוזר להונגריה של שנות ה-50 עם סיפור אישי על ילד שמחכה לאביו שנעלם. כניסתו של קצב מסתורי וברוטאלי לחייו מערערת את עולמו, ומחברת בין טראומת המשפחה לבין האנטישמיות והדיכוי הפוליטי של התקופה. זה אינו סרט גדול כמו יציר…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hkmzknd5ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/28/By11cAdVucfx/By11cAdVucfx_645_306_2076_1169_0_medium.jpg",
    "stats": [
     [
      "מקור",
