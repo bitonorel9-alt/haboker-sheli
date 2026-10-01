@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 1 באוקטובר 2026",
  "date_he": "01/10/2026",
- "updated": "15:50",
+ "updated": "20:41",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "צה\"ל חושף: 170 מה\"עיתונאים\" שנהרגו בעזה - מחבלים | השמות והתפקידים",
-  "summary": "גם רויטרס, CNN ו-BBC: הנרטיב לפיו ישראל הורגת עיתונאים באופן שיטתי כבר התקבע בעולם, ולאחרונה זיהו בצבא כי ארגוני הטרור מודים כי הם היו פעילים בזרועות הצבאיות שלהם - ואף מתגאים בכך. כעת מנסה צה\"ל להדוף את הביקורת באמצעות חשיפת שמות המחבלים - וכלי התקשורת שהעסיק…",
-  "link": "https://www.ynet.co.il/news/article/syazkk2qzl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/SJ11A6J39fe/SJ11A6J39fe_0_0_1280_720_0_medium.jpg"
+  "title": "הסלמה באפריקה: אריתריאה מנתקת יחסים עם אתיופיה, זו אזהרת המסע",
+  "summary": "כבר שבוע וחצי נלחמים המורדים בממשלת אתיופיה. באדיס אבבה האשימו את אריתריאה השכנה בתמיכה בהם, סגרו את השגרירות וגירשו 10 דיפלומטים - ובתגובה הודיעו באריתריאה על ניתוק \"כל היחסים הדיפלומטיים\". הלילה: פיצוצים באדיס אבבה, כנראה עקב תקיפות רחפנים. משרד החוץ: אל תגי…",
+  "link": "https://www.ynet.co.il/news/article/bygv4nhcfg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/HyNXmbt5fg/HyNXmbt5fg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 27.1° / 22.7°",
-   "summary": "כרגע 24.4°, לחות 66%, רוח 12.4 קמ״ש. סיכוי משקעים 13%.",
+   "title": "עתלית · 27.5° / 22.7°",
+   "summary": "כרגע 24.7°, לחות 65%, רוח 4.0 קמ״ש. סיכוי משקעים 13%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "27.1°"
+     "27.5°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "66%",
-     66
+     "65%",
+     65
     ],
     [
      "רוח",
-     "12.4 קמ״ש"
+     "4.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,34 +51,64 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "MS Tzeirei Kfar Kana נגד FC Shfaram",
-     "0:0 · מחצית"
-    ],
-    [
-     "Maccabi Yavne נגד Ironi Bet Shemesh",
-     "1:0 · מחצית ראשונה"
-    ],
-    [
-     "Maccabi Ironi Netivot נגד MS Shikun HaMizrah",
-     "0:0 · מחצית ראשונה"
-    ],
-    [
      "Hapoel Kauhav נגד FC Shfaram",
      "1:1 · הסתיים"
     ],
     [
      "Maccabi Kiryat Gat נגד MS Kfar Kassem",
      "0:1 · הסתיים"
+    ],
+    [
+     "Hapoel Kfar Saba נגד Bnei Yehuda",
+     "1:2 · הסתיים"
+    ],
+    [
+     "Hapoel Kfar Shalem נגד Maccabi Kavilio Jaffa",
+     "3:1 · הסתיים"
+    ],
+    [
+     "מכבי בני ריינה נגד Hapoel Raanana",
+     "1:2 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "עודד קטש אחרי פתיחת העונה הרעה ביורוליג: \"זו האחריות שלנו להגיב\"",
-   "summary": "אחרי ההפסד לבשיקטאש, שהיה השני שלה מתוך שני משחקים, מאמן מכבי ת\"א דיבר לפני ההמראה ליוון, לקראת המשחק הקשה מול פנאתינייקוס: \"אחד המשחקים הכי קשים שהיורוליג יכול להציע\"",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "Azerbaijan נגד Liechtenstein",
+     "0:0 · הסתיים"
+    ],
+    [
+     "Asante Kotoko נגד Karela",
+     "1:0 · הסתיים"
+    ],
+    [
+     "Ireland נגד Austria",
+     "2:2 · הסתיים הרגע"
+    ],
+    [
+     "Israel נגד Kosovo",
+     "0:0 · הסתיים הרגע"
+    ],
+    [
+     "Wales נגד Norway",
+     "2:1 · הסתיים הרגע"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "המחאה נגד ישראל נמשכת: כדורי טניס עם דגלי פלסטין הושלכו למגרש באירלנד",
+   "summary": "מפגינים פרו-פלסטינים הגיעו הערב לאצטדיון אביבה בדבלין, למשחק נגד אוסטריה, והמשיכו במחאה נגד המפגש הצפוי מול הכחולים-לבנים ביום ראשון בסרביה (21:45). המשחק הופסק לארבע דקות בעקבות מחאת הכדורים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1wmix3cme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/03/rkWqWxzBCWg/rkWqWxzBCWg_412_49_1859_1047_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/byketm39ml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/r1PuL429fg/r1PuL429fg_1_305_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -88,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אי אפשר להבקיע אם לא מנסים לבעוט | תוכן גולשים",
-   "summary": "לא ייתכן שנבחרת ישראל הנוכחית לא יוזמת ולא יוצרת מצבי הבקעה ובעיטות לשער. הרי זה עדיף על כדרור אינסופי, שגם מתיש את השחקנים מבחינה פיזית וגם גורם לבזבוז זמן יקר. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "חי, מחצית שנייה: ישראל - קוסובו 0:0",
+   "summary": "אחרי חצי שעה מנומנמת בדברצן, הכחולים לבנים הגיעו לשני מצבים נהדרים תוך דקה, אך עבדה ובריבו רשמו שתי החמצות גדולות, ובהמשך גם פרץ נעצר אצל שוער היריבה. החבורה של בן שמעון מחפשת ניצחון בכורה בליגת האומות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hyinw9ccge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BJvNQemqGe/BJvNQemqGe_0_148_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1i8j99qgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/Bk1xoEhczx/Bk1xoEhczx_159_142_1663_937_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "פצוע - אבל יוצא לבלות: התיעוד של אמבאפה שהרתיח את אוהדי ריאל מדריד",
-   "summary": "הכוכב נפצע במהלך משחקה של צרפת וחזר למדריד לצורך טיפול, אך לפי דיווח בספרד לא הגיע למתחם האימונים של הבלאנקוס ביומיים האחרונים. במקביל הוא תועד בפריז לצד בת זוגו אסתר אקספוסיטו – והדבר עורר ביקורת ואף טענות כי הפציעה אינה חמורה כפי שנטען",
+   "title": "דקה 88: אירלנד - אוסטריה 2:2",
+   "summary": "ליגת האומות, מחזור 3: פארוט כבש אחרי מבצע אישי מופלא והשלים צמד בפנדל (45'). מנגד, האוסטרים חזרו עם גול של פראס (71') וגרגוריץ' השווה (77')",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rkxfkyncmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/21/rJKtP6AYzl/rJKtP6AYzl_480_102_1973_1111_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/534779",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/one1890652/one1890652_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "לקראת חידוש התקיפות נגד איראן? ארה\"ב שולחת לאזור נושאת מטוסים ויחידת מארינס",
-   "summary": "נושאת המטוסים תאודור רוזוולט עושה את דרכה למזרח התיכון יחד עם כוח נחתים נוסף, ברקע המשבר במצר הורמוז וההסלמה בין סעודיה לחו'תים. טראמפ ממשיך לאיים על איראן, ומאותת על החודש הבא כמועד אפשרי לחידוש המלחמה",
+   "title": "באמירויות חזרו בהם? משבר לפני תחילת טיסות החילוץ",
+   "summary": "החברות הישראליות היו אמורות להוציא מחר טיסות חילוץ ראשונות מדובאי והכרטיסים לטיסות אל על נמכרו תוך דקות, אבל במשרד התחבורה והשב\"כ החלו במרתון דיונים - לאחר שבאמירויות שוקלים מחדש את האישור שניתן. החלטת ביטול סופית טרם ניתנה. בכל מקרה, הנוסעים לא יורשו להעלות ט…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bygseg25mx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/23/r1x9VUBUR/r1x9VUBUR_0_76_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bkykxlnqzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/16/HJKvxX02Wx/HJKvxX02Wx_0_0_1000_563_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "גם בשבת, בלי המזוודות: טיסות החילוץ מדובאי יוצאות מחר לדרך",
-   "summary": "אחרי השעיית טיסות פליי דובאי, אל על וארקיע פתחו את המכירה לטיסות החילוץ שיחלו מחר. הכרטיסים לשתי טיסות של על אל אזלו תוך דקות, ארקיע תטוס גם בשבת. הנוסעים יורשו לעלות עם תיק בלבד - המזוודות יישלחו בנפרד לישראל",
+   "title": "ניסיון חטיפת נשק, יידוי אבנים ומטעני דמה: עונת המסיק בפתח, המתיחות ביו\"ש בשיא",
+   "summary": "ברחבי יהודה ושומרון נפצעו ישראלים ופלסטינים בפתח השיא של העונה החקלאית שמביאה עמה מדי שנה חיכוכים ומתיחות. ברקע: האתגר שמציבות יותר מ-100 חוות חקלאיות בשטח למערכת הביטחון",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bkykxlnqzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/04/16/HJKvxX02Wx/HJKvxX02Wx_0_0_1000_563_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjiujbhcze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/B1QOiWn9zg/B1QOiWn9zg_0_0_640_352_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -186,6 +216,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "אם שכולה בהקרנת \"נז\"א\" בהולנד: \"חמאס רצח את בעלי והבן שלי, איפה זה בסרט?\"",
+   "summary": "הקרנה אירופית של \"נז\"א\" לוותה בעימות, לאחר שסבין תעסה, שבעלה ובנה נרצחו בטבח 7 באוקטובר, עלתה לבמה ומחתה האופן שבו מוצגים אירועי המלחמה בסרט. בתגובה נשמעו מהקהל קריאות \"תתביישי\" ו\"לא אכפת לנו\". לאחר האירוע מסרה תעסה ל-ynet: \"יוצרי הסרט מתפרסמים על חשבון המתים …",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/h1teg7n5fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/Sypofmh5ze/Sypofmh5ze_0_15_546_308_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "אחרי כניסת אסף רפפורט: מנכ״לית חדשות 13 סיימה את תפקידה",
    "summary": "טלי בן עובדיה, שכיהנה כמנכ\"לית חדשות 13, הודיעה על פרישתה פחות מחודש לאחר שאושרה רשמית רכישת הערוץ על ידי אסף רפפורט. \"נפלה בידינו זכות גדולה ללוות את אחת התקופות המשמעותיות של המדינה\", כתבה לעובדים, והוסיפה: \"אני גאה שזכיתי להוביל אתכם בשנתיים האחרונות\"",
    "source": "ynet - תרבות ובידור",
@@ -205,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/byevoio5fe",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/BJAspoiqzx/BJAspoiqzx_71_52_620_349_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "לא רק \"תעופה בחקירה\": הסדרות שיהפכו אתכם לחכמים יותר",
-   "summary": "הילדה בת העשר שהצילה את אמה בזכות \"האנטומיה של גריי\", טיפ הזהב שיעזור לכם להימנע מעוקץ והדרך של מקגייוור לעצור דליפת חומצה קטלנית בעזרת שוקולד: אחרי שיניב חיון, מגיבורי טיסת פליי דובאי, סיפר ש\"תעופה בחקירה\" סייעה לו לייצב את המטוס - אספנו עוד כמה הוכחות לכך שה…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/ryrvuui5zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/rksWcqj5fx/rksWcqj5fx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
