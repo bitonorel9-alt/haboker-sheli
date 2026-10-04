@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 4 באוקטובר 2026",
  "date_he": "04/10/2026",
- "updated": "18:28",
+ "updated": "22:06",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אבו שחאדה בחוץ, בל\"ד נשארת: כך נראית הרשימה המשותפת אחרי הפרישה",
-  "summary": "יו\"ר בל\"ד אמנם הסיר את מועמדותו לאחר ששופטי העליון אותתו כי מסתמן רוב לאישור פסילתו, אך במפלגה מבהירים: הוא ימשיך להנהיג אותה. בעקבות המהלך יתקדמו כל המועמדים שאחריו מקום אחד ברשימה המשותפת - ובבל\"ד מקווים שהפרשה תמריץ את תומכיה לצאת לקלפיות, ולא תפגע בשיעור ה…",
-  "link": "https://www.ynet.co.il/news/elections2026/article/s100kfzesze",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/H1fz6xejfg/H1fz6xejfg_1_153_850_479_0_medium.jpg"
+  "title": "\"לולה משמיד אותנו\": ברזיל סופרת קולות בבחירות גורליות, איש הימין הפרו-ישראלי מוביל",
+  "summary": "הגל השמרני באמריקה הלטינית יכבוש גם את המדינה הגדולה ביותר בה? מספירה ראשונית של הקולות בבחירות לנשיאות ברזיל מוביל לעת עתה איש הימין פלאביו בולסונרו בן ה-45 - בנו של הנשיא לשעבר ז'איר בולסונרו שנכלא בגין ניסיון הפיכה - על הנשיא ואיש השמאל לולה דה סילבה, בן 80…",
+  "link": "https://www.ynet.co.il/news/article/skhnmzgimx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/SkrRrWhcGg/SkrRrWhcGg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 29.0° / 22.7°",
-   "summary": "כרגע 24.9°, לחות 66%, רוח 10.6 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 27.3° / 22.5°",
+   "summary": "כרגע 23.7°, לחות 69%, רוח 5.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "29.0°"
+     "27.3°"
     ],
     [
      "מינימום",
-     "22.7°"
+     "22.5°"
     ],
     [
      "לחות",
-     "66%",
-     66
+     "69%",
+     69
     ],
     [
      "רוח",
-     "10.6 קמ״ש"
+     "5.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,14 +51,6 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "MS Netanya נגד Hapoel Daliat El Karmel",
-     "0:0 · מחצית ראשונה"
-    ],
-    [
-     "Bnei Yehod נגד Amishav Petah Tikva",
-     "0:1 · מחצית ראשונה"
-    ],
-    [
      "Maccabi Ihud Bnei Ivtin נגד Hapoel Bnei Ba'ana",
      "2:1 · הסתיים"
     ],
@@ -68,6 +60,14 @@ window.NEWS_DATA = {
     ],
     [
      "Hapoel Ihud Bnei Sumei FC נגד Hapoel Bnei Jdaidie Makr",
+     "1:1 · הסתיים"
+    ],
+    [
+     "Ahva Kfar Manda נגד Hapoel Bnei Ein Mahil",
+     "3:0 · הסתיים"
+    ],
+    [
+     "Maccabi Bnei Jdeide נגד Hapoel Yarka",
      "1:1 · הסתיים"
     ]
    ]
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "ASC HLM נגד Casa Sport",
-     "הסתיים"
+     "Treasure Beach Fc נגד Humble Lions",
+     "1:0 · מחצית שנייה"
     ],
     [
-     "Jaraaf נגד Ajel",
-     "הסתיים"
+     "Montego Bay Utd נגד Dunbeholden Fc",
+     "1:0 · מחצית שנייה"
     ],
     [
-     "Génération Foot נגד AS Pikine",
-     "הסתיים"
+     "Tru-Juice FC נגד Tivoli Gardens",
+     "0:2 · מחצית שנייה"
     ],
     [
-     "Guédiawaye Fc נגד Dakar SC",
-     "הסתיים"
+     "Molynes United נגד Racing United",
+     "0:1 · מחצית ראשונה"
     ],
     [
-     "Gorée נגד ASC Linguère",
-     "הסתיים"
+     "Wales נגד Denmark",
+     "0:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "כדורסל נשים: הפועל ראשל\"צ ניצחה את חולון עם הבאזר",
-   "summary": "סל של יינג העניק לאלופה 71:72 דרמטי במחזור השני בליגת העל. רמלה ואשדוד הביסו, בני יהודה ניצחה בר\"ג",
+   "title": "בן שמעון: \"מי שעלה על המגרש נתן הכל - הגיע לנו לנצח\"",
+   "summary": "ישראל נעלה הלילה את החלון הבינלאומי עם 1:1 מול אירלנד - ושמרה לעצמה סיכוי תיאורטי לסיים באחד משני המקומות הראשונים. על האכזבה מהתוצאות בחלון שנסגר הלילה, אמר המאמן: \"מגיעה לנו ביקורת ומקבלים אותה באהבה\". דור פרץ: \"הצגנו כדורגל נפלא במחצית השנייה\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rykmuflizx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/16/HyUZi1ANkl/HyUZi1ANkl_0_199_1750_986_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sy835nlizl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HykGVEgiGg/HykGVEgiGg_21_9_680_383_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "יש דרבי בגמר: מכבי ת\"א ניצחה את הפועל ירושלים 71:88 בחצי גמר גביע ווינר",
-   "summary": "אחרי שלושה הפסדים ביורוליג, הצהובים חזרו לחייך: הקבוצה של קטש מחקה פיגור דו־ספרתי והכריעה את מחזיקת התואר עם יכולת נהדרת ברבע האחרון. בריסט הוביל את השינוי אחרי ההפסקה, לונדברג עזר להשלים את הבריחה. הפועל ת\"א מחכה בקרב על הגביע",
+   "title": "כרגע היא אחרונה בבית: מה נבחרת ישראל צריכה כדי לא לרדת דרג?",
+   "summary": "אחרי ה-1:1 מול אירלנד, הכחולים-לבנים יצטרכו להשיג תוצאות טובות מול קוסובו ואוסטריה כדי להימנע מירידה לדרג ג'. וגם: ההשלכות לקראת מוקדמות היורו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rjnnuurcme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1feB3xeozg/r1feB3xeozg_1_95_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syzftqgiml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/BJ8YGQxoGg/BJ8YGQxoGg_0_97_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "עדיין בלתי מנוצחת: אוסטריה חילצה 1:1 מקוסובו",
-   "summary": "ראנגניק ושחקניו התקשו מול המארחת וכבר היו בדרך להפסד אחרי שאסלאני העניק יתרון ביתי בדקה ה-70, אך לאנג המחליף חילץ נקודה (85') בבית הישראלי",
+   "title": "תיקון חלקי: ישראל סיימה ב-1:1 עם אירלנד",
+   "summary": "שבוע אחרי התבוסה בדברצן, הנבחרת של רן בן שמעון חזרה מפיגור בסרביה, אך נותרה ללא ניצחון בליגת האומות. פארוט כבש בפנדל אחרי עבירה של דור פרץ (39), שהשווה בפתיחת המחצית השנייה (47). גאנדלמן וגלוך החמיצו הזדמנויות גדולות להשלים מהפך. האירים שוב נמנעו מלחיצות ידיים…",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/535028",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/one1890989/one1890989_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bji1asrqfe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1KtX7eiMe/r1KtX7eiMe_0_52_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הנאום של סגלוביץ' ברהט נקטע לרגע בצרור יריות | תיעוד",
-   "summary": "מספר 2 ברע\"מ דיבר על הפשיעה בחברה הערבית, ולאחר צרור היריות שקטע את דבריו אמר לתושבים: \"זה דבר שלא יכול להיות במדינה מתוקנת\"",
+   "title": "אחרי \"המזימה האיראנית\": כל המפציצים האמריקניים עזבו את הבסיס הבריטי",
+   "summary": "שבוע אחרי התקרית החריגה ליד בסיס פיירפורד, הודיע הפנטגון כי מפציצי ה-B-1 שהוצבו בו ושימשו למתקפות על איראן במלחמה הוחזרו לבסיסי האם שלהם: \"יש לנו יכולת תקיפה גלובלית גם משטח ארה\"ב\". 6 חשודים שנעצרו בבריטניה שוחררו בערבות: \"משמרות המהפכה גייסו אותם כדי לפגוע במ…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hkc11mfloml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SyHvzzxozg/SyHvzzxozg_0_196_584_329_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ry52w4gogl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/14/HkeC5QQc11g/HkeC5QQc11g_0_197_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הטייס-מחבל התכוון להתרסק על נתב\"ג - כבר ביולי: \"בדקתי איזו חברה טסה לת\"א\"",
-   "summary": "המאם אל-המאמי שניסה לחטוף את טיסת \"פליי דובאי\" רצה לחולל פיגוע המוני בנתב\"ג - ולכן השתלט על המטוס רק באזור ירדן. מהחקירה עולה כי נחת בארץ כבר בקיץ ודחה את מועד הפיגוע כי ריחם על איש צוות. התוכנית: אם לא בנתב\"ג - אז להתרסק על בסיס אמריקני בממלכה השכנה. הפתרון ש…",
+   "title": "פעם היו מקשיבים להתרעות שלו. היום כבר בקושי מתייחסים | אלה יהיו ההשלכות",
+   "summary": "כשצוללים אל הדוחות האלה קשה שלא להיבהל: שורת אזהרות במגוון תחומים, שהאחריות לתיקונם מוטלת על משרדי הממשלה - מבלי שאיש אוכף שהם עושים זאת. שנים לפני שטייס-מחבל כמעט והצליח לרסק מטוס גדוש בנוסעים בנתב\"ג, מבקר המדינה כבר התריע על הפרצות, ורק עכשיו הורה נתניהו ליי…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rythizxome",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HyIOTn1jfx/HyIOTn1jfx_0_0_503_284_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/skp3ytjjze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HkNNbWlszg/HkNNbWlszg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
