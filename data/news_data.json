@@ -1,20 +1,20 @@
 {
  "date": "יום ראשון, 4 באוקטובר 2026",
  "date_he": "04/10/2026",
- "updated": "14:40",
+ "updated": "18:28",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "כשמשרד התחבורה מתפרק, האחריות לא יכולה לטוס למקום אחר",
-  "summary": "אי אפשר לקבוע היום שעזיבת עובדים את המשרד היא שגרמה למחדל פליי דובאי. זו תהיה מסקנה שאין לה עדיין בסיס. אבל בהחלט מותר - וחובה לשאול אם יש קשר בין הדברים",
-  "link": "https://www.ynet.co.il/news/article/s1qparksgl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/BJAQYzC9fg/BJAQYzC9fg_1_56_687_387_0_medium.jpg"
+  "title": "אבו שחאדה בחוץ, בל\"ד נשארת: כך נראית הרשימה המשותפת אחרי הפרישה",
+  "summary": "יו\"ר בל\"ד אמנם הסיר את מועמדותו לאחר ששופטי העליון אותתו כי מסתמן רוב לאישור פסילתו, אך במפלגה מבהירים: הוא ימשיך להנהיג אותה. בעקבות המהלך יתקדמו כל המועמדים שאחריו מקום אחד ברשימה המשותפת - ובבל\"ד מקווים שהפרשה תמריץ את תומכיה לצאת לקלפיות, ולא תפגע בשיעור ה…",
+  "link": "https://www.ynet.co.il/news/elections2026/article/s100kfzesze",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/H1fz6xejfg/H1fz6xejfg_1_153_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 29.0° / 22.7°",
-   "summary": "כרגע 26.1°, לחות 63%, רוח 20.6 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 24.9°, לחות 66%, רוח 10.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "63%",
-     63
+     "66%",
+     66
     ],
     [
      "רוח",
-     "20.6 קמ״ש"
+     "10.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,14 @@
    "image": null,
    "stats": [
     [
+     "MS Netanya נגד Hapoel Daliat El Karmel",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Bnei Yehod נגד Amishav Petah Tikva",
+     "0:1 · מחצית ראשונה"
+    ],
+    [
      "Maccabi Ihud Bnei Ivtin נגד Hapoel Bnei Ba'ana",
      "2:1 · הסתיים"
     ],
@@ -60,14 +68,6 @@
     ],
     [
      "Hapoel Ihud Bnei Sumei FC נגד Hapoel Bnei Jdaidie Makr",
-     "1:1 · הסתיים"
-    ],
-    [
-     "Ahva Kfar Manda נגד Hapoel Bnei Ein Mahil",
-     "3:0 · הסתיים"
-    ],
-    [
-     "Maccabi Bnei Jdeide נגד Hapoel Yarka",
      "1:1 · הסתיים"
     ]
    ]
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Azerbaijan נגד Lithuania",
-     "1:0 · מחצית שנייה"
+     "ASC HLM נגד Casa Sport",
+     "הסתיים"
     ],
     [
-     "Samartex נגד Young Apostles",
-     "טרם התחיל"
+     "Jaraaf נגד Ajel",
+     "הסתיים"
     ],
     [
-     "Basake Holy Stars FC נגד Berekum Chelsea",
-     "טרם התחיל"
+     "Génération Foot נגד AS Pikine",
+     "הסתיים"
     ],
     [
-     "Aduana Stars נגד Swedru All Blacks",
-     "טרם התחיל"
+     "Guédiawaye Fc נגד Dakar SC",
+     "הסתיים"
     ],
     [
-     "Port City נגד Bechem United",
-     "טרם התחיל"
+     "Gorée נגד ASC Linguère",
+     "הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "בחצי הגמר: ניצחון 32 ברציפות לנובאק ג'וקוביץ' בבייג'ינג",
-   "summary": "מטורף: הסרבי הבלתי נגמר גבר 6:4, 4:6, 4:6 על אלכסנדר זברב, הדיח את המדורג 2 בעולם ועלה למאזן 0:32 בבירת סין בדרך לשיא היסטורי",
+   "title": "כדורסל נשים: הפועל ראשל\"צ ניצחה את חולון עם הבאזר",
+   "summary": "סל של יינג העניק לאלופה 71:72 דרמטי במחזור השני בליגת העל. רמלה ואשדוד הביסו, בני יהודה ניצחה בר\"ג",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/b15afrjsgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/S1mnF0yoGe/S1mnF0yoGe_0_161_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rykmuflizx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/16/HyUZi1ANkl/HyUZi1ANkl_0_199_1750_986_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "ירדן גרזון וסראגוסה פתחו את העונה בספרד בניצחון",
-   "summary": "הישראלית, שחתמה אצל סגנית האלופה הספרדית שמשחקת גם ביורוליג לנשים, סיימה את משחק הבכורה שלה בליגה עם 9 נקודות ו-6 ריבאונדים ב-16 דקות, בניצחון הביתי הנוח של סראגוסה על אסטפונה 41:68",
+   "title": "יש דרבי בגמר: מכבי ת\"א ניצחה את הפועל ירושלים 71:88 בחצי גמר גביע ווינר",
+   "summary": "אחרי שלושה הפסדים ביורוליג, הצהובים חזרו לחייך: הקבוצה של קטש מחקה פיגור דו־ספרתי והכריעה את מחזיקת התואר עם יכולת נהדרת ברבע האחרון. בריסט הוביל את השינוי אחרי ההפסקה, לונדברג עזר להשלים את הבריחה. הפועל ת\"א מחכה בקרב על הגביע",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/rkxn8c1jgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/16/H14ihMx00Wg/H14ihMx00Wg_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rjnnuurcme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1feB3xeozg/r1feB3xeozg_1_95_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "רז שלמה החולה לא בסגל הנבחרת לאירלנד, סולומון עשוי לרדת לספסל",
-   "summary": "הבלם לא יעמוד לרשותו של רן בן שמעון למפגש עם האירים בליגת האומות (21:45), גיא מזרחי יפתח במקומו במרכז ההגנה. שחקן הכנף סובל גם הוא ממחלה, וייתכן שלא יפתח. גלוך יעלה ב-11",
+   "title": "עדיין בלתי מנוצחת: אוסטריה חילצה 1:1 מקוסובו",
+   "summary": "ראנגניק ושחקניו התקשו מול המארחת וכבר היו בדרך להפסד אחרי שאסלאני העניק יתרון ביתי בדקה ה-70, אך לאנג המחליף חילץ נקודה (85') בבית הישראלי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h123kc1jgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/14/rJQBICQGkx/rJQBICQGkx_185_25_1618_911_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/535028",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/one1890989/one1890989_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "השקענו את הכוח בלזכור את 7/10 ולא ללמוד ממנו",
-   "summary": "אנחנו מדינה שמסוגלת לזכור לבנט עד היום ממשלה שהקים עם שישה מנדטים, אבל הוויכוח על אחריותו של נתניהו לשבעה באוקטובר עדיין מתנהל כאילו מדובר בעוד מחלוקת פוליטית",
+   "title": "הנאום של סגלוביץ' ברהט נקטע לרגע בצרור יריות | תיעוד",
+   "summary": "מספר 2 ברע\"מ דיבר על הפשיעה בחברה הערבית, ולאחר צרור היריות שקטע את דבריו אמר לתושבים: \"זה דבר שלא יכול להיות במדינה מתוקנת\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjv4s0jifx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/16/S1xVooEApge/S1xVooEApge_0_142_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hkc11mfloml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SyHvzzxozg/SyHvzzxozg_0_196_584_329_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "המבצע \"לשחרור תימן\" יוצא לדרך - אבל הבליץ החות'י נמשך: \"הטילו מצור על עיר אסטרטגית\"",
-   "summary": "הממשלה הפרו-סעודית בתימן הכריזה על מבצע נרחב להדיפת החות'ים מהאזורים החדשים שכבשו בדרום-מערב המדינה, שהעניקו להם שליטה על מצר באב אל-מנדב האסטרטגי - ולפי רויטרס עד 100,000 חיילים עשויים לקחת חלק במתקפה, בסיוע מתקפות סעודיות מהאוויר. אבל החות'ים בינתיים רק מתקד…",
+   "title": "הטייס-מחבל התכוון להתרסק על נתב\"ג - כבר ביולי: \"בדקתי איזו חברה טסה לת\"א\"",
+   "summary": "המאם אל-המאמי שניסה לחטוף את טיסת \"פליי דובאי\" רצה לחולל פיגוע המוני בנתב\"ג - ולכן השתלט על המטוס רק באזור ירדן. מהחקירה עולה כי נחת בארץ כבר בקיץ ודחה את מועד הפיגוע כי ריחם על איש צוות. התוכנית: אם לא בנתב\"ג - אז להתרסק על בסיס אמריקני בממלכה השכנה. הפתרון ש…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1ry66yifx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/Sycy3C1ofx/Sycy3C1ofx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rythizxome",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HyIOTn1jfx/HyIOTn1jfx_0_0_503_284_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
+   "summary": "תארו לכם מצב שבו אתם בני 16, השעה 2 בלילה, ופתאום אתם מגלים שיש לכם גישה ל-17 טריליון שורות מידע של אחת מחברות הטכנולוגיה הגדולות בעולם. זה בדיוק מה שקרה להאקר צעיר שנעזר בבוט מבוסס AI כדי לחשוף חור אבטחה מביך במערכות של מיקרוסופט. אז איך הוא עשה את זה? ההורים…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/16-year-old-researcher-finds-microsoft-bug/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -201,16 +215,30 @@
    ]
   },
   {
-   "section": "AI",
-   "title": "רובוטים וסוכן מתנה: 3 אירועי טכנולוגיה חינמיים שלוקחים AI לשלב הבא",
-   "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו ב…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/geek-events-4102026/",
-   "image": null,
+   "section": "בידור",
+   "title": "עקף שוב את \"אווטאר\": \"הנוקמים: סוף המשחק\" הוא הסרט המכניס ביותר בכל הזמנים",
+   "summary": "ההפצה המחודשת של הסרט משנת 2019 הכניסה יותר מ-126 מיליון דולר והביאה את \"הנוקמים: סוף המשחק\" ל-2.925 מיליארד דולר - בכך הסרט עקף את \"אווטאר\" בשני מיליון דולר. ההפצה הנוכחית היא חלק ממערך הקידום של הסרט החדש בפרנצ'ייז - \"הנוקמים: יום הדין\", שיגיע לאקרנים בדצמבר",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hyo32ylozx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/24/BkuIwckvll/BkuIwckvll_99_0_1919_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "1,000 שקל לרישום: משפחתו של מאיר אריאל מציעה למכירה את האוסף שלו",
+   "summary": "בתו של המוזיקאי המנוח פרסמה בפוסט ברשתות החברתיות שאימה תרצה החליטה למכור את אוסף הרישומים המקוריים של אריאל. \"לאחר התלבטות ומחשבה מעוניינת למכור את אוסף הרישומים המקוריים לבית טוב\". אריאל, מגדולי היוצרים בזמר העברי, הלך לעולמו ב-1999 בגיל 57",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hjftpayogx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/SJOrrkxsGx/SJOrrkxsGx_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -221,34 +249,6 @@
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/bjc7x00yjml",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/HJxmvcKyiGe/HJxmvcKyiGe_4_0_1097_617_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "אן הת'אוויי ודקוטה ג'ונסון מסתבכות במשולש אהבה אפל - אבל לא באמת מסעיר",
-   "summary": "\"תעתוע\", בכיכובן של הת'אוויי וג'ונסון, הוא מותחן פסיכולוגי עם ארוטיקה, מניפולציות וטוויסטים, שמבקש ללכת עד הקצה אך נותר זהיר וצפוי מדי. במרכזו סופרת כושלת שמגיעה לבית מבודד כדי להשלים את ספריה של יוצרת מצליחה שנפגעה בתאונה, ונשאבת בהדרגה לסודות המשפחה, לכתיבה …",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bktz11vksfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/S1SeUO1iGg/S1SeUO1iGg_0_52_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "אחד מנוסעי טיסת פליי דובאי 1073 יצלם עליה סרט דוקו",
-   "summary": "הבמאי אייל דץ, שהיה על טיסת פליי דובאי 1073 יחד עם אביו בן ה-75, מצלם סרט תיעודי על הדרמה שעברו הנוסעים ועל המחדל שהוביל אליה. הסרט יכלול עדויות חדשות וחומרים שצולמו בזמן אמת",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/syj11ddkige",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/BkzIfm2q9zg/BkzIfm2q9zg_0_312_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
