@@ -1,44 +1,44 @@
 window.NEWS_DATA = {
  "date": "יום שני, 5 באוקטובר 2026",
  "date_he": "05/10/2026",
- "updated": "16:44",
+ "updated": "23:00",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "התיעודים המרהיבים של השקיעה - וההסבר המדעי",
-  "summary": "אדום-כחול-צהוב - וגוונים רבים אחרים: צפו בתמונות היפהפיות של השקיעה. גם מחר צפויים עננים בגובה רב ובינוני - ואולי טפטוף",
-  "link": "https://www.ynet.co.il/news/article/hycywrwsfg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/HJGt2fHWifl/HJGt2fHWifl_0_188_1280_721_0_medium.jpg"
+  "title": "הבכיר במשרד התחבורה שקיבל תשלום מפליי דובאי, והתעקשות טראמפ: \"לדעתי איראן אחראית\"",
+  "summary": "דביר רובינשטיין, מנהל מרכז המבצעים לאבטחת תעופה, אינו עובד מדינה - וסיפק במקביל הדרכות לחברות תעופה זרות. על אף התרעות במשך שנים על פרצות באבטחת חברות זרות, רגב לא קיימה דיונים בנושא בין 2023 ל-2025. למרות ההערכה שהמחבל היה מפגע בודד, נשיא ארה\"ב שוב טוען: \"חוש…",
+  "link": "https://www.ynet.co.il/news/article/rjvbshbigg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/01/BkZAQf2cfg/BkZAQf2cfg_1207_6_1408_793_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 27.3° / 22.4°",
-   "summary": "כרגע 24.2°, לחות 67%, רוח 9.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 25.5° / 21.6°",
+   "summary": "כרגע 23.3°, לחות 68%, רוח 4.7 קמ״ש. סיכוי משקעים 33%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "27.3°"
+     "25.5°"
     ],
     [
      "מינימום",
-     "22.4°"
+     "21.6°"
     ],
     [
      "לחות",
-     "67%",
-     67
+     "68%",
+     68
     ],
     [
      "רוח",
-     "9.8 קמ״ש"
+     "4.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "0%",
-     0
+     "33%",
+     33
     ]
    ]
   },
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Kauhav נגד Hapoel Dir Khana",
-     "1:1 · מחצית ראשונה"
-    ],
-    [
-     "Hapoel Kauhav נגד FC Shfaram",
-     "1:1 · הסתיים"
-    ],
-    [
-     "Maccabi Kiryat Gat נגד MS Kfar Kassem",
+     "MS Netanya נגד Hapoel Daliat El Karmel",
      "0:1 · הסתיים"
     ],
     [
-     "Hapoel Kfar Saba נגד Bnei Yehuda",
+     "Bnei Yehod נגד Amishav Petah Tikva",
      "1:2 · הסתיים"
     ],
     [
-     "Hapoel Kfar Shalem נגד Maccabi Kavilio Jaffa",
-     "3:1 · הסתיים"
+     "Hapoel Kauhav נגד Hapoel Dir Khana",
+     "2:1 · הסתיים"
+    ],
+    [
+     "Hakoah Amidar Ramat Gan F.C. נגד Maccabi Ramat Hasharon",
+     "טרם התחיל"
+    ],
+    [
+     "SC Tira נגד Ironi Nesher",
+     "טרם התחיל"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Cyprus נגד Latvia",
-     "0:0 · מחצית ראשונה"
+     "Chapelton נגד Waterhouse FC",
+     "0:3 · מחצית"
     ],
     [
-     "Mouna נגד Yamoussoukro FC",
-     "הסתיים"
+     "Zoman נגד CO Korhogo",
+     "1:1 · הסתיים"
+    ],
+    [
+     "Cyprus נגד Latvia",
+     "2:1 · הסתיים"
     ],
     [
      "Romania נגד Sweden",
-     "טרם התחיל"
+     "0:1 · הסתיים"
     ],
     [
      "Bosnia & Herzegovina נגד Poland",
-     "טרם התחיל"
-    ],
-    [
-     "Ukraine נגד Hungary",
-     "טרם התחיל"
+     "1:0 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "דיץ נגד רקנאטי ומזרחי: דורש לעצור את עסקת המניות",
-   "summary": "המאבק בין בעלי מכבי ת\"א עולה מדרגה: החברה בראשות ריצ'רד דיץ פנתה שוב לבית המשפט, בניסיון לבלום את רכישת מניות בן אשכנזי בידי שותפיו. לטענתה, המהלך ישנה את מאזן הכוחות במועדון עוד לפני בירור הסכסוך בבוררות וההכרעה במעמדו של ג'ייסון לוין. השווי של מכבי ת\"א לפי ה…",
+   "title": "\"הפועל ת\"א גרמה לי לפקפק בעצמי,מחכה כבר לפגוש אותה\"",
+   "summary": "הוא עזב את נס־ציונה אחרי 7 באוקטובר, נפלט מהפועל ת\"א (\"הם גרמו לי לפקפק בעצמי\") להפועל אילת בלאומית ודווקא שם מצא שקט נפשי . כעת דאסטי האנאס פותח עונה בבני־הרצליה, מכוון גבוה בליגת האלופות ומחכה למפגש עם האקסית האדומה: \"אני מניח שתהיה לי יותר מוטיבציה לשחק נגד…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/h1hkab11sfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/ByozsntYfl/ByozsntYfl_449_167_573_323_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/sjmxbk11izg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/ByxQ6Vt11jfx/ByxQ6Vt11jfx_0_191_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הכוכב שבחר לעמוד נגד התופעה ששוטפת את ה-NBA",
-   "summary": "בזמן שלברון, דוראנט ויאניס משתפים פעולה עם אתרי הימורים שמגלגלים מיליארדים, פתאום מופיע וומביניאמה שמדבר על ערכים ומודיע: \"לעולם לא אעשה זאת. עצוב שיש שחקנים שמקדמים זאת\". באתר פולימרקט לא ראו את זה מגיע",
+   "title": "הוא חשף את השחיתות של מנצ'סטר סיטי, אבל עולם הכדורגל הפקיר אותו",
+   "summary": "החשיפות של רוי פינטו הפילו את מנצ'סטר סיטי וסיבכו כדורגלנים רבים, כולל כריסטיאנו רונאלדו, אבל בעולם שבו כסף מושחת מניע את הספורט הוא נזרק מהתוכנית להגנת עדים, נותר מאוים ובודד במערכה ונאלץ להיעלם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/sjihuzljze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/09/H1oiSLHbGx/H1oiSLHbGx_369_142_2502_1409_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rjdsmtzjgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/H1eGmYboGx/H1eGmYboGx_260_0_2339_1317_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הזוי: יריבו של נובאק ג'וקוביץ' פגע באוהד עם כדור - ונפסל",
-   "summary": "דניל מדבדב חבט כדור ליציע מתוך תסכול ופגע בעינו של אוהד בחצי הגמר בבייג'ינג. הסרבי בן ה-39 ניצח, שמר על מאזן מושלם של 33 ניצחונות בטורניר ויפגוש את אלכס דה מינור בניסיון לזכות בתואר ראשון ב-2026",
+   "title": "תעודת עניות: הציונים של נבחרת ישראל בקמפיין - והמסקנה העצובה",
+   "summary": "הבטיחו לנו ישראל התקפית שתתמודד על המקום הראשון, הסבירו שהקמפיינים הקודמים היו רק הכנה לדבר האמיתי, בנינו על הלגיונרים שיעשו את ההבדל † בפועל קיבלנו נבחרת שהולכת לאחור. מהשחקנים, דרך המאמן ועד ההתאחדות: גיליון הציונים של החלון הראשון בליגת האומות, ומסקנה אחת ב…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/r1cqx4wjfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/r1ZIkVZize/r1ZIkVZize_0_88_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bjv00xfbige",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/S1zGayKZoGl/S1zGayKZoGl_0_108_768_433_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "החשש בגבול הסורי: גורמים עוינים מנסים לבדוק את ערנות הלוחמים במוצבי צה\"ל",
-   "summary": "שני מקרי ההתקרבות למוצבים בשליטת צה\"ל מעבר לגבול בטווח זמנים קצר מעידים על עלייה במתיחות באזור. הימצאות הלוחמים במצב הגנתי מגביר את החשש לשאננות. ראשי רשויות בגולן מזהירים: \"אסור לחזור לתפיסות שלפני 7/10\"",
+   "title": "השנאה בוערת בקרבם",
+   "summary": "בריטניה משנה את פניה. הקולג' המלכותי ומפלגת הירוקים הם רק סימפטומים. זו לא רק שנאת ישראל - זו שנאת המערב ושנאה עצמית",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h1y6oebime",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/12/28/SyO16wt0QWx/SyO16wt0QWx_351_153_1081_609_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14918458",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/r1NYi199Gl/r1NYi199Gl_0_0_800_534_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מכתב הפרופ', איש הימין ששמע על תוכנית פיגועי הענק ולא דיווח - ועדות השכנה: \"נלקח בכוח\"",
-   "summary": "בכתב צפוף במיוחד: נחשף המכתב ששלח לפייגלין הפרופסור למתמטיקה שנאשם בתכנון פיגועים נגד מאות ערבים. עו\"ד תמיר דורטל, שאמר לאחרונה כי גם אם חיילי צה\"ל ימותו בעימות עם מתנחלים \"זה טוב\", הודה שנפגש עם המרצה ולא דיווח למשטרה. השכנה סיפרה: \"ראיתי שהכניסו אותו לרכב, ב…",
+   "title": "תיאוריית \"הפקידים\"",
+   "summary": "המענה לעודף הכוח של הפקידות צריך להיות הרצון לשלוט. כדי לרצות לשלוט, דרושה נכונות לקחת אחריות, וכדי לקחת אחריות, יש להאמין שניתן לשנות את המערכת",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rjbdnvzsgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/HkFLKHWsMe/HkFLKHWsMe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14918145",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/BJAQYzC9fg/BJAQYzC9fg_0_201_687_387_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -202,15 +202,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "\"רציתי לצרוח, אבל ההורים שלי ישנו\": בן 16 מצא באג במיקרוסופט ויצא עם פרס",
-   "summary": "תארו לכם מצב שבו אתם בני 16, השעה 2 בלילה, ופתאום אתם מגלים שיש לכם גישה ל-17 טריליון שורות מידע של אחת מחברות הטכנולוגיה הגדולות בעולם. זה בדיוק מה שקרה להאקר צעיר שנעזר בבוט מבוסס AI כדי לחשוף חור אבטחה מביך במערכות של מיקרוסופט. אז איך הוא עשה את זה? ההורים…",
+   "title": "\"בוקר אחד קמנו וגילינו שדרקון סיני משתמש בשם שלנו\"",
+   "summary": "מאת: ד\"ר אביב פרנקל כשהקמנו את הסטארטאפ שלנו, שותפי היקר אביתר סגל ואני, אי שם בקיץ 2023 נדמה לי שהוצאנו הרבה יותר אנרגיה וזמן על בחירת השם מאשר על הגדרת הבעיה, השוק והמוצר. בחרנו בשם עם חזון ענק – לשנות את הפרדיגמה שמגדירה אתרי אינטרנט, מאתרים סטטיים ליצורים …",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/16-year-old-researcher-finds-microsoft-bug/",
+   "link": "https://www.geektime.co.il/shuttlebase-the-israeli-startup-name-change-saga/",
    "image": null,
    "stats": [
     [
      "מקור",
      "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "הסופר ג'פרי ארצ'ר מת בגיל 86 - יום לפני צאת ספרו האחרון",
+   "summary": "הסופר הבריטי, ממחברי רבי-המכר המצליחים בעולם, הלך לעולמו בביתו \"בפתאומיות ובשלווה\", לפי הודעת המו\"ל שלו. לאורך קריירה של חמישה עשורים מכר יותר מ-300 מיליון ספרים, וניהל במקביל קריירה פוליטית שהסתיימה במאסר. מותו מגיע יום לפני שאמור להתפרסם Adam & Eve, הרומן ה-…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/byxaqyzsge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/05/rkjuAtbofe/rkjuAtbofe_265_92_858_483_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/bkjmeg11sgl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/03/rJsivThwlg/rJsivThwlg_561_8_1040_586_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "השחקן הוותיק אילי גורליצקי הלך לעולמו",
-   "summary": "גורליצקי, שזוהה במיוחד עם התפקיד הראשי ב\"שלמה המלך ושלמי הסנדלר\", שיחק לאורך הקריירה שלו בהצגות כמו \"הנפש הטובה מסצ'ואן\", \"הוא הלך בשדות\" ו\"כנרת כנרת\". בנוסף, הוא היה המנהל הראשון של אמ\"י וייסד וניהל את חברת \"אשכולות\"",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bju00relwze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/11/13/9593512/9593512_306_62_364_205_0_medium.jpg",
    "stats": [
     [
      "מקור",
