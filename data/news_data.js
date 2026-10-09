@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 9 באוקטובר 2026",
  "date_he": "09/10/2026",
- "updated": "14:10",
+ "updated": "19:54",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מלחמת התביעות נמשכת: צביקה נווה דורש מאות אלפי שקלים מעו\"ד של המיליארדר",
-  "summary": "החוקר הפרטי הגיש תביעת דיבה על סך 856,200 שקלים, בשל דברים שאמר עו\"ד יעקב בורובסקי - שהאשים אותו בסחיטה ושוחד. לטענת נווה, המשטרה חקרה את הטענות ולא מצאה ראיות. בורובסקי: \"פרסום לשון הרע באמצעות כלי התקשורת\"",
-  "link": "https://www.ynet.co.il/news/article/rjixbh8sml",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/11/25/8902372/8902372_0_79_618_348_0_medium.jpg"
+  "title": "ברדסים, דגל פלסטין - וחרב סמוראי: \"מהומות התלמידים\" התפשטו לבלגיה",
+  "summary": "30 אלף יצאו לרחובות בריסל, ובהשראת ההפגנות מצרפת מחו על הקיצוצים בתקציב החינוך. רעולי פנים השליכו בקבוקי זכוכית, תמרורים ורימוני הלם, חרב הוחרמה ממפגין. בצרפת: 6,800 נעצרו מתחילת ההפגנות, רובם הגדול נערים",
+  "link": "https://www.ynet.co.il/news/article/hjvkg98ozx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/Bkh4QpUjMl/Bkh4QpUjMl_0_80_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 28.2° / 24.7°",
-   "summary": "כרגע 26.3°, לחות 70%, רוח 23.2 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 25.4°, לחות 75%, רוח 15.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "70%",
-     70
+     "75%",
+     75
     ],
     [
      "רוח",
-     "23.2 קמ״ש"
+     "15.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "MS Kafr Qasim נגד Bnei Yehuda",
-     "0:0 · מחצית שנייה"
+     "Maccabi Ironi Netivot נגד Hapoel Segev Shalom",
+     "2:1 · הסתיים"
     ],
     [
-     "Maccabi Kiryat Gat נגד Kiryat Yam Sc",
-     "2:0 · מחצית שנייה"
+     "Hakoah Amidar Ramat Gan F.C. נגד Maccabi Ramat Hasharon",
+     "4:1 · הסתיים"
     ],
     [
-     "Maccabi Herzliya נגד Maccabi Ahi Nazeret",
-     "0:2 · מחצית שנייה"
+     "Hapoel Ironi Karmiel נגד Hapoel Tirat HaCarmel",
+     "1:0 · הסתיים"
     ],
     [
-     "Ironi Modiein נגד Hapoel Afula",
-     "0:1 · מחצית שנייה"
+     "Ironi Nir Ramat HaSharon נגד Hapoel Azur",
+     "1:1 · הסתיים"
     ],
     [
-     "Hapoel Akko נגד מכבי בני ריינה",
-     "0:0 · מחצית שנייה"
+     "M.S Ramla נגד Hapoel Bnei Kuseife",
+     "6:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Veres Rivne נגד Shakhtar Donetsk",
-     "0:2 · מחצית שנייה"
+     "Mosta FC נגד Birzebbuga St. Peters",
+     "2:2 · מחצית שנייה"
     ],
     [
-     "Halaba Ketema נגד Welwalo Adigrat Uni",
+     "Borussia Dortmund נגד Werder Bremen",
      "1:0 · מחצית שנייה"
     ],
     [
-     "Jwaya נגד Al Mabarrah",
-     "1:0 · מחצית ראשונה"
+     "Lens נגד Lyon",
+     "1:0 · מחצית שנייה"
     ],
     [
-     "Entebbe UPPC נגד Police",
-     "1:0 · מחצית ראשונה"
+     "Malaga נגד Espanyol",
+     "0:1 · מחצית"
     ],
     [
-     "Neftchi Baku נגד Sabah",
-     "טרם התחיל"
+     "MC Alger נגד Cr Temouchent",
+     "0:0 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "הקעקוע החריג, האוסף הנדיר - וזה שלא נפרד מהתיק: ההרגלים המוזרים של כוכבי ליגת העל",
-   "summary": "הסמול פורוורד מהבירה ששיחק פוטבול וזרק דיסקוס, האמריקאי שהשיל 30 ק\"ג, זה שמכור לשחמט והקפטן שאוהב לנגן שירים של משינה. רגע לפני פתיחת עונת הכדורסל, קבלו הצצה לצדדים הפחות מוכרים של כוכבי ליגת העל",
+   "title": "הפתעה בליגת העל בכדוריד: הפועל אשדוד ניצחה את א.ס רמת השרון",
+   "summary": "הדרומיים הדהימו עם 25:33 מרשים על הדאבליסטית, שאיבדה נקודות ראשונות העונה. הפועל ראשל\"צ התאוששה מההפסד בדרבי עם 26:37 בחוץ על רחובות. מכבי ראשל\"צ טיילה מול נס ציונה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/sysmsebimg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/HJGI0BSifl/HJGI0BSifl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bk3ebnusmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/B1jwW3Usfe/B1jwW3Usfe_0_14_907_511_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דקה 50: כפר קאסם - בני יהודה 0:0",
-   "summary": "ליגה לאומית, מחזור 9: הקבוצה של אלי לוי מאיימת יותר לשער, אך טרם מצאה את הרשת. כעת: הפועל עכו - בני ריינה 0:0, מכבי הרצליה - אחי נצרת 1:0",
+   "title": "ישחק ב-NBA? נועם יעקב חתם על חוזה לא מובטח בקליבלנד קאבלירס",
+   "summary": "הגארד הישראלי, שחתם הקיץ בקליבלנד צ'ארג' מהג'י ליג, חתם על חוזה בקבוצת האם, מה שיאפשר לה להקפיץ אותו לשחק בשורותיה בליגה הטובה בעולם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one535487",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/one1891634/one1891634_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/sjwe2y8sge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/SJxh26FIjze/SJxh26FIjze_0_33_1315_741_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "שני חצאים ולב אחד: תמונת המראה של ואלוורדה וראפיניה | תוכן גולשים",
-   "summary": "המנהיגות שלהם אינה מתבטאת בצעקות, אלא בדוגמה אישית. כשהשחקנים הצעירים סביבם רואים את הכוכבים הכי גדולים רצים, מחלצים, עושים הגנה בטירוף וסופגים את החולצה בזיעה – רמת המחויבות של הקבוצה כולה עולה באופן אוטומטי. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@yn…",
+   "title": "נבחרת הנשים של ישראל הובסה 7:3 מול שווייץ",
+   "summary": "השחקניות של מנחם קורצקי לא עמדו בסחף של היריבה החזקה בפלייאוף מוקדמות המונדיאל. מנגד, שלושער מרהיב של טליה זומר לא הספיק. הגומלין: בשלישי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hyh2irwofx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/02/one1888376/one1888376_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one535497",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/one1891665/one1891665_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "סרן אליאב נהרג בהתהפכות האמר בליטאני, בת זוגו: \"תודה על 5 שנים של אהבה אינסופית\"",
-   "summary": "הובא למנוחות אליאב חיים צפלמוס, שנהרג בתאונה במהלך פעילות מבצעית בדרום לבנון. בת זוגו ענבר: \"הבטחת לי שתשמור על עצמך, הבטחת שעוד שבוע אתה חוזר\". האם חלי: \"הדבר הראשון שאמרת כשנכנסת לקבע זה שאתה לוקח מעשר מהמשכורת ותורם למשפחה שזקוקה. לא הספקת, הלכת מוקדם מדי\"",
+   "title": "המהפך של טראמפ, אחרי שיחה עם פוטין",
+   "summary": "חודש לאחר שחתם על חוק סנקציות נרחב נגד רוסיה, הדהים נשיא ארה\"ב כשבישר על הסכם קניית סולר ממוסקבה - תפנית לאחר שנים של לחץ אמריקני עקב המלחמה מול אוקראינה. המטרה: הורדת מחירי הדלק לפני בחירות האמצע",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sy00pb8iigl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/H10001w88sfg/H10001w88sfg_0_0_2560_1442_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bkioihiizg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/23/Hyz4IDDRlg/Hyz4IDDRlg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "יאיר גולן: \"חד-משמעית - חיסול חמינאי האב היה טעות\"",
-   "summary": "יו\"ר הדמוקרטים אמר כי החיסול \"לא שירת את האינטרסים של ישראל. מבחינה אסטרטגית, שאגת הארי הרעה את מצבנו, כי נתניהו הציג מטרה בלתי-מציאותית - הפלת המשטר\". הוא כינה את האוכלוסייה החרדית \"טפילית\": \"נהפוך אותם לאוכלוסייה יצרנית\"",
+   "title": "תקיפה חריגה בעומק לבנון: היעד - מחבל סורי שפעל בהכוונת איראן",
+   "summary": "בלבנון דיווחו על 6 נפגעים בתקיפה בחוש א-סייד עלי שבגבול סוריה-לבנון. היעד - יוסף עלי אלחסון, שקידם שיגור רחפני נפץ ורקטות לעבר הכוחות בסוריה. צה\"ל לא עדכן אם הוא חוסל, והבהיר למרות התקיפה החריגה: \"מחויבים להסכם בין ישראל ללבנון\". דיווח: שני מחבלי חיזבאללה ניסו…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/hysibv8sgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/09/HkfANNDIizl/HkfANNDIizl_29_60_608_343_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rys6hsisgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/12/BJGEyjolzke/BJGEyjolzke_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -202,10 +202,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "המנעול הראשון של אמזון פותר את חרדת המנעולים החכמים",
-   "summary": "לצד רובוט שואב-שוטף, אני חושב שהגאדג'ט ששינה יותר מכל את חיי היום-יום שלי בתקופה האחרונה הוא מנעול חכם. מאז שנכנס לחיי ה-Nuki 3 (אגב, אל תפספסו את הבדיקה המקיפה שעשינו ל-Nuki Ultra), אני לא מבין איך אפשר לחיות בלי מנעול חכם. אני פשוט נכנס הביתה עם קוד או אפליק…",
+   "title": "האפליקציה הישראלית שתעצור את ספאם הבחירות שמציף אתכם",
+   "summary": "מערכת הבחירות מתקרבת, והטלפון שלכם שוב הופך לנדל\"ן חינמי של פוליטיקאים, שמנצלים את הפירצה בחוק הספאם. כדי לעצור את ההצפה הזו – ולבלום על הדרך מתקפות פישינג משוכללות – מפתח ישראלי יצר אפליקציה חינמית שעושה סדר בתיבת ההודעות, וכל זה בלי לדרוש מכם להירשם או למסור…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/amazon-announces-ring-smart-lock-with-a-twist/",
+   "link": "https://www.geektime.co.il/this-app-wants-to-stop-election-spam/",
    "image": null,
    "stats": [
     [
@@ -230,11 +230,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "כבר 45 שנה הוא ממלא אולמות: \"את רוב השירים שלי כתבתי בשלוש וחצי-ארבע דקות\"",
-   "summary": "אהוד מנור סירב לכתוב לו שיר - אז הוא הקשיב ללחן וכתב את אחד מלהיטיו הגדולים. בתחנות הרדיו דחו אותו - אז הוא שינה סגנון ומצא את הנוסחה. ככה מתחזקים קריירה כבר 45 שנה עם קהל נאמן, בלי תארים ובלי להתרגש מפרסים. בריאיון נטול פילטרים, יואב יצחק מספר למה הוא מסרב לה…",
+   "title": "\"תל אביב יקרה, מסריחה - ואני מכורה אליה. עכשיו אני גם בונה בה בית\"",
+   "summary": "סדרות, סרטים, תיאטרון, דוגמנות, קמפיינים - אגם רודברג עשתה המון בקריירה הארוכה שלה, אבל בריאליטי היא לא דרכה מעולם. עכשיו היא תערוך את טבילת האש הראשונה שלה בז'אנר, כשתגיש את \"דאבל על הכסף\" בכאן 11. בריאיון היא מספרת מה גרם לה לשנות את דעתה, על התגובות המפתיעו…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hjnwzpzjgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/BJEMVOQiMx/BJEMVOQiMx_95_107_929_523_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/bjwsc6lsml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1zEBvFysGe/r1zEBvFysGe_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -244,11 +244,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "\"מה עשיתי רע בזה שהזדקנתי? אז יש לי קמטים. שחקנית צריכה להישאר בגיל שלה\"",
-   "summary": "פעם חלמה לשחק את מדיאה, אבל נדחתה, והיום היא מבינה שהתיאטרון התקשה \"לבלוע\" אותה. אבל חנה אזולאי הספרי לא חיכתה לאישור: היא כתבה, ביימה, שיחקה, והביאה למסך סיפורים של נשים שאיש לא סיפר קודם. לכבוד קבלת אות ההוקרה של פסטיבל סרטי נשים בסינמטק ירושלים, היא מבהירה …",
+   "title": "כבר 45 שנה הוא ממלא אולמות: \"את רוב השירים שלי כתבתי בשלוש וחצי-ארבע דקות\"",
+   "summary": "אהוד מנור סירב לכתוב לו שיר - אז הוא הקשיב ללחן וכתב את אחד מלהיטיו הגדולים. בתחנות הרדיו דחו אותו - אז הוא שינה סגנון ומצא את הנוסחה. ככה מתחזקים קריירה כבר 45 שנה עם קהל נאמן, בלי תארים ובלי להתרגש מפרסים. בריאיון נטול פילטרים, יואב יצחק מספר למה הוא מסרב לה…",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/sydfasmizx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rJfZ5v00yozl/rJfZ5v00yozl_269_694_1759_990_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/hjnwzpzjgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/BJEMVOQiMx/BJEMVOQiMx_95_107_929_523_0_medium.jpg",
    "stats": [
     [
      "מקור",
