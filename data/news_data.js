@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 10 באוקטובר 2026",
  "date_he": "10/10/2026",
- "updated": "16:01",
+ "updated": "20:22",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "טיל חות'י פגע בטרמינל בנמל התעופה בבירת סעודיה: \"יש שם פצועים רבים\"",
-  "summary": "",
-  "link": "https://www.ynet.co.il/news/article/bknarcwiml",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/BkFPqUSszg/BkFPqUSszg_0_253_352_199_0_medium.jpg"
+  "title": "פעולות החקירה - והאישור בעל פה: מנדלבליט יגיע להעיד במשפט נתניהו",
+  "summary": "7 שנים לאחר ההחלטה להגיש כתב אישום נגד נתניהו, היועמ\"ש לשעבר יעלה לדוכן העדים ויידרש להשיב על טענות ההגנה. במוקד: האם המשטרה חרגה מהאישורים שניתנו לה, עדויות החוקרים והמחלוקת על חוקיות פעולות החקירה",
+  "link": "https://www.ynet.co.il/news/article/h1ipsdijme",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/10/rylTgadv11x/rylTgadv11x_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 28.6° / 24.6°",
-   "summary": "כרגע 26.0°, לחות 76%, רוח 11.0 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 24.7°, לחות 82%, רוח 2.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "76%",
-     76
+     "82%",
+     82
     ],
     [
      "רוח",
-     "11.0 קמ״ש"
+     "2.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,12 +51,8 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Hadera U19 נגד Kiryat Shmona U19",
+     "Maccabi Beer Sheva נגד Beitar Ironi Kiryat Gat",
      "0:2 · מחצית שנייה"
-    ],
-    [
-     "Hapoel Bnei Ba'ana נגד Hapoel Ihud Bnei Sumei FC",
-     "1:0 · מחצית שנייה"
     ],
     [
      "Hapoel Ironi Karmiel נגד Hapoel Tirat HaCarmel",
@@ -69,16 +65,50 @@ window.NEWS_DATA = {
     [
      "M.S Ramla נגד Hapoel Bnei Kuseife",
      "6:0 · הסתיים"
+    ],
+    [
+     "Hapoel Beer Sheva U19 נגד Hapoel Rishon LeZion U19",
+     "2:2 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "הכי מהירה בהיסטוריה: ההישג של אנסטסיה גורבנקו בארה\"ב",
-   "summary": "השחיינית הישראלית קבעה 51.43 שניות ב-100 יארד מעורב אישי בליגת המכללות החדשה, ושיפרה ביותר מחצי שנייה את התוצאה הטובה בכל הזמנים של קייט דגלאס. ההישג אינו מוגדר כשיא עולם, משום שאין רישום רשמי לשיאים בבריכות יארדים",
+   "title": "תוצאות בזמן אמת · עולם",
+   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football",
+   "image": null,
+   "stats": [
+    [
+     "Napoli נגד Frosinone",
+     "2:0 · מחצית שנייה"
+    ],
+    [
+     "PSG נגד Le Mans",
+     "3:1 · מחצית שנייה"
+    ],
+    [
+     "Monaco נגד Toulouse",
+     "2:2 · מחצית שנייה"
+    ],
+    [
+     "Lorient נגד Paris FC",
+     "1:0 · מחצית שנייה"
+    ],
+    [
+     "Brest נגד Angers",
+     "5:1 · מחצית שנייה"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "יוסי אבוקסיס: \"אוהדי מכבי ת\"א איחלו לי ולבנותיי לחלות בסרטן\"",
+   "summary": "מאמן בני סכנין טען כי ספג קללות לאורך ה-0:0 בבלומפילד והסביר את תגובתו לעבר היציע: \"זה שקהל קונה כרטיס לא נותן לו זכות לקלל קללות כאלה קשות - ואתם רוצים שאהיה רגוע?\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hjvlfcpjfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/14/BJe6zJJTIzg/BJe6zJJTIzg_0_60_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjfc00zdsgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/one1891975/one1891975_105_26_694_391_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -88,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "יו\"ר ההתאחדות במכתב לעיריית אלקמאר: \"לא תוכלו למנוע מאיתנו להגיע להולנד\"",
-   "summary": "יו\"ר ההתאחדות פנה במכתב חריף בדרישה לאפשר לכ־200 מאוהדי ונציגי הפועל באר שבע להיכנס למשחק ב־15 באוקטובר. לטענתו, המשטרה הבהירה כי ניתן לאבטח אותם, וההחלטה למנוע את כניסתם מעוררת חשד למניעים אנטי־ישראליים ולאנטישמיות",
+   "title": "דקה 57: ריאל מדריד - ויאריאל 0:0",
+   "summary": "ליגה ספרדית, מחזור 8: משחק התקפי ופתוח באצטדיון הברנבאו. אמבפה החמיץ פעמיים במצבים קורצים. בצד השני, מוליירו איים מסף הרחבה. חי בערוץ ONE",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sk8mb0psme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/05/17/HJZ00IewEmR/HJZ00IewEmR_0_0_3000_2000_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/535552",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/one1891980/one1891980_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "גאווה ישראלית: רז הרשקו זכתה במדליית הארד באליפות העולם",
-   "summary": "ישראלית נוספת תעמוד על הפודיום בבאקו. הג'ודוקא המעוטרת ניצחה את הלנה ווקוויץ' הקרואטית וזכתה במדלייה",
+   "title": "12 שחקנים על המגרש: הפועל פ\"ת עלולה לספוג הפסד טכני",
+   "summary": "בזמן הפנדל שכבש מאור לוי בתוספת הזמן לזכות מכבי נתניה, היו על הדשא 11 שחקני שדה של הפועל פ\"ת לצד השוער",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/sydgispsmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/Sy2FiSDjGx/Sy2FiSDjGx_0_55_800_451_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkblwzuige",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/r1EjDbuiMl/r1EjDbuiMl_19_0_562_316_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"מצור\" על דלהי, אלפים נעצרו: מודי מוחץ את מחאת הענק בהודו נגד \"טיהור רשימות הבוחרים\"",
-   "summary": "תנועת \"המקקים\" שהחלה כפרויקט סאטירי סוחפת אחריה המוני צעירים מתוסכלים, והופכת לאתגר חסר תקדים לשלטונו בן 12 השנים של מודי - שמבקריו מאשימים בחתירה תחת יסודות הדמוקרטיה הגדולה בעולם: המונים תכננו למחות בבירה נגד יו\"ר ועדת הבחירות ש\"טיהר\" 130 מיליון שמות מרשימות…",
+   "title": "בן 28 נפצע קשה מירי בביתו, החשד: אחיו הקטן פלט כדור בשוגג",
+   "summary": "המשטרה פתחה בחקירת האירוע, שהתרחש בבית המשפחה ביבנה. האח בן ה-21 עובד כמאבטח, והחזיק נשק ברישיון: \"הנסיבות נבדקות\". הפצוע פונה לביה\"ח אסותא באשדוד",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sktdthvize",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/r1EdTCwiGg/r1EdTCwiGg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sk1ca11ujgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/03/08/HyD7EwgUy2/HyD7EwgUy2_0_84_1300_732_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אלפים מפגינים נגד ישראל בלונדון וקוראים לשחרר את מרואן ברגותי: \"סוף לרצח העם!\"",
-   "summary": "אלפי בני אדם מוחים בבירת בריטניה נגד ישראל, 3 ימים אחרי יום השנה לציון 7/10. המפגינים מניפים דגלי פלסטין, אחד מהם תועד עם תמונת עלי חמינאי. שלט ענק נפרס בקריאה לשחרור המנהיג-מחבל ברגותי, הפגנה גדולה גם בברלין",
+   "title": "מסוקים הוזנקו: כוחות הוקפצו בשל דיווח על עצם בלתי מזוהה שחדר מכיוון לבנון",
+   "summary": "שגרה מתוחה בצפון: התרעה על חדירת עצם בלתי מזוהה עוררה בהלה - וכוחות הוקפצו לסריקות בקרקע ומהאוויר. בצה\"ל לא יודעים עדיין לקבוע אם אכן חדר פריט לשטח הארץ. פיקוד הצפון: \"עושים כל שנדרש כדי לשלול כל פעילות עוינת\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkiyzavimg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/BkMfUSAvjGx/BkMfUSAvjGx_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hy4hkwdomx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/01/28/8312593/8312593_0_255_1113_627_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "האירועים המומלצים: איך מקימים Software Factory שבו ה-AI באמת מתכנן, בונה ובודק?",
+   "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו ב…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/geek-events-11102026/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -162,20 +206,6 @@ window.NEWS_DATA = {
    "summary": "בעוד כשבוע זה עומד לקרות, המכירה המוקדמת של ה-iPhone Duo תתחיל. כפי שדיווחנו לראשונה בגיקטיים, גם המשתמשים הישראלים יניחו את ידיהם על המכשיר המתקפל הראשון של אפל לאחר שישראל נכנסה לגל ההשקות הראשון. אבל מעל ההשקה הזאת מרחפת עננה קלה: הפעם הקודמת שהחברה השיקה ב…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/apple-iphone-air-became-a-great-deal/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "ביקורת Jabra Evolve3 85: האוזניות שיתנו לכם לדבר עם קלוד גם באופן ספייס",
-   "summary": "בכל שנה כל יצרניות האוזניות מוציאות הרבה יותר מדי דגמים שונים, ובדרך כלל הן משקיעות לא מעט באיכות הסאונד, בעיצוב ובחיי הסוללה, אבל שוכחות אלמנט אחד קריטי: המיקרופון. אפילו האוזניות האגדיות של סוני סבלו ויש שיגידו שעדיין סובלות ממיקרופון בינוני. ועל אחת כמה וכמ…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/jabra-evolve3-85-review/",
    "image": null,
    "stats": [
     [
