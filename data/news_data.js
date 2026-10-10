@@ -1,44 +1,44 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 10 באוקטובר 2026",
  "date_he": "10/10/2026",
- "updated": "20:22",
+ "updated": "23:58",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "פעולות החקירה - והאישור בעל פה: מנדלבליט יגיע להעיד במשפט נתניהו",
-  "summary": "7 שנים לאחר ההחלטה להגיש כתב אישום נגד נתניהו, היועמ\"ש לשעבר יעלה לדוכן העדים ויידרש להשיב על טענות ההגנה. במוקד: האם המשטרה חרגה מהאישורים שניתנו לה, עדויות החוקרים והמחלוקת על חוקיות פעולות החקירה",
-  "link": "https://www.ynet.co.il/news/article/h1ipsdijme",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/10/rylTgadv11x/rylTgadv11x_0_0_850_479_0_medium.jpg"
+  "title": "פצועה אנוש מדקירות בבאר שבע",
+  "summary": "האישה כבת ה-40 נדקרה פעמים רבות והובהלה לבית החולים סורוקה. \"איתרנו אותה בבית מחוסרת הכרה עם פציעות חודרות רבות בגופה\", סיפרו במד\"א",
+  "link": "https://www.ynet.co.il/news/article/rkqb9s00ogx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/23/BkHO8EvGfx/BkHO8EvGfx_374_259_1447_815_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 28.6° / 24.6°",
-   "summary": "כרגע 24.7°, לחות 82%, רוח 2.2 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 28.0° / 24.0°",
+   "summary": "כרגע 24.1°, לחות 87%, רוח 3.8 קמ״ש. סיכוי משקעים 2%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "28.6°"
+     "28.0°"
     ],
     [
      "מינימום",
-     "24.6°"
+     "24.0°"
     ],
     [
      "לחות",
-     "82%",
-     82
+     "87%",
+     87
     ],
     [
      "רוח",
-     "2.2 קמ״ש"
+     "3.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "0%",
-     0
+     "2%",
+     2
     ]
    ]
   },
@@ -50,10 +50,6 @@ window.NEWS_DATA = {
    "link": "https://www.365scores.com/he/football/israel",
    "image": null,
    "stats": [
-    [
-     "Maccabi Beer Sheva נגד Beitar Ironi Kiryat Gat",
-     "0:2 · מחצית שנייה"
-    ],
     [
      "Hapoel Ironi Karmiel נגד Hapoel Tirat HaCarmel",
      "1:0 · הסתיים"
@@ -69,46 +65,20 @@ window.NEWS_DATA = {
     [
      "Hapoel Beer Sheva U19 נגד Hapoel Rishon LeZion U19",
      "2:2 · הסתיים"
+    ],
+    [
+     "Hapoel Marmorek נגד Maccabi Ironi Ashdod",
+     "1:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "תוצאות בזמן אמת · עולם",
-   "summary": "המשחקים החשובים בעולם כרגע, מהתחרויות המוכרות ביותר.",
-   "source": "365Scores",
-   "link": "https://www.365scores.com/he/football",
-   "image": null,
-   "stats": [
-    [
-     "Napoli נגד Frosinone",
-     "2:0 · מחצית שנייה"
-    ],
-    [
-     "PSG נגד Le Mans",
-     "3:1 · מחצית שנייה"
-    ],
-    [
-     "Monaco נגד Toulouse",
-     "2:2 · מחצית שנייה"
-    ],
-    [
-     "Lorient נגד Paris FC",
-     "1:0 · מחצית שנייה"
-    ],
-    [
-     "Brest נגד Angers",
-     "5:1 · מחצית שנייה"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "יוסי אבוקסיס: \"אוהדי מכבי ת\"א איחלו לי ולבנותיי לחלות בסרטן\"",
-   "summary": "מאמן בני סכנין טען כי ספג קללות לאורך ה-0:0 בבלומפילד והסביר את תגובתו לעבר היציע: \"זה שקהל קונה כרטיס לא נותן לו זכות לקלל קללות כאלה קשות - ואתם רוצים שאהיה רגוע?\"",
+   "title": "הטענות הקשות של מכבי חיפה: \"אחד השוטרים אמר: 'למה לא שחטת אותו?'\"",
+   "summary": "כוח מוגזם ומעצרים ללא סיבה, ופחד לחזור ליציע – אוהדי מכבי חיפה שטוענים כי הותקפו על ידי שוטרים בטדי, מספרים מה גרם למועדון לעצור את מכירת הכרטיסים למשחק נגד הפועל ירושלים. העדויות הקשות (\"טראומה של החיים\"), תגובת המשטרה (\"דוחים על הסף את הטענות\") והניסיון לפשר…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjfc00zdsgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/one1891975/one1891975_105_26_694_391_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/by7cbz00smg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/B1wrZfdjGl/B1wrZfdjGl_0_308_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +88,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דקה 57: ריאל מדריד - ויאריאל 0:0",
-   "summary": "ליגה ספרדית, מחזור 8: משחק התקפי ופתוח באצטדיון הברנבאו. אמבפה החמיץ פעמיים במצבים קורצים. בצד השני, מוליירו איים מסף הרחבה. חי בערוץ ONE",
+   "title": "הבטיחו שאוהדי חיפה יחזרו בשלום מטדי, לאן הגענו?",
+   "summary": "ארז כלפון נאלץ לסכם עם המשטרה על \"קליטה יעילה ונעימה\" לאוהדי מכבי חיפה בטדי - משפט אחד שממחיש עד כמה הפחד והחשדנות הפכו לחלק מחוויית הכדורגל בישראל",
    "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/535552",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/one1891980/one1891980_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hjf2kz00sfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/SkQE04w9dGl/SkQE04w9dGl_0_265_2560_1442_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +102,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "12 שחקנים על המגרש: הפועל פ\"ת עלולה לספוג הפסד טכני",
-   "summary": "בזמן הפנדל שכבש מאור לוי בתוספת הזמן לזכות מכבי נתניה, היו על הדשא 11 שחקני שדה של הפועל פ\"ת לצד השוער",
+   "title": "לראשונה בהיסטוריה: ויניסיוס כבש - והורחק אחרי בדיקת VAR",
+   "summary": "החגיגה של הברזילאי הסתיימה בכרטיס אדום. הכוכב עלה מהספסל בניצחון של ריאל מדריד על ויאריאל, כבש ולאחר בדיקה - השער נפסל עקב עבירה שביצע במהלך שהוביל לשער",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkblwzuige",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/r1EjDbuiMl/r1EjDbuiMl_19_0_562_316_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hkfbfxusml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/Syu0Hmujfx/Syu0Hmujfx_0_147_1516_854_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +116,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בן 28 נפצע קשה מירי בביתו, החשד: אחיו הקטן פלט כדור בשוגג",
-   "summary": "המשטרה פתחה בחקירת האירוע, שהתרחש בבית המשפחה ביבנה. האח בן ה-21 עובד כמאבטח, והחזיק נשק ברישיון: \"הנסיבות נבדקות\". הפצוע פונה לביה\"ח אסותא באשדוד",
+   "title": "טיל חות'י התפוצץ בטרמינל בבירת סעודיה: \"12 נהרגו, 309 נפצעו\"; טראמפ: \"אולי נצטרף לתקיפות\"",
+   "summary": "מתקפה חסרת תקדים של החות'ים על נמל התעופה בריאד, עם מאות נפגעים, יומיים בלבד אחרי מתקפה קטלנית נוספת שבה נפגע שם מטוס. כעת החות'ים שיגרו לשם טיל נוסף - שפגע בטרמינל הנוסעים, בלי שום אזעקה: \"היה פיצוץ, ואז ראיתי אנשים שוכבים פצועים\". לפחות 12 נהרגו, וטראמפ שוקל…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sk1ca11ujgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/03/08/HyD7EwgUy2/HyD7EwgUy2_0_84_1300_732_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bknarcwiml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/BkFPqUSszg/BkFPqUSszg_0_253_352_199_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +130,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מסוקים הוזנקו: כוחות הוקפצו בשל דיווח על עצם בלתי מזוהה שחדר מכיוון לבנון",
-   "summary": "שגרה מתוחה בצפון: התרעה על חדירת עצם בלתי מזוהה עוררה בהלה - וכוחות הוקפצו לסריקות בקרקע ומהאוויר. בצה\"ל לא יודעים עדיין לקבוע אם אכן חדר פריט לשטח הארץ. פיקוד הצפון: \"עושים כל שנדרש כדי לשלול כל פעילות עוינת\"",
+   "title": "פעולות החקירה - והאישור בעל פה: מנדלבליט יגיע להעיד במשפט נתניהו",
+   "summary": "7 שנים לאחר ההחלטה להגיש כתב אישום נגד נתניהו, היועמ\"ש לשעבר יעלה לדוכן העדים ויידרש להשיב על טענות ההגנה. במוקד: האם המשטרה חרגה מהאישורים שניתנו לה, עדויות החוקרים והמחלוקת על חוקיות פעולות החקירה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hy4hkwdomx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/01/28/8312593/8312593_0_255_1113_627_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h1ipsdijme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/10/rylTgadv11x/rylTgadv11x_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
