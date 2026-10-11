@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 11 באוקטובר 2026",
  "date_he": "11/10/2026",
- "updated": "11:06",
+ "updated": "17:02",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הרג שניים בתאונת דרכים קטלנית - וישוחרר ממאסר אחרי פחות משנה",
-  "summary": "ועדת השחרורים הורתה על קיצור עונשו של חאלד מחאמיד מאום אל-פחם, שהורשע בגרימת מוות ברשלנות של שני פועלים ב-2019, ונידון ל-18 חודשי מאסר. מחאמיד, שנהג ברכב הסעות, התנגש בעוצמה במשאית שעמדה ביציאה ממנהרת אלוף שדה. בהחלטתה ציינה הוועדה: \"יש לתת את הדעת להודאתו ולח…",
-  "link": "https://www.ynet.co.il/news/article/sjwjs000ofe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/12/22/9671043/9671043_0_0_1280_721_0_medium.jpg"
+  "title": "תלויים בקול שלכם: המועמדים המתנדנדים בדרך לכנסת",
+  "summary": "מחכים לכל סקר מנדטים? אתם לא לבד. עשרות מועמדים בוחנים בימים אלה כל נתון כדי לקבל אינדיקציה כלשהי לגבי הסיכוי שלהם להיכנס לכנסת הבאה. מהשרים לשעבר מהליכוד - ועד המועמדת השנויה במחלוקת של הדמוקרטים: כל אלה נחשבים ל\"מתנדנדים\", לפחות לפי הסקרים האחרונים. מתלבטים …",
+  "link": "https://www.ynet.co.il/news/elections2026/article/sypm11tdjgg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/rkdtKxYszx/rkdtKxYszx_51_0_800_451_0_medium.gif"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 28.0° / 23.4°",
-   "summary": "כרגע 27.6°, לחות 68%, רוח 15.8 קמ״ש. סיכוי משקעים 18%.",
+   "title": "עתלית · 28.5° / 23.4°",
+   "summary": "כרגע 25.9°, לחות 77%, רוח 10.7 קמ״ש. סיכוי משקעים 18%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "28.0°"
+     "28.5°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "68%",
-     68
+     "77%",
+     77
     ],
     [
      "רוח",
-     "15.8 קמ״ש"
+     "10.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,10 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Hapoel Petah Tikva U19 נגד Hapoel Haifa U19",
+     "2:0 · מחצית שנייה"
+    ],
+    [
      "Hapoel Ironi Karmiel נגד Hapoel Tirat HaCarmel",
      "1:0 · הסתיים"
     ],
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Beer Sheva U19 נגד Hapoel Rishon LeZion U19",
      "2:2 · הסתיים"
-    ],
-    [
-     "Hapoel Marmorek נגד Maccabi Ironi Ashdod",
-     "1:1 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Ulytau נגד Okzhetpes",
-     "0:0 · מחצית שנייה"
+     "Sassuolo נגד AC Milan",
+     "0:0 · מחצית"
     ],
     [
-     "Como נגד AS Roma",
-     "0:0 · מחצית ראשונה"
+     "Sliema Wanderers נגד Gzira United",
+     "1:1 · מחצית"
     ],
     [
-     "Kaspiy Aktau נגד Altay Oskemen",
-     "0:0 · מחצית ראשונה"
+     "Urartu נגד Ararat Yerevan",
+     "1:1 · מחצית"
     ],
     [
-     "Lamphun Warrior נגד Bangkok United",
-     "0:0 · מחצית ראשונה"
+     "East Riffa נגד Ali Csc",
+     "1:0 · מחצית"
     ],
     [
-     "Prachuap FC נגד Chiangrai United",
-     "0:0 · מחצית ראשונה"
+     "Sitra Club נגד Najma",
+     "0:1 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "חיזוק משמעותי לירוקים: אלי דסה סיכם לשנתיים במכבי חיפה",
-   "summary": "מגן הנבחרת שפתח את העונה ללא קבוצה סיכם רשמית את תנאיו במדים הירוקים עד קיץ 2028. בכר לקראת הפועל ירושלים: \"אין משחקים קלים, ראינו מה קרה למכבי ת\"א\"",
+   "title": "דקה 68: ליברפול - מנ. סיטי 1:0",
+   "summary": "פרמייר ליג, מחזור 6: קרב ענקיות באנפילד. 65 דקות של קצב רגוע באנפילד הסתיימו כשהולאנד הפציץ את הרשת מתוך הרחבה, חראבנברך הורחק בצהוב שני",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkjdwpuogl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/Syu5T7n6Jl/Syu5T7n6Jl_0_289_2000_1126_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one535723",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/one1892154/one1892154_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "רז הרשקו נחתה עם מדליית הארד: \"להילחם עד הסוף עבור המדינה - הגאווה הכי גדולה\"",
-   "summary": "הג'ודוקא המעוטרת רשמה אתמול הישג יוקרתי באליפות העולם בבאקו, כשחזרה אל הפודיום לראשונה מאז 2023. על האכזבה בחצי הגמר: \"הרגשתי שיכולתי לעשות יותר\". להתחרות בשבוע של 7 באוקטובר? \"נתן לי דרייב, לתת מעצמי עוד יותר\"",
+   "title": "רבע 3, 01:02: הפועל ב\"ש - הפועל ת\"א 61:58",
+   "summary": "ליגת ווינר סל, מחזור 1: משחק צמוד בקונכיה. אוטורו הוביל את החבורה של איטודיס ליתרון דו ספרתי, אך קאביל וקולמן החזירו את המארחת לתמונה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/byn9w3ojmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/Bk7H9OAOiGl/Bk7H9OAOiGl_0_238_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one535663",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/15/one1853889/one1853889_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "במכבי ת\"א אופטימיים: \"מאמינים שמשחקי היורוליג יחזרו לישראל\"",
-   "summary": "במועדון הצהוב חושבים כי ביקורו של המנכ\"ל צ'וס בואנו, בבלומפילד ובהיכל מנורה מבטחים, ישפיע לטובה על ההחלטה הצפויה בנוגע להחזרת המשחקים לישראל",
+   "title": "דריימונד גרין לאבדיה: \"עשית לנו את המוות, ממש עצבנת אותי\"",
+   "summary": "כוכב גולדן סטייט אירח את הישראלי בפודקאסט שלו, החמיא לחדירות שלו לסל ושמע ממנו על הדרך הקשה שעבר בוושינגטון, הפריצה בפורטלנד והרגע שבו הבין שהוא מסוגל להיות אולסטאר: \"אולי פשוט הייתי צריך הזדמנות\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/p06xpeho2",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/rJf2kpdiMg/rJf2kpdiMg_160_170_954_537_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/b1r9vxfifg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/HkjOPmKiGg/HkjOPmKiGg_1016_392_1387_781_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "נתניהו מסתבך בגרסאות סותרות: נחשפים מסמכים נוספים ש\"עברו טיפול\"",
-   "summary": "\"המענה המלא\" בפברואר - מול \"החלק הקטן\" באוקטובר: נתניהו טען שהציג בפני המבקר את גרסתו המלאה למה שהוביל לדעתו ל-7/10, אך אחרי סדרת התחקירים שפורסמו ב\"7 ימים\" הוא לפתע מתנער מהצהרותיו. מדוח מיוחד של שב\"כ שנתניהו עשה בו שימוש כדי להוכיח את \"חפותו\" עולה שהושמטו פר…",
+   "title": "\"מהפכת המשרתים\" של בנט, ותוכנית וינטר להכרה בעד רבע מהחרדים כלומדי תורה",
+   "summary": "יו\"ר ביחד הציג את תוכניתו, שכוללת מעונות יום חינם למילואימניקים ומיליון שקל סבסוד לדירה: \"ניקח 30 מיליארד שקל מהמשתמטים - ונעביר אותם למשרתים\". מפלגת עמך ישראל פרסמה אף היא תוכנית, שכוללת \"העלאה משמעותית\" של שכר חיילי הסדיר - אבל רבים מהחרדים יקבלו למעשה \"היתר…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hjvjkb00jfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/HJNdFJYofl/HJNdFJYofl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/hjqmnxysze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/rkvZaVYiMe/rkvZaVYiMe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "גל דקירות בפולין וחשש מ\"יום שישי עקוב מדם\". במקביל: התרעה על פיגוע נגד רה\"מ",
-   "summary": "משרד הפנים חשף שהתקבל מידע על כוונה לתקוף את דונלד טוסק ואת שר ההגנה שלו, אך לא מסר מי עומד מאחוריה. ברקע: מתיחות גדולה עם רוסיה – וגל אלימות חריג בבתי הספר מאז יום רביעי, שבו נרצח שרת ונפצעו תלמידים ומורים. רה\"מ על הדקירות: \"לא משהו מאורגן\", המשרד על האיום לפ…",
+   "title": "זלנסקי מפציץ את \"גוגל של רוסיה\", ועונה לטראמפ: \"בחירות? כשתהיה הפסקת אש\"",
+   "summary": "נשיא אוקראינה, שנבחר לפני 7 שנים ו\"דילג\" על הבחירות שאחר כך בגלל המלחמה, הגיב על אמירת טראמפ ש\"אוקראינה צריכה נשיא חדש\", ואמר כי יקיים בחירות אם פוטין יסכים להפסקת אש בת 60 יום. על דרישת טראמפ שיחדל לתקוף מתקני נפט: \"כשרוסיה תפסיק להפציץ את מתקני האנרגיה שלנו\"…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syeoeauifg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/12/11/rkewUaN8T/rkewUaN8T_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hykbrfkimx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/HkeLLW00oMx/HkeLLW00oMx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
