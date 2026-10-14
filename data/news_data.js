@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום רביעי, 14 באוקטובר 2026",
  "date_he": "14/10/2026",
- "updated": "14:12",
+ "updated": "19:04",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "האם השכולה צעקה על נתניהו בקניון: \"בן זו**, רצחת לי את הילד\"",
-  "summary": "מעיין שרמן, אימו של רון שנהרג מחנק במנהרות חמאס עקב הפצצת צה\"ל, התפרצה על בנימין נתניהו בקניון בבאר שבע: \"3 שנים הוא בורח ממני\"",
-  "link": "https://www.ynet.co.il/news/article/sy8k11wtsgg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/rkx6yVbajGe/rkx6yVbajGe_0_306_463_261_0_medium.jpg"
+  "title": "יצא מהופעה והותקף בתל אביב: \"פוצצו אותי מכות כי אני הומו, עשו בי לינץ'\"",
+  "summary": "עידן טרכטנגרץ (28) הותקף באכזריות על ידי קבוצת גברים שהשמיעו לעברו קללות הומופוביות בנמל יפו. \"בעטו בי, פירקו אותי עם קסדה, שברו בקבוק זכוכית על הרצפה ואיימו להרוג אותי\", שחזר. לדבריו, \"ראיתי את השנאה שלהם בעיניים, כל הגוף שלי שבור\". בן 17 נחקר ושוחרר למעצר בי…",
+  "link": "https://www.ynet.co.il/news/article/sygnwrpogl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/rJ0nySpjzx/rJ0nySpjzx_0_105_444_250_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 27.0° / 23.0°",
-   "summary": "כרגע 26.2°, לחות 64%, רוח 11.0 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 27.0° / 22.9°",
+   "summary": "כרגע 22.9°, לחות 79%, רוח 8.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,21 +24,51 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "23.0°"
+     "22.9°"
     ],
     [
      "לחות",
-     "64%",
-     64
+     "79%",
+     79
     ],
     [
      "רוח",
-     "11.0 קמ״ש"
+     "8.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
      "0%",
      0
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "תוצאות בזמן אמת · ישראל",
+   "summary": "עדכון חי ממשחקי הכדורגל בישראל - מתעדכן בכל איסוף.",
+   "source": "365Scores",
+   "link": "https://www.365scores.com/he/football/israel",
+   "image": null,
+   "stats": [
+    [
+     "Hapoel Petah Tikva U19 נגד Hapoel Haifa U19",
+     "2:0 · הסתיים"
+    ],
+    [
+     "Hapoel Ramat Gan נגד בית\"ר ירושלים",
+     "0:4 · הסתיים"
+    ],
+    [
+     "Hapoel Kauhav נגד Bnei Mejar",
+     "1:1 · הסתיים"
+    ],
+    [
+     "Hapoel Yarka נגד Beitar Nahariya",
+     "0:1 · הסתיים"
+    ],
+    [
+     "Hapoel Bnei Ein Mahil נגד Maccabi Ihud Bnei Ivtin",
+     "בוטל"
     ]
    ]
   },
@@ -51,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Kigezi Homeboyz FC נגד Nec Fc",
+     "Al Shomooa SC נגד Al Ittihad",
      "0:1 · מחצית שנייה"
     ],
     [
-     "Khaleej Sirte נגד Al Akhdar",
-     "0:0 · מחצית"
-    ],
-    [
-     "Police נגד Villa",
-     "0:4 · מחצית שנייה"
-    ],
-    [
-     "FK Atyrau נגד Yelimay Semey",
+     "Slovan Bratislava נגד Stuttgart",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "SOA נגד ISCA",
-     "1:0 · הסתיים"
+     "Bodo Glimt נגד Borussia Dortmund",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Shakhtar Donetsk נגד AEK Athens",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
+     "Manchester City נגד PSG",
+     "0:0 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "דיווח: \"טראמפ ביקש לבטל אדום לשחקן ארה\"ב במונדיאל – ואינפנטינו נענה\"",
-   "summary": "לפי ה\"ניו יורק פוסט\", נשיא פיפ\"א הבטיח לטראמפ שידאג לביטול ההשעיה של פולארין באלוגון, בניגוד לתקנון הארגון. \"שיחת טלפון אחת והעניין סודר\", סיפר גורם המעורה בפרטים. כעת נחשף ניסיון לשנות את התקנון בדיעבד",
+   "title": "יעקב שחר אישר: \"מחפש גוף רציני שייקח את מכבי חיפה קדימה\"",
+   "summary": "כפי שנחשף בכלכליסט: בעלי מכבי חיפה התייחס לראשונה באופן רשמי לאפשרות שיעביר את הבעלות על המועדון, והודיע כי שכר את שירותיה של חברת THE RAINE GROUP כדי לאתר רוכש מתאים: \"המועדון יעבור רק למי שיוכל להמשיך את מפעל חיי\". בינתיים הבהיר: \"אמשיך לתמוך, להשקיע ולנהל א…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/byhez11tsmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/09/SyT4cK3tZx/SyT4cK3tZx_0_109_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjpfvbasgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/S1YMcBasfl/S1YMcBasfl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -88,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "עקב שיתוף 12 שחקנים: הפועל פ\"ת תעמוד לדין, התובע לא דרש הפסד טכני",
-   "summary": "תובע ההתאחדות העמיד את המלאבסים לדין בגין שיתוף שחקן שלא כדין. תלונת נתניה, שדורשת ניצחון טכני, צורפה לכתב האישום, אך התובע הותיר את ההחלטה לשיקול דעת בית הדין. בהפועל פ\"ת הגיבו: \"תלונות מנופחות ודרישות להפסד טכני אינן תחליף להכרעה ספורטיבית על המגרש\"",
+   "title": "לתפארת: 3:6 לליברפול על לאסק, שלושער לברקולה",
+   "summary": "תוצאה חריגה באוסטריה: הרדס התאוששו מהתבוסה לסיטי עם ניצחון שני בליגת האלופות, כשאראוחו, פרימפונג וקומאס הצטרפו לחגיגה. 2:3 לפיינורד על קומו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syugzphiml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/r1EjDbuiMl/r1EjDbuiMl_0_0_562_316_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one535940",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/one1892735/one1892735_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -102,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "ב-100 מיליון דולר: \"יעקב שחר מחדש את הניסיונות למכור את מכבי חיפה\"",
-   "summary": "על פי דיווח ב\"כלכליסט\", בעלי הירוקים ושותפיו שכרו את בנק ההשקעות ריין גרופ לאיתור רוכש לכל מניות המועדון. בין הגורמים שאליהם פנה הבנק: יזמי הייטק אוהדי הקבוצה, שעשויים להצטרף כבעלי מניות מיעוט. שחר מבקש להעביר את מפעל חייו לידיים שיבטיחו המשכיות",
+   "title": "חזרה למסלול: הפועל ת\"א הביסה 82:100 את בשיקטאש",
+   "summary": "האדומים פתחו לאט את ההתמודדות, אבל ברחו ברבע השלישי ופתחו את השבוע הכפול ביורוליג עם ניצחון קליל על הטורקים. מיצ'יץ', קופי ובלייקני בלטו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sja6jcnige",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/05/B1sy74zv11x/B1sy74zv11x_0_142_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one535956",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/one1892723/one1892723_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -116,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "משרד הבריאות מזהיר את הציבור מצריכת \"הסיגרים של בלפור\"",
-   "summary": "בהודעת המשרד, שמתייחסת גם למוצרי \"הקובה של אילנית\", נכתב כי מקור המוצרים לא ברור, לא ידוע מי ייצר אותם - והתקבלה תלונה של אזרח לגביהם",
+   "title": "מול שר החוץ של קולומביה: מאבטח שב\"כ ריתק תייר לרצפה ב\"יד ושם\"",
+   "summary": "פרסום ראשון: שר החוץ הקולומביאני השתתף בטקס הנחת זר לזכר קורבנות השואה במוזיאון בירושלים, וכאשר אחד מהמאבטחים ביקש לפנות עבורו את הדרך - הוא דחף תייר ותקף אותו. \"לא הבנתי את ההתרחשות\", טען התייר בחקירה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sklyxb6ige",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/HycxGbaozx/HycxGbaozx_37_39_319_180_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sydpkmajmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/H111ZXrTofx/H111ZXrTofx_0_0_800_534_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -130,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אחרי הפרישה הראשונה, במפלגה של וינטר מציגים חזית אחידה: \"גם בפוליטיקה יש גבולות\"",
-   "summary": "חברי מפלגת \"עמך ישראל\" הבטיחו בהצהרה משותפת להמשיך להתמודד בבחירות חרף הלחצים, ובצל העובדה שחלק מהסקרים חוזים שלא יעברו את אחוז החסימה: \"יש גבול, לא רודפים משפחה\". עופר וינטר: \"לא נכנעים, רצים עד הסוף ובכל הכוח\"",
+   "title": "הוריה של היימנוט נפגשו עם ראש השב\"כ: \"גילה אמפתיה לסבל\"",
+   "summary": "משפחת קסאו נפגשה עם ראש השב\"כ, ולדבריה הוא אמר כי הוא פתוח להרחבת מעורבות הארגון בחקירת ההיעלמות - אך \"בכפוף לאישור היועמ\"שית\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/rjrqzetogg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/HJXS5epofx/HJXS5epofx_0_117_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjfpa46jgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/S1sCzBTiMe/S1sCzBTiMe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -186,6 +216,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "בשל תמיכתה במה שהוכרז כ\"ארגון טרור\": ספריה של סאלי רוני לא יימכרו יותר בבריטניה",
+   "summary": "ההוצאה הבריטית פייבר הודיעה כי תפסיק להפיץ את ספריה של הסופרת האירית, מחברת \"אנשים נורמליים\", לאחר שהתחייבה להעביר הכנסות מיצירותיה לארגון פלסטיין אקשן שהוכרז בבריטניה כארגון טרור - \"למכור יצירות של סופר בלי להעביר לו את ההכנסות זה מצב בלתי מתקבל על הדעת\", נמס…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/bjkftfaiml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/16/BySJXy1fGe/BySJXy1fGe_0_177_2000_1126_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "המשטרה הזמינה להופעה את האיש שקרא \"לשלוח עם נבוט\" את אסתר חיות - וחזרה בה",
    "summary": "פרסום ראשון: השדרן והדי-ג'יי אלעד עמדי הוזמן להופיע באירוע הוקרה לפצועי המשטרה, אך ההזמנה בוטלה בעקבות ביקורת מצד גורמים בארגון, על רקע התבטאותו נגד נשיאת העליון לשעבר אסתר חיות. גורם במשטרה מסר כי היא מקפידה שכל נותני השירותים יפעלו \"ללא רבב\"; עמדי בתגובה: \"ה…",
    "source": "ynet - תרבות ובידור",
@@ -205,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/byemts3jme",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/Bkx2Uy2hifg/Bkx2Uy2hifg_178_79_1098_618_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "עקיצה למקלמור? סולן מטאליקה \"לא רוצה להשפיע על הקהל עם בולשיט\"",
-   "summary": "במהלך אחת מהופעותיה של מטאליקה באולם הספרה בלאס וגאס, ג'יימס הטפילד הודה לקהל שהגיע מרחוק והבהיר שהלהקה לא באה \"להשפיע\" עליו עם אג'נדות. הטפילד לא אמר למי התכוון, אבל לא מעט כלי תקשורת בארצות הברית קישרו את דבריו לסערה סביב מקלמור ואד שירן",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hyqubnnjmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/Sy00Dw32oGe/Sy00Dw32oGe_124_649_1769_996_0_medium.jpg",
    "stats": [
     [
      "מקור",
