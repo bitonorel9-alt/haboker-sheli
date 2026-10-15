@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 15 באוקטובר 2026",
  "date_he": "15/10/2026",
- "updated": "12:18",
+ "updated": "17:30",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "חשד לרצח: גבר אותר מחוסר הכרה ליד מחלף גולני",
-  "summary": "המשטרה חוקרת חשד לרצח של גבר כבן 40 שאותר מחוסר הכרה בשטח פתוח. צוות מד\"א קבע את מותו במקום",
-  "link": "https://www.ynet.co.il/news/article/bysnybasze",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/H1uMgH0ofx/H1uMgH0ofx_0_0_1280_720_0_medium.jpg"
+  "title": "פוטנציאל להסלמה? בישראל העלו כוננות, אך מעריכים שיישמר השקט עד הבחירות",
+  "summary": "הסיבה העיקרית להערכה העדכנית בישראל, היא שנתניהו וטראמפ לא יסתכנו לפני מערכות הבחירות בשתי המדינות. אלא שהסבירות לתקיפה נותרת גבוהה, בשל חשש שאיראן ושלוחיה ינסו לגרור אותה ללחימה. נלקח בחשבון גם תרחיש של חישוב מוטעה, כשכל צד עשוי לחשוב שהאויב מתכונן לתקוף",
+  "link": "https://www.ynet.co.il/news/article/hjbecvrjgl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/04/rJIqCyUFZx/rJIqCyUFZx_0_31_1482_835_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 27.3° / 23.0°",
-   "summary": "כרגע 26.7°, לחות 47%, רוח 23.8 קמ״ש. סיכוי משקעים 48%.",
+   "title": "עתלית · 27.3° / 22.9°",
+   "summary": "כרגע 24.8°, לחות 51%, רוח 12.8 קמ״ש. סיכוי משקעים 48%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,16 +24,16 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "23.0°"
+     "22.9°"
     ],
     [
      "לחות",
-     "47%",
-     47
+     "51%",
+     51
     ],
     [
      "רוח",
-     "23.8 קמ״ש"
+     "12.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,6 +51,10 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Sekzia Nes Ziona נגד Maccabi Beer Sheva",
+     "3:3 · מחצית שנייה"
+    ],
+    [
      "Hapoel Yarka נגד Beitar Nahariya",
      "0:1 · הסתיים"
     ],
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Ironi Nir Ramat HaSharon נגד Maccabi Bnei Eilat",
      "2:0 · הסתיים"
-    ],
-    [
-     "Ironi Nesher נגד Hapoel Kiryat Haim",
-     "2:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Al Swehly SC נגד Al Bashaer",
-     "נדחה"
+     "URA SC נגד Entebbe UPPC",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "MB Rouisset נגד Es Ben Aknoun",
-     "נדחה"
+     "Al Ahli Benghazi נגד Tahaddy Benghazi",
+     "1:0 · מחצית"
     ],
     [
-     "CR Belouizdad נגד JS Saoura",
-     "נדחה"
+     "AZ Alkmaar נגד הפועל באר שבע",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "CS Constantine נגד USM Alger",
-     "נדחה"
+     "Union St. Gilloise נגד Real Sociedad",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "MC Oran נגד Olympique Akbou",
-     "נדחה"
+     "Lech Poznan נגד Bayer Leverkusen",
+     "0:3 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "כ-500 שוטרים יאבטחו את הפועל באר-שבע באלקמאר | דיווח מיוחד",
-   "summary": "ברקע האיסור על כניסת אוהדי האלופה ושתי הפגנות פרו־פלסטיניות הצפויות בעיר, כוחות גדולים ייפרסו לקראת המשחק בליגה האירופית. שליח ynet מדווח: ישראלים בודדים ינסו לרכוש כרטיסים, למרות האזהרה כי בכניסות ייבדקו דרכונים",
+   "title": "מכר משחקים וגייס שחקנים נוספים: טניסאי סרבי הורחק ל-24 שנים",
+   "summary": "סטפן מיליצ'ביץ', שהגיע בשיאו למקום ה-1,338 בעולם, לא יוכל לשחק טניס מקצועני עד שנת 2050, לאחר שנמצא כי מכר שישה משחקים וניסה למכור שישה נוספים. בנוסף, נקנס ב-70 אלף דולר",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syoabv0ime",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/BktfD4AoMg/BktfD4AoMg_0_0_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/by0bktrofg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/rkm1cF0jfl/rkm1cF0jfl_172_161_847_477_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תוכנית להקמת שכונת מגורים על מגרשי האימון של בית\"ר ירושלים | פרסום ראשון",
-   "summary": "התוכנית שמקדמת רמ\"י כוללת 1,651 דירות ותותיר מגרש דשא אחד במתחם בבית וגן, לצד מגרש לא תקני המתוכנן על גג מבנה מסחרי במרחק כחצי קילומטר. סגן ראש העיר ומחזיק תיק הספורט, יוסי חביליו, מתנגד: \"אסור שהכסף ינצח את הספורט\"",
+   "title": "חי, מחצית ראשונה: אלקמאר - הפועל באר-שבע 0:0",
+   "summary": "האלופה הישראלית מחפשת ניצחון ראשון בליגה האירופית אחרי ה-0:0 מול דינמו זאגרב, ומתארחת אצל ההולנדים. ברקע: האיסור על כניסת אוהדי באר-שבע נותר בעינו, גם לאחר התערבות שגריר ישראל. הפגנה פרו-פלסטינית בסמוך לאצטדיון לפני ההתמודדות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skb800vcogx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/10/20/ryzR7kS6SK/ryzR7kS6SK_0_74_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/skqvybcjfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/ByMpHYRszg/ByMpHYRszg_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "חשש במכבי ת\"א: טייריס אסנטה נפצע בקרסול ונשלח לבית החולים",
-   "summary": "שחקן ההגנה ההולנדי נפגע באימון ויעבור בדיקות לבירור חומרת הפציעה. במועדון חוששים מהיעדרות ממושכת, והוא בספק גדול למשחק מול בית\"ר ירושלים ביום שני",
+   "title": "במשרד הספורט מיהרו להכריז על נוהל חדש, אבל המסמך לא מוכן ואיגוד הכדורסל כלל לא עודכן",
+   "summary": "המשרד הממשלתי הוציא הודעה על עדכון נהלים למעמד ספורטאים בגדר עילוי, בעקבות פרשת עומר מאייר, אך בדיקת ynet מעלה כי המסמך טרם נכתב ובאיגוד עודכנו לגביו דרך התקשורת. משרד הספורט: \"האיגוד יעודכן כשנסיים\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjw9peasme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/21/S1Go4tUSPzx/S1Go4tUSPzx_0_0_690_460_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/ryxbow0ifx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/24/HkBZBNzbbx/HkBZBNzbbx_176_0_2638_1485_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "המסר של יהדות התורה לליכוד, והמתקפה על אוחנה: \"יש מחיר לחילול השם\"",
-   "summary": "ח\"כ פינדרוס פרס את משנתו באשר לישיבה בממשלה תחת נתניהו. \"היינו מובנים מאליהם\", טען, והבהיר כי מבחינת מפלגתו חוק גיוס הוא הנושא שעליו \"יקום וייפול דבר\". וגם: ההסבר שלו למה לממשלה \"לא הייתה סייעתא דשמיא\"",
+   "title": "נתניהו נגד בן גביר: לא תהיה שר ביטחון - וגם לא ביטחון הפנים",
+   "summary": "ראש הממשלה הבהיר כי בכוונתו להשאיר את התיקים המבוקשים בליכוד גם בממשלה הבאה שבכוונתו להקים - ובעוצמה יהודית תקפו: \"התקבלה החלטה להוציא מהקואליציה את השר בן גביר\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/sjirn4aizl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/Sk17oERoMe/Sk17oERoMe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/b18hjocszx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/BJ11Tobc00h1g/BJ11Tobc00h1g_232_169_888_500_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "איליה צ'צ'ולין ועובד נוסף נהרגו בפיצוץ במפעל אינטל",
-   "summary": "בבית החולים סורוקה נקבע מותו של צ'צ'ולין, בן 49, ומניין ההרוגים עלה לשניים. הפיצוץ בקריית גת נגרם לפי החשד נגרם מבלון גז שהתפוצץ במהלך פריקת משאיות, הפצוע השלישי - אף הוא עובד ענקית הטכנולוגיה - מאושפז במצב קשה",
+   "title": "יוסף חדאד על סערת המדינה הפלסטינית: \"למה יש דין אחד לנתניהו ודין אחר לי?\"",
+   "summary": "בריאיון ל\"120 ואחת\" הפודקאסט הפוליטי של ynet, מתייחס מספר 2 של וינטר להתבטאויות העבר שלו על שתי מדינות: \"העברתי את רוח הדברים של הממשלה\". על הקואליציה הבאה: \"לא נשב תחת ליברמן, לא נישען על רע\"מ ולא נשתף פעולה עם הדמוקרטים\". על הגירה מעזה: \"כבר ניהלתי מגעים מטע…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/byxoferjzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/ByLpcECoMl/ByLpcECoMl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/120andone/article/bjd8ricigx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/ByxzRiK5jfg/ByxzRiK5jfg_28_13_1045_588_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -202,15 +202,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "בואו ללמוד איך ניהול סיכונים נכון של קוד פתוח יכול להציל לכם את הגיוס הבא",
-   "summary": "כלי AI לכתיבת קוד הפכו בתוך זמן קצר לחלק משגרת העבודה של רוב צוותי הפיתוח. הם מקצרים זמנים ומאפשרים לצוות קטן לייצר יותר קוד מאי פעם. אבל ה-AI לא כותב הכל מאפס: ברוב המקרים הוא מציע למפתחים להשתמש בספריית קוד פתוח, או מוסיף תלות חדשה. כל הצעה כזו מכניסה למערכת…",
+   "title": "רוקסטאר משחררת את טריילר ההשקה של GTA 6",
+   "summary": "קצת יותר מחודש לפני ההשקה הרשמית, רוקסטאר משחררת טריילר נוסף (\"השקה\") באורך 90 שניות למשחק Grand Theft Auto VI. בטריילר – כנראה האחרון שהיא תשחרר – תוכלו לספוג טוב טוב את האווירה של מיאמי Vice City, ורוקסטאר טוענת שהוא כולו נדגם מ-PS5. אגב, אם אתם בעניין, המוס…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/open-source-ai-risk-management-webinar-21102026/",
+   "link": "https://www.geektime.co.il/gta-vi-launch-trailer-rockstar/",
    "image": null,
    "stats": [
     [
      "מקור",
      "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "\"באש ובמים\", דאנה איבגי ויוצרי \"הפשוטע\": פסטיבל קולנוע דרום חוגג 25",
+   "summary": "חנן סביון וגיא עמיר יגיעו לשדרות עם העונה השנייה של \"באש ובמים\", בכורות לסדרה \"מה עם ילד?\" בכיכובן של דאנה איבגי ועלמה זק והתיעודית \"בת של מי את?\",  וחן אמסלםב סרט החדש \"לב זהב\": פסטיבל הקולנוע הדרומי חוזר, חוגג רבע מאה ומציג יצירות של יוצרים מהנגב המערבי המתמ…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/sj282h0jze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/H1hbyUCiGg/H1hbyUCiGg_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/syykkeaomg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/rybNLoxRizl/rybNLoxRizl_245_153_965_543_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "ראסל ברנד על ספסל הנאשמים: \"טורף מיני חסר רחמים, מחושב ומניפולטיבי\"",
-   "summary": "הקומיקאי והשחקן הבריטי בן ה-51 עומד לדין בלונדון בגין שלושה סעיפי אונס, שלושה סעיפי תקיפה מינית וסעיף של תקיפה מגונה, בעקבות תלונות של שש נשים על אירועים שהתרחשו לכאורה בין 1999 ל-2009. בנאום הפתיחה תיארה התביעה את ברנד כמי שהשתמש בקסמו ובמעמדו כדי להשיג את מב…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/b1h9ylrofx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/rJeiJ6x0oGe/rJeiJ6x0oGe_369_4_656_369_0_medium.jpg",
    "stats": [
     [
      "מקור",
