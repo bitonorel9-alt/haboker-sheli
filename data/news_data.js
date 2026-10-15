@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 15 באוקטובר 2026",
  "date_he": "15/10/2026",
- "updated": "17:30",
+ "updated": "20:43",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "פוטנציאל להסלמה? בישראל העלו כוננות, אך מעריכים שיישמר השקט עד הבחירות",
-  "summary": "הסיבה העיקרית להערכה העדכנית בישראל, היא שנתניהו וטראמפ לא יסתכנו לפני מערכות הבחירות בשתי המדינות. אלא שהסבירות לתקיפה נותרת גבוהה, בשל חשש שאיראן ושלוחיה ינסו לגרור אותה ללחימה. נלקח בחשבון גם תרחיש של חישוב מוטעה, כשכל צד עשוי לחשוב שהאויב מתכונן לתקוף",
-  "link": "https://www.ynet.co.il/news/article/hjbecvrjgl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/04/rJIqCyUFZx/rJIqCyUFZx_0_31_1482_835_0_medium.jpg"
+  "title": "העלאת הכוננות בישראל, עמדת נתניהו - והחשש ממיסקלקולציה לפני הבחירות",
+  "summary": "על רקע החשש מהסלמה לקראת הבחירות, צה\"ל נערך לאפשרות של חזרה ללחימה בתוך זמן קצר. עם זאת, ראש הממשלה והצבא אינם נלהבים מיוזמה צבאית נוספת - בין היתר בשל הקושי לזהות יעד מוגדר שיוכל להצדיק מלחמה. עם זאת, הרבה תלוי בהחלטות שיקבל טראמפ - אך עיקר החשש הוא מזה שהאיר…",
+  "link": "https://www.ynet.co.il/news/article/sk1xh50ize",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/03/HJjBJIwuGl/HJjBJIwuGl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 27.3° / 22.9°",
-   "summary": "כרגע 24.8°, לחות 51%, רוח 12.8 קמ״ש. סיכוי משקעים 48%.",
+   "title": "עתלית · 27.3° / 23.0°",
+   "summary": "כרגע 23.7°, לחות 64%, רוח 6.2 קמ״ש. סיכוי משקעים 48%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,16 +24,16 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "22.9°"
+     "23.0°"
     ],
     [
      "לחות",
-     "51%",
-     51
+     "64%",
+     64
     ],
     [
      "רוח",
-     "12.8 קמ״ש"
+     "6.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,10 +51,6 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Sekzia Nes Ziona נגד Maccabi Beer Sheva",
-     "3:3 · מחצית שנייה"
-    ],
-    [
      "Hapoel Yarka נגד Beitar Nahariya",
      "0:1 · הסתיים"
     ],
@@ -69,6 +65,10 @@ window.NEWS_DATA = {
     [
      "Ironi Nir Ramat HaSharon נגד Maccabi Bnei Eilat",
      "2:0 · הסתיים"
+    ],
+    [
+     "Ironi Nesher נגד Hapoel Kiryat Haim",
+     "2:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "URA SC נגד Entebbe UPPC",
+     "Dinamo Zagreb נגד Anderlecht",
      "0:0 · מחצית שנייה"
     ],
     [
-     "Al Ahli Benghazi נגד Tahaddy Benghazi",
-     "1:0 · מחצית"
+     "Olympique de Marseille נגד Olympiacos",
+     "0:1 · מחצית שנייה"
     ],
     [
-     "AZ Alkmaar נגד הפועל באר שבע",
-     "0:0 · מחצית ראשונה"
+     "Celta Vigo נגד Juventus",
+     "1:1 · מחצית שנייה"
     ],
     [
-     "Union St. Gilloise נגד Real Sociedad",
-     "0:0 · מחצית ראשונה"
+     "Bournemouth נגד Sturm Graz",
+     "2:0 · מחצית שנייה"
     ],
     [
-     "Lech Poznan נגד Bayer Leverkusen",
-     "0:3 · מחצית ראשונה"
+     "Jagiellonia נגד FC Ararat-Armenia",
+     "3:1 · מחצית שנייה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "מכר משחקים וגייס שחקנים נוספים: טניסאי סרבי הורחק ל-24 שנים",
-   "summary": "סטפן מיליצ'ביץ', שהגיע בשיאו למקום ה-1,338 בעולם, לא יוכל לשחק טניס מקצועני עד שנת 2050, לאחר שנמצא כי מכר שישה משחקים וניסה למכור שישה נוספים. בנוסף, נקנס ב-70 אלף דולר",
+   "title": "פנר גברה 65:74 על פרטיזן אחרי רבע שלישי אדיר",
+   "summary": "הטורקים הכריעו את המשחק עם 16:34 ברבע השלישי. שבון שילדס הוביל את המנצחת עם 17 נקודות, טאלן הורטון-טאקר הוסיף 14, ואיתן תומפסון קלע 13 מנגד",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/by0bktrofg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/rkm1cF0jfl/rkm1cF0jfl_172_161_847_477_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536116",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/25/one1889753/one1889753_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "חי, מחצית ראשונה: אלקמאר - הפועל באר-שבע 0:0",
-   "summary": "האלופה הישראלית מחפשת ניצחון ראשון בליגה האירופית אחרי ה-0:0 מול דינמו זאגרב, ומתארחת אצל ההולנדים. ברקע: האיסור על כניסת אוהדי באר-שבע נותר בעינו, גם לאחר התערבות שגריר ישראל. הפגנה פרו-פלסטינית בסמוך לאצטדיון לפני ההתמודדות",
+   "title": "קוז'וך: \"עשינו קפיצה אבל נצטרך לתרגם אותה לניצחונות\"",
+   "summary": "מאמן הפועל באר-שבע סיכם את ההפסד 2:1 לאלקמאר: \" אני שונא להפסיד, אבל זו הופעה ראויה שתלמד אותנו הרבה לעתיד\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/skqvybcjfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/ByMpHYRszg/ByMpHYRszg_0_0_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hk5tqicsgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/BkIPViAsGl/BkIPViAsGl_715_57_1510_850_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "במשרד הספורט מיהרו להכריז על נוהל חדש, אבל המסמך לא מוכן ואיגוד הכדורסל כלל לא עודכן",
-   "summary": "המשרד הממשלתי הוציא הודעה על עדכון נהלים למעמד ספורטאים בגדר עילוי, בעקבות פרשת עומר מאייר, אך בדיקת ynet מעלה כי המסמך טרם נכתב ובאיגוד עודכנו לגביו דרך התקשורת. משרד הספורט: \"האיגוד יעודכן כשנסיים\"",
+   "title": "רבע שעה לחלאילי, פאלאס נכנעה 3:2 לליון בצרפת",
+   "summary": "קבוצתו של המגן הישראלי רשמה הפסד בכורה העונה באירופה, הצרפתים נשארו במאזן מושלם בזכות שערים טוליסו נואמאה ושולץ. מילאן הביסה 0:4 את זלצבורג",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/ryxbow0ifx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/24/HkBZBNzbbx/HkBZBNzbbx_176_0_2638_1485_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536055",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/one1892128/one1892128_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "נתניהו נגד בן גביר: לא תהיה שר ביטחון - וגם לא ביטחון הפנים",
-   "summary": "ראש הממשלה הבהיר כי בכוונתו להשאיר את התיקים המבוקשים בליכוד גם בממשלה הבאה שבכוונתו להקים - ובעוצמה יהודית תקפו: \"התקבלה החלטה להוציא מהקואליציה את השר בן גביר\"",
+   "title": "מרדכי דוד התפרץ להקרנת נז\"א במטה הרשימה המשותפת: \"לא יהיה פה סרט\" | תיעוד",
+   "summary": "קבוצת פעילי ימין הגיעה למטה הרשימה המשותפת בתל אביב, שם היו אמורים להקרין את הסרט שהאשים את צה\"ל בביצוע פשעי מלחמה- ובמקום נרשם עימות בין הצדדים",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/b18hjocszx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/BJ11Tobc00h1g/BJ11Tobc00h1g_232_169_888_500_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/byntnjcige",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/SyMrjj0szg/SyMrjj0szg_0_251_720_406_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "יוסף חדאד על סערת המדינה הפלסטינית: \"למה יש דין אחד לנתניהו ודין אחר לי?\"",
-   "summary": "בריאיון ל\"120 ואחת\" הפודקאסט הפוליטי של ynet, מתייחס מספר 2 של וינטר להתבטאויות העבר שלו על שתי מדינות: \"העברתי את רוח הדברים של הממשלה\". על הקואליציה הבאה: \"לא נשב תחת ליברמן, לא נישען על רע\"מ ולא נשתף פעולה עם הדמוקרטים\". על הגירה מעזה: \"כבר ניהלתי מגעים מטע…",
+   "title": "נערים הפריעו לתנועה בבנימין, רכב פלסטיני דרס אחד מהם ופצע אותו קל",
+   "summary": "הדריסה התרחשה בצומת עטרת שבכביש 465, בזמן שלפי החשד הנהג ניסה להימלט מהמקום. כוחות צה\"ל קפצו למקום ופתחו במצוד אחר הדורס",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/120andone/article/bjd8ricigx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/ByxzRiK5jfg/ByxzRiK5jfg_28_13_1045_588_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bketroaifg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/11/B1Mhtvasyx/B1Mhtvasyx_0_131_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -188,10 +188,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "90 שניות ויש לכם אייג'נט: הסטארטאפ הישראלי Zenzap גייס 44 מיליון דולר",
-   "summary": "עידן ה-AI כבר מזמן כאן, וסביר להניח שגם אצלכם בארגון נעזרים בלא מעט אייג'נטים כדי לייעל תהליכים. אבל למרות ההבטחות, רוב העובדים עדיין מתקשרים עם ה-AI בנפרד משאר הקולגות שלהם, ככה שאין ממש עבודת צוות. אז איך מחברים את כולם לעבודה משותפת? סטארטאפ ישראלי שנחשף הי…",
+   "title": "רוקסטאר משחררת את טריילר ההשקה של GTA 6",
+   "summary": "קצת יותר מחודש לפני ההשקה הרשמית, רוקסטאר משחררת טריילר נוסף (\"השקה\") באורך 90 שניות למשחק Grand Theft Auto VI. בטריילר – כנראה האחרון שהיא תשחרר – תוכלו לספוג טוב טוב את האווירה של מיאמי Vice City, ורוקסטאר טוענת שהוא כולו נדגם מ-PS5. אגב, אם אתם בעניין, המוס…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/zenzap-comes-out-of-stealth/",
+   "link": "https://www.geektime.co.il/gta-vi-launch-trailer-rockstar/",
    "image": null,
    "stats": [
     [
@@ -202,15 +202,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "רוקסטאר משחררת את טריילר ההשקה של GTA 6",
-   "summary": "קצת יותר מחודש לפני ההשקה הרשמית, רוקסטאר משחררת טריילר נוסף (\"השקה\") באורך 90 שניות למשחק Grand Theft Auto VI. בטריילר – כנראה האחרון שהיא תשחרר – תוכלו לספוג טוב טוב את האווירה של מיאמי Vice City, ורוקסטאר טוענת שהוא כולו נדגם מ-PS5. אגב, אם אתם בעניין, המוס…",
+   "title": "בואו לעבוד איתנו: 2 חברות מספרות למה כדאי לעבוד דווקא אצלן",
+   "summary": "אף פעם לא מזיק לבדוק מה קורה בחוץ ואילו חברות טק מגייסות עכשיו. הרי כמו שנכתב על השלט הדיגיטלי בנאסד\"ק: \"הטק הישראלי מדלוור, לא משנה מה קורה\". אז היום אנחנו רוצים להציג בפניכם את ההזדמנויות ב-2 חברות שמגייסות עכשיו עובדות ועובדים – בדיוק עבור אלו שמחפשים עכשיו…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/gta-vi-launch-trailer-rockstar/",
+   "link": "https://www.geektime.co.il/tech-jobs-drivenets-connecteam/",
    "image": null,
    "stats": [
     [
      "מקור",
      "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "ג'סיקה לאנג: \"לשחק את כל הנשים המשוגעות האלו מונע ממני להשתגע\"",
+   "summary": "ג'סיקה לאנג, זוכת שני פרסי אוסקר, חוזרת בגיל 77 לתפקיד שהיא מגדירה כגדול בחייה. בשיחה בפסטיבל צ'לסי בניו יורק היא מספרת על הסרט בהשתתפותה שהמימון שלו קרס אחרי יום צילום אחד, על הנשים השבורות שהפכו לסימן ההיכר שלה, על השחקנים שחלמה לעבוד איתם ועל הנכדות שצפו אי…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hy27a5cofl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/Hy2DyiAjzl/Hy2DyiAjzl_159_343_1265_712_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/s1ruvmajzg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/08/04/B1QWuJGTt0/B1QWuJGTt0_383_114_1219_686_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "ממחאת החיג'אב ועד החטופים השבים: פסטיבל PHOTO IS:REAL חוזר",
-   "summary": "אירוע הצילום הבינלאומי חוזר ב-11 בנובמבר, ויציג יצירות של מעל 200 צלמים מובילים מהארץ והעולם. התערוכה המרכזית תעסוק באזרחים; בין התערוכות הנוספות: תיעוד צוותי הטיפול בחטופים ששבו בשיבא, ועבודות העוסקות באלימות בחברה הערבית",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/syykkeaomg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/rybNLoxRizl/rybNLoxRizl_245_153_965_543_0_medium.jpg",
    "stats": [
     [
      "מקור",
