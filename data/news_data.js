@@ -1,44 +1,44 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 16 באוקטובר 2026",
  "date_he": "16/10/2026",
- "updated": "07:41",
+ "updated": "12:51",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "המשטרה בהודעה חריגה: סריקות, גם מהאוויר - מחשש לחמוש במטע זיתים",
-  "summary": "כוחות משטרה, לוחמי מג\"ב ומתנדבי כיתות הכוננות מבצעים סריקות נרחבות באזור כפר קרע, בעקבות דיווחים על אדם שלפי החשד ייתכן שהוא חמוש. \"הציבור מתבקש לגלות עירנות\", נכתב בהודעת המשטרה",
-  "link": "https://www.ynet.co.il/news/article/s1mtmly3fl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/09/Bkb7Acciyg/Bkb7Acciyg_0_39_1253_706_0_medium.jpg"
+  "title": "צלמת המלחמות נפצעה בעימותים עם פורעים יהודים: \"בעטו בי שוב ושוב, 50 פעם. מפלצות\"",
+  "summary": "הצלמת האמריקנית של \"וושינגטון פוסט\" היידי לוין העידה מביה\"ח, לאחר העימות בכפר אבו פלאח שליד רמאללה: \"היו 50 רעולי פנים, טרוריסטים יהודים. בני תמיד אומר שהוא חושש שארצח בידי מתנחלים\". דיווחים: הם השליכו אבנים לעבר תושבים שמסקו, והציתו עצי זית. במועצת בנימין האש…",
+  "link": "https://www.ynet.co.il/news/article/rkntnd12ge",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/SykODtkhGl/SykODtkhGl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 23.7° / 21.4°",
-   "summary": "כרגע 23.1°, לחות 74%, רוח 17.7 קמ״ש. סיכוי משקעים 20%.",
+   "title": "עתלית · 24.3° / 21.3°",
+   "summary": "כרגע 23.0°, לחות 82%, רוח 15.1 קמ״ש. סיכוי משקעים 28%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "23.7°"
+     "24.3°"
     ],
     [
      "מינימום",
-     "21.4°"
+     "21.3°"
     ],
     [
      "לחות",
-     "74%",
-     74
+     "82%",
+     82
     ],
     [
      "רוח",
-     "17.7 קמ״ש"
+     "15.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "20%",
-     20
+     "28%",
+     28
     ]
    ]
   },
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Bnei Yehuda U19 נגד Hapoel Hadera U19",
-     "3:1 · הסתיים"
+     "Hapoel Beit She'an Mesilot נגד Hapoel Nof Ha'galil",
+     "1:1 · מחצית שנייה"
     ],
     [
-     "Hapoel Rishon LeZion U19 נגד Hapoel Ra'anana U19",
-     "1:1 · הסתיים"
+     "Hapoel Ramot Menashe נגד SC Mashhad",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Ihud Umm al-Fahm נגד FC Shfaram",
-     "3:2 · הסתיים"
+     "Hapoel Dir Khana נגד Hapoel Yarka",
+     "1:0 · מחצית שנייה"
     ],
     [
-     "Hapoel Akko נגד Bnei Yehuda",
-     "0:1 · הסתיים"
+     "Hapoel Ihud Bnei Sumei FC נגד Hapoel Bnei Ein Mahil",
+     "3:0 · מחצית"
     ],
     [
-     "SC Arad נגד F.C Kfar Saba 1928",
-     "1:3 · הסתיים"
+     "MS Bnei Hagolan נגד FC Shfaram",
+     "0:0 · מחצית"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "MC Alger נגד ES Setif",
-     "נדחה"
-    ],
-    [
-     "PWD Sports Club נגד Mohammedan",
-     "טרם התחיל"
-    ],
-    [
-     "Obolon Kyiv נגד Veres Rivne",
-     "טרם התחיל"
-    ],
-    [
      "Shamakhi FK נגד Safa Baku",
-     "טרם התחיל"
+     "3:2 · מחצית שנייה"
     ],
     [
      "Tanjong Pagar נגד Hougang United FC",
-     "טרם התחיל"
+     "2:0 · מחצית שנייה"
+    ],
+    [
+     "Ayutthaya FC נגד Lamphun Warrior",
+     "0:0 · מחצית"
+    ],
+    [
+     "Ethio Electric נגד Negele Arsi Ketema",
+     "0:0 · מחצית"
+    ],
+    [
+     "Obolon Kyiv נגד Veres Rivne",
+     "2:0 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "הפועל באר-שבע השאירה את הערמומיות בארץ | טור",
-   "summary": "היא הציגה משחק הגנה מלא אופי וידעה לחזור מפיגור, אבל בסופו של דבר ההקבוצה של קוז'וך נכנעה לאלקמאר בעיקר בגלל הטעויות שלה",
+   "title": "החוזה, המסוק והקשרים העסקיים: החשיפה על לברון שמסעירה את ה-NBA",
+   "summary": "העיתונאי פבלו טורה בחן את הקשרים בין כוכב פילדלפיה למיליארדר מייקל רובין, פרסום החתימה על ידי חברה שבבעלותו והאפשרות שאיש העסקים שכנע את ג'יימס להצטרף לסיקסרס",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/byzq3ocigl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/S1Xc00Y0szl/S1Xc00Y0szl_102_0_2899_1632_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/sjlt67j3mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/HkOhbNk2fg/HkOhbNk2fg_315_43_2312_1302_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מכבי נתניה הודיעה על השעייתו של מאור לוי: \"התנהלות לא נאותה\"",
-   "summary": "זאת עד שיעמוד בפני ועדת משמעת פנימית. בעקבות ההחלטה, הקשר לא ייקח חלק באימון היום וייעדר מהמשחק מול עירוני קריית שמונה בשבת",
+   "title": "מכה למכבי ת\"א: טייריס אסנטה עבר ניתוח וייעדר כשלושה חודשים",
+   "summary": "המגן ההולנדי, שנפצע אתמול באימון, עבר בהצלחה ניתוח לקיבוע שבר בקרסול. כעת יחל בתהליך השיקום בליווי הצוות הרפואי של הצהובים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hystl4j2zx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/H1Sc74k3fx/H1Sc74k3fx_0_184_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skg11ioj2gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/B1CYodynzx/B1CYodynzx_0_283_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בגלל לילות כאלה אני אוהד ריאל מדריד | תוכן גולשים",
-   "summary": "גם בפיגור 3:1 ברומא, כשנותרו דקות בודדות והפסד נראה כמעט בלתי נמנע, עוד חיכיתי שמשהו יקרה. ואז הגיעו אספי, אנדריק ורודיגר והפכו את התסכול לשמחה שקשה להסביר למי שלא אוהד. עכשיו מחכים סביליה, לייפציג וברצלונה, אבל לפני שחושבים על המשחק הבא, מגיע לנו ליהנות מהערב…",
+   "title": "שני טון שמן זית וחגורת זהב: הספורט הלאומי של טורקיה",
+   "summary": "הכדורגל שולט ביציעים ובתקציבים, אבל דווקא ההיאבקות בשמן זית מחזיקה בתואר הלאומי. עם מסורת בת מאות שנים, טקסים מיוחדים ופסטיבל שמושך אלפי צופים, הענף הוא גם חלק מהחזון התרבותי של ארדואן - שחולם להפיץ אותו בעולם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/ryh1mx0jgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/Hkx7606jGe/Hkx7606jGe_0_0_3000_1660_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/h1ifn70jml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/HJrQEw0ozg/HJrQEw0ozg_0_50_1024_577_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מפת הסנקציות נגד ישראל, וקרב הבלימה: \"התותח הגדול סוכל - אבל לא בטוח שלעולם חוסן\"",
-   "summary": "121 צעדים ב-61 מדינות: מאגר חדש ממפה את הסנקציות הקיימות נגד ישראל, ואת הצעדים המוצעים. במשרד החוץ אמרו כי הם \"משקיעים מאמצים כבירים בחזית זו\" - אבל גורמים מדיניים הבהירו: \"הייתה אפשרית ריאלית לסנקציות של האיחוד, והמשמעויות היו דרמטיות. זה נמנע, אך יכול להיות …",
+   "title": "אחרי 3 חודשים וחצי במעצר בפולין: שוחררו בערבות החרדיות שהבריחו 100 ק\"ג גת",
+   "summary": "שתי הצעירות הישראליות, שהחזיקו כל אחת 50 ק\"ג מהצמח שנחשב סם אסור באיחוד האירופי, לא יוכלו לעזוב את קרקוב עד לסיום משפטן. אם יורשעו, הן עלולות לקבל בין 3 ל-23 שנות מאסר. עורך הדין הפולני: \"אפילו אני הופתעתי מההחלטה של בית המשפט לשחרר אותן, זה פשע רציני מאוד כאן…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syqmkyoifl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/SymumSyhfx/SymumSyhfx_124_0_644_362_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/skke3vy2fx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/05/27/9996221/9996221_0_148_861_485_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "התרחיש: הצבעה תחת אש | כך נערכים בישראל - ובאיזה מקרה הבחירות יידחו?",
-   "summary": "בישראל מתכוננים לאפשרות של שיבוש הבחירות, וההנחיה היא לקיימן כסדרן גם במצב חירום. ynet עושה סדר: מה עושים אם יש אזעקה בקלפי, מתי אפשר להפסיק את ההצבעה - ובאיזה תרחיש ניתן לדחות את הבחירות: \"דחייה מוגבלת ומנומקת עשויה להיות מוצדקת, בתנאי שלא תשמש את השלטון להאר…",
+   "title": "התעלומה - והקשר למאפיה: הנרצח בחבית זוהה",
+   "summary": "לפני 4 שנים, בעקבות ירידת מפלס אגם מיד שליד לאס וגאס, אותרה חבית חלודה - ובה שרידי גבר אמריקני שנורה בראשו. כעת הוא זוהה כתושב ארקנסו, שנראה לאחרונה לפני יותר מ-40 שנה - ומשפחתו מעולם לא דיווחה על היעדרותו. פענוח עדיין אין, מומחה סבור: יש \"סימנים אופייניים\" לח…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/yokra14928660",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/yk14928547/yk14928547_0_0_565_319_0_cid_62_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rkmursj2me",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/BkUjxO1hfg/BkUjxO1hfg_0_80_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "ה-PC הראשון עם מעבד של אנבידיה נוחת בישראל עם מפרט מטורף ומחיר תואם",
+   "summary": "ארבעה חודשים אחרי ההכרזה של ג'נסן הואנג בטאיפיי, פלטפורמת RTX Spark של אנבידיה נוחתת במחשבים uעושה עלייה. המטרה: לקחת את יכולות ה-AI מהענן ולהנחית אותן ישירות על הלפטופ שלכם. עכשיו, אסוס היא הראשונה להביא את הבשורה לישראל עם מחשב שכולל מפרט מפלצתי ותג מחיר תוא…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/asus-proart-16-nvidia-rtx/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -192,20 +206,6 @@ window.NEWS_DATA = {
    "summary": "מאת אלעד מידר לפני שלוש שנים ישבתי מול המחשב במשרד ושיחקתי עם GPT-3.5 בפעם הראשונה. אז הייתי שותף בחברה עם 50 מפתחים. ביקשתי מהמודל לכתוב אפליקציה קטנה למובייל שאפשר להכניס בקובץ אחד, והוא כתב אותה. ביקשתי אחת מסובכת יותר, והוא כתב גם אותה. תוך כמה שעות הייתה …",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/from-predator-to-partner-how-we-harnessed-ai-agents/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "עסקת ענק: Varonis הישראלית נמכרת ב-6.3 מיליארד דולר",
-   "summary": "עסקת ענק בתעשיית הסייבר המקומית. חברת אבטחת המידע האמריקאית Proofpoint הודיעה על רכישת חברת הסייבר הישראלית Varonis (ורוניס). שווי העסקה עומד על כ-6.3 מיליארד דולר במזומן, והיא צפויה להיסגר במחצית הראשונה של שנת 2027. 1,000 עובדים בישראל Varonis מפתחת מוצר ענן…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/proofpoint-acquires-varonis-cybersecurity-deal/",
    "image": null,
    "stats": [
     [
@@ -244,11 +244,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "\"כשראיתי שכולם נגמרים, בחרתי לשמח. אמרתי לעצמי סוף-סוף יש לי משמעות!\"",
-   "summary": "במשך שנים מגי אזרזר הייתה   פוסטר למצב רוח טוב, עד שאירוע בבית קפה בניו-יורק הזכיר לה עד כמה היא בטראומה. מאז היא נלחמה לקום מהמיטה אבל הקפידה להישאר נחמדה גם לבוטים בוולט - כי  לכי תדעי מי יקרא את זה. עם תפקיד מורכב בסרט 'האהבות שלנו' של אבי נשר, היא מסבירה א…",
+   "title": "מסע אל תוך חיינו / שלמה ארצי",
+   "summary": "בשבוע הבא נופיע בפארק אשכול בעוטף וזה מרגש כי אנחנו באים מאהבה. אבל כשאני חושב על השירים, בטרם היו המילים חטופים, מיגונית ונובה, אני מצטמרר",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14924086",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/HygpjHNqjGg/HygpjHNqjGg_0_0_1920_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14925601",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/BJdY1hkNxC/BJdY1hkNxC_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
