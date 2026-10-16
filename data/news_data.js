@@ -1,44 +1,44 @@
 window.NEWS_DATA = {
- "date": "יום חמישי, 15 באוקטובר 2026",
- "date_he": "15/10/2026",
- "updated": "23:25",
+ "date": "יום שישי, 16 באוקטובר 2026",
+ "date_he": "16/10/2026",
+ "updated": "02:18",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "חשד לרצח: גבר אותר ללא רוח חיים ליד מחלף גולני",
-  "summary": "המשטרה חוקרת חשד לרצח של גבר כבן 40 שאותר מחוסר הכרה, ללא דופק וללא נשימה בשטח פתוח. צוות מד\"א קבע את מותו במקום. חשוד תושב טורעאן נעצר",
-  "link": "https://www.ynet.co.il/news/article/bysnybasze",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/BJdtpw0sMx/BJdtpw0sMx_0_218_941_530_0_medium.jpg"
+  "title": "כשהמציאות עולה על כל ספרות",
+  "summary": "הזוג הנהנתן, המנותק והמשלה הזה מבקש מאיתנו, בעוד ימים אחדים בבחירות לכנסת, להעניק לו מחדש את אמוננו",
+  "link": "https://www.ynet.co.il/news/article/r1vlpz0szx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/04/rkfS4w4seT/rkfS4w4seT_0_0_1601_901_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 23.6° / 21.1°",
-   "summary": "כרגע 22.5°, לחות 71%, רוח 7.0 קמ״ש. סיכוי משקעים 93%.",
+   "title": "עתלית · 23.7° / 20.9°",
+   "summary": "כרגע 21.1°, לחות 64%, רוח 6.4 קמ״ש. סיכוי משקעים 45%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "23.6°"
+     "23.7°"
     ],
     [
      "מינימום",
-     "21.1°"
+     "20.9°"
     ],
     [
      "לחות",
-     "71%",
-     71
+     "64%",
+     64
     ],
     [
      "רוח",
-     "7.0 קמ״ש"
+     "6.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "93%",
-     93
+     "45%",
+     45
     ]
    ]
   },
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Yarka נגד Beitar Nahariya",
+     "Bnei Yehuda U19 נגד Hapoel Hadera U19",
+     "3:1 · הסתיים"
+    ],
+    [
+     "Hapoel Rishon LeZion U19 נגד Hapoel Ra'anana U19",
+     "1:1 · הסתיים"
+    ],
+    [
+     "Ihud Umm al-Fahm נגד FC Shfaram",
+     "3:2 · הסתיים"
+    ],
+    [
+     "Hapoel Akko נגד Bnei Yehuda",
      "0:1 · הסתיים"
     ],
     [
-     "Hapoel Bnei Ein Mahil נגד Maccabi Ihud Bnei Ivtin",
-     "בוטל"
-    ],
-    [
-     "Hapoel Rahat נגד SC Sderot",
-     "1:4 · הסתיים"
-    ],
-    [
-     "Ironi Nir Ramat HaSharon נגד Maccabi Bnei Eilat",
-     "2:0 · הסתיים"
-    ],
-    [
-     "Ironi Nesher נגד Hapoel Kiryat Haim",
-     "2:0 · הסתיים"
+     "SC Arad נגד F.C Kfar Saba 1928",
+     "1:3 · הסתיים"
     ]
    ]
   },
@@ -81,24 +81,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "AZ Alkmaar נגד הפועל באר שבע",
-     "2:1 · הסתיים"
+     "MB Rouisset נגד Es Ben Aknoun",
+     "נדחה"
     ],
     [
-     "Union St. Gilloise נגד Real Sociedad",
-     "1:1 · הסתיים"
+     "CR Belouizdad נגד JS Saoura",
+     "נדחה"
     ],
     [
-     "Lech Poznan נגד Bayer Leverkusen",
-     "0:4 · הסתיים"
+     "CS Constantine נגד USM Alger",
+     "נדחה"
     ],
     [
-     "Torreense נגד Sunderland",
-     "1:2 · הסתיים"
+     "MC Oran נגד Olympique Akbou",
+     "נדחה"
     ],
     [
-     "Lyon נגד Crystal Palace",
-     "3:2 · הסתיים"
+     "JS Kabylie נגד JS El Biar",
+     "נדחה"
     ]
    ]
   },
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "ארה\"ב: 3 ילדים נורו למוות בבית ספר יסודי, היורה חוסל",
-   "summary": "4 נהרגו מהירי בבית הספר Silver Rail שבעיר בנד במדינת אורגון, כ-160 ק\"מ מפורטלנד. לפחות שני בני אדם פונו לבית החולים, היורה חוסל \"ייתכן שבידי עובר אורח\". תושבי האזור בהלם: \"אין מילים שיוכלו לתאר את האבל\". בשנה שעברה נורו למוות 15 אלף איש בארה\"ב: \"לא גזירת גורל,…",
+   "title": "כשהכנסת מפרה צו, בג\"ץ לא יכול להתחיל מאפס",
+   "summary": "בית המשפט נמנע עד כה מלתחום את הכנסת הנוכחית בזמן, אף שיכול היה להורות לה לקיים את הבחירות בתוך שבוע מפסק הדין. לכל הפחות, עליו לסרב להעניק לאי-הציות תוקף בדיעבד. צו להשלמת הבחירות החוזרות הוא המינימום הנדרש לכך",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1ily60ogl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/HJemBfR0jzx/HJemBfR0jzx_725_460_2095_1179_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ryudbz0jfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/06/03/r1VLI3pgGx/r1VLI3pgGx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "נערים הפריעו לתנועה בבנימין, רכב פלסטיני פגע באחד מהם ופצע אותו קל | תיעוד",
-   "summary": "תאונת הדרכים התרחשה בצומת עטרת שבכביש 465, בזמן שלפי החשד הנהג ניסה להימלט מהמקום. כוחות צה\"ל קפצו למקום ופתחו במצוד אחר הנהג הפוגע - שבהמשך הסגיר את עצמו. צה\"ל: לא מדובר בפיגוע",
+   "title": "טראמפ: נתניהו? \"אני לא סומך על אף אחד\"",
+   "summary": "בריאיון ל\"ניוזמקס\" אמר נשיא ארה\"ב שבישראל רוצים שיהיה מעורב בבחירות, וכי \"אם אתמודד שם אזכה ל-99% מהקולות\". הוא לא שלל שימוש ב\"אם כל הפצצות\" באיראן, אך הבהיר כי לא יפציץ בגרעין. חיילים על הקרקע? \"לא רואה את זה קורה\". על מלחמת רוסיה-אוקראינה: \"לא מעריץ של זלנסק…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bketroaifg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/BJQeVpRjze/BJQeVpRjze_0_0_1674_943_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sjkiveyngg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/07/rkYVHf4ife/rkYVHf4ife_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,6 +216,20 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
+   "title": "אוטם שריר הלב / דנה ספקטור",
+   "summary": "",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14925535",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/ryGYJ3JEgR/ryGYJ3JEgR_0_0_1920_1080_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "\"כשראיתי שכולם נגמרים, בחרתי לשמח. אמרתי לעצמי סוף-סוף יש לי משמעות!\"",
    "summary": "במשך שנים מגי אזרזר הייתה   פוסטר למצב רוח טוב, עד שאירוע בבית קפה בניו-יורק הזכיר לה עד כמה היא בטראומה. מאז היא נלחמה לקום מהמיטה אבל הקפידה להישאר נחמדה גם לבוטים בוולט - כי  לכי תדעי מי יקרא את זה. עם תפקיד מורכב בסרט 'האהבות שלנו' של אבי נשר, היא מסבירה א…",
    "source": "ynet - תרבות ובידור",
@@ -243,34 +257,20 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "בידור",
-   "title": "השיר שהכניס את ג'ימבו ג'יי לארון הבגדים",
-   "summary": "המילה שהכניסה אותו לפלייליסט. הרגע שבו 'סתלבט בקיבוץ' קיבל משמעות שונה לגמרי. האלבום שהקליט בתוך ארון בגדים והשיר שגרם לאנשים לשאול אותו \"איך ידעת?\" ג'ימבו ג'יי מגיע להופעות מיוחדות בבארבי ומדבר על הסיפורים שמאחורי השירים",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14925132",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/Syer0C45szg/Syer0C45szg_0_0_1920_1080_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
    "section": "לומדים",
    "learn": true,
-   "title": "פרדוקס הספינה של תזאוס",
-   "summary": "אם מחליפים כל חלק בספינה בהדרגה — האם היא עדיין אותה ספינה? שאלה על זהות ורציפות.",
-   "source": "תמצית ידע יומית · פילוסופיה",
+   "title": "למה נמלים לא הולכות לאיבוד",
+   "summary": "הן משאירות שביל פרומונים; ככל שהמסלול קצר יותר, הריח מתחזק מהר יותר — אלגוריתם מציאת דרך טבעי.",
+   "source": "תמצית ידע יומית · טבע",
    "link": "",
    "stats": [
     [
      "תחום",
-     "פילוסופיה"
+     "טבע"
     ],
     [
      "עובדה בונוס",
-     "המילה 'רובוט' נטבעה במחזה צ׳כי ב-1920."
+     "לב הכחול הכי גדול — הלווייתן הכחול — במשקל של מכונית."
     ]
    ]
   }
