@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
- "date": "יום שישי, 16 באוקטובר 2026",
- "date_he": "16/10/2026",
- "updated": "23:08",
+ "date": "יום שבת, 17 באוקטובר 2026",
+ "date_he": "17/10/2026",
+ "updated": "02:11",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הסעודים צריכים כיפת ברזל וקלע דוד, אבל ישראל לא ממהרת",
-  "summary": "לא נראה שמאחורי דברי טראמפ על חזרת הנורמליזציה לשולחן יש התפתחות ממשית, אבל המצוקה הסעודית מול החות'ים היא פתח להגברת הסיוע הישראלי - שאולי יגרום לריאד לוותר על התנאי לקידום פתרון 2 המדינות. ישראל כבר מסייעת עם מודיעין, אך לא ממהרת להציע מערכות הגנה - ומחכה לת…",
-  "link": "https://www.ynet.co.il/news/article/bjghzglhfl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/HJ877Zx3Mg/HJ877Zx3Mg_0_0_850_479_0_medium.jpg"
+  "title": "תלמיד לשעבר פתח במסע הרצח בכיתת חינוך מיוחד בארה\"ב, אב גיבור נטרל אותו",
+  "summary": "קיילוב ג'יאמנקו (36) שמע ירי מכיוון ביה\"ס היסודי \"סילבר רייל\" שבו לומדות בנותיו, הבחין ביורה - נער בן 16 שלמד בעבר בכיתת חינוך מיוחד באותו בית ספר - עקב אחריו ונטרל אותו. \"הוא מוצף רגשות אשם על שלא הציל עוד\", סיפר אחיו. תלמיד בן 10 סיפר: \"המורה צעקה 'בבקשה לא'…",
+  "link": "https://www.ynet.co.il/news/article/rke00sgg3ge",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/Sy6flEenzx/Sy6flEenzx_1_31_801_451_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 24.2° / 20.7°",
-   "summary": "כרגע 21.6°, לחות 77%, רוח 9.0 קמ״ש. סיכוי משקעים 100%.",
+   "title": "עתלית · 24.2° / 20.8°",
+   "summary": "כרגע 21.0°, לחות 78%, רוח 7.9 קמ״ש. סיכוי משקעים 96%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -24,21 +24,21 @@ window.NEWS_DATA = {
     ],
     [
      "מינימום",
-     "20.7°"
+     "20.8°"
     ],
     [
      "לחות",
-     "77%",
-     77
+     "78%",
+     78
     ],
     [
      "רוח",
-     "9.0 קמ״ש"
+     "7.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "100%",
-     100
+     "96%",
+     96
     ]
    ]
   },
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Bnei Yehuda U19 נגד Hapoel Hadera U19",
-     "3:1 · הסתיים"
+     "Beitar Jerusalem U19 נגד Hapoel Beer Sheva U19",
+     "1:3 · הסתיים"
     ],
     [
-     "Hapoel Rishon LeZion U19 נגד Hapoel Ra'anana U19",
-     "1:1 · הסתיים"
+     "Hapoel Haifa U19 נגד Maccabi Petach Tikva U19",
+     "1:5 · הסתיים"
     ],
     [
-     "Ihud Umm al-Fahm נגד FC Shfaram",
-     "3:2 · הסתיים"
+     "Maccabi Herzliya U19 נגד SC Ashdod U19",
+     "2:2 · הסתיים"
     ],
     [
-     "Hapoel Akko נגד Bnei Yehuda",
+     "Hapoel Petah Tikva U19 נגד Maccabi Netanya U19",
      "0:1 · הסתיים"
     ],
     [
-     "SC Arad נגד F.C Kfar Saba 1928",
-     "1:3 · הסתיים"
+     "Hapoel Tel Aviv U19 נגד Maccabi Haifa U19",
+     "0:3 · הסתיים"
     ]
    ]
   },
@@ -81,20 +81,16 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Eintracht Frankfurt נגד 1. FC Köln",
-     "1:0 · הסתיים"
+     "Eastern District נגד Eastern SC",
+     "טרם התחיל"
     ],
     [
-     "Frosinone נגד Sassuolo",
-     "4:2 · הסתיים"
+     "Rahmatgonj Mfs נגד Brothers U.",
+     "טרם התחיל"
     ],
     [
-     "Le Mans נגד Toulouse",
-     "0:3 · הסתיים"
-    ],
-    [
-     "Deportivo A Coruña נגד Levante",
-     "1:1 · הסתיים"
+     "Bangladesh Police נגד Arambagh",
+     "טרם התחיל"
     ]
    ]
   },
@@ -142,11 +138,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "צה\"ל: לבדוק אם יש חשד להסתה ולעידוד ליבוי השטח באמירות הרב דוב ליאור",
-   "summary": "פסק ההלכה של הרב המזוהה עם מפלגת עוצמה יהודית, שהתיר ליהודים למסוק זיתים ממטעים של פלסטינים ביו\"ש, עורר הסתייגות חריפה בצה\"ל: \"עודד עבירות אלימות, גניבות והסתה\". בצבא סבורים כי יש לבחון אם יש חשד לעבירות פליליות",
+   "title": "רוכב אופנוע נהרג בתאונה עצמית בהרצליה",
+   "summary": "צעיר כבן 25 אותר לצד הדרך ברחוב השונית בעיר כשהוא מחוסר הכרה וסובל מחבלה קשה בראשו. צוות מד\"א קבע את מותו במקום",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/b1tpqex2zg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2012/08/26/4123551/4123551_0_67_984_554_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rjaonqx3fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/SyRdeXx2fe/SyRdeXx2fe_0_0_2000_1126_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -156,11 +152,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "יש פה עניין עם יהודים שונאי ישראל",
-   "summary": "אין צורך שנשלה את עצמנו שמדובר בתופעה שולית. הרי מדובר בקבוצה משמעותית של מאות, אולי אלפים, לרבים מהם יש נשק, הם מצפצפים על המדינה ועל חיילי צה\"ל. הם עושים בשטחים כרצונם",
+   "title": "הסעודים צריכים כיפת ברזל וקלע דוד, אבל ישראל לא ממהרת",
+   "summary": "לא נראה שמאחורי דברי טראמפ על חזרת הנורמליזציה לשולחן יש התפתחות ממשית, אבל המצוקה הסעודית מול החות'ים היא פתח להגברת הסיוע הישראלי - שאולי יגרום לריאד לוותר על התנאי לקידום פתרון 2 המדינות. ישראל כבר מסייעת עם מודיעין, אך לא ממהרת להציע מערכות הגנה - ומחכה לת…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s1x59kgnzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/SykODtkhGl/SykODtkhGl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjghzglhfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/HJ877Zx3Mg/HJ877Zx3Mg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -240,11 +236,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "הספר ששינה את השירה העברית",
-   "summary": "60 שנה לצאת 'דברים', ספרה הראשון של יונה וולך, שביסס את מעמדה כאחת המשוררות המקוריות והחשובות בשירה העברית. הלית ישורון, שירה סתיו ועודד כרמלי חוזרים לשירים שעדיין לא מפסיקים להפתיע",
+   "title": "מסע אל תוך חיינו / שלמה ארצי",
+   "summary": "בשבוע הבא נופיע בפארק אשכול בעוטף וזה מרגש כי אנחנו באים מאהבה. אבל כשאני חושב על השירים, בטרם היו המילים חטופים, מיגונית ונובה, אני מצטמרר",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14906681",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/SyFJCX5jfg/SyFJCX5jfg_0_0_1920_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14925601",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/BJdY1hkNxC/BJdY1hkNxC_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -255,18 +251,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "למה נמלים לא הולכות לאיבוד",
-   "summary": "הן משאירות שביל פרומונים; ככל שהמסלול קצר יותר, הריח מתחזק מהר יותר — אלגוריתם מציאת דרך טבעי.",
-   "source": "תמצית ידע יומית · טבע",
+   "title": "מהי מטבע קוונטי (Qubit)",
+   "summary": "בניגוד לביט רגיל (0 או 1), קיוביט יכול להיות בשני המצבים בו-זמנית — בסיס למחשוב הקוונטי.",
+   "source": "תמצית ידע יומית · טכנולוגיה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "טבע"
+     "טכנולוגיה"
     ],
     [
      "עובדה בונוס",
-     "לב הכחול הכי גדול — הלווייתן הכחול — במשקל של מכונית."
+     "אין מספיק זהב בעולם כדי לצפות בו את כל היבשה."
     ]
    ]
   }
