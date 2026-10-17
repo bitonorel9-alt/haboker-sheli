@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 17 באוקטובר 2026",
  "date_he": "17/10/2026",
- "updated": "07:19",
+ "updated": "11:51",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מאירוסין ביפן לנטרול הטייס-מחבל: \"צעקו 'עזרה', חשבתי שאם אקום - נמות בנפרד\"",
-  "summary": "אדר חיות, מהנוסעים שהשתלטו על הטייס-המחבל בטיסת פליי דובאי, שחזר ל-ynet את רגעי האימה, הריצה לקוקפיט והעימות עם הדיילים: \"חשדנו שהם נגדנו\". בת הזוג מיכל, שהתארסה לו רק ימים ספורים קודם לכן, סיפרה על הטראומה שלא עוזבת: \"יש לי סיוטים בלילה, אני נעזרת בכדורי שינה…",
-  "link": "https://www.ynet.co.il/news/article/hjkhcu1ngx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/Skgpiu1nGe/Skgpiu1nGe_0_147_1280_721_0_medium.jpg"
+  "title": "בלב רומא: מפגינים שרפו דגלי ישראל וארה\"ב | תיעוד",
+  "summary": "\"כסף לבתי ספר, לא למלחמה\": סטודנטים באיטליה קיימו יום מחאות בשם \"יום ללא מלוני\", בקריאה להשקיע תקציב בחינוך ולא בהוצאות צבאיות - ולהחרים את ישראל. דגלי פלסטין, הצתת פחים, צעדה למשרד החינוך ואיום בשביתה: \"השר לא יכול לטמון ראשו בחול\". הוא השיב: \"חוליגנים\". מלונ…",
+  "link": "https://www.ynet.co.il/news/article/ryey1ae3ml",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/H1YryAl3Ml/H1YryAl3Ml_0_250_3000_1688_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 24.3° / 20.4°",
-   "summary": "כרגע 23.3°, לחות 73%, רוח 13.1 קמ״ש. סיכוי משקעים 23%.",
+   "title": "עתלית · 24.4° / 20.4°",
+   "summary": "כרגע 24.0°, לחות 79%, רוח 16.4 קמ״ש. סיכוי משקעים 45%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "24.3°"
+     "24.4°"
     ],
     [
      "מינימום",
@@ -28,17 +28,17 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "73%",
-     73
+     "79%",
+     79
     ],
     [
      "רוח",
-     "13.1 קמ״ש"
+     "16.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "23%",
-     23
+     "45%",
+     45
     ]
    ]
   },
@@ -50,6 +50,10 @@ window.NEWS_DATA = {
    "link": "https://www.365scores.com/he/football/israel",
    "image": null,
    "stats": [
+    [
+     "Ahva Kfar Manda נגד Hapoel Kauhav",
+     "0:1 · מחצית"
+    ],
     [
      "Beitar Jerusalem U19 נגד Hapoel Beer Sheva U19",
      "1:3 · הסתיים"
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Petah Tikva U19 נגד Maccabi Netanya U19",
      "0:1 · הסתיים"
-    ],
-    [
-     "Hapoel Tel Aviv U19 נגד Maccabi Haifa U19",
-     "0:3 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Eastern District נגד Eastern SC",
-     "טרם התחיל"
+     "Everton נגד Chelsea",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Rahmatgonj Mfs נגד Brothers U.",
-     "טרם התחיל"
+     "Chonburi FC נגד Prachuap FC",
+     "1:0 · מחצית ראשונה"
     ],
     [
-     "Bangladesh Police נגד Arambagh",
-     "טרם התחיל"
+     "Balestier Khalsa נגד Geylang International",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Okzhetpes נגד FC Qyzyljar",
-     "טרם התחיל"
+     "Welwalo Adigrat Uni נגד Fasil Ketema",
+     "נדחה"
     ],
     [
-     "Zorya Luhansk נגד Chornomorets Odesa",
+     "Tobol Kostanay נגד Jenis",
      "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "כשהפועל ת\"א לא הורסת לעצמה, השמיים הם הגבול | טור",
-   "summary": "האדומים סיפקו מול פנאתינייקוס הצצה לפוטנציאל האדיר שלהם, עם ניצחון של אופי, בגרות וקבלת החלטות נכונה. גם מכבי ת\"א יצאה עם חיוך מהמחזור, והעניקה לעצמה זריקת עידוד חשובה להמשך הדרך",
+   "title": "האם משחקי נבחרת ישראל בכדוריד בדרך חזרה הביתה?",
+   "summary": "יו”ר האיגוד עידן מזרחי, נפגש עם אחד האנשים המשפיעים בכדוריד העולמי, הסרבי, בוז’ידאר ג’ורקוביץ'. מזרחי: \"פועל לחזק את מעמדו של הכדוריד הישראלי בעולם\".",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rkbdorxnzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/S1gao9xxhfg/S1gao9xxhfg_12_329_828_466_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/rk0t2agngl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/05/BkeyAxMvWe/BkeyAxMvWe_0_109_1200_676_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "רונאלדו מעל מסי, ובפער: הכדורגלנים המרוויחים ביותר בעולם",
-   "summary": "כוכב אל-נאסר מוליך שוב את דירוג \"פורבס\" השנתי, כשהוא צפוי להכניס העונה לא פחות מ-300 מיליון דולר. \"הפרעוש\" שני, אמבאפה שלישי. ואיפה מדורג לאמין ימאל?",
+   "title": "שני טון שמן זית וחגורת זהב: הספורט הלאומי של טורקיה",
+   "summary": "הכדורגל שולט ביציעים ובתקציבים, אבל דווקא ההיאבקות בשמן זית מחזיקה בתואר הלאומי. עם מסורת בת מאות שנים, טקסים מיוחדים ופסטיבל שמושך אלפי צופים, הענף הוא גם חלק מהחזון התרבותי של ארדואן - שחולם להפיץ אותו בעולם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hk8gl9e2ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/SkIa00cxnzg/SkIa00cxnzg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/h1ifn70jml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/HJrQEw0ozg/HJrQEw0ozg_0_50_1024_577_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "במשחק ההכנה האחרון לעונה: 12 נקודות לאבדיה בהפסד פורטלנד",
-   "summary": "הכוכב הישראלי הוסיף 4 ריבאונדים ו-3 אסיסטים, אבל הבלייזרס נוצחו לראשונה בקדם העונה - 128:118 לגולדן סטייט, חמישה ימים לפני הדבר האמיתי. קרי הוליך את המנצחת, לילארד ומוראנט בלטו מהעבר השני",
+   "title": "10,000 אוהדים במושבה: מכבי חיפה רוצה להמשיך במומנטום",
+   "summary": "הירוקים יודעים: ניצחון חוץ (19:30) על מכבי פ\"ת יבטיח עלייה, לפחות זמנית, לפסגת הטבלה. אלי דסה ייכלל לראשונה בסגל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/bjdsfdl3ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/Hkw009Og2Gg/Hkw009Og2Gg_242_31_2287_1288_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkwsacenmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/22/Syg7AQvDvMx/Syg7AQvDvMx_1_91_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "דיווח: \"היורש של סינוואר\" היה בדירה שצה\"ל תקף בעזה לפני שבועיים - אבל רק נפצע",
-   "summary": "עלי אל-עמודי, שנחשב למנהיג חמאס ברצועה, הותקף בדירה לפני שבועיים. בכיר בארגון הטרור אמר ל\"א-שרק אל-אווסט\" הסעודי כי הוא אכן היה שם, אבל באזור צדדי - וניצל",
+   "title": "הכוכב הנוצרי של השמאל רוצה לכבוש את טקסס: \"למדתי מרבי, מה שקורה לילדי עזה עושה לי בחילה\"",
+   "summary": "\"אשפוז במוסד\", \"שמאלן צמחוני\", הדלפות ובגידות: המרוץ לסנאט בטקסס הוא אחד הדרמטיים, הסוערים והיקרים בבחירות האמצע. ג'יימס טלריקו \"הנוצרי פרוגרסיבי\" מוביל אבל רק בפער קטן, במעוז שמרני ענקי שלא שלח דמוקרט לסנאט 38 שנה. הרפובליקנים מזרימים מאות מיליונים כדי להציל …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sk6dtcx2mx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/rJY5l4A9fg/rJY5l4A9fg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sj6thn6igl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/rkx9L9yhzl/rkx9L9yhzl_0_129_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "בבחירות האלו אין לנו זמן לטעות",
-   "summary": "החלטתי: הפעם אני מצביע להנדל. למה? כי לאף אחד מהצדדים לא יהיו 61 מנדטים, כי כולם  מבטיחים דברים שלא יוכלו לקיים - וכי הגיע הזמן שהנושאים בנטל ישתפו פעולה",
+   "title": "נשיא מצרים סיסי: ב-2030 אעזוב את התפקיד",
+   "summary": "האיש ששולט במצרים מאז ההפיכה ב-2014 הכריז בנאום באקדמיה הצבאית של ארץ הנילוס כי עזיבתו את התפקיד לא נתונה לדיון. ב-2019 שונתה החוקה עבורו, כך שיוכל לשלוט בארץ הנילוס עד 2030, במה שנתפס כביסוס שלטון אוטוריטרי. סיסי גם ביקש לחזק את סעודיה מול החות'ים והכריז: \"ני…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14927920",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/yk14927213/yk14927213_0_0_732_413_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/s1drx6lnfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/13/S1gU1Rqq6gl/S1gU1Rqq6gl_522_85_2151_1211_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "פוטושופ ו-Word בחינם: השבוע שהרעיד את חברות התוכנה (ומה אומר החוק?)",
+   "summary": "בתחילת שנת 2026 התרחש מרחץ דמים בבורסות ברחבי העולם, כאשר מניות חברות התוכנה וה-SaaS, שנסחרות בבורסות ברחבי העולם, קרסו יותר מהר מגרסת בטא חדשה של Windows. כל זה קרה סביב החשש מהתופעה שזכתה לשם SaaSpocalypse, כלומר, מצב שבו פיתוחי AI זריזים יכולים להחליף אפליק…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/the-saaspocalypse-might-be-here/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -201,16 +215,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "\"מכוניות מעופפות זה דבר אמיתי\": טסלה חושפת את Tesla Roadster שיכולה לרחף באוויר ולנסוע הפוך",
-   "summary": "\"אנחנו צריכים קהל, כדי להוכיח שהכל אמיתי ולא AI או SI (השם החדש לבינה מלאכותית שמקדם הנשיא טראמפ, י.א.), וכדי שאתם תוכלו לספר לכולם מה ראיתם במו עיניכם\" כך פתח אילון מאסק את אירוע החשיפה של ה-Tesla Roadster, ומהר מאוד כולם הבינו על מה הוא מדבר. בדקות שלאחר מכן…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/tesla-roadster-flying-reveal/",
-   "image": null,
+   "section": "בידור",
+   "title": "הזמר ארז הלוי (\"הלילה\") הלך לעולמו בגיל 71",
+   "summary": "הלוי היה מזוהה במיוחד עם אלבום הבכורה שלו, \"הלילה\", שיצא ב-1984 בהפקתו המוזיקלית של מתי כספי וכלל בין היתר את \"הדייגים\", \"כך ברא אותך הטבע\", \"כשנפגשנו שנית\" ושיר הנושא. לאורך השנים עבד עם אמנים רבים ובהם אהוד בנאי, אריאל זילבר וקובי אוז",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hkwhv3gnml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/04/02/8445435/8445435_461_67_882_497_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/ry6rnz0ifl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/Sky1kGRjzg/Sky1kGRjzg_415_0_1525_858_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "נזרקה מריאליטי אחרי פרק אחד - והפכה לביצ'ית הכי קשוחה באל איי. מי את אדלה?",
-   "summary": "היא גדלה בברטיסלבה, לימדה את עצמה אנגלית מול \"האנה מונטנה\" ועזבה את הבית בגיל 14 כדי ללמוד בלט בווינה ובלונדון. שלוש שנים אחרי שהעיפו אותה מריאליטי מוזיקלי, אדלה בת ה-23 עוקפת במצעדים את החברות מקטסאיי, שרה על סקס ועל תסביכי אב בלי להתנצל ומוכיחה שהיא אחת הדמו…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/h1lth4yozg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/11/B1VNVVFjMl/B1VNVVFjMl_0_146_584_329_0_medium.jpg",
    "stats": [
     [
      "מקור",
