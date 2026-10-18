@@ -1,20 +1,20 @@
 {
  "date": "יום ראשון, 18 באוקטובר 2026",
  "date_he": "18/10/2026",
- "updated": "16:14",
+ "updated": "19:05",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "בן גביר: נתניהו הבטיח לאירופה שלא אהיה בממשלה; הליכוד: \"אתה חלק מכל ממשלה עתידית\"",
-  "summary": "השר לביטחון לאומי טען כי הגיע לידיו \"מידע בדוק ומאומת\", שלפיו לשכת רה\"מ התחייבה בפני מדינות באיחוד האירופי שעוצמה יהודית לא תהיה חלק מהממשלה הבאה. בליכוד הכחישו בתוקף: \"ספינים פוליטיים שקריים וירי בתוך הנגמ\"ש, נתניהו הבהיר שכל ממשלה תכלול את בסיס השותפים של הק…",
-  "link": "https://www.ynet.co.il/news/elections2026/article/ski11lpm2fe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/10/H1vNL5yl11e/H1vNL5yl11e_178_89_820_462_0_medium.jpg"
+  "title": "אזור שלם בישראל חי במערב פרוע: \"סוחרים מנסים נשק ונעלמים לפני שהמשטרה באה\"",
+  "summary": "ביום ובלילה, על פני שטח ענק: רבים מתושבי הנגב סובלים מירי בלתי פוסק של סוחרים ש\"לוקחים את הנשק לסיבוב\" עבור רוכשים אפשריים. אך למרות שהתופעה אינה חדשה, התושבים טונעים: \"מרגישים שחזרנו אחורה. כל המאמצים הם רק טיפה בים\". המשטרה מתעקשת: \"היקף אירועי הירי באזור יר…",
+  "link": "https://www.ynet.co.il/news/article/b1q00udfnfg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/26/SJl11DwBBcfl/SJl11DwBBcfl_270_25_1005_566_270_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 24.7° / 20.5°",
-   "summary": "כרגע 23.4°, לחות 64%, רוח 12.3 קמ״ש. סיכוי משקעים 43%.",
+   "summary": "כרגע 22.5°, לחות 64%, רוח 4.7 קמ״ש. סיכוי משקעים 43%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -33,7 +33,7 @@
     ],
     [
      "רוח",
-     "12.3 קמ״ש"
+     "4.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,16 +51,16 @@
    "image": null,
    "stats": [
     [
-     "Ihud Umm al-Fahm נגד SC Tira",
+     "הפועל באר שבע נגד הפועל ירושלים",
+     "2:1 · מחצית שנייה"
+    ],
+    [
+     "Maccabi Ironi Ashdod נגד Shimshon Tel Aviv",
      "0:1 · מחצית שנייה"
     ],
     [
-     "Kiryat Malahi נגד Ironi Bet Shemesh",
-     "3:0 · מחצית שנייה"
-    ],
-    [
-     "Hapoel Lod נגד Hapoel Hod HaSharon",
-     "0:0 · מחצית ראשונה"
+     "Beitar Ironi Kiryat Gat נגד Ironi Ashkelon",
+     "0:0 · מחצית"
     ],
     [
      "Sekzia Nes Ziona נגד Maccabi Beer Sheva",
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Paris FC נגד Rennes",
-     "2:1 · מחצית"
-    ],
-    [
-     "Lorient נגד Monaco",
+     "Celik Zenica נגד Zrinjski",
      "0:0 · מחצית"
     ],
     [
-     "Le Havre נגד Auxerre",
-     "0:1 · מחצית"
+     "Yamoussoukro FC נגד Sol",
+     "0:1 · מחצית שנייה"
     ],
     [
-     "Nottingham Forest נגד Arsenal",
+     "Juventus נגד Lazio",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "Borussia Mönchengladbach נגד Hoffenheim",
+     "Lyon נגד OGC Nice",
      "0:1 · מחצית ראשונה"
+    ],
+    [
+     "Real Madrid נגד Sevilla",
+     "0:0 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "רבע 2, 03:20: הפועל ת\"א - מכבי אשדוד 40:43",
-   "summary": "ליגת ווינר סל, מחזור 2: משחק צמוד בהיכל שלמה. יוג׳ין ג׳רמן בולט אצל האדומים של דימטירס איטודיס, מנגד רוברט טרנר מוביל את החבורה של דן קציר",
+   "title": "דקה 1: ריאל מדריד - סביליה 0:0",
+   "summary": "ליגה ספרדית, מחזור 9: החבורה של מוריניו רוצה להישאר מושלמת בברנבאו ולצמק את הפער מהפסגה לפני הקלאסיקו. מנגד, האנדלוסים יקוו להפתיע. חי ב-ONE",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one536317",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/one1893397/one1893397_0_0_800_444_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/536315",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/one1892003/one1892003_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "שער השנה יגיע מעיראק? צפו במספרת שמסעירה את הרשת",
-   "summary": "השתלטות עם החזה ומספרת מחוץ לרחבה: חביב אל-וסלאתי, שחקנה התוניסאי של נורוז, כבש שער מרהיב בניצחון על אל־מינא ומשך תשומת לב גם בתקשורת העולמית. והוא עוד הוסיף שער בבעיטה חופשית",
+   "title": "רבע 3, 05:47: מכבי ת\"א - קריית אתא 39:84",
+   "summary": "ליגת ווינר סל, מחזור 2: החבורה של קטש ממשיכה את התנופה מוולנסיה, והיא פשוט נראית בלתי ניתנת לעצירה. די ברתולומאו וקלארק מובילים את הצהובים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sjw1v8m3zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/ByYSd8znze/ByYSd8znze_155_28_371_209_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536320",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/one1893441/one1893441_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "נבחרת הנערים חגגה עם 0:14 - והודחה ממוקדמות היורו",
-   "summary": "ישראל חגגה מול ליכטנשטיין עם שלושערים של נועם גולדנברג ותומר דבח, אך סיימה את דרכה במוקדמות אליפות אירופה עד גיל 17. ניצחון שווייץ 0:2 על ספרד במשחק המקביל הכריע את גורלה של הנבחרת של אריק בנאדו",
+   "title": "כדורסל נשים: בני יהודה הפתיעה את אליצור חולון",
+   "summary": "העולה החדשה השיגה ניצחון שני העונה - 84:88 על חולון. רדמונד בלטה עם 24 נקודות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/s1vc0rz3zg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/HJ11x18M3zg/HJ11x18M3zg_0_671_738_416_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hy1vgkm3gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/S111RQKz3Me/S111RQKz3Me_1_99_1804_1016_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "בשידור חי: הצלב התמוטט על הכומר והרג אותו",
-   "summary": "תקרית מחרידה באקוודור: האב פטריסיו אלפרדו סנצ'ס מולינרי ניהל מיסה ודיבר אל מאמיניו בכנסייה ובבית, כשצלב העץ הגדול מאחוריו ניתק והתרסק על ראשו",
+   "title": "גז מדמיע ורימוני הלם בפריז, מקרון בנאום לאומה: \"בושה, רצו להפיל את הרפובליקה\"",
+   "summary": "הנשיא היוצא של צרפת, שמואשם באוזלת יד מול המהומות שמטלטלות את ארצו, התייצב סוף סוף מול מצלמות והבטיח למצות את הדין עם הפורעים. שוב עימותים בין שוטרים ל\"צעירים\" בכיכר הרפובליקה, לה פן תקפה: \"נגמר לך האוויר, איבדת שליטה\", יד ימינה ברדלה: \"צרפת הושפלה\". מנהיג השמ…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h152fig2fl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/ry7tYUznze/ry7tYUznze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b1bd5df2zx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/BJkGGqMhfx/BJkGGqMhfx_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "\"זו קיצוניות יהודית שלא הכרנו 2,000 שנה. הם ממש באמונה שזו מלחמה תנ\"כית\"",
-   "summary": "זו אחת מעונות המסיק הקשות שידעו ביו\"ש, וב–16 יום תועדו במטעים מאות תקיפות מצד פורעים - עוד לפני סוף השבוע שבו הותקפו הצלמת והדיפלומטים האירופים. הן מתבצעות לאור יום, לעיתים בחסות הצבא, ומסתיימות בגניבה סיטונית של זיתים שמשאירה את בתי הבד ללא עבודה. \"הם תוקפים …",
+   "title": "בניסיון למנוע שריפת קולות: נתניהו פנה לפטרון של אבי מעוז - וגם למפלגת \"הציבור החרדי\"",
+   "summary": "פרסום ראשון: גורמים בלשכת נתניהו, שמנסים להביא לפרישת \"נעם\" של ח\"כ אבי מעוז, ניסו לקבוע פגישה בין רה״מ לפטרון הרוחני של המפלגה הרב צבי טאו - אך נענו בשלילה. גורמים בסביבת הרב: \"נתניהו ניסה לפנות, אך פרישה לא עומדת על הפרק\". לחצים גם על מפלגת \"הציבור החרדי\", שם…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14926694",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/Syd800E6ize/Syd800E6ize_0_0_1920_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/skcpppgnge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/09/14/ByAOt7ybo/ByAOt7ybo_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
