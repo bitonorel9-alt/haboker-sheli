@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שני, 19 באוקטובר 2026",
  "date_he": "19/10/2026",
- "updated": "11:35",
+ "updated": "17:58",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"צווי הגיוס\" שאיזנקוט שלח לצעירים בדואר - ועתירת הליכוד",
-  "summary": "מפלגתו של גדי איזנקוט הפיצה לבתיהם של מצביעים לראשונה מכתבים שדומים לצווי גיוס, ונחזים להודעה רשמית מצה\"ל: \"להתייצב לשירות של 4 שנים\". מישר! נמסר: \"נשמע כמו סרט רע? זה יקרה אם ממשלת ההשתמטות תיבחר\". בליכוד עתרו נגד הקמפיין, אם למלש\"ב זעמה: \"לא מגניב בכלל בכלל\"",
-  "link": "https://www.ynet.co.il/news/elections2026/article/b1glxdx3zg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/SJE11P00QnMl/SJE11P00QnMl_0_321_328_185_0_medium.jpg"
+  "title": "גם אחרי טבח 7/10: אוריך הודה שהמשיך לעבוד עבור קטאר ב-2024 | דיווח",
+  "summary": "יועצו של ראש הממשלה טען בחקירה שסיים את עבודתו עבור הקטארים רק לאחר שעודכן כי \"הפרויקט הסתיים\" - בשנת 2024. הוא אמר כי לא דיווח לנתניהו על עבודתו בחו\"ל: \"אף פעם לא נדרשתי לגילוי נאות\"",
+  "link": "https://www.ynet.co.il/news/article/b1fjmrm2fe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/HyG0WvX4Gg/HyG0WvX4Gg_0_102_961_540_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 24.2° / 18.0°",
-   "summary": "כרגע 24.1°, לחות 59%, רוח 13.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 24.4° / 18.0°",
+   "summary": "כרגע 22.1°, לחות 62%, רוח 10.5 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "24.2°"
+     "24.4°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "59%",
-     59
+     "62%",
+     62
     ],
     [
      "רוח",
-     "13.8 קמ״ש"
+     "10.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "SC Kababir נגד Hapoel Daliat El Karmel",
-     "1:8 · הסתיים"
+     "Hapoel Raanana נגד Bnei Yehuda",
+     "1:1 · מחצית שנייה"
     ],
     [
-     "MS Netanya נגד Ironi Ariel",
-     "3:0 · הסתיים"
+     "SC Sderot נגד Hapoel Herzliya",
+     "1:1 · מחצית שנייה"
     ],
     [
-     "Hapoel Yeruham נגד Hapoel Segev Shalom",
-     "1:4 · הסתיים"
+     "M.S Ramla נגד Hapoel Bnei Ashdod",
+     "4:0 · מחצית שנייה"
     ],
     [
-     "Maccabi Ihud Bnei Ivtin נגד Akhva Sha'ab",
-     "3:3 · הסתיים"
+     "Hapoel Beit She'an Mesilot נגד Hapoel Ironi Karmiel",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Ironi Nesher נגד Maccabi Bialik Ata",
-     "4:0 · הסתיים"
+     "Hapoel Mahne-Yehuda נגד FC Jerusalem",
+     "3:2 · מחצית שנייה"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Kharkiv נגד Livyi Bereh",
-     "2:1 · מחצית שנייה"
+     "Monza נגד Cagliari",
+     "3:0 · מחצית שנייה"
     ],
     [
-     "Lee Man FC נגד Kitchee",
-     "1:2 · מחצית שנייה"
+     "ENPPI נגד Al Mokawloon Al Arab",
+     "0:1 · מחצית"
     ],
     [
-     "Tai Po FC נגד Southern District",
-     "4:2 · הסתיים"
+     "Al Masry נגד Abo Qir Semad",
+     "0:0 · מחצית"
     ],
     [
-     "Al-Khmes נגד Al Bashaer",
-     "טרם התחיל"
+     "בית\"ר ירושלים נגד מכבי תל אביב",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Al Watan נגד Olympic Zawiya",
-     "טרם התחיל"
+     "Agboville נגד Mouna",
+     "0:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "משפחות שכולות פנו לבית\"ר ירושלים: מנעו את הגעתו של בנימין נתניהו לטדי",
-   "summary": "פרסום ראשון: המשפחות הביעו את מורת רוחן מהגעת ראש הממשלה למשחק הערב (20:30) מול מכבי ת\"א. בהנהלה הבהירו כי לא ייערך טקס לכבוד נתניהו, בעוד מאות אוהדים מתכוונים להחרים את המשחק במחאה על מה שהם מגדירים כניסיון להפוך אותם ל\"תפאורה\" פוליטית",
+   "title": "כדורסל נשים: ראשל\"צ ניצחה, אשדוד הביסה ב-51 הפרש",
+   "summary": "האלופה חזרה ממשחק החוץ בחיפה עם 57:68, גם החבורה של שירה העליון במאזן 0:4 אחרי 50:101 על כרמיאל. ר\"ג גברה על פ\"ת",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b1j2r0x00mhgx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/S1ehO00Q2fg/S1ehO00Q2fg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/b1qapaq2zg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/B1rtCpQ2Ge/B1rtCpQ2Ge_0_66_2048_1153_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בית\"ר חוזרת סוף סוף לטדי - ודווקא מכבי ת\"א מחכה לה",
-   "summary": "קרב ענקיות בבירה: בית\"ר ירושלים מארחת את הצהובים למפגש צמרת לוהט. ההגנה הסדוקה של אלמוג כהן מול ההתקפה האימתנית של קני מילר, חוליות הקישור המשודרגות שלהם והקרב בין שני מאמנים שפותחים עונה ראשונה על הקווים",
+   "title": "חי, מחצית ראשונה: בית\"ר ירושלים - מכבי ת\"א 0:0",
+   "summary": "המפגש הלוהט יצא לדרך. הצהובים רוצים לשוב לפסגה אחרי התיקו מול סכנין, הירושלמים מחפשים ניצחון חמישי ברציפות בחזרה לאצטדיונם הביתי. וארלה ויחזקאל בהרכב האורחת, מוזי פותח כמגן שמאל אצל אלמוג כהן",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hjynbff3ml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/HJE800FM3Me/HJE800FM3Me_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkzrtkm2fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/SJnCSCXnzl/SJnCSCXnzl_0_98_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תמכו במחאה, השתתקו אחרי המהומות: הכוכבים הצרפתיים בלב הסערה",
-   "summary": "רינר הזדהה עם התלמידים וגינה את האלימות, וומבניאמה אמר שהיה שמח להצטרף להפגנות - ומאז שבת שניהם שותקים. אחרים ממשיכים להביע תמיכה או סופגים ביקורת על התנגדותם, ובצל ההרס והביזה גובר החשש לפגיעה גם באירועי הספורט",
+   "title": "אחרי הסערה בנבחרת פורטוגל: נחשף עונשו של רונאלדו",
+   "summary": "ההתאחדות החליטה להשעות את הכוכב בן ה-41 לשלושים יום לאחר שעזב את מחנה הנבחרת. על פי דיווחים, הכוכב עצמו הציע את העונש",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rjwfitmhme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/B1GTXUb3Me/B1GTXUb3Me_0_165_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/80hnrmnjq",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rJ6jrkesMe/rJ6jrkesMe_0_254_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "נתניהו מאמין שלא יזכה לרוב בממשלה - והסתפק במסיבת עיתונאים",
-   "summary": "שלוש שנים אחרי הטבח וכמעט שנה אחרי דוח המבקר, ערב בחירות, נמצאה הדרך של נתניהו להתגבר על המכשול הנורא הזה ששמו ממשלה: להזמין כתבים",
+   "title": "נתניהו לחוץ, ונלחץ",
+   "summary": "אפשר להבין למה טראמפ רוצה שבראש ממשלת ישראל יעמוד הפודל שלו, שמרגיש שחירותו האישית תלויה בהתערבות של נשיא זר בהליך משפטי בארץ. אבל למרות ההתערבות שלו בבחירות בארץ, ולמי שטרם הפנים: עוד לא הוכרזנו רשמית כרפובליקת בננות",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sjzndrqhme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/16/SJwnsPaNyg/SJwnsPaNyg_1_145_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hyuaerx2zg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/S1cH1IUSMl/S1cH1IUSMl_0_0_1280_852_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "חלון הרכב נותץ בנסיעה: מספר 5 ברשימתו של וינטר הותקפה באבנים בכפר פלסטיני | תיעוד דרמטי",
-   "summary": "במהלך סיור הסברה בעיירה תורמוס עיא שמצפון לרמאללה, אבנים פגעו ברכב שבו שהתה פעילת ההסברה פלר חסן-נחום. אחת מהן ניתצה את החלון, אישה נפצעה קל. הנהג נשמע מנחה את הנוסעים: \"תורידו את הראש, כולם בסדר?\", היא העידה: \"הטרור לא ירתיע אותנו, אנו לא אמורים לחשוש\"",
+   "title": "\"לא הצלחתי לשכנע בדרכנו\": גנץ הודיע רשמית על פרישה",
+   "summary": "יו\"ר כחול לבן הודיע על הסרת מועמדותו לכנסת ה-26, והודה כי לא הצליח לשכנע מספיק ישראלים לתמוך בדרכו. בנאום הפרישה קרא לראשי המפלגות להקים ממשלת אחדות ציונית: \"אל תחזירו אותנו ל-6 באוקטובר, נגיע לבחירות חוזרות או חלילה לאסון\"",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/b1fpldq2me",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/S1xYWd7hMg/S1xYWd7hMg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/hj00o26m2zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/ByEoyR7nMe/ByEoyR7nMe_0_0_878_494_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -173,44 +173,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "הכרזות ה-AI האחרונות, אייג'נטים ודמואים: מה מחכה לכם ב-Google Cloud AI Day Tel Aviv?",
-   "summary": "עולם ה-AI כבר מזמן יצא מגבולות הניסויים והפיילוטים, והאתגר המרכזי שעומד בפני מנהלים, אדריכלי תוכנה ומפתחים הוא המעבר מרעיונות מופשטים להטמעה חיה, מאובטחת וסקיילבילית. זאת בדיוק המטרה של Google Cloud AI Day Tel Aviv, שיתקיים ב-16 בנובמבר (8:30-16:00) באקספו תל …",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/cloud-ai-day-tel-aviv-2026-save-the-date/",
-   "image": null,
+   "section": "בידור",
+   "title": "אחרי 43 שנה: המגישה הבכירה כריסטיאן אמנפור תעזוב את CNN",
+   "summary": "הכתבת והמגישה הוותיקה, שהחלה את דרכה ברשת כעוזרת חדשות במחלקת החוץ, הודיעה על עזיבתה בחודש יוני. \"תמיד אתמוך ב-CNN ובמורשת העיתונות העצמאית שלה\", אמרה. מנכ\"ל CNN הגיב: \"זה הזמן הנכון עבורה - הן מבחינה אישית והן מבחינה מקצועית״. עזיבתה מגיעה בזמן ש-CNN עוברת לש…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hj8s93mhml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/11/17/Sy4DgMZ9D/Sy4DgMZ9D_45_0_1476_831_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "מה יהיה היתרון הישראלי בעולם שבו לכולם יש AI?",
-   "summary": "מאת אסי דהן ישראל עדיין נראית כמו מעצמת הייטק ובצדק. ב-2025 חברות הטכנולוגיה הישראליות גייסו כ-14.6 מיליארד דולר, יצוא ההייטק הגיע לכ-85 מיליארד דולר, והיקף האקזיטים הגיע לעשרות מיליארדים. אבל המספרים המרשימים עלולים לגרום לנו להסתכל במראה האחורית במקום קדימה.…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/israel-high-tech-ai-advantage/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "בוגרי Y Combinator הישראלים מוכרים את הסטארטאפ ביותר מ-40 מיליון דולר",
-   "summary": "סוכני AI יכולים לבצע היום פעולות מורכבות בארגון, אבל אם אתם מאכילים אותם נתונים שגויים או מיושנים, ההשלכות עלולות להיות הרסניות יותר מעוד טעות פשוטה באיזה דוח. כאן בדיוק נכנסת לתמונה Elementary Data הישראלית, שמפתחת פלטפורמה בתחום ה-Data Observability, ומאפשרת…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/y-combinator-alumni-elementry-data-acquired/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -230,25 +202,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "בפסטיבל הקומדיה מבקשים ממישהו בקהל למות. התוצאה מצחיקה עד דמעות",
+   "title": "בפסטיבל הקומדיה מבקשים ממישהו בקהל למות. התוצאה מצחיקה ומרגשת עד דמעות",
    "summary": "אחרי שאיבדה את אימה, אביה, דודתה וכלבתה, ענת דרימר מחליטה שהפעם היא רוצה להתאבל \"כמו שצריך\", גם אם בשביל זה מישהו מהקהל יצטרך למות. ב-The Grief Show, שעלה במסגרת פסטיבל הקומדיה בירושלים, היא מגייסת את הצופים לשלל סיטואציות מופרכות ומצחיקות, לפני שהאבל משתלט על…",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/rjuthbq2gl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/S1oIyDm2ze/S1oIyDm2ze_313_721_355_200_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "מראש הממשלה ועד מאלף אריות לבקנים: הדמויות הגדולות של \"הישראלים\"",
-   "summary": "לפני 20 שנה שלישיית מה קשור הצליחה להפוך מוכר פלאפל, מובטל כרוני, מאמן ילדים ובוס נורא לדמויות איקוניות שהקהל מצטט עד היום. לרגל הקאמבק חזרנו לטיפוסים שהפכו את \"הישראלים\" לקאלט - מאלו שהיום כנראה כבר לא היו עוברים מסך ועד הזוג ששם את הפנקוטה על המפה | הדירוג ה…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/by11h3lmhme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/ryvd1HznGx/ryvd1HznGx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
