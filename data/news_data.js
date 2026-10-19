@@ -1,7 +1,7 @@
 window.NEWS_DATA = {
- "date": "יום ראשון, 18 באוקטובר 2026",
- "date_he": "18/10/2026",
- "updated": "22:03",
+ "date": "יום שני, 19 באוקטובר 2026",
+ "date_he": "19/10/2026",
+ "updated": "00:36",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
@@ -13,32 +13,32 @@ window.NEWS_DATA = {
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 25.0° / 19.7°",
-   "summary": "כרגע 21.6°, לחות 71%, רוח 4.7 קמ״ש. סיכוי משקעים 6%.",
+   "title": "עתלית · 24.8° / 18.4°",
+   "summary": "כרגע 20.2°, לחות 74%, רוח 3.4 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "25.0°"
+     "24.8°"
     ],
     [
      "מינימום",
-     "19.7°"
+     "18.4°"
     ],
     [
      "לחות",
-     "71%",
-     71
+     "74%",
+     74
     ],
     [
      "רוח",
-     "4.7 קמ״ש"
+     "3.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "6%",
-     6
+     "0%",
+     0
     ]
    ]
   },
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Sekzia Nes Ziona נגד Maccabi Beer Sheva",
-     "3:5 · הסתיים"
+     "SC Kababir נגד Hapoel Daliat El Karmel",
+     "1:8 · הסתיים"
     ],
     [
-     "Hapoel Bnei Jdaidie Makr נגד Hapoel Bnei Ba'ana",
-     "0:2 · הסתיים"
+     "MS Netanya נגד Ironi Ariel",
+     "3:0 · הסתיים"
     ],
     [
-     "AS Holon נגד Beitar Petah Tikva",
-     "1:2 · הסתיים"
+     "Hapoel Yeruham נגד Hapoel Segev Shalom",
+     "1:4 · הסתיים"
     ],
     [
-     "Maccabi Ashkelon נגד MS Shikun HaMizrah",
-     "0:1 · הסתיים"
+     "Maccabi Ihud Bnei Ivtin נגד Akhva Sha'ab",
+     "3:3 · הסתיים"
     ],
     [
-     "Hapoel Bnei Kuseife נגד Maccabi Bnei Eilat",
-     "0:5 · הסתיים"
+     "Ironi Nesher נגד Maccabi Bialik Ata",
+     "4:0 · הסתיים"
     ]
    ]
   },
@@ -81,24 +81,52 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Tru-Juice FC נגד Humble Lions",
-     "4:0 · מחצית שנייה"
-    ],
-    [
      "Real Madrid נגד Sevilla",
      "4:1 · הסתיים"
     ],
     [
      "Montego Bay Utd נגד Arnett Gardens",
-     "2:2 · הסתיים הרגע"
+     "2:2 · הסתיים"
     ],
     [
      "Chapelton נגד Treasure Beach Fc",
-     "1:0 · הסתיים הרגע"
+     "1:0 · הסתיים"
     ],
     [
      "Tivoli Gardens נגד Dunbeholden Fc",
-     "3:0 · הסתיים הרגע"
+     "3:0 · הסתיים"
+    ],
+    [
+     "Tru-Juice FC נגד Humble Lions",
+     "4:0 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "בית\"ר חוזרת סוף סוף לטדי - ודווקא מכבי ת\"א מחכה לה",
+   "summary": "קרב ענקיות בבירה: בית\"ר ירושלים מארחת את הצהובים למפגש צמרת לוהט. ההגנה הסדוקה של אלמוג כהן מול ההתקפה האימתנית של קני מילר, חוליות הקישור המשודרגות שלהם והקרב בין שני מאמנים שפותחים עונה ראשונה על הקווים",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/hjynbff3ml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/HJE800FM3Me/HJE800FM3Me_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "תמכו במחאה, השתתקו אחרי המהומות: הכוכבים הצרפתיים בלב הסערה",
+   "summary": "רינר הזדהה עם התלמידים וגינה את האלימות, וומבניאמה אמר שהיה שמח להצטרף להפגנות - ומאז שבת שניהם שותקים. אחרים ממשיכים להביע תמיכה או סופגים ביקורת על התנגדותם, ובצל ההרס והביזה גובר החשש לפגיעה גם באירועי הספורט",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/rjwfitmhme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/B1GTXUb3Me/B1GTXUb3Me_0_165_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -109,34 +137,6 @@ window.NEWS_DATA = {
    "source": "ynet - ספורט",
    "link": "https://www.ynet.co.il/sport/israelisoccer/article/hyz87im3gg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/BkE04tGnGl/BkE04tGnGl_298_94_846_476_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "מוכנה לקלאסיקו: ריאל מדריד גברה 1:4 על סביליה",
-   "summary": "מוריניו קיבל הצגה התקפית בברנבאו: גולר פתח (29'), אמבפה להט עם צמד (37', 63'), בואנו צימק (80') ודיומנדה חתם (82') לפני המפגש מול בארסה. צפו",
-   "source": "ynet - ספורט",
-   "link": "https://livegame.ynet.co.il/games/536315",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/one1893508/one1893508_0_0_800_444_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "ליגה אחרת: מכבי ת\"א הביסה 89:116 את קריית אתא",
-   "summary": "הצהובים לא הותירו לצפוניים סיכוי, נותרו מושלמים בליגה ורשמו ניצחון רביעי מחמשת המשחקים האחרונים. די ברתולומאו כיכב עם 21 נק', ליף הוסיף 17",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one536320",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/18/one1893467/one1893467_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -259,18 +259,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "אפקט דנינג-קרוגר",
-   "summary": "ככל שאדם יודע פחות בתחום, כך הוא נוטה להעריך את הידע שלו בו ביתר. מומחים אמיתיים דווקא מפחיתים בערך עצמם.",
-   "source": "תמצית ידע יומית · מוח וקוגניציה",
+   "title": "למה השמיים כחולים",
+   "summary": "אור השמש מתפזר באטמוספרה, והצבע הכחול (גל קצר) מתפזר הכי הרבה — לכן אנחנו רואים אותו מכל הכיוונים.",
+   "source": "תמצית ידע יומית · פיזיקה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "מוח וקוגניציה"
+     "פיזיקה"
     ],
     [
      "עובדה בונוס",
-     "לתמנון יש שלושה לבבות ודם כחול."
+     "דבש לא מתקלקל — נמצא דבש בן 3,000 שנה שעדיין אכיל."
     ]
    ]
   }
