@@ -1,44 +1,44 @@
 window.NEWS_DATA = {
  "date": "יום שני, 19 באוקטובר 2026",
  "date_he": "19/10/2026",
- "updated": "17:58",
+ "updated": "22:01",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "גם אחרי טבח 7/10: אוריך הודה שהמשיך לעבוד עבור קטאר ב-2024 | דיווח",
-  "summary": "יועצו של ראש הממשלה טען בחקירה שסיים את עבודתו עבור הקטארים רק לאחר שעודכן כי \"הפרויקט הסתיים\" - בשנת 2024. הוא אמר כי לא דיווח לנתניהו על עבודתו בחו\"ל: \"אף פעם לא נדרשתי לגילוי נאות\"",
-  "link": "https://www.ynet.co.il/news/article/b1fjmrm2fe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/14/HyG0WvX4Gg/HyG0WvX4Gg_0_102_961_540_0_medium.jpg"
+  "title": "דרמה בתיק רצח בניהו רזי: \"אין ראיות המבססות אישום ברצח נגד בת הזוג לשעבר\"",
+  "summary": "3 חודשים לאחר הרצח, קבע בית המשפט המחוזי בי-ם כי אין ראיות המבססות אישום ברצח נגד אגם צרפי, בת זוגו לשעבר, ושילת חוטה. עורכי דינה של בת הזוג לשעבר: נקבע כי קיימות ראיות לכאורה לעבירה של סיוע לרצח, בית המשפט הורה לבחון אפשרות לשחררן. משפחתו של בניהו: \"החלטה הזו…",
+  "link": "https://www.ynet.co.il/news/article/sj4zkevnme",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/17/Hkx3fpFvNfx/Hkx3fpFvNfx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 24.4° / 18.0°",
-   "summary": "כרגע 22.1°, לחות 62%, רוח 10.5 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 25.2° / 18.9°",
+   "summary": "כרגע 21.2°, לחות 65%, רוח 6.6 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "24.4°"
+     "25.2°"
     ],
     [
      "מינימום",
-     "18.0°"
+     "18.9°"
     ],
     [
      "לחות",
-     "62%",
-     62
+     "65%",
+     65
     ],
     [
      "רוח",
-     "10.5 קמ״ש"
+     "6.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "0%",
-     0
+     "3%",
+     3
     ]
    ]
   },
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Raanana נגד Bnei Yehuda",
-     "1:1 · מחצית שנייה"
+     "SC Kababir נגד Hapoel Daliat El Karmel",
+     "1:8 · הסתיים"
     ],
     [
-     "SC Sderot נגד Hapoel Herzliya",
-     "1:1 · מחצית שנייה"
+     "MS Netanya נגד Ironi Ariel",
+     "3:0 · הסתיים"
     ],
     [
-     "M.S Ramla נגד Hapoel Bnei Ashdod",
-     "4:0 · מחצית שנייה"
+     "Hapoel Yeruham נגד Hapoel Segev Shalom",
+     "1:4 · הסתיים"
     ],
     [
-     "Hapoel Beit She'an Mesilot נגד Hapoel Ironi Karmiel",
-     "0:0 · מחצית שנייה"
+     "Maccabi Ihud Bnei Ivtin נגד Akhva Sha'ab",
+     "3:3 · הסתיים"
     ],
     [
-     "Hapoel Mahne-Yehuda נגד FC Jerusalem",
-     "3:2 · מחצית שנייה"
+     "Ironi Nesher נגד Maccabi Bialik Ata",
+     "4:0 · הסתיים"
     ]
    ]
   },
@@ -82,23 +82,51 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Monza נגד Cagliari",
-     "3:0 · מחצית שנייה"
+     "4:0 · הסתיים"
     ],
     [
      "ENPPI נגד Al Mokawloon Al Arab",
-     "0:1 · מחצית"
+     "0:3 · הסתיים"
     ],
     [
      "Al Masry נגד Abo Qir Semad",
-     "0:0 · מחצית"
+     "1:1 · הסתיים"
     ],
     [
      "בית\"ר ירושלים נגד מכבי תל אביב",
-     "0:0 · מחצית ראשונה"
+     "0:0 · הסתיים"
     ],
     [
-     "Agboville נגד Mouna",
-     "0:1 · הסתיים"
+     "Parma נגד Torino",
+     "0:3 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "קני מילר: \"אין את מי להאשים חוץ מעצמנו\"",
+   "summary": "בית\"ר ירושלים ומכבי ת\"א נפרדו ב-0:0 מאכזב בטדי, למרות שפע מצבים משני צדי המגרש. מאמן הצהובים: \"היינו צריכים לכבוש שלושה או ארבעה שערים\". אלמוג כהן: \"גם לנו היו מצבים מצוינים, לצערי לא הצלחנו לנצח\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkbqqee2ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/r1UJYCX2Ge/r1UJYCX2Ge_0_192_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "עם אין ספור החטאות ענק: 0:0 בין בית\"ר ירושלים למכבי ת\"א",
+   "summary": "28 אלף צופים סיפקו אווירה מחשמלת בטדי, אבל שתי הקבוצות לא הפסיקו להחמיץ. הצהובים פספסו הזדמנות לחזור לפסגה, הירושלמים נעצרו אחרי ארבעה ניצחונות. קאלו פגש את הקורה ואצילי החמיץ מחמישה מטרים, לפני שקרבאלי, מצטיין המשחק, הציל מהקו בעיטה של פרץ בדקה ה-89",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkzrtkm2fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H1gYugNhze/H1gYugNhze_0_263_3000_1689_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -117,40 +145,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "חי, מחצית ראשונה: בית\"ר ירושלים - מכבי ת\"א 0:0",
-   "summary": "המפגש הלוהט יצא לדרך. הצהובים רוצים לשוב לפסגה אחרי התיקו מול סכנין, הירושלמים מחפשים ניצחון חמישי ברציפות בחזרה לאצטדיונם הביתי. וארלה ויחזקאל בהרכב האורחת, מוזי פותח כמגן שמאל אצל אלמוג כהן",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkzrtkm2fe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/SJnCSCXnzl/SJnCSCXnzl_0_98_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "אחרי הסערה בנבחרת פורטוגל: נחשף עונשו של רונאלדו",
-   "summary": "ההתאחדות החליטה להשעות את הכוכב בן ה-41 לשלושים יום לאחר שעזב את מחנה הנבחרת. על פי דיווחים, הכוכב עצמו הציע את העונש",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/80hnrmnjq",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rJ6jrkesMe/rJ6jrkesMe_0_254_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "נתניהו לחוץ, ונלחץ",
-   "summary": "אפשר להבין למה טראמפ רוצה שבראש ממשלת ישראל יעמוד הפודל שלו, שמרגיש שחירותו האישית תלויה בהתערבות של נשיא זר בהליך משפטי בארץ. אבל למרות ההתערבות שלו בבחירות בארץ, ולמי שטרם הפנים: עוד לא הוכרזנו רשמית כרפובליקת בננות",
+   "title": "מספר 2 של גנץ: \"לפעמים צריך לדעת לעצור\"",
+   "summary": "ח\"כ פנינה תמנו שטה, שמכהנת בכנסת ברציפות מאז 2018 ושימשה גם כשרת הקליטה, נשארה נאמנה לבני גנץ – ולא חיפשה בית פוליטי חדש. לאחר שהודיע על פרישת המפלגה מההתמודדות בבחירות, אמרה ל-ynet: \"גם כשחברים נטשו את הספינה וגם כשהוצעו לי דרכים אחרות, המשכתי עם בני בגלל יוש…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hyuaerx2zg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/S1cH1IUSMl/S1cH1IUSMl_0_0_1280_852_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/s1kqjjn2zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/14/Bk1zhdM8xg/Bk1zhdM8xg_206_76_1017_573_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,57 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"לא הצלחתי לשכנע בדרכנו\": גנץ הודיע רשמית על פרישה",
-   "summary": "יו\"ר כחול לבן הודיע על הסרת מועמדותו לכנסת ה-26, והודה כי לא הצליח לשכנע מספיק ישראלים לתמוך בדרכו. בנאום הפרישה קרא לראשי המפלגות להקים ממשלת אחדות ציונית: \"אל תחזירו אותנו ל-6 באוקטובר, נגיע לבחירות חוזרות או חלילה לאסון\"",
+   "title": "טראמפ מזהה את האיום",
+   "summary": "הודעת התמיכה של טראמפ בנתניהו אינה רק הכרה בפועלו, אלא גם איתות אזהרה מהתחזקות האיסלאם בארצו, בישראל וברחבי העולם, שמסכנת את העולם הליברלי",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/hj00o26m2zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/ByEoyR7nMe/ByEoyR7nMe_0_0_878_494_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14932162",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/rJf2lUJx2Ml/rJf2lUJx2Ml_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "\"תוכנה שמשפרת את עצמה\": הסטארטאפ doubleAI של אמנון שעשוע חושף קטגוריה חדשה של מודלים",
+   "summary": "השילוב של AI בתהליכי פיתוח תוכנה וכתיבת קוד הוא אחד השימושים הוותיקים ביותר בתחום, אבל עד עכשיו, כלי ה-AI שימשו בעיקר כדי לסייע למפתחים לכתוב קוד שהוא מגיע לפרודקשן. עכשיו, הסטארטאפ הישראלי doubleAI חושף קטגוריה חדשה של מודלים שפועלים בשלב שונה לחלוטין. מדובר …",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/doubleai-amnon-shashua-cem-formal-verification-funding/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "הכרזות ה-AI האחרונות, אייג'נטים ודמואים: מה מחכה לכם ב-Google Cloud AI Day Tel Aviv?",
+   "summary": "עולם ה-AI כבר מזמן יצא מגבולות הניסויים והפיילוטים, והאתגר המרכזי שעומד בפני מנהלים, אדריכלי תוכנה ומפתחים הוא המעבר מרעיונות מופשטים להטמעה חיה, מאובטחת וסקיילבילית. זאת בדיוק המטרה של Google Cloud AI Day Tel Aviv, שיתקיים ב-16 בנובמבר (8:30-16:00) באקספו תל …",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/cloud-ai-day-tel-aviv-2026-save-the-date/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "מה יהיה היתרון הישראלי בעולם שבו לכולם יש AI?",
+   "summary": "מאת אסי דהן ישראל עדיין נראית כמו מעצמת הייטק ובצדק. ב-2025 חברות הטכנולוגיה הישראליות גייסו כ-14.6 מיליארד דולר, יצוא ההייטק הגיע לכ-85 מיליארד דולר, והיקף האקזיטים הגיע לעשרות מיליארדים. אבל המספרים המרשימים עלולים לגרום לנו להסתכל במראה האחורית במקום קדימה.…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/israel-high-tech-ai-advantage/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
