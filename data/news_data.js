@@ -1,35 +1,35 @@
 window.NEWS_DATA = {
- "date": "יום שני, 19 באוקטובר 2026",
- "date_he": "19/10/2026",
- "updated": "22:01",
+ "date": "יום שלישי, 20 באוקטובר 2026",
+ "date_he": "20/10/2026",
+ "updated": "01:21",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "דרמה בתיק רצח בניהו רזי: \"אין ראיות המבססות אישום ברצח נגד בת הזוג לשעבר\"",
-  "summary": "3 חודשים לאחר הרצח, קבע בית המשפט המחוזי בי-ם כי אין ראיות המבססות אישום ברצח נגד אגם צרפי, בת זוגו לשעבר, ושילת חוטה. עורכי דינה של בת הזוג לשעבר: נקבע כי קיימות ראיות לכאורה לעבירה של סיוע לרצח, בית המשפט הורה לבחון אפשרות לשחררן. משפחתו של בניהו: \"החלטה הזו…",
-  "link": "https://www.ynet.co.il/news/article/sj4zkevnme",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/17/Hkx3fpFvNfx/Hkx3fpFvNfx_0_0_850_479_0_medium.jpg"
+  "title": "דיווח: שר ההגנה האמריקני הגיע לביקור חשאי בישראל ונפגש עם נתניהו",
+  "summary": "פיט הגסת' הגיע לביקור שלא הוכרז מראש בישראל ונפגש עם ראש הממשלה, כך דווח ב\"אקסיוס\". הביקור התקיים 8 ימים בלבד לפני הבחירות, ובצל האפשרות לחידוש הפעולות הצבאיות הנרחבות נגד איראן. בניגוד לטראמפ, סגנו ואנס מסרב להביע תמיכה בנתניהו: \"לא מתערב בבחירות בישראל\"",
+  "link": "https://www.ynet.co.il/news/article/hk5naze3fe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/09/HJTe4113rxx/HJTe4113rxx_303_75_1933_1088_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 25.2° / 18.9°",
-   "summary": "כרגע 21.2°, לחות 65%, רוח 6.6 קמ״ש. סיכוי משקעים 3%.",
+   "title": "עתלית · 24.7° / 19.1°",
+   "summary": "כרגע 20.4°, לחות 68%, רוח 6.6 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "25.2°"
+     "24.7°"
     ],
     [
      "מינימום",
-     "18.9°"
+     "19.1°"
     ],
     [
      "לחות",
-     "65%",
-     65
+     "68%",
+     68
     ],
     [
      "רוח",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "SC Kababir נגד Hapoel Daliat El Karmel",
-     "1:8 · הסתיים"
+     "SC Ashdod U19 נגד Hapoel Kfar Saba U19",
+     "2:1 · הסתיים"
     ],
     [
-     "MS Netanya נגד Ironi Ariel",
-     "3:0 · הסתיים"
+     "Hapoel Beer Sheva U19 נגד Maccabi Herzliya U19",
+     "4:1 · הסתיים"
     ],
     [
-     "Hapoel Yeruham נגד Hapoel Segev Shalom",
-     "1:4 · הסתיים"
+     "Ironi Ramat Hasharon U19 נגד Hapoel Rishon LeZion U19",
+     "1:7 · הסתיים"
     ],
     [
-     "Maccabi Ihud Bnei Ivtin נגד Akhva Sha'ab",
-     "3:3 · הסתיים"
+     "Ahva Kfar Manda נגד Hapoel Kauhav",
+     "0:2 · הסתיים"
     ],
     [
-     "Ironi Nesher נגד Maccabi Bialik Ata",
-     "4:0 · הסתיים"
+     "Maccabi Netanya U19 נגד Hapoel Haifa U19",
+     "3:1 · הסתיים"
     ]
    ]
   },
@@ -80,6 +80,10 @@ window.NEWS_DATA = {
    "link": "https://www.365scores.com/he/football",
    "image": null,
    "stats": [
+    [
+     "Racing United נגד Waterhouse FC",
+     "0:0 · מחצית ראשונה"
+    ],
     [
      "Monza נגד Cagliari",
      "4:0 · הסתיים"
@@ -95,20 +99,16 @@ window.NEWS_DATA = {
     [
      "בית\"ר ירושלים נגד מכבי תל אביב",
      "0:0 · הסתיים"
-    ],
-    [
-     "Parma נגד Torino",
-     "0:3 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "קני מילר: \"אין את מי להאשים חוץ מעצמנו\"",
-   "summary": "בית\"ר ירושלים ומכבי ת\"א נפרדו ב-0:0 מאכזב בטדי, למרות שפע מצבים משני צדי המגרש. מאמן הצהובים: \"היינו צריכים לכבוש שלושה או ארבעה שערים\". אלמוג כהן: \"גם לנו היו מצבים מצוינים, לצערי לא הצלחנו לנצח\"",
+   "title": "מוכנים להמריא: הצעירים שהולכים לפרוץ בגדול בעונת ה-NBA",
+   "summary": "רגע לפני פתיחת העונה בליגה הטובה בעולם: מבט על חמישה שחקנים צעירים שנמצאים רגע לפני הנסיקה הגדולה שלהם",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/hkbqqee2ze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/r1UJYCX2Ge/r1UJYCX2Ge_0_192_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/sjubjlenzg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H15FkbN2zg/H15FkbN2zg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "עם אין ספור החטאות ענק: 0:0 בין בית\"ר ירושלים למכבי ת\"א",
-   "summary": "28 אלף צופים סיפקו אווירה מחשמלת בטדי, אבל שתי הקבוצות לא הפסיקו להחמיץ. הצהובים פספסו הזדמנות לחזור לפסגה, הירושלמים נעצרו אחרי ארבעה ניצחונות. קאלו פגש את הקורה ואצילי החמיץ מחמישה מטרים, לפני שקרבאלי, מצטיין המשחק, הציל מהקו בעיטה של פרץ בדקה ה-89",
+   "title": "מראה שחורה",
+   "summary": "פרשת \"תמונת מראה\" בעירוני טבריה מציפה את התחלואים והכשלים הניהוליים של הכדורגל הישראלי: מחשדות לחוזים כפולים בהיקפי ענק, עבירות מס ופיצולי שכר מהליגות הנמוכות ועד לליגת העל, דרך מעורבותו הקיצונית של המאמן אלירן חודדה, ועד לאוזלת ידה של הרשות לבקרה שממחישה שוב …",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkzrtkm2fe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H1gYugNhze/H1gYugNhze_0_263_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b10011klehfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/S1GvtlNhGg/S1GvtlNhGg_448_176_2207_1243_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,15 +132,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "כדורסל נשים: ראשל\"צ ניצחה, אשדוד הביסה ב-51 הפרש",
-   "summary": "האלופה חזרה ממשחק החוץ בחיפה עם 57:68, גם החבורה של שירה העליון במאזן 0:4 אחרי 50:101 על כרמיאל. ר\"ג גברה על פ\"ת",
+   "title": "השושלת מול המכונה: פ.ס.ז' וברצלונה בקרב ענקיות",
+   "summary": "אלופת אירופה בשנתיים האחרונות מול הקבוצה שניצחה בכל 11 משחקיה העונה: כבר במחזור השלישי, פריז וברצלונה מספקות מפגש שאפשר לדמיין גם בגמר. ברקע המהומות בצרפת ורגע לפני הקלאסיקו, ימאל ינסה לפרוץ את הדרך מול לואיס אנריקה ודמבלה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/b1qapaq2zg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/B1rtCpQ2Ge/B1rtCpQ2Ge_0_66_2048_1153_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/synyix4hgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/rkY8PxEhGg/rkY8PxEhGg_0_69_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "פוליטיקה",
+   "title": "דרמה בתיק רצח בניהו רזי: \"אין ראיות המבססות אישום ברצח נגד בת הזוג לשעבר\"",
+   "summary": "3 חודשים לאחר הרצח, קבע בית המשפט המחוזי בי-ם כי אין ראיות המבססות אישום ברצח נגד אגם צרפי, בת זוגו לשעבר, ושילת חוטה. עורכי דינה של בת הזוג לשעבר: נקבע כי קיימות ראיות לכאורה לעבירה של סיוע לרצח, בית המשפט הורה לבחון אפשרות לשחררן. משפחתו של בניהו: \"החלטה הזו…",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/sj4zkevnme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/17/Hkx3fpFvNfx/Hkx3fpFvNfx_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - חדשות"
     ]
    ]
   },
@@ -151,20 +165,6 @@ window.NEWS_DATA = {
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/elections2026/article/s1kqjjn2zl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/07/14/Bk1zhdM8xg/Bk1zhdM8xg_206_76_1017_573_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "טראמפ מזהה את האיום",
-   "summary": "הודעת התמיכה של טראמפ בנתניהו אינה רק הכרה בפועלו, אלא גם איתות אזהרה מהתחזקות האיסלאם בארצו, בישראל וברחבי העולם, שמסכנת את העולם הליברלי",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14932162",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/16/rJf2lUJx2Ml/rJf2lUJx2Ml_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -259,18 +259,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "למה השמיים כחולים",
-   "summary": "אור השמש מתפזר באטמוספרה, והצבע הכחול (גל קצר) מתפזר הכי הרבה — לכן אנחנו רואים אותו מכל הכיוונים.",
-   "source": "תמצית ידע יומית · פיזיקה",
+   "title": "ריבית דריבית",
+   "summary": "כשהריבית מצטברת גם על הריבית עצמה, הכסף גדל אקספוננציאלית. איינשטיין כינה זאת 'הפלא השמיני'.",
+   "source": "תמצית ידע יומית · כלכלה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "פיזיקה"
+     "כלכלה"
     ],
     [
      "עובדה בונוס",
-     "דבש לא מתקלקל — נמצא דבש בן 3,000 שנה שעדיין אכיל."
+     "בננות הן פיזור רדיואקטיבי קל בגלל האשלגן שבהן."
     ]
    ]
   }
