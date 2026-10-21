@@ -1,44 +1,44 @@
 window.NEWS_DATA = {
  "date": "יום רביעי, 21 באוקטובר 2026",
  "date_he": "21/10/2026",
- "updated": "15:44",
+ "updated": "19:46",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "סיוט במרפאת כללית: דקר פסיכיאטר במברג, המטפלות הצילו אותו",
-  "summary": "הפסיכיאטר הובהל לבית חולים עם חשד לזעזוע מוח, לאחר שהותקף בראשו כמה פעמים. התוקף, אדם מעורער בנפשו שאף ניסה לחנוק את הרופא - נעצר. אנשי הצוות במרפאת בריאות הנפש בבית שאן הכריזו על שביתה עד להצבת מאבטח: \"לחצן המצוקה מופעל לפחות פעם בחודש, אבל אירוע חריג כזה עוד…",
-  "link": "https://www.ynet.co.il/news/article/sk7hiri3fe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/B1gDH2SUnfe/B1gDH2SUnfe_0_331_1500_845_0_medium.jpg"
+  "title": "השלמות בתיק השוחד: השרה מאי גולן נחקרה במשך יותר מ-10 שעות בלהב 433",
+  "summary": "4 חודשים אחרי שהמשטרה הודיעה על סיום החקירה שמייחסת לגולן חשדות לשחיתות שלטונית, מסרה השרה מהליכוד את גרסתה לנטען כלפיה. לאחר שלל התחמקויות מהחקירה, הפרקליטות ביקשה מהמשטרה לעמת את גולן מול הראיות שהצטברו נגדה לפני ההחלטה אם להגיש נגדה כתב אישום",
+  "link": "https://www.ynet.co.il/news/article/sk11bytrhzx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/30/B11UBEuiZx/B11UBEuiZx_272_3_821_462_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 25.8° / 21.9°",
-   "summary": "כרגע 24.3°, לחות 78%, רוח 15.3 קמ״ש. סיכוי משקעים 3%.",
+   "title": "עתלית · 25.6° / 22.2°",
+   "summary": "כרגע 24.0°, לחות 82%, רוח 10.8 קמ״ש. סיכוי משקעים 86%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "25.8°"
+     "25.6°"
     ],
     [
      "מינימום",
-     "21.9°"
+     "22.2°"
     ],
     [
      "לחות",
-     "78%",
-     78
+     "82%",
+     82
     ],
     [
      "רוח",
-     "15.3 קמ״ש"
+     "10.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "3%",
-     3
+     "86%",
+     86
     ]
    ]
   },
@@ -51,8 +51,12 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Tel Aviv U19 נגד Hapoel Jerusalem U19",
-     "3:1 · מחצית ראשונה"
+     "MS Tirat HaCarmel נגד SC Kababir",
+     "4:0 · מחצית שנייה"
+    ],
+    [
+     "Hapoel Segev Shalom נגד Maccabi Ashkelon",
+     "0:0 · מחצית שנייה"
     ],
     [
      "Maccabi Petach Tikva U19 נגד Kiryat Shmona U19",
@@ -65,10 +69,6 @@ window.NEWS_DATA = {
     [
      "Ihud Umm al-Fahm נגד SC Tira",
      "0:1 · הסתיים"
-    ],
-    [
-     "Kiryat Malahi נגד Ironi Bet Shemesh",
-     "3:3 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Ghazl El-Mehalla נגד Al Ittehad",
+     "Levante נגד Athletic Bilbao",
      "2:1 · מחצית שנייה"
     ],
     [
-     "Bul נגד Nec Fc",
-     "2:1 · הסתיים"
+     "Zabbar SP נגד Sliema Wanderers",
+     "1:1 · מחצית שנייה"
     ],
     [
-     "Lugazi FC נגד Express Fc",
-     "0:0 · הסתיים"
+     "Mosta FC נגד Valletta FC",
+     "0:1 · מחצית שנייה"
     ],
     [
-     "Al Akhdar נגד Al Sadaqa",
-     "2:0 · הסתיים"
+     "Club Brugge נגד Lens",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Al-Magd נגד Shabab Al-Ghar",
-     "2:0 · Awarded"
+     "Bayern Munich נגד Arsenal",
+     "1:1 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "סערה בכדורסל היווני: נשיא ההתאחדות נעצר בחשד לשוחד",
-   "summary": "חקירה שנמשכה שלושה חודשים הובילה למעצרם של שישה חשודים, בהם ואנגליס ליוליוס ושופטים בכירים. לפי הדיווחים, החשדות נוגעים לכ-50 משחקים, ובביתו של אחד השופטים נמצאו 820 אלף אירו במזומן",
+   "title": "רבע 4, 07:01: הפועל י-ם - ריגה זלי 55:86",
+   "summary": "יורוקאפ, מחזור 4: החבורה של אוברדוביץ' מכתיבה את הקצב בבלגרד. מילטיץ', סמית', לופטון ורודי בולטים אצל האדומים, שמחזיקים ביתרון דו ספרתי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/b1vzlsi2fx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2014/04/10/5267925/5267925_635_1606_2867_1614_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536606",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/one1893893/one1893893_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "נקבע מועד לפתיחת הבוררות על הבעלות במכבי ת\"א: 29 באוקטובר",
-   "summary": "את ההליך ינהל עו\"ד ד\"ר ישראל (רלי) לשם, שעל מינויו פורסם לראשונה ב-ynet. במוקד הסכסוך עומדת חבילת 29% ממניות המועדון, שנרכשה ממשפחת פדרמן על ידי משפחת רקנאטי ובהמשך הייתה אמורה לעבור למכירה ללוין תמורת 50 מיליון דולר",
+   "title": "ניקו את השדים: צמד לפאס, 1:4 לקומו על יונייטד",
+   "summary": "הארגנטינאי להט עם שני שערים ובישול לדוביקאס והמשיך את המפולת של האנגלים, רמון הצטרף לחגיגה, זירקזי צימק בלבד. גלאטסראיי ניצחה 2:4 את ליל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hjzqzslnmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/04/Bk5SkvO00Gl/Bk5SkvO00Gl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536604",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/one1893959/one1893959_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "קטש לקראת ריאל מדריד: \"שם שמעצים את הגעגוע למשחקים בהיכל\"",
-   "summary": "אחרי הניצחון המרשים על ולנסיה, מכבי ת\"א תנסה להמשיך את המומנטום בבלגרד (21:45) מול הבלאנקוס. המאמן: \"ריאל בכושר מדהים, אתגר לא פשוט\". קולסון: \"אחרי ברצלונה וולנסיה - חושב שהתרגלנו לקצב של הספרדיות\"",
+   "title": "דסה צריך להוכיח את עצמו, לא את נאמנותו | תוכן גולשים",
+   "summary": "ארגוני האולטראס של מכבי חיפה מסרבים לעודד את אלי דסה בגלל עברו במכבי ת\"א, אבל כאוהד ותיק ביציע הצפוני אני חושב שהם טועים. אפשר להבין את הרצון לשמור על המסורת ועל היריבות, אבל שחקן חדש צריך לקבל הזדמנות הוגנת. את דסה צריך לשפוט לפי מה שיעשה בירוק, לא לפי החולצו…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/sybfgsuhzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/08/rybDAQBrszx/rybDAQBrszx_0_0_961_541_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bk00tuzw2zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/rJxPwgD5iMx/rJxPwgD5iMx_0_0_3000_1660_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "המטרה: להחליף את נתניהו. על הדרך יש מחלוקת | אלו התוכניות בגוש השינוי",
-   "summary": "בגוש כבר נרקמות תוכניות למקרה של היעדר הכרעה ברורה, אלא שהפערים בין השותפים נראים היטב. הדחת יו\"ר הכנסת צפויה להיות ההתחלה, אבל המחלוקות על ממשלת מיעוט עשויות להקשות על המשך הדרך. זו העמדה של כל מפלגה",
+   "title": "שתי רגליה של חברת הפרלמנט האוסטרלית נקטעו, זה הדורס שניסה להרוג אותה",
+   "summary": "יומיים אחרי שרכב ניגח אותה שוב ושוב ליד לשכתה נאלצו הרופאים לכרות גם את רגלה השנייה של הלן היינס, בעלה עדכן שמצבה יציב כעת: \"היא בחיים, לוחמת, ושני החלקים הכי חשובים בה הם הלב והשכל\". טרם נחשף המניע של התוקף האנטי-ישראלי ברנדן נוג'נט: בבית המשפט הוא לא דיבר ול…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/byehp18nme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/H1007ayVhMe/H1007ayVhMe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hkws0f8ngl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/BJu11lq82zl/BJu11lq82zl_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הניח עובר ללא רוח חיים בכניסה לבית חולים, נמלט - ונעצר בבית כנסת",
-   "summary": "שוטרי מחוז ירושלים הוזעקו לשערי צדק, לאחר דיווח על אדם שהשאיר בכניסה למקום עובר מת. מעט אחר כך, נעצר החשוד בבית כנסת בשכונת קריית היובל בעיר",
+   "title": "עשרות מטוסי קרב, עד גבול איראן: התרגיל של חיל האוויר והחשש מ\"מיסקלקולציה\"",
+   "summary": "ב\"אקסיוס\" דווח כי ביום שבו נתניהו נפגש עם הגסת' השתתפו עשרות מטוסי קרב ומטוסי תדלוק בגיחה מבצעית - למרחק של כ-1,300 ק\"מ מישראל. המסלול תאם לזה של תקיפה באיראן, המטרה: להרתיע אותה. עם זאת, גורמים אמריקנים טענו כי התרשמו שישראל קיוותה שהאיראנים יירו - ויספקו הצד…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h181u8u3ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/19/Sksji5srZe/Sksji5srZe_0_58_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/r1pex9u3me",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/26/rJ11sFSNqNex/rJ11sFSNqNex_0_0_1600_901_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -202,15 +202,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "אתרים לא זמינים לכם פתאום? זה מכוון ותאשימו את PHP",
-   "summary": "כשזה מגיע לחולשות אבטחה שמשפיעות על מיליוני משתמשים, אנחנו בדרך כלל חושבים מיד על מערכות הפעלה כמו ווינדוס או אנדרואיד, או על דפדפנים עם נתח שוק חריג כמו כרום. אבל הפעם הסכנה מגיעה מכיוון קצת אחר, ומאחד הרכיבים החשובים ביותר באינטרנט. זה אמנם רכיב שרוב המשתמשי…",
+   "title": "אל על תציע אינטרנט של סטארלינק בחינם. כך זה עומד לקרות",
+   "summary": "השבוע הודיעה אל על על מספר שדרוגים לשירות שלה, אבל עם כל הכבוד לשמיכות החדשות, הטופרים והפוקי בול של אסף גרניט, אותנו עניינו יותר השדרוגים הטכנולוגיים, ומכיוון שאנחנו חושבים שגם אתכם – הנה כל הפרטים על התוכנית להטמעה של שירותי Starlink בטיסות אל על, ויש כמה הפ…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/php2shell-critical-php-vulnerabilities/",
+   "link": "https://www.geektime.co.il/el-al-starlink-explained/",
    "image": null,
    "stats": [
     [
      "מקור",
      "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "יובל דיין היא הזמרת המוכרת שהוטרדה: \"סומכת על המשטרה ועל בורא עולם\"",
+   "summary": "הזמרת שיתפה את עוקביה ברשתות החברתיות בימים המורכבים שהיא עוברת, והדגישה את חשיבות ההפרדה בין הדמות הציבורית למרחב הפרטי. \"לכל אחד מאיתנו יש בחירה ואפשרות להחליט מה מתאים ומה חוצה את הגבול שלו\", כתבה. מעצרו של החשוד הוארך ביממה נוספת",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/hk5wjk8nfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/05/08/HkWWTtNU43/HkWWTtNU43_21_328_876_494_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/rjgqs4unme",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/01/26/ByUC4Zl3i/ByUC4Zl3i_0_14_1000_563_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "על הבמה: ג'וליה סטיילס איחדה את כוכבי \"10 דברים שאני שונאת אצלך\" במחווה להית' לדג'ר",
-   "summary": "סטיילס, שמתחרה בתוכנית \"רוקדים עם כוכבים\", ביצעה ריקוד לצלילי Can't Take My Eyes Off You - השיר שדמותו של לדג'ר שרה לה בסרט - כשבסופו הצטרפו אליה לבמה שאר חברי הקאסט. \"התחננתי בפני כל אחד ואחת מהם, וכולם נרתמו\", סיפרה, \"התחלתי לבכות בחזרות\"",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/by7ynab2fl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/rJ11zvGCrnfl/rJ11zvGCrnfl_279_17_823_464_0_medium.jpg",
    "stats": [
     [
      "מקור",
