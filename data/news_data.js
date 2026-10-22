@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 22 באוקטובר 2026",
  "date_he": "22/10/2026",
- "updated": "17:44",
+ "updated": "20:58",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הסנאטורית בת ה-82 ניהלה \"אימפריית קנאביס\" - וטוענת לרדיפה: \"אני סבתא רבתא\"",
-  "summary": "במסיבת עיתונאים מיוחדת הכריזו ראש ה-FBI והתובע הכללי של ארה\"ב על אישום חמור נגד לואיז לוקאס בת ה-82, סנאטורית דמוקרטית בכירה בקונגרס המקומי של וירג'יניה, ונטען כי ניצלה את מעמדה על מנת לנהל עסק קנאביס משפחתי לא-חוקי ולגלגל 4.5 מיליון דולר בתוך 5 שנים. היא טוענ…",
-  "link": "https://www.ynet.co.il/news/article/r1q1i2whmg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HkenzaPhGg/HkenzaPhGg_0_201_3000_1689_0_medium.jpg"
+  "title": "תיעוד מזעזע: גבריאלה בת ה-18 עפה ממתקן השעשועים \"המטוטלת\" - ונהרגה",
+  "summary": "מקסיקו: גבריאלה רודריגז טסוקו נהרגה אחרי שמסיבה לא ברורה מוט הבטיחות שלה במתקן השעשועים התרומם, והיא תועדה במצלמה של נוסע אחר עפה ומתהפכת באוויר. הרשויות חוקרות: \"זה היה יכול לקרות לכל אחד\". האסון: שבוע אחרי שבארה\"ב התנתק נוסע מרכבת ההרים \"גוליית\", ונפל אל מות…",
+  "link": "https://www.ynet.co.il/news/article/s1pr0j002gg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/S1xLrA1unzx/S1xLrA1unzx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 28.8° / 19.6°",
-   "summary": "כרגע 25.8°, לחות 60%, רוח 16.8 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 25.8°, לחות 49%, רוח 8.1 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "60%",
-     60
+     "49%",
+     49
     ],
     [
      "רוח",
-     "16.8 קמ״ש"
+     "8.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "SC Arad נגד Hapoel Yeruham",
-     "2:1 · מחצית שנייה"
+     "Maccabi Neve Sha'anan נגד Maccabi Nujidat",
+     "1:2 · הסתיים"
     ],
     [
-     "Ironi Ashkelon נגד Sekzia Nes Ziona",
-     "0:0 · מחצית שנייה"
+     "SC Tzeirei Tamra נגד Hapoel Ironi Baka El Garbia",
+     "1:3 · הסתיים"
     ],
     [
-     "Ironi Kfar Yona נגד Hapoel Bnei Arara",
-     "0:0 · מחצית שנייה"
+     "Hapoel Ihod Bnei Jat נגד Hapoel Migdal HaEmek",
+     "1:1 · הסתיים"
     ],
     [
-     "SC Tira נגד Hapoel Tirat HaCarmel",
-     "2:0 · מחצית ראשונה"
+     "Hapoel Bnei Musmus נגד Hapoel Ironi Arabe",
+     "1:2 · הסתיים"
     ],
     [
-     "MS Shikun HaMizrah נגד Ihud Tzerei Abu - Gosh",
-     "0:0 · מחצית ראשונה"
+     "A.S Nordia Jerusalem נגד Hapoel Marmorek",
+     "1:4 · הסתיים"
     ]
    ]
   },
@@ -82,33 +82,33 @@ window.NEWS_DATA = {
    "stats": [
     [
      "Birkirkara FC נגד Floriana FC",
-     "1:1 · מחצית שנייה"
+     "1:1 · הסתיים"
+    ],
+    [
+     "KCC Kampala נגד Updf",
+     "0:0 · Abandoned"
     ],
     [
      "Najma נגד Ali Csc",
-     "0:2 · מחצית שנייה"
+     "1:2 · הסתיים"
     ],
     [
      "Sitra Club נגד Riffa Club",
-     "1:3 · מחצית שנייה"
+     "2:3 · הסתיים"
     ],
     [
-     "Union St. Gilloise נגד הפועל באר שבע",
-     "1:0 · מחצית"
-    ],
-    [
-     "Dinamo Zagreb נגד N.E.C. Nijmegen",
-     "2:2 · מחצית"
+     "Al Nasr Benghazi נגד Khaleej Sirte",
+     "3:0 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "בעקבות הפציעה של לונדברג: ג'מיר יאנג מועמד למכבי ת״א",
-   "summary": "הצהובים בוחנים את האפשרות לצרף את הגארד האמריקאי כבר בימים הקרובים לאור הבור שנוצר בקו האחורי. יאנג, שהיה מועמד גם להפועל ת״א בקיץ האחרון, שוחרר לאחרונה ממחנה האימונים של הלייקרס ואמור לשחק בקבוצת הבת שלהם בליגת הפיתוח",
+   "title": "דקה 92: בשיקטאש - פאלאס 2:2",
+   "summary": "ליגה אירופית, מחזור 3: אנדידי העלה את המארחת ליתרון, פינו איזן מבישול של חלאילי ומאטטה כבר הפך, אך אוליטן איזן. במקביל: בורנמות' - מילאן 0:2",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1bspav3fe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/S1J1vpD2Ml/S1J1vpD2Ml_0_0_3000_1687_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536725",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/one1894154/one1894154_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "חי, מחצית: סן ז'ילואז – הפועל באר-שבע 0:1",
-   "summary": "החבורה של רן קוז'וך מחפשת ניצחון בכורה בליגה האירופית, אך לא ניצלה את המצבים שאליהם הגיעה, כשבצד השני הבלגים עלו ליתרון לאחר פנדל מדויק של ראול פלורוץ' על סף הירידה להפסקה. החמצות לאיסט ולזלאטנוביץ'",
+   "title": "62 דקות לגלוך, 0:2 לאייאקס על אטאלנטה",
+   "summary": "הישראלי היה מהבולטים בשורות ההולנדים וקבע את הטון ההתקפי, אך לאחר שהוחלף ראה את טולו (87') ו-וואזאן (90+3) מעניקים ניצחון בכורה בקונפרנס ליג",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjctz8w3me",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/SkU8aTvHfx/SkU8aTvHfx_162_44_1041_586_0_medium.jpg",
+   "link": "https://livegame.ynet.co.il/games/536711",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/one1894146/one1894146_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "\"מזלזל במדינה שלנו\": המתקפה החריפה של טראמפ על לברון",
-   "summary": "נשיא ארה\"ב תקף את כוכב פילדלפיה אחרי שתועד מתרגל תנועות גולף וזריקה במהלך ההמנון האמריקאי לפני המשחק מול הניקס: \"חרפה מוחלטת, הוא צריך להתנצל בפני הגיבורים שנפלו למען הדגל\". גם ברשתות החברתיות התפתח גל של ביקורת: \"חוסר כבוד\"",
+   "title": "מעל כולן: פנאתינייקוס גברה 79:85 על באסקוניה",
+   "summary": "היוונים התאוששו מההפסד להפועל ת״א עם ניצחון על הבאסקים, דובאי הביסה 91:107 את באיירן, אנדולו ניצחה בדרבי הטורקי וברצלונה גברה על מילאנו בחוץ",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hj5ih2wnme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/B1Tcl6whfe/B1Tcl6whfe_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536767",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/one1894156/one1894156_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אמפתיה - בלי התחייבות: תשובת המפלגות הגדולות לדרישת ראשי רשויות הפריפריה",
-   "summary": "עשרות ראשי רשויות מהצפון והדרום דרשו מ-7 מפלגות לעגן בקווי היסוד של הממשלה הבאה תכנית לשיקום ופיתוח הפריפריה - אך רובן הסתפקו בהבטחות, ללא התחייבות לתקציבים. תנועת אור, שריכזה את המהלך: \"אנחנו יודעים להשקיע מיליארדים במלחמה, הגיע הזמן להפנות תקציב לחיים האזרחי…",
+   "title": "ה\"מאני טיים\" כאן: הבליץ של נתניהו, המפה של בנט והערים שעליהן פוסח איזנקוט",
+   "summary": "כשראשי המפלגות יתעוררו, יישארו להם פחות מ-100 שעות לשכנע מתלבטים: לפי פולימרקט, לאיזנקוט סיכוי של 49% להקמת ממשלה - והוא דווקא לא מתמקד במעוזים הליברלים. נתניהו, עם 30%, ישים דגש על ערים ליכודיות, בניסיון להעיר את השטח. בנט, שטיפס ל-16%, בונה על הפרלמנטים. כך …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/sylehiv2ge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/21/S1Wjd5nzkx/S1Wjd5nzkx_0_0_1181_787_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/s1lqwrw3zx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HJOA2Junfg/HJOA2Junfg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אירוע חריג בסוריה: \"גבר לא חמוש עם תסמונת דאון נורה למוות בידי צה\"ל\"",
-   "summary": "צה\"ל מסר כי מעאז סלאמה אל-בעיר התקרב לכוחות גם לאחר שבוצע נוהל מעצר חשוד, ו\"נורה כדי להסיר איום\" - אך התיעודים מהלווייתו צוברים תהודה ומבעירים את הרחוב הסורי. ההמונים בהלוויה קראו \"נתניהו אויב אללה, וישראל אויבת אללה\", משרד החוץ הסורי קרא: \"לכפות על ישראל לכבד…",
+   "title": "מקרון אוסר הפגנות, בפריז מתחמשים נגד בוזזים: \"זה היה סיוט, פחדתי שיהרגו אותי\"",
+   "summary": "כוננות שיא בצרפת לקראת יום מחאה גדול בשבת - שבוע אחרי שהמחאה הקודמת הפכה ליום של פורענות וביזה המונית. מקרון מבטיח לאסור הפגנות מצד \"ארגונים לא-לגיטימיים\", בפריז מאריכים את העוצר הלילי החלקי - ובעלי החנויות ממגנים אותן וקונים רובי גומי ותרסיסי גז מדמיע: \"אני ב…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hyfusqp3zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/BJnLyjDhzg/BJnLyjDhzg_98_0_797_449_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hjis00pwnfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/SJwkJy002fe/SJwkJy002fe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -173,44 +173,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "רק למוזמנים: בואו ללמוד איך הופכים את Gemini Agent החדש ליתרון עסקי",
-   "summary": "סוכן ה-AI החדש והמדובר של Google הפך זמין ממש החודש, ומסמן מעבר דרמטי משימוש במודלי שפה בסיסיים להאצלת משימות ואחריות אוטונומית. Gemini Agent תומך בעיבוד מידע מסוגים שונים ובהתמודדות עם משימות רב-שלביות מורכבות, ופותח אפשרויות חדשות לפיתוח פתרונות AI מתקדמים. …",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/gemini-agent-cxo-breakfast-roundtable-101126/",
-   "image": null,
+   "section": "בידור",
+   "title": "פחות משנתיים אחרי שעזב: שרון גל חוזר לערוץ 14",
+   "summary": "אחרי כשנה ותשעה חודשים ב-i24NEWS, מגיש האקטואליה צפוי לשוב לערוץ 14, שממנו נפרד על רקע סכסוך משפטי ותביעה בסך 1.9 מיליון שקל. העזיבה מגיעה ימים ספורים לפני הבחירות לכנסת, ויומיים אחרי ריאיון עם ראש הממשלה בנימין נתניהו",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/sklimpdnmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HJkqCTv2fx/HJkqCTv2fx_289_29_1346_758_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "ג'נרל מוטורס מציגה: AI, אוטונומיה וטכנולוגיה מישראל",
-   "summary": "באירוע GM Forward שנערך הלילה (ד', שעון ישראל) הציגה ג'נרל מוטורס את הדור הבא של מערכות הרכב שלה, שמבוסס על מחשוב מתקדם, נהיגה אוטונומית ואיך לא – AI. החברה הודיעה שהחל מ-2028 היא תשלב ארכיטקטורת מחשוב חדשה שתספק פי 40 יותר כוח עיבוד, לצד אפליקציית OnStar משוד…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/gm-ai-autonomous-israel/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "הסוכן שבניתם נתקע בדמו? המומחים של MongoDB יעזרו לכם להביא אותו לפרודקשן",
-   "summary": "בניתם סוכן AI ובינתיים הכל עובד פיקס – הוא עונה לעניין, מבצע משימות ונותן דמו מרשים מול ההנהלה. ואז מגיע הרגע להטמיע אותו בעבודה השוטפת של הארגון. פתאום דברים כבר לא עובדים כל כך חלק, ואתם נתקלים במסלול מכשולים של זיכרון, שליפת מידע ובקרה. הסיבה לכך כמעט אף פע…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/mongodb-local-tel-aviv-2026/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +207,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/h1jl9innfe",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/HyXCf042Mg/HyXCf042Mg_517_185_2061_1161_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "אחרי הפסקת הפצת ספריה בשל תמיכתה ב\"ארגון טרור\": המפורסמים מביעים תמיכה בסאלי רוני",
-   "summary": "יותר מ-150 אנשי תרבות חתמו על מכתב תמיכה בסופרת הבריטית (\"אנשים נורמליים\", \"שיחות עם חברים\"), בהם פול מסקל, טילדה סווינטון, דייזי אדגר-ג'ונס וג'סי באקלי. \"סאלי רוני היא סופרת, לא טרוריסטית\", כתבו וקראו לממשלת בריטניה לשנות את החוק שבעקבותיו הפסיקה הוצאת פייבר …",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/skhzmxp2gg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/SkDo7QwhGg/SkDo7QwhGg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
