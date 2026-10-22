@@ -1,20 +1,20 @@
 {
  "date": "יום חמישי, 22 באוקטובר 2026",
  "date_he": "22/10/2026",
- "updated": "12:37",
+ "updated": "17:44",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "בן 8 נפצע אנושות מפגיעת אוטובוס בנגב - הנהג נמלט",
-  "summary": "חשד לפגע וברח: הילד הובא למרפאה בחורה ופונה לבית החולים סורוקה, לאחר שככל הנראה נפגע מאוטובוס בכביש 316. חיפושים אחר הנהג הפוגע",
-  "link": "https://www.ynet.co.il/news/article/s1nmsudhfe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/02/22/ByHJIKGx9/ByHJIKGx9_1_0_1196_673_0_medium.jpg"
+  "title": "הסנאטורית בת ה-82 ניהלה \"אימפריית קנאביס\" - וטוענת לרדיפה: \"אני סבתא רבתא\"",
+  "summary": "במסיבת עיתונאים מיוחדת הכריזו ראש ה-FBI והתובע הכללי של ארה\"ב על אישום חמור נגד לואיז לוקאס בת ה-82, סנאטורית דמוקרטית בכירה בקונגרס המקומי של וירג'יניה, ונטען כי ניצלה את מעמדה על מנת לנהל עסק קנאביס משפחתי לא-חוקי ולגלגל 4.5 מיליון דולר בתוך 5 שנים. היא טוענ…",
+  "link": "https://www.ynet.co.il/news/article/r1q1i2whmg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HkenzaPhGg/HkenzaPhGg_0_201_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 28.8° / 19.6°",
-   "summary": "כרגע 27.2°, לחות 68%, רוח 22.9 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 25.8°, לחות 60%, רוח 16.8 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "68%",
-     68
+     "60%",
+     60
     ],
     [
      "רוח",
-     "22.9 קמ״ש"
+     "16.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
-     "Maccabi Neve Sha'anan נגד Maccabi Nujidat",
-     "1:2 · הסתיים"
+     "SC Arad נגד Hapoel Yeruham",
+     "2:1 · מחצית שנייה"
     ],
     [
-     "SC Tzeirei Tamra נגד Hapoel Ironi Baka El Garbia",
-     "1:3 · הסתיים"
+     "Ironi Ashkelon נגד Sekzia Nes Ziona",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Hapoel Ihod Bnei Jat נגד Hapoel Migdal HaEmek",
-     "1:1 · הסתיים"
+     "Ironi Kfar Yona נגד Hapoel Bnei Arara",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Hapoel Bnei Musmus נגד Hapoel Ironi Arabe",
-     "1:2 · הסתיים"
+     "SC Tira נגד Hapoel Tirat HaCarmel",
+     "2:0 · מחצית ראשונה"
     ],
     [
-     "A.S Nordia Jerusalem נגד Hapoel Marmorek",
-     "1:4 · הסתיים"
+     "MS Shikun HaMizrah נגד Ihud Tzerei Abu - Gosh",
+     "0:0 · מחצית ראשונה"
     ]
    ]
   },
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Kedus Giorgis נגד Adama Kenema",
-     "0:1 · מחצית ראשונה"
+     "Birkirkara FC נגד Floriana FC",
+     "1:1 · מחצית שנייה"
     ],
     [
-     "Welayta Dicha נגד Bahir Dar Kenema",
-     "טרם התחיל"
+     "Najma נגד Ali Csc",
+     "0:2 · מחצית שנייה"
     ],
     [
-     "Kigezi Homeboyz FC נגד Entebbe UPPC",
-     "טרם התחיל"
+     "Sitra Club נגד Riffa Club",
+     "1:3 · מחצית שנייה"
     ],
     [
-     "Villa נגד Mbarara City",
-     "טרם התחיל"
+     "Union St. Gilloise נגד הפועל באר שבע",
+     "1:0 · מחצית"
     ],
     [
-     "Al Sharara נגד Al Ahli Benghazi",
-     "טרם התחיל"
+     "Dinamo Zagreb נגד N.E.C. Nijmegen",
+     "2:2 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "כדוריד: היווני ויירון פאפאדופולוס מונה למאמן נבחרת הנשים",
-   "summary": "המאמן היווני הגיע לישראל בסוף השבוע וידריך גם את נבחרת העתודה וגם את נבחרת הנשים. יו\"ר האיגוד עידן מזרחי: \"הוא מגיע כדי להיות שותף בבניית הדרך המקצועית של כדוריד הנשים בישראל לשנים הבאות\"",
+   "title": "בעקבות הפציעה של לונדברג: ג'מיר יאנג מועמד למכבי ת״א",
+   "summary": "הצהובים בוחנים את האפשרות לצרף את הגארד האמריקאי כבר בימים הקרובים לאור הבור שנוצר בקו האחורי. יאנג, שהיה מועמד גם להפועל ת״א בקיץ האחרון, שוחרר לאחרונה ממחנה האימונים של הלייקרס ואמור לשחק בקבוצת הבת שלהם בליגת הפיתוח",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/syfzawv2mg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/BJPkawD2fl/BJPkawD2fl_0_282_1200_676_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1bspav3fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/S1J1vpD2Ml/S1J1vpD2Ml_0_0_3000_1687_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "\"הוא בכיין\": העימות החזיתי בין הרוקי ללוקה דונצ'יץ'",
-   "summary": "כבר בהופעת הבכורה שלו ב-NBA, יקסל לנדבורג מגולדן סטייט \"שרף\" את הרשת בעקבות טראש טוק עצבני עם כוכב הלייקרס: \"איבדתי כל הערכה אליו\". הסלובני, מצדו, לא נשאר חייב: \"הוא דיבר כמו משוגע, החלטתי לא להיגרר\"",
+   "title": "חי, מחצית: סן ז'ילואז – הפועל באר-שבע 0:1",
+   "summary": "החבורה של רן קוז'וך מחפשת ניצחון בכורה בליגה האירופית, אך לא ניצלה את המצבים שאליהם הגיעה, כשבצד השני הבלגים עלו ליתרון לאחר פנדל מדויק של ראול פלורוץ' על סף הירידה להפסקה. החמצות לאיסט ולזלאטנוביץ'",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/r1hhciwnzg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/Bk5gr8P2Ml/Bk5gr8P2Ml_17_136_1984_1117_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjctz8w3me",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/29/SkU8aTvHfx/SkU8aTvHfx_162_44_1041_586_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "אריאל בית הלחמי יסיים את דרכו כמאמן נבחרת ישראל",
-   "summary": "המאמן הודיעה כי לא יתמודד להארכת חוזהו בתום קמפיין מוקדמות אליפות העולם: \"אימון הנבחרת הוא הפסגה המקצועית והגאווה הגדולה ביותר בקריירה שלי\". המועמד להחליפו: ננו גינזבורג",
+   "title": "\"מזלזל במדינה שלנו\": המתקפה החריפה של טראמפ על לברון",
+   "summary": "נשיא ארה\"ב תקף את כוכב פילדלפיה אחרי שתועד מתרגל תנועות גולף וזריקה במהלך ההמנון האמריקאי לפני המשחק מול הניקס: \"חרפה מוחלטת, הוא צריך להתנצל בפני הגיבורים שנפלו למען הדגל\". גם ברשתות החברתיות התפתח גל של ביקורת: \"חוסר כבוד\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/sypkdbwnze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/01/r1OwbNftbx/r1OwbNftbx_168_114_972_547_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hj5ih2wnme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/B1Tcl6whfe/B1Tcl6whfe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "\"ערי הזהב\" המפתיעות של איזנקוט - והאתגר של הליכוד מול קמפיין \"דיאלנא\"",
-   "summary": "השד העדתי יצא מהבקבוק, אך הפעם לא לטובת נתניהו. אמירת ה\"קוף\" של ינון מגל רק שירתה את קמפיין \"המועמד המרוקאי\" - ואיזנקוט משקיע כעת את עיקר משאביו דווקא בפריפריה, בהנחה שת\"א בכיס של גוש השינוי. הפסיביות שעשויה לחולל היסטוריה - והמשחק העדין של נתניהו מול היריב המ…",
+   "title": "אמפתיה - בלי התחייבות: תשובת המפלגות הגדולות לדרישת ראשי רשויות הפריפריה",
+   "summary": "עשרות ראשי רשויות מהצפון והדרום דרשו מ-7 מפלגות לעגן בקווי היסוד של הממשלה הבאה תכנית לשיקום ופיתוח הפריפריה - אך רובן הסתפקו בהבטחות, ללא התחייבות לתקציבים. תנועת אור, שריכזה את המהלך: \"אנחנו יודעים להשקיע מיליארדים במלחמה, הגיע הזמן להפנות תקציב לחיים האזרחי…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bjeiwvd2me",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/BkX9EOw3fx/BkX9EOw3fx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/sylehiv2ge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/21/S1Wjd5nzkx/S1Wjd5nzkx_0_0_1181_787_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "הרצוג: \"יגאל עמיר לא ישוחרר לעולם, ואסור לערער על זה בשום אופן\"",
-   "summary": "בהר הרצל מתקיים הטקס הממלכתי לזכר ראש הממשלה לשעבר שנרצח בידי יגאל עמיר. נתניהו לא הגיע. לפני כן אמרה בבית הנשיא בתו דליה: \"לא החרמנו ולא פסלנו איש או קבוצה. הושטנו יד לכל פלג בחברה הישראלית\". הנשיא סיפר על שלט לשחרור הרוצח: \"צריך להדיר שינה שזה נענה במשיכת כת…",
+   "title": "אירוע חריג בסוריה: \"גבר לא חמוש עם תסמונת דאון נורה למוות בידי צה\"ל\"",
+   "summary": "צה\"ל מסר כי מעאז סלאמה אל-בעיר התקרב לכוחות גם לאחר שבוצע נוהל מעצר חשוד, ו\"נורה כדי להסיר איום\" - אך התיעודים מהלווייתו צוברים תהודה ומבעירים את הרחוב הסורי. ההמונים בהלוויה קראו \"נתניהו אויב אללה, וישראל אויבת אללה\", משרד החוץ הסורי קרא: \"לכפות על ישראל לכבד…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/rkawpdwhgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/Hk11VFfuvnMg/Hk11VFfuvnMg_136_85_939_529_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hyfusqp3zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/BJnLyjDhzg/BJnLyjDhzg_98_0_797_449_0_medium.jpg",
    "stats": [
     [
      "מקור",
