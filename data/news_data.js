@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 23 באוקטובר 2026",
  "date_he": "23/10/2026",
- "updated": "08:05",
+ "updated": "13:56",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "רבש\"ץ נאשם שירה לעבר רכב פלסטיני, פצע אישה קשה - וניסה להעלים ראיות",
-  "summary": "הוסר צו איסור הפרסום: פנחס שם טוב רן, רכז ביטחון בשומרון, הואשם שנכנס לכפר עקרבה, הורה לזוג פלסטינים לעצור וירה לפחות 3 פעמים לעבר רכבם לאחר שהנהג המשיך בנסיעה. שני קליעים פגעו באישה, ואחד נעצר סמוך לליבה. לפני התקרית, ואחרי \"אירועים חריגים\", הזהירו אותו גורמי…",
-  "link": "https://www.ynet.co.il/news/article/bksbfoo3fx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/rk11qCKO2Mx/rk11qCKO2Mx_0_124_944_532_0_medium.jpg"
+  "title": "מה שבטוח, צריך שינוי",
+  "summary": "פעם אחר פעם הצליח \"מר ביטחון\" ללחוץ על כפתורי הפחד של הישראלים - ולהיבחר | אבל מאז 7 באוקטובר מתגלה נתניהו שוב ושוב כמצביא וכמדינאי כושל מגיע לנו יותר מזה",
+  "link": "https://www.ynet.co.il/news/article/yokra14933842",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/yk14935275/yk14935275_0_114_591_333_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 34.3° / 25.7°",
-   "summary": "כרגע 31.3°, לחות 27%, רוח 27.8 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 34.6° / 25.7°",
+   "summary": "כרגע 28.2°, לחות 54%, רוח 22.9 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "34.3°"
+     "34.6°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "27%",
-     27
+     "54%",
+     54
     ],
     [
      "רוח",
-     "27.8 קמ״ש"
+     "22.9 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Maccabi Beer Sheva נגד M.S Ramla",
-     "0:0 · מחצית ראשונה"
+     "Hapoel Daliat El Karmel נגד Hapoel Ramot Menashe",
+     "3:0 · מחצית שנייה"
     ],
     [
-     "Beitar Jerusalem U19 נגד Ironi Ramat Hasharon U19",
-     "4:2 · הסתיים"
+     "FC Shfaram נגד Hapoel Dir Khana",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Maccabi Herzliya U19 נגד Hapoel Ra'anana U19",
-     "0:1 · הסתיים"
+     "Maccabi Bnei Jdeide נגד MS Bnei Hagolan",
+     "1:3 · מחצית שנייה"
     ],
     [
-     "Hapoel Kfar Saba U19 נגד Hapoel Beer Sheva U19",
-     "2:4 · הסתיים"
+     "Hapoel Bnei Ein Mahil נגד Hapoel Bnei Jdaidie Makr",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Maccabi Netanya U19 נגד Maccabi Tel Aviv U19",
-     "0:1 · הסתיים"
+     "Bnei Yehuda נגד Kiryat Yam Sc",
+     "2:1 · מחצית"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Brothers U. נגד Abahani",
-     "טרם התחיל"
+     "Tripoli SC נגד Tadamon",
+     "1:2 · מחצית שנייה"
     ],
     [
-     "Fakirapool Young Men נגד Rahmatgonj Mfs",
-     "טרם התחיל"
+     "Dpmm FC נגד Johor Darul Ta’zim",
+     "0:2 · מחצית שנייה"
     ],
     [
-     "Dynamo Kyiv נגד Kudrivka",
-     "טרם התחיל"
+     "Selangor נגד Kuching City FC",
+     "1:1 · מחצית"
     ],
     [
-     "Veres Rivne נגד Kolos Kovalivka",
-     "טרם התחיל"
+     "Kitara Fc נגד Ntugasaze FC",
+     "נדחה"
     ],
     [
-     "Polissya נגד Obolon Kyiv",
-     "טרם התחיל"
+     "Us Biskra נגד MC Alger",
+     "נדחה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "מנור סולומון לא יעשה הנחות לדניאל פרץ: \"אנסה להבקיע נגדו\"",
-   "summary": "ווסטהאם תארח בשבת (17:00) את סאות'המפטון לקרב מסקרן בצמרת הצ'מפיונשיפ, שיהיה גם דרבי ישראלי בין שני שחקני הנבחרת. סולומון פרגן לחברו: \"הוא שוער מצוין עם יכולות מנהיגות נהדרות, אבל במשך 90 דקות נהיה יריבים\"",
+   "title": "אלופת העולם והאלופה האולימפית במרתון הושעתה בחשד לשימוש בסמים",
+   "summary": "פרס ג'פצ'ירצ'יר הקנייתית, שניצחה במרתון סידני באוגוסט האחרון, נכשלה בבדיקת סמים מחוץ לתחרות לאחר שבדגימה שלה נמצאו ממצאים חריגים של EPO והושעתה עד להשלמת ההליך המשמעתי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/sjnm00yo2mg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/12/SJkOayMKGe/SJkOayMKGe_137_45_802_452_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/bjuakjynme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/14/Sko11wG4oll/Sko11wG4oll_0_138_2640_1487_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "פרסום ראשון | ספיר ברמן עלולה לא לשפוט העונה בליגת העל",
-   "summary": "לצד שיבוץ למשחקים בינלאומיים לנערות, השופטת המצטיינת של העונה שעברה לא עברה את מבדקי הכושר - ואם תיכשל גם במועד הנוסף היא עשויה להישאר בחוץ עד סוף העונה. גורם באיגוד: \"היא התעסקה יותר בהרצאות מאשר בהכנות\"",
+   "title": "מחצית: בני יהודה - קריית ים 1:2",
+   "summary": "ליגה לאומית, מחזור 11: נחמיאס העלה את המארחת ליתרון בבעיטה יפהפייה, דה סילבה הכפיל במתפרצת, אך אטיאס צימק. במקביל: כפר קאסם – אשדוד 0:0",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skht8ydhmx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/S17J00Kunze/S17J00Kunze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one536790",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/one1894230/one1894230_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "שוב אותו סיפור: מכבי ת\"א לא למדה את הלקח מול ריאל | טור",
-   "summary": "אחרי מחצית ראשונה נהדרת ויתרון של 15 נקודות, הצהובים שוב קרסו מול ההתאמות של הספרדים ונכנעו לתסריט שכבר מוכר מהעונה שעברה. הפציעה של לונדברג חשפה מחדש את התלות ההגנתית בו, וואלאס ממשיך לאכזב, וההחלטה להעלות את תייס בחמישייה על חשבון סורקין מעלה שאלות. וגם: האי…",
+   "title": "ישחק נגד ריאל? אוריין גורן זומן לקבוצה הבכירה של ברצלונה",
+   "summary": "הקשר בן ה-17 שמשחק בקבוצת הבת של ברצלונה בליגה הרביעית בספרד הוקפץ לקבוצה הבכירה וייטול חלק באימון המסכם לקראת המשחק נגד הבלאנקוס בראשון. וגם: האם ישחק בנבחרת הצעירה או בנוער?",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/b1gsxsunzl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/ry6toCP3Gg/ry6toCP3Gg_163_26_873_492_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/byt9001d2mx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/21/r100FrgrCxx/r100FrgrCxx_794_108_1765_994_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "2 פצועים אנוש בפיגוע ליד חברון. זמיר: \"נמצאה תחמושת רבה, נמנע פיגוע חמור\"",
-   "summary": "מיד לאחר פיגוע הירי שבו נפצעו 5 בני אדם, כינס הרמטכ\"ל הערכת מצב שבה נמסר כי המחבלים חוסלו על-ידי סמג\"ד ומ\"פ בגדוד ארי של פיקוד העורף, שהוקם רק השנה מתוך צורך בהגדלת הסד\"כ. חילופי האש נמשכו 20 דקות, ובמערכת הביטחון מעריכים שהמחבלים היו בדרכם לפיגוע משמעותי נגד …",
+   "title": "זוהי הצבעה קיומית",
+   "summary": "המדינה לא תשרוד עוד ממשלת אסון. חייבים ניצחון בנוקאאוט",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hko811t00ngg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/H1XgP00Ohfl/H1XgP00Ohfl_0_120_1280_721_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14935656",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HJOA2Junfg/HJOA2Junfg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "דוברת עברית, מתנגדת לסיפוח: המועמדת ממוצא פלסטיני במרוץ להנהגת האו\"ם",
-   "summary": "סבה ניהל מגעים חשאיים עם משה דיין, דודה ניסה להביא שלום עם עמי אילון, ובמפתיע היא בעלת תואר שני בלימודי ישראל והתפוצות היהודיות. לאנה נוסייבה, שרה באיחוד האמירויות, נכנסה ברגע האחרון למרוץ להחלפת אנטוניו גוטרש. אחרי 6 הצבעות ללא הכרעה, וכשהבית הלבן מחפש מועמדי…",
+   "title": "מותר האדם מהקוף",
+   "summary": "ינון מגל לא מעניין. מעניינת תפיסת העולם של השלטון שכולאת את המזרחיות, ודרכה את המסורתיות, בצד פוליטי מסוים | דגם מזרחי אחד, קורבן לנצח, נאמן אוטומטית | לא כך גידלו אותנו הוריי והורי חבריי, שציידו אותנו בחריצות ובאמונה ביכולת להצליח — למרות הגזענות, למרות ההדרה…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hy9exdu3fg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/12/22/HJulLBmw6/HJulLBmw6_475_227_1480_833_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14934713",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/yk14935208/yk14935208_0_0_709_1143_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -202,10 +202,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "הסוכן שבניתם נתקע בדמו? המומחים של MongoDB יעזרו לכם להביא אותו לפרודקשן",
-   "summary": "בניתם סוכן AI ובינתיים הכל עובד פיקס – הוא עונה לעניין, מבצע משימות ונותן דמו מרשים מול ההנהלה. ואז מגיע הרגע להטמיע אותו בעבודה השוטפת של הארגון. פתאום דברים כבר לא עובדים כל כך חלק, ואתם נתקלים במסלול מכשולים של זיכרון, שליפת מידע ובקרה. הסיבה לכך כמעט אף פע…",
+   "title": "צפו: הצצה ראשונה ל-iPhone Duo בישראל",
+   "summary": "הבוקר זה קרה. אחרי שישראל נכנסה באופן תקדימי לגל ההשקות הראשון של אפל, הושק בישראל ה-iPhone Duo, האייפון המתקפל הראשון. למרות המלאי המוגבל בישראל וברחבי העולם, החברים ברשת \"מחסני חשמל\" דאגו שקוראי גיקטיים יהיו הראשונים לקבל הצצה לאייפון הכי מיוחד שאפל שיחררה ב…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/mongodb-local-tel-aviv-2026/",
+   "link": "https://www.geektime.co.il/apple-iphone-duo-hands-on/",
    "image": null,
    "stats": [
     [
@@ -244,7 +244,7 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "רק לא זה, ליטרלי: עכשיו כשעלה לנו מאדם ברודי, למי אכפת אם ג'ואן ונואה יתחתנו?",
+   "title": "שומעים את הטפטוף הזה? זה הסקס אפיל של אדם ברודי שהולך ואוזל",
    "summary": "העונה השלישית של \"רק לא זה\" חוזרת עם דיאלוגים שנונים, אבל הרומן בין ג'ואן לנואה הולך ומאבד גובה, והכימיה בין קריסטן בל לאדם ברודי ממשיכה לדעוך. למרבה המזל, עלילות המשנה של סשה, מורגן ואסתר מספקות את הרגעים המוצלחים באמת. וכן, אחרי ההתבטאות של ברודי על המלחמה ב…",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/bkhtrrpnfx",
