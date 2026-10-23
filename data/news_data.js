@@ -1,30 +1,30 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 23 באוקטובר 2026",
  "date_he": "23/10/2026",
- "updated": "13:56",
+ "updated": "18:03",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "מה שבטוח, צריך שינוי",
-  "summary": "פעם אחר פעם הצליח \"מר ביטחון\" ללחוץ על כפתורי הפחד של הישראלים - ולהיבחר | אבל מאז 7 באוקטובר מתגלה נתניהו שוב ושוב כמצביא וכמדינאי כושל מגיע לנו יותר מזה",
-  "link": "https://www.ynet.co.il/news/article/yokra14933842",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/yk14935275/yk14935275_0_114_591_333_0_medium.jpg"
+  "title": "\"תיתכן תקיפה בסופ\"ש\": המסרים מכיוון טראמפ - והאיום על טהרן בעימות ממושך",
+  "summary": "שליחו המיוחד של הנשיא ברק אמר כי \"בוודאי שתיתכן תקיפה\" באיראן, והשגריר האמריקני באו\"ם וולץ הוסיף: \"נערכים לעימות ממושך\". עם זאת, שניהם לא אמרו כי חזרה למלחמה היא עובדה מוגמרת: \"פתוחים לעסקה\". בינתיים טראמפ מתרברב בהישגים, כשברקע בחירות האמצע המתקרבות: \"יכולים …",
+  "link": "https://www.ynet.co.il/news/article/hylsjfknfx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/20/B1dYhOEnzg/B1dYhOEnzg_0_36_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 34.6° / 25.7°",
-   "summary": "כרגע 28.2°, לחות 54%, רוח 22.9 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 34.5° / 25.6°",
+   "summary": "כרגע 27.3°, לחות 54%, רוח 13.2 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "34.6°"
+     "34.5°"
     ],
     [
      "מינימום",
-     "25.7°"
+     "25.6°"
     ],
     [
      "לחות",
@@ -33,7 +33,7 @@ window.NEWS_DATA = {
     ],
     [
      "רוח",
-     "22.9 קמ״ש"
+     "13.2 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Daliat El Karmel נגד Hapoel Ramot Menashe",
-     "3:0 · מחצית שנייה"
+     "Beitar Jerusalem U19 נגד Ironi Ramat Hasharon U19",
+     "4:2 · הסתיים"
     ],
     [
-     "FC Shfaram נגד Hapoel Dir Khana",
-     "0:0 · מחצית שנייה"
+     "Maccabi Herzliya U19 נגד Hapoel Ra'anana U19",
+     "0:1 · הסתיים"
     ],
     [
-     "Maccabi Bnei Jdeide נגד MS Bnei Hagolan",
-     "1:3 · מחצית שנייה"
+     "Hapoel Kfar Saba U19 נגד Hapoel Beer Sheva U19",
+     "2:4 · הסתיים"
     ],
     [
-     "Hapoel Bnei Ein Mahil נגד Hapoel Bnei Jdaidie Makr",
-     "0:0 · מחצית שנייה"
+     "Maccabi Netanya U19 נגד Maccabi Tel Aviv U19",
+     "0:1 · הסתיים"
     ],
     [
-     "Bnei Yehuda נגד Kiryat Yam Sc",
-     "2:1 · מחצית"
+     "Hapoel Rishon LeZion U19 נגד Maccabi Haifa U19",
+     "0:5 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Tripoli SC נגד Tadamon",
-     "1:2 · מחצית שנייה"
+     "Hearts of Oak נגד Basake Holy Stars FC",
+     "0:0 · מחצית"
     ],
     [
-     "Dpmm FC נגד Johor Darul Ta’zim",
-     "0:2 · מחצית שנייה"
+     "Vipers נגד Police",
+     "0:0 · מחצית"
     ],
     [
-     "Selangor נגד Kuching City FC",
-     "1:1 · מחצית"
+     "SCR Altach נגד Austria Vienna",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Kitara Fc נגד Ntugasaze FC",
-     "נדחה"
+     "Zrinjski נגד Radnik Bijeljina",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Us Biskra נגד MC Alger",
+     "Penicuik Athletic נגד Clyde",
      "נדחה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "אלופת העולם והאלופה האולימפית במרתון הושעתה בחשד לשימוש בסמים",
-   "summary": "פרס ג'פצ'ירצ'יר הקנייתית, שניצחה במרתון סידני באוגוסט האחרון, נכשלה בבדיקת סמים מחוץ לתחרות לאחר שבדגימה שלה נמצאו ממצאים חריגים של EPO והושעתה עד להשלמת ההליך המשמעתי",
+   "title": "דאגה בבאיירן מינכן: וינסנט קומפני התמוטט ופונה לבית החולים",
+   "summary": "המאמן הבלגי בן ה-40 חש ברע במהלך אימון קבוצת המילואים, ימים ספורים לאחר שסבל מזיהום ויראלי. לפי דיווח ב\"בילד\", מצבו יציב, והוא יעבור בדיקות נוספות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/bjuakjynme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/14/Sko11wG4oll/Sko11wG4oll_0_138_2640_1487_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/r1a2lffhgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/BydibGF2fe/BydibGF2fe_0_114_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מחצית: בני יהודה - קריית ים 1:2",
-   "summary": "ליגה לאומית, מחזור 11: נחמיאס העלה את המארחת ליתרון בבעיטה יפהפייה, דה סילבה הכפיל במתפרצת, אך אטיאס צימק. במקביל: כפר קאסם – אשדוד 0:0",
+   "title": "כדוריד: מכבי ראשל\"צ שמרה על מאזן מושלם ונותרה בפסגת הטבלה",
+   "summary": "הקבוצה של ג'ו מתתיה ניצחה 26:38 על עירוני רחובות במסגרת המחזור השישי, הפועל ראשל\"צ נותרה קרובה אליה לאחר 31:36 על מכבי אשדוד. בני הרצליה ומכבי ת\"א סיימו בשוויון 29:29 לאחר דרמה גדולה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one536790",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/one1894230/one1894230_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/hjrj6lyhgx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/one1888555/one1888555_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "ישחק נגד ריאל? אוריין גורן זומן לקבוצה הבכירה של ברצלונה",
-   "summary": "הקשר בן ה-17 שמשחק בקבוצת הבת של ברצלונה בליגה הרביעית בספרד הוקפץ לקבוצה הבכירה וייטול חלק באימון המסכם לקראת המשחק נגד הבלאנקוס בראשון. וגם: האם ישחק בנבחרת הצעירה או בנוער?",
+   "title": "השער ה-1,000 מתקרב: רונאלדו כבש בניצחון של אל-נאסר | צפו",
+   "summary": "הכוכב הפורטוגלי בן ה-41 הבקיע בנגיחה את השני של קבוצתו, שניצחה בחוץ 1:3 את אל-פייסאלי ונצמדה לפסגה. זהו השער ה-982 בקריירה והשישי שלו העונה בכל המסגרות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/byt9001d2mx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/21/r100FrgrCxx/r100FrgrCxx_794_108_1765_994_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rkz6olf2fg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/SyXQFqx3Mx/SyXQFqx3Mx_17_51_631_356_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "זוהי הצבעה קיומית",
-   "summary": "המדינה לא תשרוד עוד ממשלת אסון. חייבים ניצחון בנוקאאוט",
+   "title": "קשיש נורה 13 פעמים בביתו ומת, החשד: נקמה בנכדו | תיעוד מתוך הזירה הקשה",
+   "summary": "רעולי פנים פרצו לביתו של איברהים בושקאר בן ה-82 בשפרעם, ירו לעברו וניסו לרצוח גם את בנו - שהצליח להימלט ולהינצל. לפי החשד, נכדו של הקשיש היה חלק מחוליית חיסול של משפחת חרירי, שתכננה לפגוע באדם שקשור לחמושים",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14935656",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/HJOA2Junfg/HJOA2Junfg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bkrukek2mx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/B18jEfFnGg/B18jEfFnGg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "מותר האדם מהקוף",
-   "summary": "ינון מגל לא מעניין. מעניינת תפיסת העולם של השלטון שכולאת את המזרחיות, ודרכה את המסורתיות, בצד פוליטי מסוים | דגם מזרחי אחד, קורבן לנצח, נאמן אוטומטית | לא כך גידלו אותנו הוריי והורי חבריי, שציידו אותנו בחריצות ובאמונה ביכולת להצליח — למרות הגזענות, למרות ההדרה…",
+   "title": "חשד לרצח: אישה נדקרה למוות בביתה בקריית חיים. בן זוגה נעצר",
+   "summary": "האישה נדקרה ככל הנראה על ידי בן זוגה בדירה בצפון חיפה. מצבה הוגדר אנוש - וכעבור זמן קצר נאלצו צוותי מד\"א לקבוע את מותה במקום. המשטרה איתרה את החשוד בזירה, השתלטה עליו ועצרה אותו: \"נפתחה חקירה\". לזוג ילד משותף, גורמי הרווחה לקחו עליו אחריות",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14934713",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/22/yk14935208/yk14935208_0_0_709_1143_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hk4p8zt2me",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/HJnEC4MFhfe/HJnEC4MFhfe_0_0_1280_721_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -174,24 +174,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "רק למוזמנים: בואו ללמוד איך הופכים את Gemini Agent החדש ליתרון עסקי",
-   "summary": "סוכן ה-AI החדש והמדובר של Google הפך זמין ממש החודש, ומסמן מעבר דרמטי משימוש במודלי שפה בסיסיים להאצלת משימות ואחריות אוטונומית. Gemini Agent תומך בעיבוד מידע מסוגים שונים ובהתמודדות עם משימות רב-שלביות מורכבות, ופותח אפשרויות חדשות לפיתוח פתרונות AI מתקדמים. …",
+   "title": "הודעות הסלאק והמיילים של סטארטאפים שנסגרו הם היעד החם של חברות ה-AI",
+   "summary": "סגירת סטארטאפ היא כאב ראש מתמשך שכולל לרוב פיטורים, מכירת ציוד מחשוב, פינוי משרדים, סגירת חובות ומכירה של טכנולוגיות או קניין רוחני. אבל מתברר שיש לחברות שנסגרות עוד נכס שווה: הודעות הסלאק, המיילים והטיקטים בג'ירה של העובדים שלהן, והמידע הזה הוא הזהב החדש של ע…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/gemini-agent-cxo-breakfast-roundtable-101126/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "ג'נרל מוטורס מציגה: AI, אוטונומיה וטכנולוגיה מישראל",
-   "summary": "באירוע GM Forward שנערך הלילה (ד', שעון ישראל) הציגה ג'נרל מוטורס את הדור הבא של מערכות הרכב שלה, שמבוסס על מחשוב מתקדם, נהיגה אוטונומית ואיך לא – AI. החברה הודיעה שהחל מ-2028 היא תשלב ארכיטקטורת מחשוב חדשה שתספק פי 40 יותר כוח עיבוד, לצד אפליקציית OnStar משוד…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/gm-ai-autonomous-israel/",
+   "link": "https://www.geektime.co.il/slack-dms-are-so-hot-right-now/",
    "image": null,
    "stats": [
     [
@@ -206,6 +192,20 @@ window.NEWS_DATA = {
    "summary": "הבוקר זה קרה. אחרי שישראל נכנסה באופן תקדימי לגל ההשקות הראשון של אפל, הושק בישראל ה-iPhone Duo, האייפון המתקפל הראשון. למרות המלאי המוגבל בישראל וברחבי העולם, החברים ברשת \"מחסני חשמל\" דאגו שקוראי גיקטיים יהיו הראשונים לקבל הצצה לאייפון הכי מיוחד שאפל שיחררה ב…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/apple-iphone-duo-hands-on/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "ביקורת Ninja Luxe Cafe Pro: האם נינג'ה הצליחה לעשות את זה גם במכונות הקפה?",
+   "summary": "אני חייב להודות שלרוב, אשתי מחבבת את המוצרים שאני סוקר במסגרת הביקורות שלי בגיקטיים. בין אם אלו שואבים שוטפים, מנעולים חכמים, וגם מעת לעת משחקים טובים לפלייסטיישן, ולרוב היא מתבאסת בשלב שאני מחזיר אותם, אבל הרעיון לבדוק מכונת קפה חצי-אוטומטית לא עורר בה התלהבו…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/ninja-luxe-cafe-pro-es703-coffee-review/",
    "image": null,
    "stats": [
     [
