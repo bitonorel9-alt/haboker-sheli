@@ -1,23 +1,46 @@
 window.NEWS_DATA = {
- "date": "יום שישי, 23 באוקטובר 2026",
- "date_he": "23/10/2026",
- "updated": "21:46",
+ "date": "יום שבת, 24 באוקטובר 2026",
+ "date_he": "24/10/2026",
+ "updated": "00:08",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "צה\"ל פתח במבצע בחברון אחרי הפיגוע הקטלני: \"עתיד להימשך מספר ימים\"",
-  "summary": "בעקבות הפיגוע בצומת יהודה, שבו נפלו סמ\"ר רון יונתן רויטמן וסמל יובל שי סוילם, פתחו צה\"ל ושב\"כ במבצע נרחב בעיר שממנה יצאו שני המחבלים. הכוחות יסרקו עשרות יעדים, יחקרו חשודים ויפעלו לאיתור אמצעי לחימה ותשתיות טרור. תנועת התושבים באזור הפעילות תוגבל, בצה\"ל הבהירו…",
-  "link": "https://www.ynet.co.il/news/article/byumyskhzg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/23/B1N00Xzju3Ge/B1N00Xzju3Ge_0_74_1500_845_0_medium.jpg"
+  "title": "רב מחב\"ד נעצר בחשד לרצח בקליפורניה: דרס למוות צעיר בחניון של קוסטקו",
+  "summary": "הרב אבא בריסקי (35), בנו של אחד ממנהיגי חב\"ד הבולטים בדרום קליפורניה, נעצר לאחר שצעיר בן 28 נדרס למוות סמוך לתחנת הדלק של רשת הענק. עדי ראייה הצביעו עליו כנהג הפוגע, והוא נעצר במכוניתו. החוקרים טרם חשפו מה קדם לדריסה ואם הייתה מכוונת. הערבות נקבעה על 3 מיליון …",
+  "link": "https://www.ynet.co.il/news/article/hywzaut3gx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/24/Skp6HDKhGg/Skp6HDKhGg_387_0_1345_757_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית — התחזית להיום",
-   "summary": "לא הצלחתי למשוך תחזית כרגע.",
-   "source": "Open-Meteo",
+   "title": "עתלית · 28.4° / 21.7°",
+   "summary": "כרגע 23.5°, לחות 60%, רוח 6.4 קמ״ש. סיכוי משקעים 0%.",
+   "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
-   "stats": []
+   "stats": [
+    [
+     "מקסימום",
+     "28.4°"
+    ],
+    [
+     "מינימום",
+     "21.7°"
+    ],
+    [
+     "לחות",
+     "60%",
+     60
+    ],
+    [
+     "רוח",
+     "6.4 קמ״ש"
+    ],
+    [
+     "סיכוי גשם",
+     "0%",
+     0
+    ]
+   ]
   },
   {
    "section": "כדורגל",
@@ -28,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Beitar Jerusalem U19 נגד Ironi Ramat Hasharon U19",
+     "Hapoel Haifa U19 נגד Kiryat Shmona U19",
+     "4:1 · הסתיים"
+    ],
+    [
+     "Hapoel Tel Aviv U19 נגד Hapoel Jerusalem U19",
      "4:2 · הסתיים"
     ],
     [
-     "Maccabi Herzliya U19 נגד Hapoel Ra'anana U19",
-     "0:1 · הסתיים"
-    ],
-    [
-     "Hapoel Kfar Saba U19 נגד Hapoel Beer Sheva U19",
+     "Hapoel Lod נגד Beitar Petah Tikva",
      "2:4 · הסתיים"
     ],
     [
-     "Maccabi Netanya U19 נגד Maccabi Tel Aviv U19",
-     "0:1 · הסתיים"
+     "Bnei Yehuda U19 נגד Maccabi Petach Tikva U19",
+     "0:5 · הסתיים"
     ],
     [
-     "Hapoel Rishon LeZion U19 נגד Maccabi Haifa U19",
-     "0:5 · הסתיים"
+     "MS Tirat HaCarmel נגד SC Kababir",
+     "5:0 · הסתיים"
     ]
    ]
   },
@@ -62,10 +85,6 @@ window.NEWS_DATA = {
      "2:3 · הסתיים"
     ],
     [
-     "Penicuik Athletic נגד Clyde",
-     "נדחה"
-    ],
-    [
      "Torino נגד Monza",
      "3:2 · הסתיים"
     ],
@@ -75,6 +94,10 @@ window.NEWS_DATA = {
     ],
     [
      "Ipswich נגד Nottingham Forest",
+     "1:1 · הסתיים"
+    ],
+    [
+     "Alaves נגד Malaga",
      "1:1 · הסתיים"
     ]
    ]
@@ -236,18 +259,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "למה נמלים לא הולכות לאיבוד",
-   "summary": "הן משאירות שביל פרומונים; ככל שהמסלול קצר יותר, הריח מתחזק מהר יותר — אלגוריתם מציאת דרך טבעי.",
-   "source": "תמצית ידע יומית · טבע",
+   "title": "מהי מטבע קוונטי (Qubit)",
+   "summary": "בניגוד לביט רגיל (0 או 1), קיוביט יכול להיות בשני המצבים בו-זמנית — בסיס למחשוב הקוונטי.",
+   "source": "תמצית ידע יומית · טכנולוגיה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "טבע"
+     "טכנולוגיה"
     ],
     [
      "עובדה בונוס",
-     "לב הכחול הכי גדול — הלווייתן הכחול — במשקל של מכונית."
+     "אין מספיק זהב בעולם כדי לצפות בו את כל היבשה."
     ]
    ]
   }
