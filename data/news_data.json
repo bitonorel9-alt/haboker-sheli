@@ -1,26 +1,26 @@
 {
- "date": "יום שבת, 24 באוקטובר 2026",
- "date_he": "24/10/2026",
- "updated": "22:16",
+ "date": "יום ראשון, 25 באוקטובר 2026",
+ "date_he": "25/10/2026",
+ "updated": "00:41",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "השינוי נמצא בהישג היד שתצביע",
-  "summary": "הכובע עם ההבטחה ל\"הניצחון המוחלט\" ירד מהראש, ועכשיו ישראל חייבת להחליף את הראש. מי שמציג את עצמו כמנהיג עולמי הרחיק מאיתנו את העולם, וגל עכור ועצום של סנקציות ובידוד עומד לסחוף את כולנו. בואו להצביע",
-  "link": "https://www.ynet.co.il/news/article/yokra14936356",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/24/yk14936709/yk14936709_0_0_1436_1180_0_medium.jpg"
+  "title": "ישראל עברה לשעון חורף | כל מה שצריך לדעת",
+  "summary": "הישראלים זכו לשעת שינה נוספת כשהשעון עבר שעה אחת אחורה הלילה ב-2:00. למה בכלל מזיזים את השעון, ומתי חוזרים לשעון קיץ? ynet מסביר",
+  "link": "https://www.ynet.co.il/news/article/g6v9at2rh",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/09/18/B1lqff5S1a/B1lqff5S1a_0_0_850_479_0_cid_62_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 26.7° / 23.4°",
-   "summary": "כרגע 24.1°, לחות 80%, רוח 14.5 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 26.5° / 23.4°",
+   "summary": "כרגע 23.8°, לחות 81%, רוח 12.6 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "26.7°"
+     "26.5°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@
     ],
     [
      "לחות",
-     "80%",
-     80
+     "81%",
+     81
     ],
     [
      "רוח",
-     "14.5 קמ״ש"
+     "12.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,52 @@
    "image": null,
    "stats": [
     [
-     "Hapoel Haifa U19 נגד Kiryat Shmona U19",
+     "Hapoel Ra'anana (W) נגד Maccabi Kishronot Hadera (W)",
+     "1:2 · הסתיים"
+    ],
+    [
+     "SC Kiryat Gat (W) נגד Maccabi Asa Tel Aviv (W)",
      "4:1 · הסתיים"
     ],
     [
-     "Hapoel Tel Aviv U19 נגד Hapoel Jerusalem U19",
-     "4:2 · הסתיים"
+     "Maccabi Holon (W) נגד Bnot Netanya (W)",
+     "2:1 · הסתיים"
     ],
     [
-     "Hapoel Lod נגד Beitar Petah Tikva",
-     "2:4 · הסתיים"
+     "Hapoel Katamon Jerusalem (W) נגד Hapoel Tel Aviv (W)",
+     "4:1 · הסתיים"
     ],
     [
-     "Bnei Yehuda U19 נגד Maccabi Petach Tikva U19",
-     "0:5 · הסתיים"
-    ],
+     "SC Arad נגד Hapoel Yeruham",
+     "1:1 · הסתיים"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "האס של ריאל - ונקודות התורפה של בארסה: הדמויות שיעשו את הקלאסיקו",
+   "summary": "ברצלונה מגיעה למשחק עם 100 אחוזי הצלחה בליגה, ותברח למרחק תשע נקודות מריאל מדריד אם תנצח בקלאסיקו בקאמפ נואו – אבל לבלאנקוס יש נשק לא סודי ששוב יעמוד על הקווים במפגש הענקיות אחרי 13 שנות הפסקה: ז'וזה מוריניו",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rjqjitq2fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/24/rkDvTFcnMe/rkDvTFcnMe_216_23_2587_1457_0_medium.jpg",
+   "stats": [
     [
-     "MS Tirat HaCarmel נגד SC Kababir",
-     "5:0 · הסתיים"
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "עדיף להתבזות באירופה מאשר להצטיין בתירוצים מהספה",
+   "summary": "לכל הגאונים שטוענים שהקמפיין האירופי הוא כאב ראש שיפגע לבאר־שבע בליגה: עדיף להתבזות בליגה האירופית מאשר להיות מודח במוקדמות ולראות את המשחקים מהספה. רק ככה מתקדמים . כל היתר זה דיבורים של מפסידנים",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/article/sj60ff9nmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/24/HJwHcF93Gx/HJwHcF93Gx_0_83_1797_1012_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -87,30 +115,16 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "דולגופיאט: \"נרגש ושמח להוכיח שאנחנו עדיין בטופ\"",
-   "summary": "המתעמל, שהוסיף מדליה רביעית מאליפויות העולם לאוסף, הודה לאחר הזכייה: \"חושב שיכולתי לעשות קצת יותר טוב\". יו\"ר איגוד ההתעמלות: \"יחד עם ברקוביץ', רשמנו שתי הופעות היסטוריות בגמר הקרקע - מקור לגאווה עבור ההתעמלות הישראלית\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hjwezlq2fg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/24/ByZCiB52fg/ByZCiB52fg_26_29_707_398_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "השינוי נמצא בהישג היד שתצביע",
+   "summary": "הכובע עם ההבטחה ל\"הניצחון המוחלט\" ירד מהראש, ועכשיו ישראל חייבת להחליף את הראש. מי שמציג את עצמו כמנהיג עולמי הרחיק מאיתנו את העולם, וגל עכור ועצום של סנקציות ובידוד עומד לסחוף את כולנו. בואו להצביע",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/yokra14936356",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/24/yk14936709/yk14936709_0_0_1436_1180_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "עשה זאת שוב: ארטיום דולגופיאט זכה במדליית הארד באליפות העולם",
-   "summary": "המתעמל המעוטר השיג את המקום על הפודיום באליפות ברוטרדם, לאחר שקיבל על תרגיל הקרקע ציון 14.466. נועם ברקוביץ' סיים במקום השביעי לאחר שקיבל ציון 13.500",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rkgt2zt3zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/24/SkxlP9Xq2Gg/SkxlP9Xq2Gg_0_134_699_394_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -121,20 +135,6 @@
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/yokra14936682",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/B17IZ2E0jGe/B17IZ2E0jGe_0_232_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "הכדור יעבור לפוליטיקאים",
-   "summary": "לפי הסקרים, לפי האינטרסים ובעיקר לפי הצהרות המועמדים השונים, בעשרים ושמונה באוקטובר כל השאלות הקיומיות האלו יתרסקו אל תוך קיר בלתי עביר: פוליטיקת הגושים",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14936621",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/BJSZB2Q6jMx/BJSZB2Q6jMx_0_0_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -229,18 +229,18 @@
   {
    "section": "לומדים",
    "learn": true,
-   "title": "מהי מטבע קוונטי (Qubit)",
-   "summary": "בניגוד לביט רגיל (0 או 1), קיוביט יכול להיות בשני המצבים בו-זמנית — בסיס למחשוב הקוונטי.",
-   "source": "תמצית ידע יומית · טכנולוגיה",
+   "title": "אפקט דנינג-קרוגר",
+   "summary": "ככל שאדם יודע פחות בתחום, כך הוא נוטה להעריך את הידע שלו בו ביתר. מומחים אמיתיים דווקא מפחיתים בערך עצמם.",
+   "source": "תמצית ידע יומית · מוח וקוגניציה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "טכנולוגיה"
+     "מוח וקוגניציה"
     ],
     [
      "עובדה בונוס",
-     "אין מספיק זהב בעולם כדי לצפות בו את כל היבשה."
+     "לתמנון יש שלושה לבבות ודם כחול."
     ]
    ]
   }
