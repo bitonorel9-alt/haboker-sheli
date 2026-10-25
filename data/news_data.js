@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 25 באוקטובר 2026",
  "date_he": "25/10/2026",
- "updated": "17:59",
+ "updated": "20:30",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "כמה יצביעו במעטפות כפולות - ומי ירוויח מזה? | השיא שצפוי להישבר, והמשמעות",
-  "summary": "בוועדת הבחירות המרכזית נערכים לעד 650 אלף ישראלים שיצביעו במעטפות כפולות, נתון חסר תקדים בהיקפו עקב התמשכות המילואים ופינוי התושבים מהמלחמה. כך השפיעו המעטפות הכפולות על מפת המנדטים בבחירות הקודמות - וגם: המשמעות עבור המתנדנדות סביב אחוז החסימה",
-  "link": "https://www.ynet.co.il/news/elections2026/article/syy1qpo2ze",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/HJlibNUIhGg/HJlibNUIhGg_0_0_2048_1153_0_medium.jpg"
+  "title": "ברזיל סופרת קולות: בולסונרו הבן יביס את הנשיא האנטי-ישראלי?",
+  "summary": "גל הימין שסחף את אמריקה הלטינית עומד למבחן במדינה הגדולה ביותר בה: החלה ספירת הקולות בסיבוב השני והמכריע בין הנשיא המכהן לולה דה סילבה בן ה-80, שהאשים את ישראל ב\"רצח עם\" ומבטיח להמשיך להתנגד לטראמפ, לבין איש הימין פלאביו בולסונרו, שרק אתמול הניף את דגל ישראל ו…",
+  "link": "https://www.ynet.co.il/news/article/h1ubdqshfg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1XHbNeifl/r1XHbNeifl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 26.4° / 22.8°",
-   "summary": "כרגע 23.7°, לחות 85%, רוח 12.3 קמ״ש. סיכוי משקעים 0%.",
+   "summary": "כרגע 23.4°, לחות 86%, רוח 6.7 קמ״ש. סיכוי משקעים 0%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "85%",
-     85
+     "86%",
+     86
     ],
     [
      "רוח",
-     "12.3 קמ״ש"
+     "6.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,8 +51,8 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Marmorek נגד Maccabi Yavne",
-     "1:0 · מחצית"
+     "Hapoel Hod HaSharon נגד Beitar Kfar Saba FC",
+     "7:2 · מחצית שנייה"
     ],
     [
      "Hapoel Ra'anana (W) נגד Maccabi Kishronot Hadera (W)",
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Lecce נגד Juventus",
-     "0:2 · מחצית"
+     "Velez Mostar נגד BSK Banja Luka",
+     "0:2 · מחצית שנייה"
     ],
     [
-     "Casa Sport נגד Wally Daan",
-     "0:1 · מחצית"
+     "Udinese נגד AC Milan",
+     "0:1 · מחצית ראשונה"
     ],
     [
-     "Real Sociedad נגד Levante",
-     "2:1 · מחצית ראשונה"
+     "Barcelona נגד Real Madrid",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "הפועל פתח תקווה נגד בית\"ר ירושלים",
-     "טרם התחיל"
+     "Portmore United נגד Chapelton",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Gzira United נגד Birzebbuga St. Peters",
-     "טרם התחיל"
+     "Humble Lions נגד Racing United",
+     "0:1 · מחצית ראשונה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "\"צריך לסיים את זה עוד הערב\": באנגליה משוכנעים שקאריק בדרך החוצה",
-   "summary": "אחרי ה-3:0 לבורנמות' ומשחק שמיני ברציפות ללא ניצחון, עתידו של מאמן יונייטד מוטל בספק. קראגר דורש שינוי מיידי, נוויל מצביע על אווירה רעילה וברונו פרננדש נשאר על הספסל במשך כל המשחק. דווקא האוהדים העניקו לקאריק רגע של תמיכה: \"זו לא הייתה פרידה\"",
+   "title": "חי, מחצית ראשונה: ברצלונה - ריאל מדריד 0:0",
+   "summary": "הקלאסיקו הראשון של העונה יוצא לדרך: האלופה, עם אוריין גורן הישראלי על הספסל, רוצה לשמור על המאזן המושלם ולפתוח פער של תשע נקודות מהיריבה המרה. הבלאנקוס רוצים להנחיל לקטלאנים הפסד בכורה בליגה ולצמק את הפער ממנה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rjfky2jhge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/BJ35QionMe/BJ35QionMe_0_0_2434_1371_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rysiloj3fl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/Hy7TXynnMl/Hy7TXynnMl_0_180_2635_1484_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "רבע 3, 02:52: הפועל העמק  - נס ציונה 55:39",
-   "summary": "ליגת ווינר סל, מחזור 3: האדומים מצמצמים בהובלת סי ג'יי אלבי וניב משגב, אך הכתומים שומרים על ריכוז, מחזיקים ביתרון וממשיכים להכתיב את הקצב",
+   "title": "יופחתו נקודות? הפועל פ\"ת ובית\"ר עלולות לשלם ביוקר על העימות בין האוהדים",
+   "summary": "התקרית על כר הדשא לפני המשחק עשויה להוביל לעונש משמעותי: אם תובע ההתאחדות, עו\"ד גלעד ברגמן, יעמיד את הקבוצות לדין בגין התפרעות אוהדים בנסיבות מחמירות והן יורשעו, הן עלולות לספוג הפחתה של שתי נקודות, או נקודה אחת במקרה קל יותר",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one536990",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/03/one1890904/one1890904_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ry4t11y23zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/SkuhO6ihzg/SkuhO6ihzg_246_951_1474_830_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "שני שערים בתוספת הזמן: הדרמה המטורפת של אינטר | צפו",
-   "summary": "תוראם השווה בדקה ה־91 וזילינסקי הכריע בפנדל בדקה ה־98 בדרך ל־1:2 דרמטי. האלופה השתוותה ללאציו במספר הנקודות, האורחת ספגה הפסד חמישי בליגה",
+   "title": "כדורסל נשים: ניצחונות דרמטיים לירושלים ופ\"ת",
+   "summary": "האדומות שרדו מותחן ב-81:83 על אליצור חולון, החבורה של גלעד כץ רשמה קאמבק ענק ב-63:64 על בני יהודה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/rkaot9o3mx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/HklFwpci2zl/HklFwpci2zl_0_16_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/s1cwwaj2gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/rJ1P8pshMe/rJ1P8pshMe_0_90_1163_655_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"בת ז***, שברתי לה ת'ראש\": טענות למעצר אלים של אישה פוסט-טראומטית | תיעוד קשה",
-   "summary": "א' נעצרה לפני כ-3 שנים ברמת גן אחרי שהתפרעה מחוץ לבית הפרוד שלה. השוטר שגילה על מצבה הזעיק שוטרת נוספת כדי לעזור, אך זו לטענתה נקטה כלפיה אלימות קשה. כתב אישום שהוגש נגד א' בוטל אחרי שבתיעוד ממצלמת הגוף של השוטרת, היא נשמעת רומזת לתקיפה: \"חתיכת משוגעת, שברתי ל…",
+   "title": "\"הרודן ייפול\": תורי ענק וטענות לאי-סדרים בבחירות בסרביה, חשש מכאוס",
+   "summary": "בסרביה החלה ספירת הקולות בבחירות מתוחות במיוחד, שהפכו למשאל עם על המשך שלטונו של מנהיג הימין הפופוליסטי והפרו-ישראלי אלכסנדר ווצ'יץ'. ההצבעה נערכה אחרי שנתיים של מחאות צעירים בטענה לשחיתות, והם הקימו את \"רשימת הסטודנטים\" שכוללת רופאים ופרופסורים - ואין לה מנהי…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1tr4di3ml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/Hya3eis3ze/Hya3eis3ze_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hjv004nshme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/S1nkjAs2fe/S1nkjAs2fe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "גם עונש מוות על השולחן: זו התובעת שתוביל את משפטי הנוחבה",
-   "summary": "היקף עצום של ראיות ועדויות קשות, אל מול 400 מחבלים שיואשמו: התובעת הצבאית לשעבר עו\"ד זאנה מודזגברישוילי נבחרה לאחת המשימות הרגישות בתולדות המשפט הישראלי. היא שירתה 22 שנה בצה\"ל ושוחררה בדרגת אל\"מ - ושבה למילואים כתובעת בתיק מותו של יובל קסטלמן",
+   "title": "החשש מפיגועי השראה, התקדמות המבצע בחברון - והתיעוד חדש מחיסול המחבלים",
+   "summary": "במערכת הביטחון חוששים מ\"חקיינים\" שינצלו את הבחירות כדי לפגע, והפעילות העצימה ברחבי יו\"ש נמשכת: כחלק מהמבצע בחברון - שאין לו מועד סיום - נעצרו עוד 12 חשודים, כלי רכב ואמל\"ח הוחרמו. צה\"ל פרסם תיעוד מחיסול שני המחבלים בצומת יהודה, בכביש 60 נעצר חשוד בתכנון פיגוע …",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hj1tsyi2zg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/25/rJHXyjFS1x/rJHXyjFS1x_0_19_708_399_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hyg70cjhge",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/B1r1Kai2fe/B1r1Kai2fe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -173,44 +173,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "מתי להשתמש ב-AI ומתי לחזור לקוד? מיטאפ חדש יעשה לכם סדר",
-   "summary": "מה קורה כשמנסים לקחת את \"הקסם\" של סוכנים אוטונומיים, LLMs וכלי AI גנריים, וליישם אותם בפרודקשן או בתהליכי העבודה היומיומיים? התשובה ברוב הפעמים מאכזבת למדי. בשלב הזה אולי גם אתם כבר גיליתם שפתרונות מדף והנטייה לזרוק הכל על המודל מובילים לעלויות גבוהות, Latency…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/own-your-ai-stack-papaya-meetup/",
-   "image": null,
+   "section": "בידור",
+   "title": "מאסק הבטיח סרט \"מדויק היסטורית של 'האודיסאה'\" ב-AI - ויצא לו פרק בן 7 דקות",
+   "summary": "על רקע הביקורת שמתח על העיבוד הקולנועי של כריסטופר נולאן ליצירתו של הומרוס, אילון מאסק הבטיח ש-Grok Imagine תיצור עד סוף השנה סרט באורך מלא שיהיה נאמן למקור. בינתיים, החברה פרסמה פרק ראשון בן שבע דקות בלבד שאליו לא התלוותה הצהרה נוספת",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/bkta2ajnmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/22/H16y50aVfg/H16y50aVfg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
-   "summary": "אחד האתגרים הגדולים של חברות ה-AI הוא לא רק לפתח מודלים חכמים וחזקים יותר, אלא גם לוודא שהם יפעלו כמו שאנחנו רוצים שיפעלו – ולא יעשו ככל העולה על רצונם. בחודש שעבר דיווחה OpenAI כי אחרי שורה של מקרים שבהם המודלים שלה לא פעלו כמו שצריך – ופרצו לאתרים על דעת עצמ…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/openai-offline-world-frontier-model-training/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "אפליקציות Popcorn Time רדומות כמעט הפכו לסיוט של האינטרנט",
-   "summary": "זוכרים את Popcorn Time? אפליקציית הסטרימינג שלרגעים הרגישה כמו נטפליקס של הפיראטים (אל תיעלבי, Stremio), אבל מאז נעלמה מחייהם של רוב המשתמשים לפני שנים. ולמרות שאתם שכחתם ממנה, מחקר חדש מגלה שהיא לא בהכרח שכחה מכם – ויכלה להיות כאב ראש רציני מאוד עבורכם ועבור …",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/popcorn-time-millions-devices-botnet-security-flaw/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +207,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/hj9gslc3zl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/S1uUXSinzg/S1uUXSinzg_0_57_3000_1689_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "סרט גיבורי על או נטו אימה? \"קלייפייס\" מלא בזוועות גרפיות, אבל זה לא מספיק",
-   "summary": "מה קורה כששחקן צעיר, שהמראה שלו הוא כל עולמו, מאבד את פניו ומפקיד את גופו בידי טכנולוגיה ניסיונית? הסרט החדש הזה לוקח את יקום DC אל הטריטוריה של אימת הגוף, עם מחוות ל\"הזבוב\" ודימויים מטרידים שלא אופייניים לסרטים מז'אנר גיבורי-על. יש כאן כמה רגעים חזקים והופעה …",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bj11svnihze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/Hyb5eyrj2zl/Hyb5eyrj2zl_260_0_1500_844_0_medium.jpg",
    "stats": [
     [
      "מקור",
