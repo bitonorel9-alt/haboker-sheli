@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום שני, 26 באוקטובר 2026",
  "date_he": "26/10/2026",
- "updated": "11:53",
+ "updated": "17:56",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "פרשה ביטחונית חדשה: עורכת דין נעצרה על ידי שב\"כ - והואשמה במגע עם סוכן חוץ",
-  "summary": "בית המשפט המחוזי בלוד התיר לפרסם כי עורכת הדין נעצרה לחקירה לפני שבועיים וחצי, בחשד לביצוע עבירות ביטחון. עם סיום החקירה, היא הואשמה גם בשיבוש מהלכי משפט - והוגשה בקשה למעצרה עד תום ההליכים",
-  "link": "https://www.ynet.co.il/news/article/rjcmi333me",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/BkvbUDxO3kl/BkvbUDxO3kl_728_153_553_312_0_medium.jpg"
+  "title": "ישראל בוחרת: הלו\"ז, התחזית לגשם, התחבורה הציבורית שבחינם וכל מה שצריך לדעת",
+  "summary": "36 רשימות, 12,018 קלפיות ו-7,331,981 בעלי זכות בחירה: ברחבי המדינה הושלמו ההכנות לקביעת פניה של הכנסת ה-26. איזו תחבורה ציבורית פועלת בחינם, כיצד יודעים היכן להצביע ללא הודעה לבוחר, מי רשאי להצביע בקלפי נגישה, ומתי נדע את התוצאות הסופיות? כל הפרטים החשובים בדר…",
+  "link": "https://www.ynet.co.il/news/elections2026/article/hj4rakt2fe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/ByG3P11p3Gg/ByG3P11p3Gg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 26.1° / 20.3°",
-   "summary": "כרגע 25.5°, לחות 76%, רוח 14.8 קמ״ש. סיכוי משקעים 38%.",
+   "summary": "כרגע 23.7°, לחות 82%, רוח 11.6 קמ״ש. סיכוי משקעים 28%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,17 +28,17 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "76%",
-     76
+     "82%",
+     82
     ],
     [
      "רוח",
-     "14.8 קמ״ש"
+     "11.6 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "38%",
-     38
+     "28%",
+     28
     ]
    ]
   },
@@ -51,6 +51,14 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
+     "Hapoel Migdal HaEmek נגד Hapoel Beit She'an Mesilot",
+     "1:1 · מחצית"
+    ],
+    [
+     "מכבי חיפה נגד הפועל באר שבע",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
      "Beitar Ramat Gan נגד Hakoah Amidar Ramat Gan F.C.",
      "1:0 · הסתיים"
     ],
@@ -61,14 +69,6 @@ window.NEWS_DATA = {
     [
      "Hapoel Migdal HaEmek נגד Hapoel Ironi Baka El Garbia",
      "2:1 · הסתיים"
-    ],
-    [
-     "Maccabi Bialik Ata נגד Ihud Umm al-Fahm",
-     "1:3 · הסתיים"
-    ],
-    [
-     "FC Jerusalem נגד SC Sderot",
-     "0:5 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Geylang International נגד Hougang United FC",
+     "Floriana FC נגד Zabbar SP",
+     "1:2 · מחצית"
+    ],
+    [
+     "מכבי חיפה נגד הפועל באר שבע",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "Kedus Giorgis נגד Sheger Ketema",
-     "טרם התחיל"
-    ],
-    [
-     "Negele Arsi Ketema נגד Adama Kenema",
-     "טרם התחיל"
-    ],
-    [
-     "Libyan Stadium נגד Al Shomooa SC",
-     "טרם התחיל"
-    ],
-    [
      "FC Ararat-Armenia נגד Noah",
-     "טרם התחיל"
+     "2:1 · הסתיים"
+    ],
+    [
+     "MS Kafr Qasim נגד Beitar Petah Tikva",
+     "5:2 · הסתיים"
+    ],
+    [
+     "Hapoel Akko נגד SC Tira",
+     "5:0 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "הכוכב שדני אבדיה כל-כך חיכה לשחק לצידו",
-   "summary": "אחרי שעזב בניסיון להשיג אליפות במקום אחר, החמיץ עונה בגלל פציעה קשה ולמד הרבה על האהבה שלו לפורטלנד, דמיאן לילארד שוב על הפרקט במדי הבלייזרס - וההתחלה נראית מבטיחה מאוד. רק תשאלו את הסופרסטאר הישראלי",
+   "title": "חי, מחצית ראשונה: מכבי חיפה - הפועל באר-שבע 0:0",
+   "summary": "הירוקים רוצים לשמור על המומנטום עם ניצחון שיחזיר אותם לפסגת ליגת העל. האלופה תשמח להמשיך בהצלחה שלה בסמי עופר בשנים האחרונות ולהיצמד לדבוקת הצמרת",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/bk6cfx3hme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/SJVwUwh3Gg/SJVwUwh3Gg_0_79_1523_858_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/b1kmkc2nmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/12/rybH7j5iGl/rybH7j5iGl_794_403_1652_930_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "הסבא בארי לייבוביץ', האבא יהוא אורלנד - והתיקון ההיסטורי",
-   "summary": "עם סבא שהוא אגדת הפועל ת\"א ואבא שהוא שחקן עבר ומאמן בני הרצליה, היה ברור שעומרי אורלנד יהפוך לכדורסלן. בגיל 17, אחרי שקפץ למים הקרים של קבוצת בוגרים בלאומית, הוא מדבר על הטיפים מבארי ליבוביץ' והרצון לעשות תיקון משפחתי: \"אבא שלי ווינר אבל לא לקח אליפות. אני אתק…",
+   "title": "רבע 1, 00:35: בני הרצליה - הפועל אילת 19:18",
+   "summary": "ליגת ווינר סל, מחזור 3: המארחת רוצה לשמר את המומנטום מהניצחון על נ\"צ. מנגד, העולה החדשה מנסה להישאר מושלמת. במקביל: ר\"ג - קריית אתא 00:00",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/by2swenhgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/rk7nj00nhMg/rk7nj00nhMg_284_227_2525_1421_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one537089",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/22/one1797128/one1797128_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "30 שנה להצגה של איל ברקוביץ' מול מנצ'סטר יונייטד",
-   "summary": "שני שערים (אחד בוולה אדיר), שלושה בישולים ו-3:6 בלתי נשכח של סאות'המפטון על האלופה המכהנת בסך הכל במשחקו הרביעי באנגליה. בחזרה לחגיגה של ה\"קוסם\" באצטדיון הדל",
+   "title": "פקקי ענק סביב סמי עופר: מכבי חיפה - הפועל באר שבע נדחה ל-19:30",
+   "summary": "שתי הקבוצות פנו בבקשה לדחות את שעת המשחק, שנקבע ל־19:00, בעקבות עומסי התנועה הכבדים בדרכים לאצטדיון. גם אוהדים הצטרפו לפניות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/vzju58ku1",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/10/26/H1fc3OHrUY/H1fc3OHrUY_629_257_1881_1059_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syhul116nml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/BJSISUWhze/BJSISUWhze_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "לרגל הבחירות: מהערב - נסיעות חינם ברכבת ובאוטובוסים בין-עירוניים",
-   "summary": "החל מ-20:00, ובמשך כל יום הבחירות, ניתן יהיה לנסוע ללא תשלום באוטובוסים שמסלולם מעל ל-15 ק\"מ, וברכבות. תל אביב תאפשר מחר חניה בחינם בכחול לבן",
+   "title": "בנט: \"אני או ליברמן יכולים להיות רה\"מ - אין משמעות לגודל המפלגה\"",
+   "summary": "על אף הסקרים שמראים שהמפלגה הגדולה בגוש השינוי תהיה ישר! של איזנקוט, יו\"ר ביחד אומר כי אחרי הבחירות הוא או יו\"ר ישראל ביתנו יכולים להתמנות לראש ממשלה. לדבריו, אחרי הבחירות ראשי גוש השינוי יסכמו על מי להמליץ",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bjsvecn2fl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2018/09/26/8789429/8789429_0_69_1300_732_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/elections2026/article/rkmqjw63zx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/HyVjTZa2fg/HyVjTZa2fg_59_289_479_270_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"צבא לולה\" שנתן לו ניצחון חסר תקדים, הטלטלה בברזיל - והשמאל העולמי שחוגג: \"הקאמבק רק מתחיל!\"",
-   "summary": "השווקים הפיננסיים בברזיל מגיבים בירידות חדות אחרי הניצחון המפתיע בבחירות של הנשיא האנטי-ישראלי. מאחורי המהפך - יותר מ-10 מיליון קולות נוספים שגייס לולה אחרי הסיבוב הראשון, ו\"צבא וואטסאפ\" של 11 מיליון עוקבים: \"אתה כמו מסי, רצים על המגרש בשבילך\". באירופה חוגגים,…",
+   "title": "\"מפולת שמחקה רודן\": כך חוללו הצעירים מהפך היסטורי בבלקן",
+   "summary": "גג בטון שקרס הצית מחאת ענק של סטודנטים - ואמש היא הגיעה לשיאה בהפלת שלטונו בן 12 השנים של אלכסנדר ווצ'יץ', מנהיג הימין הלאומני שמבקריו האשימו  בשחיתות ובניסיון להשתלט על מערכות המשפט והתקשורת. הם עשו זאת עם \"ניסוי\" חסר תקדים שבו בחרו כנציגיהם בפרלמנט פרופסורים…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h1jeatnhme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/ry3Y115n3Gl/ry3Y115n3Gl_0_108_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/synrlk6hmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/H14CB11ahzx/H14CB11ahzx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -188,10 +188,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "מתי להשתמש ב-AI ומתי לחזור לקוד? מיטאפ חדש יעשה לכם סדר",
-   "summary": "מה קורה כשמנסים לקחת את \"הקסם\" של סוכנים אוטונומיים, LLMs וכלי AI גנריים, וליישם אותם בפרודקשן או בתהליכי העבודה היומיומיים? התשובה ברוב הפעמים מאכזבת למדי. בשלב הזה אולי גם אתם כבר גיליתם שפתרונות מדף והנטייה לזרוק הכל על המודל מובילים לעלויות גבוהות, Latency…",
+   "title": "מישהו צריך להגיד את זה: ההצפנה שאמורה להגן על המידע בעולם מפריצה של מחשב קוונטי היא הימור",
+   "summary": "מאת: ד\"ר עירא וולפסון בחדרי הדירקטוריונים כבר שמעו על היום שבו מחשב קוונטי יוכל לפרוץ את ההצפנה שמגינה על רוב המידע בעולם. גם התשובה המקובלת כבר מוכרת: עוברים להצפנה 'פוסט-קוונטית', מסמנים \"וי\" וממשיכים הלאה. החצי הראשון של הסיפור נכון – החצי השני הוא הימור שע…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/own-your-ai-stack-papaya-meetup/",
+   "link": "https://www.geektime.co.il/post-quantum-encryption-risks/",
    "image": null,
    "stats": [
     [
@@ -202,15 +202,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "אחרי השערוריות: OpenAI חזרה לאמן מודלים עם אינטרנט מזויף",
-   "summary": "אחד האתגרים הגדולים של חברות ה-AI הוא לא רק לפתח מודלים חכמים וחזקים יותר, אלא גם לוודא שהם יפעלו כמו שאנחנו רוצים שיפעלו – ולא יעשו ככל העולה על רצונם. בחודש שעבר דיווחה OpenAI כי אחרי שורה של מקרים שבהם המודלים שלה לא פעלו כמו שצריך – ופרצו לאתרים על דעת עצמ…",
+   "title": "הסטארטאפ של יוצאי מלאנוקס ואינטל נרכש ע\"י חברה אמריקאית בת שנה",
+   "summary": "Unconventional, סטארטאפ חומרה בן שנה בלבד, הודיע היום (ב') על רכישת הסטארטאפ הישראלי Neureality. סכום העסקה לא פורסם. Neureality (ניוריאליטי) הישראלית מפתחת שבב שנועד להאצה ולעיבוד של מודלי Deep Learning בדאטה סנטרים ובמרכזי עיבוד קצה (מה שמוכר גם בתור Edge). …",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/openai-offline-world-frontier-model-training/",
+   "link": "https://www.geektime.co.il/neureality-acquired-by-unconventional/",
    "image": null,
    "stats": [
     [
      "מקור",
      "גיקטיים"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
+   "title": "וולטר קניג, שגילם את צ'כוב ב\"מסע בין כוכבים\", הלך לעולמו",
+   "summary": "קניג, שהתפרסם כשגילם את דמותו של הנווט הרוסי פאבל צ'כוב בסדרת המד\"ב האיקונית, מת בגיל 90. הוא הצטרף לסדרה בעונתה השנייה והמשיך לגלם את הדמות גם בסרטי הקולנוע של הזיכיון. בהמשך הקריירה הופיע גם בסדרת המד\"ב \"בבילון 5\" ובסדרות טלוויזיה נוספות, ועבד גם כתסריטאי לס…",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/b1apibangg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/rkUFOZa3fl/rkUFOZa3fl_403_350_2598_1463_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/hjgr11hsnzx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/r17100Bs2Mx/r17100Bs2Mx_0_14_1200_676_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "רמה בורשטיין מנסה להתחיל מחדש ולהסביר מה הסיפור עם הרב ברלנד",
-   "summary": "רמה בורשטיין-שי חוללה מהפכה עם סרטים כמו  'למלא את החלל' ו'לעבור את הקיר', אבל דווקא אז  משהו השתבש: פתאום פרויקטים לא מקבלים תקציב, הבריטים ביטלו סדרה בגלל המלחמה ובנוסף, הגירושים זיעזעו את הבית. עכשיו היא מוצאת את  האור בסדנאות נפש שהיא מעבירה בארץ ובאוּמן, …",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/yokra14932184",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/19/SJgMfT007hGe/SJgMfT007hGe_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
