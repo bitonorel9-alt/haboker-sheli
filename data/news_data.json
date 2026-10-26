@@ -1,39 +1,39 @@
 {
- "date": "יום ראשון, 25 באוקטובר 2026",
- "date_he": "25/10/2026",
- "updated": "22:56",
+ "date": "יום שני, 26 באוקטובר 2026",
+ "date_he": "26/10/2026",
+ "updated": "00:55",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "נביא החורבן",
-  "summary": "נתניהו, ערב בחירות, מנסה להכניס את בוחריו לחרדה קיומית: העולם יגמור אותנו כלכלית; האיראנים יגמרו אותנו פיזית. הנרטיב שאמר מעולם לא היה מצבנו טוב יותר, התחלף בבת אחת לנרטיב שאומר מעולם לא היה מצבנו כל כך רע",
-  "link": "https://www.ynet.co.il/news/article/yokra14937774",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/S1FgkKj3Gl/S1FgkKj3Gl_0_0_850_479_0_medium.jpg"
+  "title": "דרמה בברזיל: ניצחון מפתיע לנשיא האנטי-ישראלי לולה - שהביס את מנהיג הימין",
+  "summary": "הגל השמרני שסחף את אמריקה הלטינית נשבר במדינה הגדולה ביותר בה: הנשיא לולה דה סילבה בן ה-80, שהאשים את ישראל ב\"רצח עם\" והתעמת עם טראמפ, הביס בניגוד לציפיות את איש הימין פלאביו בולסונרו, שהבטיח להעביר את השגרירות לירושלים - וגם להעניק חנינה לאביו והנשיא לשעבר ז'…",
+  "link": "https://www.ynet.co.il/news/article/h1ubdqshfg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/r1XHbNeifl/r1XHbNeifl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 26.1° / 20.7°",
-   "summary": "כרגע 22.4°, לחות 91%, רוח 4.8 קמ״ש. סיכוי משקעים 23%.",
+   "title": "עתלית · 25.9° / 20.6°",
+   "summary": "כרגע 21.0°, לחות 90%, רוח 5.0 קמ״ש. סיכוי משקעים 23%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "26.1°"
+     "25.9°"
     ],
     [
      "מינימום",
-     "20.7°"
+     "20.6°"
     ],
     [
      "לחות",
-     "91%",
-     91
+     "90%",
+     90
     ],
     [
      "רוח",
-     "4.8 קמ״ש"
+     "5.0 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
-     "Hapoel Ra'anana (W) נגד Maccabi Kishronot Hadera (W)",
-     "1:2 · הסתיים"
+     "Beitar Ramat Gan נגד Hakoah Amidar Ramat Gan F.C.",
+     "1:0 · הסתיים"
     ],
     [
-     "SC Kiryat Gat (W) נגד Maccabi Asa Tel Aviv (W)",
-     "4:1 · הסתיים"
+     "Maccabi Beer Sheva נגד M.S Ramla",
+     "0:2 · הסתיים"
     ],
     [
-     "Maccabi Holon (W) נגד Bnot Netanya (W)",
+     "Hapoel Migdal HaEmek נגד Hapoel Ironi Baka El Garbia",
      "2:1 · הסתיים"
     ],
     [
-     "Hapoel Katamon Jerusalem (W) נגד Hapoel Tel Aviv (W)",
-     "4:1 · הסתיים"
+     "Maccabi Bialik Ata נגד Ihud Umm al-Fahm",
+     "1:3 · הסתיים"
     ],
     [
-     "SC Arad נגד Hapoel Yeruham",
-     "1:1 · הסתיים"
+     "FC Jerusalem נגד SC Sderot",
+     "0:5 · הסתיים"
     ]
    ]
   },
@@ -80,6 +80,10 @@
    "link": "https://www.365scores.com/he/football",
    "image": null,
    "stats": [
+    [
+     "Waterhouse FC נגד Dunbeholden Fc",
+     "2:0 · מחצית שנייה"
+    ],
     [
      "Udinese נגד AC Milan",
      "0:2 · הסתיים"
@@ -95,10 +99,34 @@
     [
      "Humble Lions נגד Racing United",
      "1:2 · הסתיים"
-    ],
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "כמה טוב שבאת הביתה",
+   "summary": "אחרי שעזב בניסיון להשיג אליפות במקום אחר, החמיץ עונה בגלל פציעה קשה ולמד הרבה על האהבה שלו לפורטלנד, דמיאן לילארד שוב על הפרקט במדי הבלייזרס – וההתחלה נראית מבטיחה מאוד. רק תשאלו את אבדיה",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/bk6cfx3hme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/17/rJBECOlhMl/rJBECOlhMl_0_0_800_534_0_medium.jpg",
+   "stats": [
     [
-     "Cavalier FC נגד Tivoli Gardens",
-     "2:1 · הסתיים"
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "ממשיך השושלת",
+   "summary": "עם סבא שהוא אגדת הפועל ת\"א ואבא שהוא שחקן עבר ומאמן בני הרצליה, היה ברור שעומרי אורלנד יהפוך לכדורסלן † בגיל 17, אחרי שקפץ למים הקרים של קבוצת בוגרים בלאומית, הוא מדבר על הטיפים מבארי ליבוביץ' והרצון לעשות תיקון משפחתי: \"אבא שלי ווינר אבל לא לקח אליפות. אני את…",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/by2swenhgg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/SyuMZl33fe/SyuMZl33fe_0_0_3000_2000_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
     ]
    ]
   },
@@ -117,30 +145,16 @@
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "יופחתו נקודות? הפועל פ\"ת ובית\"ר עלולות לשלם ביוקר על העימות בין האוהדים",
-   "summary": "התקרית על כר הדשא לפני המשחק עשויה להוביל לעונש משמעותי: אם תובע ההתאחדות, עו\"ד גלעד ברגמן, יעמיד את הקבוצות לדין בגין התפרעות אוהדים בנסיבות מחמירות והן יורשעו, הן עלולות לספוג הפחתה של שתי נקודות, או נקודה אחת במקרה קל יותר",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ry4t11y23zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/SkuhO6ihzg/SkuhO6ihzg_246_951_1474_830_0_medium.jpg",
+   "section": "פוליטיקה",
+   "title": "נביא החורבן",
+   "summary": "נתניהו, ערב בחירות, מנסה להכניס את בוחריו לחרדה קיומית: העולם יגמור אותנו כלכלית; האיראנים יגמרו אותנו פיזית. הנרטיב שאמר מעולם לא היה מצבנו טוב יותר, התחלף בבת אחת לנרטיב שאומר מעולם לא היה מצבנו כל כך רע",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/yokra14937774",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/S1FgkKj3Gl/S1FgkKj3Gl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "כדורסל נשים: ניצחונות דרמטיים לירושלים ופ\"ת",
-   "summary": "האדומות שרדו מותחן ב-81:83 על אליצור חולון, החבורה של גלעד כץ רשמה קאמבק ענק ב-63:64 על בני יהודה",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/s1cwwaj2gl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/rJ1P8pshMe/rJ1P8pshMe_0_90_1163_655_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "ynet - חדשות"
     ]
    ]
   },
@@ -151,20 +165,6 @@
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/elections2026/article/symrjpi3mx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/25/rJzSEJCshfl/rJzSEJCshfl_392_64_860_485_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "היום של ישראל",
-   "summary": "מחר מגיע היום הגורלי. הגיעה העת לסגור את מעגל המלחמה של נתניהו ולצאת לדרך חדשה, טובה יותר",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14937563",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/21/HJlibNUIhGg/HJlibNUIhGg_0_0_2048_1366_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -259,18 +259,18 @@
   {
    "section": "לומדים",
    "learn": true,
-   "title": "אפקט דנינג-קרוגר",
-   "summary": "ככל שאדם יודע פחות בתחום, כך הוא נוטה להעריך את הידע שלו בו ביתר. מומחים אמיתיים דווקא מפחיתים בערך עצמם.",
-   "source": "תמצית ידע יומית · מוח וקוגניציה",
+   "title": "למה השמיים כחולים",
+   "summary": "אור השמש מתפזר באטמוספרה, והצבע הכחול (גל קצר) מתפזר הכי הרבה — לכן אנחנו רואים אותו מכל הכיוונים.",
+   "source": "תמצית ידע יומית · פיזיקה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "מוח וקוגניציה"
+     "פיזיקה"
     ],
     [
      "עובדה בונוס",
-     "לתמנון יש שלושה לבבות ודם כחול."
+     "דבש לא מתקלקל — נמצא דבש בן 3,000 שנה שעדיין אכיל."
     ]
    ]
   }
