@@ -1,39 +1,39 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 30 באוקטובר 2026",
  "date_he": "30/10/2026",
- "updated": "10:35",
+ "updated": "16:52",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"הוא דקר אותה 20 פעמים. למה?\": נטמנה יאנה, שנרצחה בידי הגרוש שלה לעיני בנם",
-  "summary": "בבית העלמין דרכי שלום בחיפה ליוו משפחה וחברים את יאנה זיקובה בדרכה האחרונה, שבוע אחרי שהגרוש שלה פבלו פלקוש רצח אותה בדירתה מול בנם בן ה-6. אמה נאדיה, שהגיעה שלשום מאוקראינה, מיררה בבכי: \"הוא רצח לי את הבת\"",
-  "link": "https://www.ynet.co.il/news/article/s1etbym6fx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/30/rJCP00JMpzg/rJCP00JMpzg_0_0_850_479_0_medium.jpg"
+  "title": "פרו-פלסטינים הוזמנו לשיעור גיאוגרפיה בבלגיה. זה נגמר בסערה",
+  "summary": "פעילים אנטי-ישראלים שהוזמנו לבית ספר בעיר אנטוורפן הציגו מפגן שנאה נגד ישראל, ואז גם שיתפו אותו ברשתות החברתיות. התלמידים \"למדו\" על הנכבה ועל הכאפייה, שגריר ישראל בבלגיה דרש לפתוח בחקירה: \"שיעור 'מרשים' בגאוגרפיה\"",
+  "link": "https://www.ynet.co.il/news/article/rjlk11fgpgg",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/30/SJbPLZfzpfl/SJbPLZfzpfl_0_233_1279_720_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 24.2° / 19.3°",
-   "summary": "כרגע 24.0°, לחות 59%, רוח 12.8 קמ״ש. סיכוי משקעים 8%.",
+   "title": "עתלית · 24.1° / 18.8°",
+   "summary": "כרגע 21.8°, לחות 69%, רוח 6.1 קמ״ש. סיכוי משקעים 8%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "24.2°"
+     "24.1°"
     ],
     [
      "מינימום",
-     "19.3°"
+     "18.8°"
     ],
     [
      "לחות",
-     "59%",
-     59
+     "69%",
+     69
     ],
     [
      "רוח",
-     "12.8 קמ״ש"
+     "6.1 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Beitar Tel Aviv Holon F.C. נגד Beitar Ramat Gan",
-     "2:1 · מחצית שנייה"
+     "Ironi Tiberias U19 נגד Hapoel Haifa U19",
+     "2:1 · הסתיים"
     ],
     [
-     "SC Kababir נגד Ironi Ariel",
-     "2:2 · מחצית שנייה"
+     "Maccabi Herzliya U19 נגד Hapoel Ramat Gan U19",
+     "1:4 · הסתיים"
     ],
     [
-     "Amishav Petah Tikva נגד Bnei Jaljulia",
-     "0:1 · מחצית שנייה"
+     "Ironi Nesher U19 נגד Hapoel Kfar Saba U19",
+     "0:0 · After Penalties"
     ],
     [
-     "Maccabi Ihud Bnei Ivtin נגד Maccabi Bnei Abu Snan",
-     "0:2 · מחצית שנייה"
+     "F.C Kfar Saba 1928 נגד Kiryat Yam Sc",
+     "0:2 · After ET"
     ],
     [
-     "SC Sderot נגד Ironi Bet Shemesh",
-     "0:0 · מחצית ראשונה"
+     "Hapoel Raanana נגד Ihud Umm al-Fahm",
+     "4:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Sardarapat FC נגד Van",
-     "טרם התחיל"
+     "Pyunik Yerevan נגד Urartu",
+     "1:0 · מחצית שנייה"
     ],
     [
-     "Tanjong Pagar נגד Albirex Niigata FC",
-     "טרם התחיל"
+     "Petrol Asyut נגד El Gounah",
+     "1:1 · מחצית שנייה"
     ],
     [
-     "Tanjong Pagar נגד FC Jurong",
-     "טרם התחיל"
+     "Ittifaq Maqaba נגד Malkiya",
+     "3:0 · מחצית שנייה"
     ],
     [
-     "Sisaket FC נגד Ratchaburi FC",
-     "טרם התחיל"
+     "Riffa Club נגד Najma",
+     "2:2 · מחצית שנייה"
     ],
     [
-     "Kowloon City נגד Hong Kong Rangers",
-     "טרם התחיל"
+     "Shakhtar Donetsk נגד Obolon Kyiv",
+     "0:0 · מחצית"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "איגוד השופטים הודה: מכבי ת\"א הייתה זכאית לפנדל בדרבי",
-   "summary": "ועדת השיפוט קבעה כי בגמר גביע הטוטו הצהובים היו צריכים לקבל כדור עונשין מ-11 מ' בעקבות העבירה של עומרי אלטמן על דור פרץ, אך גם כי מוחמד עלי קמארה היה חייב לספוג כרטיס אדום על העבירה שביצע בדקה ה-86",
+   "title": "רבע 2, 01:25: דובאי - הפועל ת\"א 32:42",
+   "summary": "יורוליג, מחזור 9: לאחר פתיחה צמודה, המארחת פתחה את הרבע השני בסערה בהובלת פיליפ פטרושב. מנגד, דן אוטרו וטאי אודיאסי בולטים אצל האדומים",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/ryc22kzagx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/30/H1cHc1f6Ml/H1cHc1f6Ml_0_107_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one537450",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/14/one1892717/one1892717_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "נוסחת אופ\"א: הסכם בין ארה\"ב לאיראן ישיב את המשחקים לישראל",
-   "summary": "בהתאחדות אומרים כבר תקופה ארוכה כי יפנו לאופ\"א בבקשה לחזור לארח בארץ רק בעיתוי נכון ובטוח - מתוך הבנה כי תעמוד לרשותם הזדמנות אחת בלבד",
+   "title": "\"הכי טוב בקבוצה\": דניאל פרץ נבחר למצטיין החודש של סאות'המפטון",
+   "summary": "אתר האוהדים Saints Marching בחר בשוער הישראלי למצטיין של הקבוצה בחודש אוקטובר, והעניק לו את התואר בזכות שורה של הופעות מרשימות. פרץ פתח בארבעת משחקי הליגה האחרונים, בשלושה מהם שמר על שער נקי, ובמשחק מול ווסטהאם סיפק הצלה דרמטית שהבטיחה את הניצחון",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/skswybw6mx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/02/SkhojS32eg/SkhojS32eg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/by00o84gpmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/05/H1QdctY00zx/H1QdctY00zx_0_0_1024_577_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "בלעדי | אוריין גורן זומן לנבחרת צ'כיה, ההתאחדות דרשה מבן שמעון לזמנו מיידית",
-   "summary": "הצעד של הצ'כים, שהגיע אחרי ההקפצה לסגל ברצלונה לקלאסיקו, יצר חשש שהנבחרת תאבד את הכישרון בן ה-17. בעקבות זאת גבר הלחץ על המאמן הלאומי, שכבר יצר קשר עם הצעיר והבהיר לו כי ייכלל בסגל. בהתאחדות משוכנעים: הוא יעדיף את ישראל",
+   "title": "אחרי 1,035 דקות: הפועל עכו שברה את הבצורת",
+   "summary": "יותר מ-11 משחקים, אינספור ניסיונות ואפס שערי זכות: הרצף העגום של הקבוצה מהלאומית הגיע לסיומו כאשר ליאם וטמכטר הבקיע לאחר מהלך כדורגל נהדר",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sysgyb11aze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/HJLype11pzx/HJLype11pzx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one537494",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/30/one1895666/one1895666_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "האמר צה\"לי נגנב מבסיס בדרום",
-   "summary": "בעקבות הגניבה של הרכב מבסיס ג'וליס הוטל עוצר יציאות כללי לכל הגדוד שעוסק בתחזוקה. מצ\"ח חוקרת",
+   "title": "\"הגופה נמצאה לא שלמה\", חשד: רצח את ארוסתו בעכו וביתר את גופתה | קשה לקריאה",
+   "summary": "המשטרה הפלסטינית עצרה תושב שכם בחשד שרצח את ארוסתו בת ה-21 בישראל, ולאחר מכן ביתר את גופתה ונמלט לשטחים. אישה שמכירה את הנרצחת סיפרה כי הרצח התרחש לאחר שהקורבן גילתה כי החשוד התנהל באופן לא תקין עם כספה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/skxbbjm6zg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/09/16/H1GA4Mvsgl/H1GA4Mvsgl_0_314_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hkdwdef6gx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/07/08/9352517/9352517_0_86_1001_563_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,57 +160,15 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "יותר מ-300 אלף קולות בוזבזו: המפלגות שנשארו בחוץ - ואלו שעקפו את שרן השכל",
-   "summary": "הסברה שגוש נתניהו יאבד מנדטים רבים הופרכה. וינטר, מעוז ושתי המפלגות החרדיות הקטנות קיבלו ביחד פחות מהמילואימניקים-כלכלית, ששאבו קולות גם מגוש השינוי. אפילו שרשר והפיראטים קיבלו יותר מסגנית השר לשעבר",
+   "title": "בסוף יש מנצח אחד",
+   "summary": "בספורט, בניהול הליכים בבית משפט ובפוליטיקה, אפשר להתכונן לסיבוב הבא, להליך הבא, למערכת הבחירות הבאה אבל קודם כול צריך לדעת מי ניצח",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/syrnf6btge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/07/Bkfr8On00zl/Bkfr8On00zl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/skss0vgagg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/HJCEFZZpMx/HJCEFZZpMx_0_0_796_446_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "חצי טריליון דולר נמחקו ביממה: מה מפחיד כל-כך את המשקיעים של גוגל?",
-   "summary": "מניית גוגל מתרסקת: מיד לאחר חשיפת הדוחות הרבעוניים שלה, ענקית הטכנולוגיה הספיקה לחתוך יותר מחצי טריליון דולר משוויה בשעות הראשונות של פתיחת המסחר. אז למה זה בעצם קורה? לא עומדים ביעדים הדוחות של אלפאבית, חברת האם של גוגל, מציגים בעיה כפולה. מצד אחד גוגל שופכת …",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/google-lost-400b-dollars-in-a-day/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "מיקרוסופט חושפת לראשונה את המיליארדים שהיא עושה מ-OpenAI",
-   "summary": "מיקרוסופט מפרסמת הלילה (ד') את הדוחות הרבעוניים שלה וסוגרת רצף של עשרה רבעונים עם שיא בהכנסות. על פי הדוחות, מיקרוסופט מציגה הכנסות של 92.3 מיליארד דולר – עלייה של 19 אחוזים בהשוואה לרבעון המקביל אשתקד, ורווח נקי של 33.6 מיליארד דולר, המהווה זינוק של 32 אחוזים…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/microsoft-q1-2027-azure-xbox-openai-revenue/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "אקזיטים במיליארדים, שפל בגיוסים",
-   "summary": "הבחירות אולי גנבו את כל תשומת הלב בשבועות האחרונים, אבל מה שקרה בחודש האחרון בהייטק הישראלי מעניין לא פחות, כשגיוסי ההון צללו לשפל שלא ראינו מאז תחילת המלחמה ובמקביל, האקזיטים רתחו עם עסקאות ענק ורכישות בזק. הנה כל מה שקרה באוקטובר 2026. מספר גיוסים נאה, הסכומ…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/october-2026-monthly-funding-roundup/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
     ]
    ]
   },
