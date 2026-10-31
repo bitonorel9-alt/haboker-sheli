@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שבת, 31 באוקטובר 2026",
  "date_he": "31/10/2026",
- "updated": "18:55",
+ "updated": "22:04",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "\"כל עוד יש סיבות לשמוח - הולכים על זה\": האלווין עושה עלייה | כך זה נראה",
-  "summary": "רוחות רפאים, מכשפות ודלועים: ליל כל הקדושים, שמזוהה עם התרבות האמריקנית, הופך בשנים האחרונות לחלק מהנוף הישראלי, והתל-אביבי בפרט. בשכונת דובנוב חוגגים את \"ליל כל השכנים\", אירוע קהילתי שהתחיל לפני 8 שנים והפך למסורת: \"זה לא במקום פורים. גם ככה הילדים חווים מלחמ…",
-  "link": "https://www.ynet.co.il/news/article/h1110mim6mx",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/B1LdHsX6fl/B1LdHsX6fl_0_244_961_541_0_medium.jpg"
+  "title": "תאונה קשה ליד מתחם הקניות: גבר התנגש בעמוד עם רכבו - ונהרג",
+  "summary": "גבר נהרג בתאונה עצמית ליד מתחם ביג באר שבע. בחיפה, בפתח תקווה ובנגב: פצועים קשה בתאונות דרכים שונות ביממה האחרונה",
+  "link": "https://www.ynet.co.il/news/article/bjc4ucmtml",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/rye0ztA76Mx/rye0ztA76Mx_0_185_1280_721_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 26.1° / 18.3°",
-   "summary": "כרגע 22.3°, לחות 72%, רוח 12.4 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 25.4° / 18.3°",
+   "summary": "כרגע 19.8°, לחות 77%, רוח 5.4 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "26.1°"
+     "25.4°"
     ],
     [
      "מינימום",
@@ -28,17 +28,17 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "72%",
-     72
+     "77%",
+     77
     ],
     [
      "רוח",
-     "12.4 קמ״ש"
+     "5.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "0%",
-     0
+     "3%",
+     3
     ]
    ]
   },
@@ -51,24 +51,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "מכבי נתניה נגד הפועל ירושלים",
-     "1:0 · מחצית שנייה"
+     "Ironi Tiberias U19 נגד Hapoel Haifa U19",
+     "2:1 · הסתיים"
     ],
     [
-     "Bnei Mejar נגד FC Shfaram",
-     "0:1 · מחצית"
+     "Maccabi Herzliya U19 נגד Hapoel Ramat Gan U19",
+     "1:4 · הסתיים"
     ],
     [
-     "Ihud Tzerei Abu - Gosh נגד Hapoel Segev Shalom",
-     "0:1 · מחצית ראשונה"
+     "Ironi Nesher U19 נגד Hapoel Kfar Saba U19",
+     "0:0 · After Penalties"
     ],
     [
-     "Maccabi Ashkelon נגד SC Arad",
-     "0:4 · מחצית ראשונה"
+     "F.C Kfar Saba 1928 נגד Kiryat Yam Sc",
+     "0:2 · After ET"
     ],
     [
-     "Hakoah Amidar Ramat Gan F.C. נגד Ironi Bet Dagan",
-     "0:0 · מחצית ראשונה"
+     "Hapoel Raanana נגד Ihud Umm al-Fahm",
+     "4:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "מכבי נתניה נגד הפועל ירושלים",
-     "1:0 · מחצית שנייה"
+     "AC Milan נגד Inter Milan",
+     "3:1 · הסתיים"
     ],
     [
-     "Balzan Youths FC נגד Hibernians Paola",
-     "1:0 · מחצית"
+     "Troyes נגד Le Mans",
+     "2:0 · הסתיים"
     ],
     [
-     "Sliema Wanderers נגד Hamrun Spartans",
-     "0:0 · מחצית ראשונה"
+     "Celik Zenica נגד Borac Banjaluka",
+     "2:4 · הסתיים"
     ],
     [
-     "Ceramica Cleopatra נגד Zed FC",
-     "0:0 · מחצית"
+     "Aston Villa נגד Fulham",
+     "1:1 · הסתיים הרגע"
     ],
     [
-     "Petrojet נגד Smouha",
-     "0:0 · מחצית"
+     "FC Barcelona נגד Alaves",
+     "6:1 · הסתיים הרגע"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "הגיבורים של הקלאסיקו | תוכן גולשים",
-   "summary": "גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "חזרו לחייך: 24 נקודות לאבדיה בניצחון פורטלנד על יוטה",
+   "summary": "הישראלי קלע 19 נקודות עוד לפני ההפסקה, והבלייזרס השיגו ניצחון רביעי בחמישה משחקים למרות היעדרותם של מוראנט ושארפ - 90:112. לילארד, הולידיי וקמארה סייעו לפתוח פער גדול, הג'אז ספגו הפסד רביעי ברציפות",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/hykntsxtfg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/HyNIjr22fg/HyNIjr22fg_0_0_2641_1487_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldbasketball/article/b1j4tcmtmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/By08N0mpze/By08N0mpze_835_0_2020_1137_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "האימפריה הרומית חוזרת | תוכן גולשים",
-   "summary": "היריבות בין לאציו לרומא מתדלקת אחת את השנייה, והדרבי של רומא הוא מהחמים בכדורגל האיטלקי. ועכשיו יש בונוס: באופן נדיר, שתיהן רצות יחד חזק בצמרת. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "דקה 90: ברצלונה - אלאבס 1:6",
+   "summary": "ליגה ספרדית, מחזור 11: האלופה רוקדת על הדשא. פרמין בישל לראפיניה וכבש, הברזילאי השלים צמד, לאמין ימאל הבקיע צמד משלו וגורדון הצטרף לחגיגה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/bkl4qlbazg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/10/BkpLjwlFfl/BkpLjwlFfl_352_63_2059_1159_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one537596",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/one1896080/one1896080_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "כסף לרז הרשקו באבו דאבי, איתי ביביטקו אלוף אירופה עד גיל 23",
-   "summary": "הרשקו הפסידה בגמר הגראנד סלאם, כשלושה שבועות אחרי הארד באליפות העולם. ביביטקו הכריע את הגמר שלו באיפון בתוך פחות מדקה והעניק לנבחרת זהב שני באליפות אירופה, אחרי יהונתן וקסלר",
+   "title": "24 נקודות לאבדיה, פורטלנד חזרה לנצח",
+   "summary": "לאחר ההפסד לממפיס הכוכב הישראלי רשם עוד משחק נאה לאוסף, הוריד גם  5 ריבאונדים והוביל את קבוצתו ל-90:112 על יוטה ג'אז. לילארד הוסיף 22 משלו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/s1mylq7pge",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/10/BJfIrk00jGe/BJfIrk00jGe_0_0_800_534_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one537515",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/one1896011/one1896011_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "שלוש שנים לחילוץ, אורי מגידיש משחזרת: \"רצתי וצעקתי בעברית. שדבר לא ישתבש\"",
-   "summary": "התצפיתנית לשעבר מנסה לבנות לעצמה חיים שלא סובבים רק את מה שעברה. היא טיילה, החלה מכינה ללימודי תקשורת חזותית ומזמנת לעצמה זוגיות. השבי עדיין נוכח בחייה, ובריאיון ל-ynet היא מספרת: \"כל דבר יכול להזכיר לי את זה\". על חברתה נועה מרציאנו, שנרצחה בשבי: \"תמיד איתי, ל…",
+   "title": "היקף המסחר מגוחך, אבל המדינה הקטנה הזו מתכננת לאסור ייבוא מההתנחלויות",
+   "summary": "דוכסות לוקסמבורג, שמאכלסת כ-700,000 בני אדם בלבד, נערכת לאסור את הסחר במוצרים מיהודה ושומרון כאקט של מחאה על מדיניות ישראל - אחרי שכבר הכירה בשנה שעברה במדינת פלסטין. היקף הסחר המוערך: 52,000-35,000 שקל",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hkr9s5magx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/Sk0UeL7W6Ml/Sk0UeL7W6Ml_148_112_833_469_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bkygy2xaml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/12/26/5060418/5060418_0_79_912_513_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"רע\"מגייט\" היא אזהרה: מדינת משטרה לא נוצרת ביום אחד",
-   "summary": "מידע מלשכת רה\"מ ללשכת המפכ\"ל בבוקר הבחירות הוביל לחיפושים ללא צו בביתם של אנשי רע\"מ, ונתניהו ואנשיו מיהרו לטעון לניסיון לגנוב בחירות. כעת אפילו במשטרה מאמינים שאין בסיס לחשד - ונשאלת השאלה: האם התקיים ערוץ העברת מידע על פעילי אופוזיציה אל הלשכה החשובה במדינה, …",
+   "title": "איזנקוט \"הולך בכל הכוח\" על החרדים - בזמן שבליכוד מחפשים עריקים",
+   "summary": "הקרב הראשון בכנסת: בגוש השינוי מתכננים את החלפת אוחנה בישיבה הראשונה שאחרי ההשבעה, ובליכוד מנהלים קרב בלימה. בתוכנית: דה-לגיטימציה למפלגות הערביות ואיתור מתנדנדים. בינתיים נמשכים מאמצי הרכבת הממשלה, ועל הכוונת של איזנקוט - החרדים. \"מכבש הלחצים\" על ליברמן - והמ…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/skz1cumpfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/30/Hyn00pvGpMl/Hyn00pvGpMl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b10udhqtfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rk2mL4xszx/rk2mL4xszx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
