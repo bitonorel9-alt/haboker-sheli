@@ -1,39 +1,39 @@
 {
- "date": "יום שבת, 31 באוקטובר 2026",
- "date_he": "31/10/2026",
- "updated": "22:04",
+ "date": "יום ראשון, 1 בנובמבר 2026",
+ "date_he": "01/11/2026",
+ "updated": "01:40",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "תאונה קשה ליד מתחם הקניות: גבר התנגש בעמוד עם רכבו - ונהרג",
-  "summary": "גבר נהרג בתאונה עצמית ליד מתחם ביג באר שבע. בחיפה, בפתח תקווה ובנגב: פצועים קשה בתאונות דרכים שונות ביממה האחרונה",
-  "link": "https://www.ynet.co.il/news/article/bjc4ucmtml",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/rye0ztA76Mx/rye0ztA76Mx_0_185_1280_721_0_medium.jpg"
+  "title": "על הפרק - איראן: בישראל ממתינים לבחירות בארה\"ב, \"טראמפ ונתניהו שוחחו\"",
+  "summary": "השבוע ייערכו בחירות האמצע בארה\"ב, שמשמשות מעין משאל עם על תפקודו של הנשיא טראמפ, שהקים עליו מתנגדים למלחמה משני צידי המפה הפוליטית. בינתיים, ובצל הפלונטר הפוליטי בישראל, מתעצמות ההכנות לאפשרות של חידוש האש. \"וול סטריט ג'ורנל\": המנהיגים שוחחו בצל היערכות ארה\"ב …",
+  "link": "https://www.ynet.co.il/news/article/hkinj5xtgl",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/05/05/BkcpgaD0bx/BkcpgaD0bx_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 25.4° / 18.3°",
-   "summary": "כרגע 19.8°, לחות 77%, רוח 5.4 קמ״ש. סיכוי משקעים 3%.",
+   "title": "עתלית · 25.6° / 18.5°",
+   "summary": "כרגע 18.7°, לחות 73%, רוח 5.5 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "25.4°"
+     "25.6°"
     ],
     [
      "מינימום",
-     "18.3°"
+     "18.5°"
     ],
     [
      "לחות",
-     "77%",
-     77
+     "73%",
+     73
     ],
     [
      "רוח",
-     "5.4 קמ״ש"
+     "5.5 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
-     "Ironi Tiberias U19 נגד Hapoel Haifa U19",
-     "2:1 · הסתיים"
+     "Maccabi Asa Tel Aviv (W) נגד Maccabi Holon (W)",
+     "0:1 · הסתיים"
     ],
     [
-     "Maccabi Herzliya U19 נגד Hapoel Ramat Gan U19",
-     "1:4 · הסתיים"
+     "Maccabi Kishronot Hadera (W) נגד Hapoel Katamon Jerusalem (W)",
+     "1:2 · הסתיים"
     ],
     [
-     "Ironi Nesher U19 נגד Hapoel Kfar Saba U19",
-     "0:0 · After Penalties"
+     "Hapoel Ra'anana (W) נגד Bnot Netanya (W)",
+     "3:0 · הסתיים"
     ],
     [
-     "F.C Kfar Saba 1928 נגד Kiryat Yam Sc",
-     "0:2 · After ET"
+     "Hapoel Tel Aviv (W) נגד SC Kiryat Gat (W)",
+     "0:2 · הסתיים"
     ],
     [
-     "Hapoel Raanana נגד Ihud Umm al-Fahm",
-     "4:0 · הסתיים"
+     "Hapoel Lod נגד Maccabi Ramat Hasharon",
+     "6:1 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,22 @@
    "image": null,
    "stats": [
     [
-     "AC Milan נגד Inter Milan",
-     "3:1 · הסתיים"
-    ],
-    [
-     "Troyes נגד Le Mans",
-     "2:0 · הסתיים"
-    ],
-    [
-     "Celik Zenica נגד Borac Banjaluka",
-     "2:4 · הסתיים"
-    ],
-    [
      "Aston Villa נגד Fulham",
-     "1:1 · הסתיים הרגע"
+     "1:1 · הסתיים"
     ],
     [
      "FC Barcelona נגד Alaves",
-     "6:1 · הסתיים הרגע"
+     "6:1 · הסתיים"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "חזרו לחייך: 24 נקודות לאבדיה בניצחון פורטלנד על יוטה",
-   "summary": "הישראלי קלע 19 נקודות עוד לפני ההפסקה, והבלייזרס השיגו ניצחון רביעי בחמישה משחקים למרות היעדרותם של מוראנט ושארפ - 90:112. לילארד, הולידיי וקמארה סייעו לפתוח פער גדול, הג'אז ספגו הפסד רביעי ברציפות",
+   "title": "דרבי על הכבוד: מכבי והפועל ת\"א מחפשות נחמה בליגה",
+   "summary": "הצהובים מגיעים אחרי שבעה הפסדים בתשעה משחקי יורוליג, האדומים רוצים להתאושש מהמעידה בדובאי. קטש ואיטודיס ייפגשו לראשונה העונה בדרבי לוהט בהיכל מנורה מבטחים (20:55), שיהיה הראשון מבין שלושה בתוך 12 ימים. תמיר בלאט ייכלל לראשונה בסגל הפועל ת\"א",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/b1j4tcmtmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/By08N0mpze/By08N0mpze_835_0_2020_1137_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rk2okax6me",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/17/B1CzrhtKGl/B1CzrhtKGl_0_363_1066_601_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +106,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "דקה 90: ברצלונה - אלאבס 1:6",
-   "summary": "ליגה ספרדית, מחזור 11: האלופה רוקדת על הדשא. פרמין בישל לראפיניה וכבש, הברזילאי השלים צמד, לאמין ימאל הבקיע צמד משלו וגורדון הצטרף לחגיגה",
+   "title": "הפרויקט של בית\"ר ירושלים תקוע | טור",
+   "summary": "בית\"ר ירושלים נראית עייפה, כבויה ואפילו קצת שבעה • במקום לפרק את קריית־שמונה, היא סיבכה את עצמה ואז השתמשה בפנדל המפוקפק כאליבי. שמישהו יזכיר למאמן: בין קרן לקרן מותר גם לשחק כדורגל",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one537596",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/one1896080/one1896080_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/syh3u0m6ze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/rylci5DXaGx/rylci5DXaGx_0_312_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,29 +120,15 @@
   },
   {
    "section": "כדורגל",
-   "title": "24 נקודות לאבדיה, פורטלנד חזרה לנצח",
-   "summary": "לאחר ההפסד לממפיס הכוכב הישראלי רשם עוד משחק נאה לאוסף, הוריד גם  5 ריבאונדים והוביל את קבוצתו ל-90:112 על יוטה ג'אז. לילארד הוסיף 22 משלו",
+   "title": "ריצ'רד דיץ: \"הדרך בה שמעון מזרחי פועל מסכנת את המורשת שלו\" | בלעדי",
+   "summary": "שמעון מזרחי? \"יש לו יותר להפסיד מכל אחד אחר\". אודי רקנאטי? \"אם אתה לא מסוגל להצביע על הטעויות, אתה לא יכול להתחיל לתקן אותן\". אריק שטילמן? \"יש לו הרבה תכונות מצוינות, אבל לפעמים הוא פועל קצת יותר על דעת עצמו\". ג'ייסון לוין? \"אני לא רוצה להשמיץ, אבל יש היסטוריה…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one537515",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/one1896011/one1896011_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/by279ampfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/BkO11507Tfe/BkO11507Tfe_1_204_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - ספורט"
-    ]
-   ]
-  },
-  {
-   "section": "פוליטיקה",
-   "title": "היקף המסחר מגוחך, אבל המדינה הקטנה הזו מתכננת לאסור ייבוא מההתנחלויות",
-   "summary": "דוכסות לוקסמבורג, שמאכלסת כ-700,000 בני אדם בלבד, נערכת לאסור את הסחר במוצרים מיהודה ושומרון כאקט של מחאה על מדיניות ישראל - אחרי שכבר הכירה בשנה שעברה במדינת פלסטין. היקף הסחר המוערך: 52,000-35,000 שקל",
-   "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bkygy2xaml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2013/12/26/5060418/5060418_0_79_912_513_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - חדשות"
     ]
    ]
   },
@@ -165,6 +139,20 @@
    "source": "ynet - חדשות",
    "link": "https://www.ynet.co.il/news/article/b10udhqtfl",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/04/rk2mL4xszx/rk2mL4xszx_0_0_850_479_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "פוליטיקה",
+   "title": "השיעור שחובה ללמוד מפולין",
+   "summary": "העימותים הפוליטיים הכאוטיים בוורשה, כשליבת המחלוקת מתמקדת בהפיכה ובאנטי-הפיכה משפטית, מערערים את יציבות המדינה. אזרחי פולין מבינים עכשיו עד כמה חשובה מערכת שיפוטית עצמאית שאינה תלויה בשלטון",
+   "source": "ynet - חדשות",
+   "link": "https://www.ynet.co.il/news/article/yokra14944013",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/yk14943843/yk14943843_0_0_1063_599_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -259,18 +247,18 @@
   {
    "section": "לומדים",
    "learn": true,
-   "title": "מהי מטבע קוונטי (Qubit)",
-   "summary": "בניגוד לביט רגיל (0 או 1), קיוביט יכול להיות בשני המצבים בו-זמנית — בסיס למחשוב הקוונטי.",
-   "source": "תמצית ידע יומית · טכנולוגיה",
+   "title": "אפקט דנינג-קרוגר",
+   "summary": "ככל שאדם יודע פחות בתחום, כך הוא נוטה להעריך את הידע שלו בו ביתר. מומחים אמיתיים דווקא מפחיתים בערך עצמם.",
+   "source": "תמצית ידע יומית · מוח וקוגניציה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "טכנולוגיה"
+     "מוח וקוגניציה"
     ],
     [
      "עובדה בונוס",
-     "אין מספיק זהב בעולם כדי לצפות בו את כל היבשה."
+     "לתמנון יש שלושה לבבות ודם כחול."
     ]
    ]
   }
