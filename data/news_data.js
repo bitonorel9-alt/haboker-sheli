@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום ראשון, 1 בנובמבר 2026",
  "date_he": "01/11/2026",
- "updated": "15:36",
+ "updated": "19:58",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "הרוצחת מההוצאה להורג שנכשלה מדברת לראשונה: \"לא יודעת למה שרדתי\"",
-  "summary": "קריסטה פייק, שב-1995 עינתה ורצחה את חברתה לספסל הלימודים קולין סלמר, מגיבה לראשונה על השערורייה בתא הנידונים למוות, חודש אחרי ששתי זריקות רעל לא הרגו אותה - אלא שלחו אותה בייסורים לביה\"ח: \"אין רגע שאני לא סובלת מכאבים. אני מתקשה לדבר, ומחפשת משמעות למה שקרה לי…",
-  "link": "https://www.ynet.co.il/news/article/hyyuw0npfg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/29/B1webitczl/B1webitczl_0_0_850_479_0_medium.jpg"
+  "title": "מכת\"זית ורימוני הלם בירושלים: מאות חרדים מוחים על מעצר עריק | תיעוד",
+  "summary": "המפגינים חסמו את הרכבת הקלה במחאה על מעצרו של יעירי ליברמן, עריק חרדי שנעצר בדרכו לסעודת שבע ברכות, ימים ספורים אחרי חתונתו. המוחים התעמתו עם השוטרים ומכת\"זית הופעלה במקום. ליברמן, שנעצר לאחר שניסיון קודם ללכוד אותו הוביל למהומות, נידון ל-20 ימי מחבוש בכלא הצב…",
+  "link": "https://www.ynet.co.il/news/article/hybilgbtze",
+  "image": null
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 25.5° / 18.0°",
-   "summary": "כרגע 23.1°, לחות 73%, רוח 11.9 קמ״ש. סיכוי משקעים 3%.",
+   "summary": "כרגע 21.5°, לחות 81%, רוח 6.8 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "73%",
-     73
+     "81%",
+     81
     ],
     [
      "רוח",
-     "11.9 קמ״ש"
+     "6.8 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,8 +51,16 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Ironi Nesher נגד Hapoel Ironi Arabe",
-     "1:0 · מחצית ראשונה"
+     "Hapoel Kiryat Ono נגד Hapoel Hod HaSharon",
+     "0:0 · מחצית שנייה"
+    ],
+    [
+     "מכבי פתח תקווה נגד הפועל באר שבע",
+     "2:5 · מחצית שנייה"
+    ],
+    [
+     "AS Holon נגד Hapoel Kafr Qasim",
+     "1:1 · מחצית שנייה"
     ],
     [
      "Maccabi Asa Tel Aviv (W) נגד Maccabi Holon (W)",
@@ -61,14 +69,6 @@ window.NEWS_DATA = {
     [
      "Maccabi Kishronot Hadera (W) נגד Hapoel Katamon Jerusalem (W)",
      "1:2 · הסתיים"
-    ],
-    [
-     "Hapoel Ra'anana (W) נגד Bnot Netanya (W)",
-     "3:0 · הסתיים"
-    ],
-    [
-     "Hapoel Tel Aviv (W) נגד SC Kiryat Gat (W)",
-     "0:2 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "FC Ararat-Armenia נגד Gandzasar Kapan",
-     "2:0 · מחצית ראשונה"
-    ],
-    [
-     "Heart of Lions נגד Bechem United",
-     "1:0 · מחצית ראשונה"
-    ],
-    [
-     "Young Apostles נגד Karela",
+     "Juventus נגד Napoli",
      "0:0 · מחצית ראשונה"
     ],
     [
-     "Samartex נגד Bibiani Gold Stars FC",
+     "Olympique de Marseille נגד Toulouse",
      "1:0 · מחצית ראשונה"
     ],
     [
-     "Asante Kotoko נגד Medeama SC",
-     "0:0 · מחצית ראשונה"
+     "Athletic Bilbao נגד Real Sociedad",
+     "טרם התחיל"
+    ],
+    [
+     "Racing United נגד Treasure Beach Fc",
+     "טרם התחיל"
+    ],
+    [
+     "Montego Bay Utd נגד Portmore United",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "היסטוריה על המזרן: מיכל באלי אלופת אירופה בג'יוג'יטסו בחגורות שחורות",
-   "summary": "הישראלית בת ה־22 זכתה בזהב בתחרות ה-NO GI ברומא והפכה לראשונה מישראל שעושה זאת בחגורות שחורות. באלי גברה בגמר על אלופת ברזיל, לאחר שהכניעה בחצי הגמר את אלופת העולם המכהנת",
+   "title": "חי, רבע שני: מכבי ת\"א - הפועל ת\"א 45:35",
+   "summary": "חגיגת שלשות בדרבי הראשון העונה במסגרת ליגת העל, במיוחד בצד של האורחת - שקלעה 7 מ-9 מעבר לקשת. בלאט עורך בכורה באדום מול האקסית",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/byqsd0npgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/ByoidRNaMl/ByoidRNaMl_0_0_1056_595_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/hyqfuov6mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/B1u2lMS6Me/B1u2lMS6Me_0_77_2995_1687_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "דקה 11: ראסינג סנטאנדר - ריאל מדריד 0:0",
-   "summary": "ליגה ספרדית, מחזור 11: אחרי הניצחון בקלאסיקו, הבלאנקוס רוצים להמשיך בפורמה ולצמצם את הפער בפסגה. המארחת מחפשת ניצחון 3 ברצף. חי בערוץ ONE",
+   "title": "נשארה מושלמת: הפועל ירושלים גברה על אילת",
+   "summary": "האדומים מהבירה הראו את העליונות על הפרקט בהובלת איתן בורג וג'יילן סמית' שבלטו לאורך כל ההתמודדות בניצחון 78:88 מול הדרומיים וחזרו אל הפסגה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one537694",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/20/one1883402/one1883402_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one537668",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/one1896293/one1896293_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "באיגוד השופטים מודים: בית\"ר ירושלים קופחה מול עירוני קריית שמונה",
-   "summary": "ועדת השיפוט פרסמה הודעה ובה נטען כי הפנדל שנפסק בתוספת הזמן לזכות הצפוניים ב-1:1 בטדי היה שגוי, וכי ב-VAR היו צריכים להתערב: \"מדובר במגע גוף עליון שלא מצדיק פסיקה לעבירה\"",
+   "title": "כדורסל נשים: ניצחון נוסף לר\"ג, חולון הביסה את פ\"ת",
+   "summary": "החבורה של נעמי קולודני רשמה 57:65 ביתי על מכבי כרמיאל. סגנית האלופה גברה 67:87 על בנות פ\"ת",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/r1d6q3n6zl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/31/B1WpOI00XTfx/B1WpOI00XTfx_494_250_2502_1409_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rkbky11rage",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/Sy3zKerTGl/Sy3zKerTGl_0_0_1601_901_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "זעם שהשכנה \"בגדה\", קפץ מהמרפסת - והתנפל על בן זוגה עם בלטה",
-   "summary": "\"הייתי מחסל אותו\", אמר תושב טבריה שנאשם בתקיפת בן הזוג של שכנתו, שנמצאת בתהליכי גירושים, מה שלדבריו \"לא מקובל על רבי נחמן\". השוטרים הגיעו לביתה לאחר שהפרה צו שאוסר על בן הזוג הנוכחי להתקרב לילדיה. לפי האישום, בזמן שתושאלה, זינק ממרפסת ביתו והטיח לעיני השוטרים …",
+   "title": "חשד ל-200 מקרי התעללות במעון באריאל: \"הבת שלי הייתה כנועה ולא דיברה\"",
+   "summary": "הורי פעוטות בגן \"לוצ'יק\", שהמנהלת שלו ושתי מטפלות נעצרו בחשד להתעללות בחסרי ישע, סיפרו ל-ynet על התחושות הקשות: \"הגננות היו דו-פרצופיות ועשו דברים נוראים\", סיפרה אם. \"אני סוג של חי מת - מנסה להראות שהכול בסדר, אבל משהו נסדק\", הוסיף הורה אחר. התמונות הקשות - וה…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r1kx7ietgl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/SyRxwoETzg/SyRxwoETzg_0_0_768_433_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/b1o11frvpfl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/28/Hk1LDqy6Mx/Hk1LDqy6Mx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "לראשונה מאז הבחירות: ליברמן נפגש עם איזנקוט - ויקיים תדרוך סגור",
-   "summary": "יו\"ר ישראל ביתנו, שלא הרבה להתבטא מחוץ לגבולות רשת X מאז פרסום תוצאות האמת, צפוי לשאת מחר הצהרה ולערוך תדרוך סגור לעיתונאים. אמש, נפגש לראשונה עם יו\"ר ישר גדי איזנקוט",
+   "title": "פגע בילדים, חלקם רק בני 7: בן 18 מאילת יואשם באונס | קשה לקריאה",
+   "summary": "הפרקליטות צפויה להגיש כתב אישום נגד צעיר בגין אונס ופגיעה מינית בקטינים, בהזדמנויות שונות. החקירה החלה לאחר תלונה שעסקה במקרה אחד, והסתעפה למקרים נוספים. בחקירה עלה חשד כי הצעיר פגע מינית ב-13 ילדים",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/s1i04avtgg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/15/ryHCVN0ofg/ryHCVN0ofg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rkdhyzhpfx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/04/06/SJ5Zxt2W2/SJ5Zxt2W2_1_65_1000_563_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "כנס הפיתוח וה-AI של גיקטיים חוזר ברביעי עם תשובה לשאלה: מה בעצם נשאר לנו לעשות?",
+   "summary": "שלא תגידו שלא אמרנו: ביום רביעי הקרוב (4.11) כנס Evolve to AI של גיקטיים חוזר לאודיטוריום סמולרש באוניברסיטת תל אביב – ונותרו כרטיסים אחרונים בלבד. הכנס, שצפוי לארח כ-1,200 מפתחות ומפתחים מכל התחומים, יתמקד באייג'נטים פנים-ארגוניים – כלומר, כאלה שמבצעים ומייעל…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/evolve-to-ai-2026-last-call/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -201,16 +215,16 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "AI",
-   "title": "מתי באמת צריך AI ומתי עדיף קוד מסורתי? 3 אירועי טכנולוגיה מומלצים",
-   "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו ב…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/geek-events-1112026/",
-   "image": null,
+   "section": "בידור",
+   "title": "במאי התיאטרון והמעבד יורם פאלק הלך לעולמו",
+   "summary": "יורם פאלק, שהתמחה בעיבוד יצירותיו של ש\"י עגנון לבמה, הלך לעולמו בגיל 85. לאורך ארבעה עשורים ביים בתיאטראות המובילים בארץ, בהם הקאמרי, הבימה והחאן. עיבודו ל\"שירה\" של עגנון, בכיכובם של אילן דר וסנדרה שדה, זכה לשבחים ולפרסים ונחשב לאחת מעבודותיו הבולטות. פאלק גם …",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/r14vywrpzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/rJZOjeraMe/rJZOjeraMe_0_112_727_410_0_medium.jpg",
    "stats": [
     [
      "מקור",
-     "גיקטיים"
+     "ynet - תרבות ובידור"
     ]
    ]
   },
@@ -235,20 +249,6 @@ window.NEWS_DATA = {
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/sjdl8fvagg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/BkXKXuc46zx/BkXKXuc46zx_172_0_2493_1403_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "סולן דיפ פרפל אושפז עקב מקרה חירום רפואי: הלהקה ביטלה שתי הופעות בגרמניה",
-   "summary": "איאן גילן בן ה-81 אושפז בבית החולים בעקבות מצב רפואי שפרטיו לא נמסרו, והלהקה נאלצה לבטל שתי הופעות בלייפציג ובהמבורג. \"אנחנו מבינים שההודעה מגיעה בהתראה קצרה, ושותפים לאכזבה של כל המעריצים הנפלאים שלנו על כך שלא נוכל להופיע\", נכתב מטעמם",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/rjz9dd4tfe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/17/B1jH69ue11l/B1jH69ue11l_1_86_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
