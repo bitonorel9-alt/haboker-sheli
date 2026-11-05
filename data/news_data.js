@@ -1,20 +1,20 @@
 window.NEWS_DATA = {
  "date": "יום חמישי, 5 בנובמבר 2026",
  "date_he": "05/11/2026",
- "updated": "15:56",
+ "updated": "21:43",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "איזנקוט נערך להשתלט על תפקידי המפתח בכנסת: זה המהלך העוקף להקמת ועדת חקירה",
-  "summary": "פרסום ראשון: ראשי גוש השינוי מתכוונים להקים לפחות 6 ועדות מיוחדות לתיקוני חקיקה - ואחת ההחלטות הראשונות של יו\"ר ישר! צפויה להיות הקמת ועדה שתאפשר ועדת חקירה לטבח 7/10 מתוקף חוק, ולא החלטת ממשלה",
-  "link": "https://www.ynet.co.il/news/article/sy4hhfqtfe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/B1FlxCeaGe/B1FlxCeaGe_0_0_2889_1627_0_medium.jpg"
+  "title": "\"הדיילת אמרה לי, הייתי בהלם\": 25 איומים בפצצות, גם בטיסה לישראל",
+  "summary": "סיגל הייתה הישראלית היחידה על הטיסה של אייר לינגוס מדבלין לרומא, שנאלצה לנחות בשדה תעופה צבאי בצרפת לאחר ששודר קוד מצוקה. היא סיפרה: \"אמרתי לדיילת 'את צוחקת עליי?'. נוסעים נדהמו לראות בחלון מטוסי קרב, 4 פעמים ירדנו לנחיתה, ואז עלינו מחדש\". הערב: טיסת KLM לנתב\"…",
+  "link": "https://www.ynet.co.il/news/article/sky4z8cpgx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/r1fzjI5azl/r1fzjI5azl_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
    "title": "עתלית · 24.5° / 18.2°",
-   "summary": "כרגע 21.3°, לחות 79%, רוח 7.4 קמ״ש. סיכוי משקעים 15%.",
+   "summary": "כרגע 18.9°, לחות 87%, רוח 5.4 קמ״ש. סיכוי משקעים 20%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
@@ -28,17 +28,17 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "79%",
-     79
+     "87%",
+     87
     ],
     [
      "רוח",
-     "7.4 קמ״ש"
+     "5.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "15%",
-     15
+     "20%",
+     20
     ]
    ]
   },
@@ -50,10 +50,6 @@ window.NEWS_DATA = {
    "link": "https://www.365scores.com/he/football/israel",
    "image": null,
    "stats": [
-    [
-     "FC Jerusalem נגד MS Dimona",
-     "1:0 · מחצית"
-    ],
     [
      "SC Tzeirei Tamra נגד Hapoel Ironi Karmiel",
      "1:2 · הסתיים"
@@ -69,6 +65,10 @@ window.NEWS_DATA = {
     [
      "A.S Nordia Jerusalem נגד F.C Kfar Saba 1928",
      "1:0 · הסתיים"
+    ],
+    [
+     "Maccabi Yavne נגד Shimshon Tel Aviv",
+     "2:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "San Pédro נגד SOA",
-     "0:0 · מחצית ראשונה"
+     "AZ Alkmaar נגד Juventus",
+     "0:2 · מחצית שנייה"
     ],
     [
-     "Bouaké Fc נגד CO Korhogo",
-     "1:0 · מחצית ראשונה"
+     "Torreense נגד FC Ararat-Armenia",
+     "1:2 · מחצית שנייה"
     ],
     [
-     "Stella Adjame נגד AFAD-Plateau",
-     "0:0 · מחצית ראשונה"
+     "Sunderland נגד Dinamo Zagreb",
+     "0:2 · מחצית שנייה"
     ],
     [
-     "Ntugasaze FC נגד Entebbe UPPC",
-     "1:3 · הסתיים"
+     "Celtic נגד Besiktas",
+     "2:2 · מחצית שנייה"
     ],
     [
-     "Us Biskra נגד MB Rouisset",
-     "נדחה"
+     "Sturm Graz נגד NK Celje",
+     "1:3 · מחצית שנייה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "קטש: \"צריכים לדאוג שלא נישבר\", ריימן: \"מוכנים להחזיר על הדרבי\"",
-   "summary": "מכבי ת\"א המריאה לבלגרד אחרי התבוסה בדרבי ועם שני ניצחונות בלבד ביורוליג. המאמן הדגיש את ההכנה המנטלית, התייחס לחיפוש אחר חיזוק ואמר כי תייס צפוי לשחק. ריימן: \"רוצים להתנצל בפני האוהדים, הדרבי עדיין יושב לנו בראש\"",
+   "title": "חי, מחצית שנייה: הפועל באר-שבע - אופי כרתים 2:0",
+   "summary": "הקבוצה היוונית פתחה טוב יותר ועלתה ליתרון מוצדק משער של פונגוראס (45), פונטאס הכפיל בשער ענק (56). אלופת ישראל בדרך לעוד הפסד באירופה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rkywxmcpze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/rJkIJEbafx/rJkIJEbafx_73_65_964_543_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/s14gobq6fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/SJJOWdcTzx/SJJOWdcTzx_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "חגיגה בפורמולה 1 | תוכן גולשים",
-   "summary": "סמבה ברזילאית, מזג אוויר הפכפך ואלוף העולם הצעיר בכל הזמנים. סאו פאולו בפתח וכולנו כבר לא במתח. גם לכם יש מה להגיד? שלחו לנו טורים לכתובת: kick@ynet.co.il",
+   "title": "שער ושני בישולים לאוסקר גלוך ב-1:6 הגדול של איאקס",
+   "summary": "הקשר הישראלי כיכב בניצחון המוחץ של קבוצתו בחוץ על מיטיולן בקונפרנס-ליג, 55 דקות לענאן חלאילי ב-1:1 הדרמטי של קריסטל פאלאס מול הופנהיים בליגה האירופית",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/s1dibqt6mg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/SyBIWIIaMg/SyBIWIIaMg_0_91_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/byzin89tmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/HybKjsIq6Ge/HybKjsIq6Ge_1163_647_1838_1035_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "מעל כולם: המספרים הנדירים והשיאים של רונאלדו בפורטוגל",
-   "summary": "234 הופעות ו-146 שערים, שישה מונדיאלים ושישה טורנירי יורו, ועקביות שנמשכה יותר משני עשורים. כריסטיאנו רונאלדו נפרד מנבחרת פורטוגל עם שיאים היסטוריים, גביע אירופי אחד ורק חלום גדול שנותר מחוץ להישג ידו. הקריירה הבינלאומית של מספר 7, דרך המספרים",
+   "title": "למרות הצגה של פיין: אנדולו הפסידה 95:90 לפאריס",
+   "summary": "הטורקים הובילו, אך נכנעו במאני טיים לאורחת, שהצליחה לחבר ניצחון שלישי ברצף ביורוליג. ולנסיה גברה על מילאנו, פנרבחצ׳ה הביסה ובאיירן חזרה לנצח",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/b1yluj9aze",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/06/12/rkg1T7YOQxx/rkg1T7YOQxx_0_63_1474_830_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/one538095",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/one1897135/one1897135_0_0_800_444_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "\"לא יודעים כלום\": בלבול בישראל אחרי הצהרת טראמפ על הפסקת הסיוע הביטחוני",
-   "summary": "במערכת הביטחון וגם בזו המדינית לא קיבלו עדיין הבהרות בנוגע לסיכומים בין טראמפ לנתניהו על אודות עצירת הסיוע הביטחוני האמריקני לישראל בתום השנה. \"אני לא חושב שלאמריקנים יש תשובות בשלב הזה עם כל מה שקורה שם\", אמר גורם ישראלי שבקיא בנושא. נתניהו בינתיים שותק, איזנ…",
+   "title": "האשימה את ישראל ב\"רצח עם\": \"ממדאני של LA\" ניצחה את ראש העיר המכהנת",
+   "summary": "ניתיה ראמאן, סוציאליסטית שכמעט איבדה תמיכה מתנועתה כי סירבה להתחייב לחרם על ישראל, ניצחה את ראש העיר המכהנת של לוס אנג'לס. היא הגיעה מהודו בגיל 6, למדה בהרווארד ו-MIT, סייעה לחסרי בית - וכעת תנהל את העיר עם אחת הקהילות היהודיות הגדולות בעולם. \"נעבוד איתה\", הבה…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/sk99tl5azl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/03/ry1rwuP6ze/ry1rwuP6ze_0_0_1600_900_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sj000xictzl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/ByghW98qpzl/ByghW98qpzl_0_0_3000_2001_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "סופ\"ש של כאוס תחבורתי במרכז - וכוננות הצפות: המוקדים, ומתי צפוי שיא הגשם",
-   "summary": "נתיבי איילון ייחסמו מהלילה ובמוצ\"ש לשעות ארוכות, שינויים רבים גם בתנועת הרכבות - וכל זה בסוף שבוע שבו צפויות כמויות משקעים גבוהות במיוחד, עם סכנה ממשית להצפות משמעותית בערי החוף. התחזית המלאה, וכל החסימות",
+   "title": "האפשרויות של איזנקוט להרכבת ממשלה - ולמה הסיכוי לאחדות ירד",
+   "summary": "ביום ראשון צפוי הרצוג להטיל את המנדט על איזנקוט - אבל הדרך להקמת ממשלה עוד ארוכה. יו\"ר ישר! ינסה למצות כל אפשרות לפני שילוב כוחות עם נתניהו, ובבית הנשיא יצאו בגוש שוב ושוב נגד אחדות. אבל ליברמן שולל ממשלה עם ערבים, וכדי לשבת עם יהדות התורה יהיה צורך לשכוח מהבט…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/byy8kf9ame",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/SkBhXzcpfx/SkBhXzcpfx_180_326_839_473_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h1wuks5tmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/S1ggK8H86fx/S1ggK8H86fx_34_90_1235_696_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -217,7 +217,7 @@ window.NEWS_DATA = {
   {
    "section": "בידור",
    "title": "סיפורי הגיבורים: הפרויקט החדש של דורון צברי",
-   "summary": "הבמאי דורון צברי יוביל פרויקט שבו ייצרו סטודנטים ממכללת ספיר סרטים תיעודיים על מי שנפלו בקרב, והם ישודרו בערוץ הגיבורים של פרטנר",
+   "summary": "הבמאי דורון צברי יוביל פרויקט שבו ייצרו סטודנטים מספיר סרטים תיעודיים על מי שנפלו בקרב, והם ישודרו בערוץ הגיבורים של פרטנר",
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/byglj1196zg",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/SyPNlf9pzg/SyPNlf9pzg_0_256_1231_694_0_medium.jpg",
