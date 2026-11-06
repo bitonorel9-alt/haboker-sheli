@@ -1,26 +1,26 @@
 window.NEWS_DATA = {
  "date": "יום שישי, 6 בנובמבר 2026",
  "date_he": "06/11/2026",
- "updated": "08:47",
+ "updated": "16:29",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "ליברמן רוצה ממשלה עם החרדים: \"נתגמש ונתפשר, גם בנושא הגיוס\"",
-  "summary": "יו\"ר ישראל ביתנו חזר ואמר כי לא יתמוך בממשלה שנשענת על הימנעות של הרשימה המשותפת ורע\"מ, אך \"בכל שאר הנושאים מותר ורצוי להבין שתפסת מרובה לא תפסת\". לדבריו, \"תוצאות הבחירות מחייבות את כולנו לחשב מסלול מחדש\". רוטציה? \"מנגנון מזיק שפוגע בניהול התקין של המדינה\"",
-  "link": "https://www.ynet.co.il/news/article/byb6xmotzl",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/rJbrZk8Laze/rJbrZk8Laze_0_366_2001_1127_0_medium.jpg"
+  "title": "הדיווח על פריצת דרך אפשרית במו\"מ, ומפת הכוחות האמריקניים במזה\"ת",
+  "summary": "בדרך להתקדמות משמעותית בשיחות? ב\"בלומברג\" דווח כי איראן מראה נכונות לדון בסוגיות הקשורות לתוכנית הגרעין, ובוחנת הצעות שהעבירה קטאר. הרכבת האווירית האמריקנית לישראל נמשכת, ולבריטניה הגיע מטוס נדיר לאיסוף מודיעין",
+  "link": "https://www.ynet.co.il/news/article/syl0011uiaml",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/H1RtTdjTMg/H1RtTdjTMg_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 21.8° / 18.8°",
-   "summary": "כרגע 21.1°, לחות 82%, רוח 15.2 קמ״ש. סיכוי משקעים 98%.",
+   "title": "עתלית · 22.9° / 18.8°",
+   "summary": "כרגע 19.7°, לחות 89%, רוח 8.7 קמ״ש. סיכוי משקעים 98%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "21.8°"
+     "22.9°"
     ],
     [
      "מינימום",
@@ -28,12 +28,12 @@ window.NEWS_DATA = {
     ],
     [
      "לחות",
-     "82%",
-     82
+     "89%",
+     89
     ],
     [
      "רוח",
-     "15.2 קמ״ש"
+     "8.7 קמ״ש"
     ],
     [
      "סיכוי גשם",
@@ -51,10 +51,6 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Ironi Karmiel נגד Hapoel Ironi Baka El Garbia",
-     "1:0 · מחצית ראשונה"
-    ],
-    [
      "Maccabi Bnei Eilat נגד Maccabi Ashkelon",
      "בוטל"
     ],
@@ -69,6 +65,10 @@ window.NEWS_DATA = {
     [
      "SC Kiryat Gat (W) נגד Maccabi Holon (W)",
      "2:0 · הסתיים"
+    ],
+    [
+     "Hapoel Ra'anana (W) נגד Maccabi Asa Tel Aviv (W)",
+     "0:0 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,48 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Polissya נגד Veres Rivne",
-     "טרם התחיל"
+     "BKMA Yerevan נגד Alashkert Martuni",
+     "3:1 · מחצית שנייה"
     ],
     [
-     "Obolon Kyiv נגד Livyi Bereh",
-     "טרם התחיל"
+     "Karela נגד Vision",
+     "0:0 · מחצית שנייה"
     ],
     [
-     "Van נגד Pyunik Yerevan",
-     "טרם התחיל"
+     "Neftchi Baku נגד FC Kapaz",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "מכבי תל אביב נגד מכבי פתח תקווה",
-     "טרם התחיל"
+     "Qarabag Agdam נגד Turan-Tovuz IK",
+     "0:1 · הסתיים"
     ],
     [
-     "Lamphun Warrior נגד Sukhothai FC",
-     "טרם התחיל"
+     "Urartu נגד FC Ararat-Armenia",
+     "נדחה"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "חשיפה | \"האח הגדול\", גרסת נבחרת ישראל בכדורגל",
-   "summary": "המהפכה הטכנולוגית של רן בן שמעון: מצלמות שמתעדות את התנהלותם של השחקנים על הספסל ובאימונים, ומצלמה ומיקרופון על גופו של המאמן שמקליטים את ההוראות והתגובות שלו בזמן משחק. ואיך זה השפיע על ההתנהלות מול מוחמד אבו פאני ואוסקר גלוך",
+   "title": "בדרך לזעזוע? המשבר העמוק של חולון: \"במצב הקיים, אין מה לדבר על פלייאוף\"",
+   "summary": "הצהובים-סגולים ספגו הפסד ביתי נוסף, עומדים על מאזן נוראי של 4:1 ומעמדו של המאמן, פרדראג קרוניץ', התערער באופן משמעותי. בעיות העומק של הקבוצה זועקות לשמיים, ובמועדון לא רואים את הסוף. קרביץ: \"אלו ימים קשים, אבל נדע איך לצאת מזה\". מנגד, בגליל חוגגים: \"באנו מוכני…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkni6d5agg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/r1Uoldqazg/r1Uoldqazg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/rylavdipzx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/22/SJd7MBdd11e/SJd7MBdd11e_424_93_446_251_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "מילר אחרי התיקו הדרמטי: \"זה כואב מאוד, אסור לנו לאבד יתרון כזה\"",
+   "summary": "מאמן מכבי ת\"א התקשה לעכל את ה-2:2 הדרמטי מול מכבי פ\"ת, אחרי שהצהובים ספגו שער שוויון בדקה ה-94: \"אני שואל את עצמי אם עשינו מספיק\". זיו אריה: \"הופתעתי, הגיעה לנו נקודה\"",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/h1goipiazg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/SycKrzvsafe/SycKrzvsafe_0_117_2061_1161_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -131,26 +145,12 @@ window.NEWS_DATA = {
    ]
   },
   {
-   "section": "כדורגל",
-   "title": "מול דני אבדיה הוא חטף, מול אורלנדו שוב התגרה: \"הילד הרע\" של ה-NBA במרכז הסערה",
-   "summary": "אחרי העימות עם הכוכב הישראלי והפרובוקציות מול פורטלנד, דילון ברוקס מפיניקס שוב עלה לכותרות, הפעם עם התגרות ליד הספסל של אורלנדו ב-104:117 של קבוצתו. ההתנהלות שלו ממשיכה לעורר ביקורת, אפילו דריימונד גרין כבר איבד סבלנות: \"הוא מנסה להיות הנבל\"",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hyotvjiazl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/rk006VJipMg/rk006VJipMg_96_105_390_220_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
-    ]
-   ]
-  },
-  {
    "section": "פוליטיקה",
-   "title": "מור שמלי מובאת למנוחות: \"ילדה בכורה שלי, עשיתי הכול כדי שתישארי איתנו\"",
-   "summary": "שמלי הלכה לעולמה בגיל 35, אחרי יותר משלוש שנים של ייסורים. \"מחנכת בחסד, מורה לחיים. לקחת ילדים מיוחדים להישגים\", ספדה לה אמה. \"נקיים את צוואתך לחיות כמשפחה אוהבת\"",
+   "title": "השינוי הלילה, השיא - מחר: התחזית הגשומה, והמכ\"ם",
+   "summary": "בירושלים ובחיפה נמדדו רק 4 מ\"מ, בגוש דן עוד פחות  - אבל כל זה צפוי להשתנות בשעות הלילה המאוחרות. בשבת כבר צפויות כמויות משקעים גדולות באזור החוף, ויש חשש להצפות",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/bj00subitml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/BJKbezsTfl/BJKbezsTfl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/sych8djpfg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/06/r1Bw6godfl/r1Bw6godfl_0_25_1000_563_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +160,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "ניידת משטרה פגעה ברוכב אופניים שנהרג במקום",
-   "summary": "התאונה התרחשה בכביש 3, סמוך לצומת לטרון. בתום בדיקות רפואיות נאלצו אנשי מד\"א לקבוע את מותו של הרוכב, כבן 45",
+   "title": "הילד שנעלם במרוקו ו\"נמצא\" אחרי שנים בישראל",
+   "summary": "הסיפור על שער \"ידיעות אחרונות\" נשמע כמו תסריט הוליוודי. נער, שמשפחתו האמינה שנהרג ברעידת אדמה במרוקו, מופיע עשר שנים אחר כך בזכות צירוף מקרים. אבל אז, בעקבות ראיון טלוויזיוני, התברר פתאום שמדובר במתחזה, שהלך לכלא, והשאיר מאחור תעלומה שלא נפתרה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hjmm511itme",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2020/10/05/Hy2UN3008w/Hy2UN3008w_349_78_783_441_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/hkhvu5e6gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/01/BJC809V6Gx/BJC809V6Gx_1_277_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -174,11 +174,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "אין שום היגיון ב\"היונים השחורות\", אבל יש בה כמעט כל מה שצריך מסדרה טובה",
-   "summary": "קירה נייטלי ובן וישו חוזרים לעוד סיבוב של ריגול, התנקשויות והומור בריטי יבש, עם עלילה מופרכת שלא באמת צריך לנסות להבין. העונה השנייה של \"היונים השחורות\" מספקת יותר אקשן, יותר שנינויות ודמויות משנה שגונבות את ההצגה, ומצליחה לשפר כמעט כל מה שעבד בפעם הקודמת. גם …",
+   "title": "משה הלל (\"הצנחן המזמר\") הלך לעולמו",
+   "summary": "הזמר, שהלך לעולמו בגיל 81, זכה לפרסום בשנות ה-70 עם הלהיט \"הנער עם הבנג'ו\", היה אחד הקולות המזוהים עם פסטיבל הזמר המזרחי. הוא השתתף גם בסרט \"קזבלן\", שר עם צוות הווי גולני במלחמת יום הכיפורים והקליט שורה של להיטים, בהם \"חג לי\" ו\"המטאדור\"",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/r18exn5amg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/26/SyCaVh3hGx/SyCaVh3hGx_487_274_2207_1243_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/s1pnwoiafg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/B1liJhujafg/B1liJhujafg_0_146_729_411_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -188,11 +188,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "\"בגיל 46 אני מרגישה יותר עמוקה ומוצלחת משהייתי לפני 20 שנה, ב'השיר שלנו'\"",
-   "summary": "בזמן שנועה שחר הפכה לאחת הדמויות האיקוניות על המסך הקטן, אפרת בוימולד בת ה-24 התמודדה עם תחושת חוסר ביטחון. \"חשבתי לעצמי: מתי יגלו שאני לא יודעת מה אני עושה?\", היא נזכרת בריאיון, אבל שני עשורים אחרי היא כבר יודעת מה היא שווה כשחקנית - והרעב שלה רק גובר. היא מכ…",
+   "title": "אברי גלעד חושף שאובחן עם תסמונת בל: \"אני משותק בחצי פנים\"",
+   "summary": "המגיש חשף בחשבון הפייסבוק שלו כי אובחן עם התסמונת שגורמת לשיתוק בצד אחד של הפנים: \"עכשיו אני צריך לשאול את עצמי מה אני עושה כשאני כזה עקום? האם אני ממשיך את חיי כהרגלם? האם אני נכנס ללחץ?\"",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/bkjcv2f6me",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/02/BJ115hIyI6fg/BJ115hIyI6fg_227_362_1774_999_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/hyvg6qo6fe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/Bybc1Vopzg/Bybc1Vopzg_0_332_1080_608_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -202,11 +202,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "בייבי בלוז - חלק שמיני",
-   "summary": "בלעדי למנויי ידיעות+: אישה שנכנסת לדיכאון אחרי לידה מגלה בין דפי המחברות של אמה המנוחה מסע אל עבר עצמה, משפחתה וסודות העבר. רומן משפחתי מרגש שמוגש בהמשכים, חלק נוסף מדי יום",
+   "title": "אילה חסון פרצה בבכי ברדיו ושלחה מסר לתאגיד: \"לא נאמרה המילה האחרונה\"",
+   "summary": "חסון, שעלתה לשידור ברדיו גלי ישראל, תקפה בחריפות את הנהלת התאגיד לאחר האולטימטום שהציבה לה, ורמזה כי מנהל החדשות הוא \"בולשביק\". היא פרצה בבכי ותיארה את עבודתה לאורך המלחמה: \"נלחמתי על החיילים, על החטופים, על המשפחות השכולות ועל הפצועים\"",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/x1xmf3xcq",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/29/r111KpZbb6Gl/r111KpZbb6Gl_0_0_1918_1080_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/sk4fjqsagx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/06/Sypcbmj6zg/Sypcbmj6zg_175_58_973_548_0_medium.jpg",
    "stats": [
     [
      "מקור",
