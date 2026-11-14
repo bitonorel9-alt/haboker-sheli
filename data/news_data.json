@@ -1,46 +1,23 @@
 {
  "date": "יום שבת, 14 בנובמבר 2026",
  "date_he": "14/11/2026",
- "updated": "00:07",
+ "updated": "07:12",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "דרמה בארה\"ב: כל ההמראות נעצרו בגלל תקלות במכ\"מים ובקשר, אלפי טיסות מתעכבות",
-  "summary": "רשות התעופה הפדרלית הורתה על עצירת כל ההמראות במדינה בעקבות תקלה נרחבת ב-22 מרכזי בקרת טיסה, שפוגעת גם בטיסות לישראל. ב-CNN דווח כי מערכות המכ\"ם ותדרי הקשר של הפקחים נפגעו במקביל: \"אין להם מושג מה בדיוק קורה\". יותר מ-9,000 טיסות מתעכבות, הממשל: אין אינדיקציה ל…",
-  "link": "https://www.ynet.co.il/news/article/bkkzkgrage",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/13/BJHDmbS0Mx/BJHDmbS0Mx_0_80_3000_1689_0_medium.jpg"
+  "title": "הסרטן שלי עלול לחזור. אבל משהו אחר מפחיד אותי יותר",
+  "summary": "בטור מיוחד, מספרת שלי יחימוביץ' איך הסרטן שבו לקתה, והטיפול בו, הבהיר לה משהו משמעותי על חיינו, ההולכים ואוזלים, כמדינה. גם כאן, היא כותבת, מוכרחים ראשי גוש השינוי להתגבר על הפחד, להציל ולהינצל. \"אל תזרקו לפח את מה שעוד נשאר כאן מהפרויקט הציוני המדהים, הכמעט ד…",
+  "link": "https://www.ynet.co.il/news/article/yokra14952770",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/Sy8flL1Rfx/Sy8flL1Rfx_0_97_526_297_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 28.1° / 18.2°",
-   "summary": "כרגע 21.9°, לחות 35%, רוח 11.3 קמ״ש. סיכוי משקעים 0%.",
-   "source": "Open-Meteo · השירות המטאורולוגי",
+   "title": "עתלית — התחזית להיום",
+   "summary": "לא הצלחתי למשוך תחזית כרגע.",
+   "source": "Open-Meteo",
    "link": "",
-   "stats": [
-    [
-     "מקסימום",
-     "28.1°"
-    ],
-    [
-     "מינימום",
-     "18.2°"
-    ],
-    [
-     "לחות",
-     "35%",
-     35
-    ],
-    [
-     "רוח",
-     "11.3 קמ״ש"
-    ],
-    [
-     "סיכוי גשם",
-     "0%",
-     0
-    ]
-   ]
+   "stats": []
   },
   {
    "section": "כדורגל",
@@ -51,24 +28,24 @@
    "image": null,
    "stats": [
     [
-     "מכבי נתניה נגד הפועל ירושלים",
+     "Ironi Nesher נגד Hapoel Ironi Arabe",
+     "5:0 · הסתיים"
+    ],
+    [
+     "Hapoel Kiryat Ono נגד Hapoel Hod HaSharon",
+     "1:6 · הסתיים"
+    ],
+    [
+     "מכבי פתח תקווה נגד הפועל באר שבע",
+     "2:5 · הסתיים"
+    ],
+    [
+     "AS Holon נגד Hapoel Kafr Qasim",
      "1:1 · הסתיים"
     ],
     [
-     "Bnei Mejar נגד FC Shfaram",
-     "1:5 · הסתיים"
-    ],
-    [
-     "Ihud Tzerei Abu - Gosh נגד Hapoel Segev Shalom",
-     "0:2 · הסתיים"
-    ],
-    [
-     "Maccabi Ashkelon נגד SC Arad",
-     "4:5 · הסתיים"
-    ],
-    [
-     "Hakoah Amidar Ramat Gan F.C. נגד Ironi Bet Dagan",
-     "0:2 · הסתיים"
+     "SC Tzeirei Tamra נגד Hapoel Ironi Karmiel",
+     "1:2 · הסתיים"
     ]
    ]
   },
@@ -81,34 +58,18 @@
    "image": null,
    "stats": [
     [
-     "Moldova נגד Kazakhstan",
-     "2:1 · הסתיים"
-    ],
-    [
-     "JS Saoura נגד Usm Khenchela",
-     "1:1 · הסתיים"
-    ],
-    [
-     "Slovenia נגד Switzerland",
-     "0:0 · הסתיים"
-    ],
-    [
-     "Scotland נגד North Macedonia",
-     "2:1 · הסתיים"
-    ],
-    [
-     "Liechtenstein נגד Azerbaijan",
-     "0:1 · הסתיים"
+     "Livyi Bereh נגד Bukovyna",
+     "0:1 · To Be Resumed"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "מכבי ראשל\"צ נשארה מושלמת, רמה\"ש ניצחה בהרצליה",
-   "summary": "המוליכה לא התקשתה וגברה על האחרונה בטבלה, מ.כ באר שבע וניצחה אותה 30:42. האלופה כבר פיגרה בשלושה שערים בדקות הסיום אבל הפגינה אופי וגברה 31:34 על בני הרצליה",
+   "title": "התקשו ללא מסי: ארגנטינה פתחה עידן חדש עם הפסד לאורוגוואי",
+   "summary": "בהופעה הראשונה ללא הפרעוש, סגנית אלופת העולם נכנעה 2:1 במשחק ידידות בבונבוניירה. שני שערים ממצבים נייחים הכריעו, אלבארס צימק",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/bk6uiwbcfx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/14/ByW3F11SRzg/ByW3F11SRzg_0_237_1600_901_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/worldsoccer/article/hy9dyfhrze",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/14/rJPWeYSAfe/rJPWeYSAfe_267_0_2326_1310_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +79,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "העונש המקסימלי שבסמכותה: ההתאחדות בספרד הרחיקה את השוער שגרם למות שחקן מ-12 משחקים",
-   "summary": "חסוס אוונו, שוערה של אנדורה, ספג את העונש המרבי בעקבות ההתנגשות עם חסוס דה מיגל, חלוצה של טנריפה, שמת יום לאחר התקרית. המשטרה ממשיכה לחקור את נסיבות המקרה",
+   "title": "נבחרת ישראל כבר גוססת, ולאף אחד לא אכפת | טור",
+   "summary": "המשחקים נגד קוסובו ואוסטריה הם הזדמנות אחרונה להציל משהו מהקמפיין הזה, אבל גם אם ישראל תנצח, אף אחד לא ייצא לחגוג. אנחנו לא מבקשים מונדיאל או יורו, רק סיבה להדליק את הטלוויזיה כדי לראות את הנבחרת",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/bjf6ybhafx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/03/BJnBTPD6ze/BJnBTPD6ze_102_20_421_237_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkhedc70zg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/BJvNQemqGe/BJvNQemqGe_0_97_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +93,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "ענבל שמש זכתה במדליית הכסף בגראנד פרי זאגרב",
-   "summary": "הג'ודוקא הישראלית הרשימה כל הדרך לגמר, שם הפסידה לשירלין נאסימינטו הברזילאית, והשיגה את המקום השני בפודיום בתחרות שנערכת בקרואטיה",
+   "title": "צרפת אוהבת את טדי רינר. האם היא מוכנה לבחור בו לנשיא?",
+   "summary": "עם חמש מדליות זהב אולימפיות ו־11 תארי אלוף עולם, אגדת הג'ודו הצרפתית מכוון לארמון האליזה – ועדיין מתכנן להתחרות בלוס אנג'לס. מקרון בירך, שר הספורט לשעבר קרא למהלך \"מגוחך\", והסקר הראשון ממחיש את המרחק בין אהדה לקולות בקלפי",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/rj00bk1h0mg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/13/r15d9kSCMg/r15d9kSCMg_158_421_622_350_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/by12lozrml",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/Byq9d71RGl/Byq9d71RGl_0_0_3000_2000_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +107,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "ביידן נגד נתניהו: \"הבטיח דברים שלא התכוון לקיים, דאג לעצמו ולא לישראל\"",
-   "summary": "נשיא ארה\"ב לשעבר חשף בספר זיכרונותיו החדש את עומק האכזבה שלו מראש הממשלה במהלך המלחמה, והאשים אותו בהפרת הבטחות חוזרת ובהעדפת הישרדותו הפוליטית על עתידה של ישראל. \"הישראלים תמיד מצאו תירוץ\", הוא כותב. ביידן גם סוגר חשבון עם בכירי מפלגתו: \"אילצו אותי לפרוש מהמי…",
+   "title": "גם לעיני הילדים: 19 נשים נרצחו מתחילת השנה | השמות, הפנים והסיפורים",
+   "summary": "בצפון, במרכז ובדרום, מגיל 19 עד גיל הפנסיה: 11 נשים נרצחו השנה בידי בן הזוג, 4 בידי הפרוד או הגרוש, השאר בידי בן משפחה אחר. הן נרצחו בדקירות, ביריות, ע\"י  מסור ואחת הוכתה למוות עם בקבוק יין. כולן מתו באופן מחריד. קשה לקריאה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/r12zaaecfl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/17/Sk11aTdACNkl/Sk11aTdACNkl_1_121_1601_901_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bywufc40gg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/13/B11ebbBRMl/B11ebbBRMl_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +121,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "תיעוד דרמטי מארה\"ב: מכלית נפט התנגשה בספינת קרוז - שהתהפכה | צפו",
-   "summary": "מכלית נפט גדולה התנגשה בספינת תיירים שעגנה בנהר המיסיסיפי בניו אורלינס, וגרמה להתהפכותה ולשקיעתה החלקית במים",
+   "title": "\"חשד לפעילות כטב\"מים\":  שוב תקרית ביטחונית בבסיס אמריקני בבריטניה",
+   "summary": "חיל האוויר האמריקני מסר כי \"האירוע הסתיים\" וכי אף איש צוות לא נפגע בבסיס לייקנהית' שבמזרח אנגליה. התקרית מתרחשת ימים לאחר שדווח על פינוי כלי טיס של ארה\"ב מבסיס אחר בעקבות חשד לאיום מאיראן",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h1b6slrrzx",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/13/BklLoHxHAzl/BklLoHxHAzl_96_0_1160_653_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/rkgqhdsafe",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/30/r1NYi199Gl/r1NYi199Gl_0_59_800_450_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -216,6 +177,20 @@
   },
   {
    "section": "בידור",
+   "title": "הדיירת השקטה - חלק שני",
+   "summary": "בלעדי למנויי ידיעות+: כשרוצח סדרתי מעביר את קורבנו ה\"חי\" לבית חדש, משולש מסוכן נוצר בינו, בין בתו המתבגרת, ובין אישה שתכניס עצמה לסכנה קטלנית. מותחן פסיכולוגי מצמרר שמוגש בהמשכים, חלק נוסף מדי יום",
+   "source": "ynet - תרבות ובידור",
+   "link": "https://www.ynet.co.il/entertainment/article/e41fi1p2v",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/H111Xtr00X0fx/H111Xtr00X0fx_0_0_1920_1080_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - תרבות ובידור"
+    ]
+   ]
+  },
+  {
+   "section": "בידור",
    "title": "גל גדות דיברה בדמעות: \"מפחדת מהשנאה המתפשטת נגד יהודים\"",
    "summary": "השחקנית נאמה בהתרגשות במהלך ארוע של מרכז שמעון ויזנטל, ודיברה על אנטישמיות: \"מאז טבח 7 באוקטובר והמלחמה שבאה בעקבותיו, אני מוצאת את עצמי שואלת - עד לאן זה עוד יכול להגיע\"",
    "source": "ynet - תרבות ובידור",
@@ -235,20 +210,6 @@
    "source": "ynet - תרבות ובידור",
    "link": "https://www.ynet.co.il/entertainment/article/s1tzgym0fx",
    "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/BkFIboB7AMl/BkFIboB7AMl_0_424_1080_608_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - תרבות ובידור"
-    ]
-   ]
-  },
-  {
-   "section": "בידור",
-   "title": "שש מתלוננות חדשות נגד ראסל ברנד: \"אמרתי לו שזה כואב - והוא המשיך\"",
-   "summary": "שבוע אחרי שהורשע באונס ובשלוש עבירות של תקיפה מינית ונידון למאסר, נשים נוספות מספרות ל\"טיימס\" הלונדוני על התנהגותו של הקומיקאי הבריטי. אחת טוענת שקיים איתה יחסי מין בלי הסכמה - ואז התנצל, אחרת, שהייתה בת 19, מספרת שהתעלם מבקשותיה שיפסיק, ושלישית טוענת שניסה למ…",
-   "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/syefyp4rmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/09/rJlk4LZJRfe/rJlk4LZJRfe_0_23_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
