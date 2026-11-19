@@ -1,46 +1,23 @@
 window.NEWS_DATA = {
- "date": "יום רביעי, 18 בנובמבר 2026",
- "date_he": "18/11/2026",
- "updated": "20:59",
+ "date": "יום חמישי, 19 בנובמבר 2026",
+ "date_he": "19/11/2026",
+ "updated": "02:22",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "עוד שערורייה בשמאל הקיצוני בברלין: יו\"ר המפלגה ביקרה במסגד שהוצא מחוץ לחוק",
-  "summary": "ביום שלישי חתמה שרת הפנים של ברלין על צו שמוציא מהחוק עמותות וגופים הקשורים לחיזבאללה, והמשטרה המקומית פשטה בכוחות גדולים על 28 נכסים - בהם גם מסגד. תיעוד של יו\"ר \"די לינקה\" בניוקלן ומועמד המפלגה לראשות העיר באותו מסגד הצטרף לעדויות הרבות על קשריה לתומכי חמאס …",
-  "link": "https://www.ynet.co.il/news/article/b11unioafe",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/BJTgCYi0Gl/BJTgCYi0Gl_23_507_543_306_0_medium.jpg"
+  "title": "נתניהו דוחף למערכה \"אגרסיבית\" של 7-4 ימים באיראן, טראמפ מתלבט | דיווח",
+  "summary": "\"ניו יורק טיימס\": רה\"מ דוחף לצאת \"מהר\" למערכה משותפת, בעוד נשיא ארה\"ב שוקל ולוקח בחשבון את המידע המודיעיני - שלגבי \"חוזקו\" חלוקים בממשל. בסיסים אמריקניים פונו, לישראל הועברה עוד סוללת פטריוט. המידע שהועבר על נשק כימי, האיום של טראמפ - ויעדי התקיפה הישראליים שה…",
+  "link": "https://www.ynet.co.il/news/article/sjlfpsorfx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/08/10/BJ00HuBvLze/BJ00HuBvLze_0_0_850_479_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 23.3° / 16.6°",
-   "summary": "כרגע 18.7°, לחות 85%, רוח 7.4 קמ״ש. סיכוי משקעים 0%.",
-   "source": "Open-Meteo · השירות המטאורולוגי",
+   "title": "עתלית — התחזית להיום",
+   "summary": "לא הצלחתי למשוך תחזית כרגע.",
+   "source": "Open-Meteo",
    "link": "",
-   "stats": [
-    [
-     "מקסימום",
-     "23.3°"
-    ],
-    [
-     "מינימום",
-     "16.6°"
-    ],
-    [
-     "לחות",
-     "85%",
-     85
-    ],
-    [
-     "רוח",
-     "7.4 קמ״ש"
-    ],
-    [
-     "סיכוי גשם",
-     "0%",
-     0
-    ]
-   ]
+   "stats": []
   },
   {
    "section": "כדורגל",
@@ -51,24 +28,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "Hapoel Ironi Karmiel נגד Hapoel Ironi Baka El Garbia",
-     "7:2 · הסתיים"
-    ],
-    [
-     "Hapoel Bnei Musmus נגד Maccabi Neve Sha'anan",
-     "2:1 · הסתיים"
-    ],
-    [
      "הפועל חדרה נגד SC Sderot",
      "1:2 · הסתיים"
     ],
     [
-     "Maccabi Ironi Netivot נגד Hapoel Yeruham",
-     "3:1 · הסתיים"
+     "Ironi Bet Shemesh נגד Hapoel Azur",
+     "1:0 · הסתיים"
     ],
     [
-     "Tzofi Haifa נגד Ironi Kfar Yona",
-     "2:0 · הסתיים"
+     "Maccabi Ironi Ashdod נגד A.S Nordia Jerusalem",
+     "4:0 · הסתיים"
+    ],
+    [
+     "Beitar Mevaseret Zion נגד M.S Ramla",
+     "0:2 · הסתיים"
+    ],
+    [
+     "Hapoel Segev Shalom נגד Beitar Ironi Kiryat Gat",
+     "7:2 · הסתיים"
     ]
    ]
   },
@@ -80,10 +57,6 @@ window.NEWS_DATA = {
    "link": "https://www.365scores.com/he/football",
    "image": null,
    "stats": [
-    [
-     "Mbarara City נגד Lugazi FC",
-     "1:0 · הסתיים"
-    ],
     [
      "CS Constantine נגד Es Ben Aknoun",
      "1:0 · הסתיים"
@@ -97,18 +70,22 @@ window.NEWS_DATA = {
      "0:1 · הסתיים"
     ],
     [
-     "ASC Linguère נגד Teungueth",
-     "הסתיים"
+     "Maroons נגד Nec Fc",
+     "טרם התחיל"
+    ],
+    [
+     "Entebbe UPPC נגד Kataka FC",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "מאוריסיו פוצ'טינו הוצג רשמית כמאמנה של מנצ'סטר יונייטד",
-   "summary": "חמישה ימים לאחר החתימה הרשמית על חוזה לשנתיים וחצי: המאמן הארגנטינאי החל את עבודתו באולד טראפורד. יערוך את הופעת הבכורה שלו במשחק החוץ (ראשון, 18:30) מול ליברפול באנפילד",
+   "title": "שיחת הצעקות במלון בין ראשי ההתאחדות לכדורגל למאמן המתפטר | חשיפה",
+   "summary": "שעה וחצי של עימות לילי בדברצן, טונים גבוהים ומילים קשות: שינו זוארץ ומורן מאירי הטיחו ברן בן שמעון את אכזבתם מהעזיבה לטובת מכבי חיפה, למרות הגיבוי המלא שקיבל. \"קיבלת את כל הגיבוי שבעולם וברגע אחד ברחת. גרמת לזילות הנבחרת\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/qmc5v1ld3",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/BklHn5Ki0zg/BklHn5Ki0zg_0_476_2400_1352_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkerxcj0gl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/HyWvSqi0Mx/HyWvSqi0Mx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +95,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "ריאל מדריד נכנעה לבשיקטאש וספגה הפסד חמישי",
-   "summary": "הבלאנקוס התעוררו מאוחר מדי ונכנעו 83:79 לטורקים במשחק שנעל את המחזור ה-12 ביורוליג. מלדון קלע 22 נק', אך הקאמבק ברבע האחרון לא הספיק לספרדים",
+   "title": "המעשה הציוני של יענקל'ה שחר - והתסכול של אוהדי מכבי חיפה",
+   "summary": "הידיעה שרב\"ש ימשיך לקדנציה נוספת בנבחרת, רגע אחרי שניאות לשחק עם חלוץ מול קוסובו בעשרה שחקנים, נתפסה כאצבע בעין - אז הבעלים מהכרמל שלח חבל הצלה לאוהדי נבחרת ישראל, לשינו זוארץ ולרב\"ש עצמו",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one539265",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/one1899296/one1899296_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rkuh9cjazx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/05/B1sy74zv11x/B1sy74zv11x_0_136_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +109,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "אדיר: מכבי ת\"א רשמה ניצחון כפול על איסטנבול",
-   "summary": "קבוצת הכדורעף הצהובה השלימה ניצחון שני על הטורקים תוך 24 שעות בתום קרב צמוד וקטפה את הכרטיס לשלב הבא, שם תפגוש את המנצחת בין מאריבור לזאגרב",
+   "title": "מ\"המאמן לא הבעיה\" - ועד הנבחרת שממשיכה לדרוך במקום | מד העצבים בליגת האומות",
+   "summary": "הראיונות המלטפים, הפיכת המשחק מול אירלנד לדרבי טעון, והצביעות סביב עזיבת בן שמעון. וגם: האמת הכואבת על מקומה של ישראל ביבשת",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one539264",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/one1899294/one1899294_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/h1tyi5o0zl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/17/HJTBU4q0fe/HJTBU4q0fe_448_80_2129_1199_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +123,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "טראמפ מתוסכל מוואנס על רקע הביקורת שלו על המלחמה באיראן | דיווח",
-   "summary": "\"ניו יורק טיימס\": לאחרונה גבר תסכולו של נשיא ארה\"ב מהאופן שבו הציג סגנו את הערכתו לגבי הסיבות לכישלון בבחירות האמצע. לפי הדיווח, טראמפ התלונן כי ואנס היה צריך להדגיש שהנשיא קיבל את ההחלטה הנכונה כשיצא למלחמה",
+   "title": "הסלמה מתחת לרדאר: ההתפתחויות שמרמזות - עימות מחודש בדרך",
+   "summary": "איראן שבה לתקוף מדינות שכנות. ארה\"ב ריכזה כבר יותר מ-50 אלף אנשי צבא. ואנס ניסה לקדם דיפלומטיה, אבל טראמפ הזיז אותו. מפקד סנטקום מבקר בישראל, ראש המוסד מקדם תקיפות משותפות, וראש ממשלת המעבר נתניהו מקיים דיונים. כך נראית ההסלמה - והפרסומים שעשויים להיות הכנה לת…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/h1qaetsafg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/07/28/Bkd8fdIrfe/Bkd8fdIrfe_0_108_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/h1807roamg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/S11xKqjCGg/S11xKqjCGg_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,11 +137,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "הולכת רגל נהרגה בלב תל אביב, רוכב אופנוע נפצע קשה",
-   "summary": "האישה נפצעה קשה מפגיעת האופנוע, ובהמשך נקבע מותה. רוכב האופנוע פונה לבית החולים במצב קשה. המשטרה פתחה בחקירה",
+   "title": "התרגיל שמאיים עלינו",
+   "summary": "זיגזוגיו של דוד זיני בנוגע לטוהר הבחירות ונחישותו למגר  את החוק הישראלי ביהודה ושומרון, הם רק קצה של קרחון מדאיג  שמשייט חופשי במים הדמוקרטיים של ישראל",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hkf1t00o0fl",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/18/BJ9q2Os0zl/BJ9q2Os0zl_0_659_928_523_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/yokra14963363",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/10/27/SJbjYbChMx/SJbjYbChMx_0_0_1280_726_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -259,18 +236,18 @@ window.NEWS_DATA = {
   {
    "section": "לומדים",
    "learn": true,
-   "title": "מדוע חתולים מגרגרים",
-   "summary": "גרגור בתדר 25-150Hz עשוי לזרז ריפוי עצמות ולהרגיע — לא רק סימן לשמחה.",
-   "source": "תמצית ידע יומית · ביולוגיה",
+   "title": "פרדוקס הספינה של תזאוס",
+   "summary": "אם מחליפים כל חלק בספינה בהדרגה — האם היא עדיין אותה ספינה? שאלה על זהות ורציפות.",
+   "source": "תמצית ידע יומית · פילוסופיה",
    "link": "",
    "stats": [
     [
      "תחום",
-     "ביולוגיה"
+     "פילוסופיה"
     ],
     [
      "עובדה בונוס",
-     "כוכב הנוגה מסתובב הפוך משאר כוכבי הלכת."
+     "המילה 'רובוט' נטבעה במחזה צ׳כי ב-1920."
     ]
    ]
   }
