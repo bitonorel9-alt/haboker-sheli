@@ -1,23 +1,46 @@
 window.NEWS_DATA = {
  "date": "יום שלישי, 24 בנובמבר 2026",
  "date_he": "24/11/2026",
- "updated": "01:23",
+ "updated": "11:49",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "אחרי כשעתיים: פגישת המו\"מ בין ישר! לליכוד הסתיימה בהודעה לקונית",
-  "summary": "אחרי שבגוש השינוי העבירו בקריאה טרומית הצעות חוק לביטול חוקי המהפכה המשפטית, המפגש שהתקיים בכנסת עסק ישירות בנושא - ודוד פטר, הח\"כ הטרי מהליכוד, נשלח לייצג בו את המפלגה. בליכוד סירבו לדון בהגבלת כהונת רה\"מ, הצדדים הודיעו: תהיה פגישת המשך. בכנסת קודם ביטול החוק…",
-  "link": "https://www.ynet.co.il/news/article/bycwdkgy7e",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/05/HJSgVOqpGg/HJSgVOqpGg_0_0_850_479_0_medium.jpg"
+  "title": "חשד לרצח בצרפת: ישראלי אותר ללא רוח חיים בדירה בעיירת נופש",
+  "summary": "ישראלי בעל אזרחות כפולה, תושב אשדוד, אותר חבול ומדמם בעיירה ‏רוקברין-קאפ-מרטן שבריביירה הצרפתית. המשטרה עצרה כמה חשודים, חשד שמדובר בניסיון שוד",
+  "link": "https://www.ynet.co.il/news/article/rkhdll71qe",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/Hk5VQLQCzx/Hk5VQLQCzx_0_312_3000_1689_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית — התחזית להיום",
-   "summary": "לא הצלחתי למשוך תחזית כרגע.",
-   "source": "Open-Meteo",
+   "title": "עתלית · 22.7° / 15.8°",
+   "summary": "כרגע 22.5°, לחות 64%, רוח 11.9 קמ״ש. סיכוי משקעים 0%.",
+   "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
-   "stats": []
+   "stats": [
+    [
+     "מקסימום",
+     "22.7°"
+    ],
+    [
+     "מינימום",
+     "15.8°"
+    ],
+    [
+     "לחות",
+     "64%",
+     64
+    ],
+    [
+     "רוח",
+     "11.9 קמ״ש"
+    ],
+    [
+     "סיכוי גשם",
+     "0%",
+     0
+    ]
+   ]
   },
   {
    "section": "כדורגל",
@@ -40,11 +63,11 @@ window.NEWS_DATA = {
      "טרם התחיל"
     ],
     [
-     "Hapoel Mahne-Yehuda נגד Hapoel Marmorek",
+     "Ironi Kfar Yona נגד SC Mashhad",
      "טרם התחיל"
     ],
     [
-     "Hapoel Herzliya נגד FC Jerusalem",
+     "Maccabi Beer Sheva נגד Ironi Ashkelon",
      "טרם התחיל"
     ]
    ]
@@ -58,38 +81,24 @@ window.NEWS_DATA = {
    "image": null,
    "stats": [
     [
-     "El Gounah נגד Zamalek SC",
-     "1:2 · הסתיים"
+     "Updf נגד Mbarara City",
+     "טרם התחיל"
     ],
     [
-     "Wadi Degla נגד Al Ittehad",
-     "1:1 · הסתיים"
+     "Blacks Power Fc נגד Entebbe UPPC",
+     "טרם התחיל"
     ],
     [
-     "Al-Athad Misrata נגד Al Swehly SC",
-     "0:3 · הסתיים"
+     "Zed FC נגד Abo Qir Semad",
+     "טרם התחיל"
     ],
     [
-     "Military Union SC נגד Khaleej Sirte",
-     "1:0 · הסתיים"
+     "Smouha נגד National Bank Of Egypt",
+     "טרם התחיל"
     ],
     [
-     "Es Ben Aknoun נגד USM Alger",
-     "0:1 · הסתיים"
-    ]
-   ]
-  },
-  {
-   "section": "כדורגל",
-   "title": "במכבי ת\"א תוהים: מה קרה למאמן שהוציא מים מהסלע?",
-   "summary": "מגיב לאט למהלכי היריבה, מאבד יתרונות מבטיחים פעם אחר פעם, התנגד למינוי עוזר שישפר את ההגנה החלשה - ורואה איך עוד עונת יורוליג יורדת לטמיון. כשמעליו הבעלים מפולגים, והמנהל המקצועי מתקשה לסייע, עודד קטש יודע: אם הוא לא יוציא את מכבי ת\"א מהמשבר - אף אחד לא יעשה א…",
-   "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1711umfkmg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/rkC7YmMyml/rkC7YmMyml_0_95_2954_1663_0_medium.jpg",
-   "stats": [
-    [
-     "מקור",
-     "ynet - ספורט"
+     "Orlando Pirates נגד Golden Arrows",
+     "טרם התחיל"
     ]
    ]
   },
@@ -109,11 +118,25 @@ window.NEWS_DATA = {
   },
   {
    "section": "כדורגל",
-   "title": "תמיד תהיה להם את פריז: כשהפועל ת\"א נתנה רביעייה לפ.ס.ז'",
-   "summary": "היום זה נשמע כמו מדע בדיוני, אבל השבוע לפני 20 שנה הפועל ת\"א חגגה רביעייה על פ.ס.ז' בפארק דה פראנס, עם יצחק שום על הקווים: \"פשוט עמדתי ומחאתי כפיים\"",
+   "title": "מנצרת לדטרויט: הישראלי שמאחורי הפיסטונס | תוכן גולשים",
+   "summary": "מיקי אריסון ורענן כץ אינם היחידים שנולדו בארץ והגיעו לעמדות בעלות ב־NBA. טום גורס, שנולד בנצרת בשם תאופיק ג'ורג'יוס, מחזיק בדטרויט פיסטונס ובאימפריה עסקית של מיליארדי דולרים. סיפורו המפתיע, הקשרים לישראל והמהפך שעברה קבוצתו. גם לכם יש מה להגיד? שלחו לנו טורים …",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/israelisoccer/article/bkhej7zy7e",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/r1lWymz1Xx/r1lWymz1Xx_15_212_659_371_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/skda1wyj7l",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/13/r1sLMzVCzg/r1sLMzVCzg_0_0_3000_1660_0_medium.jpg",
+   "stats": [
+    [
+     "מקור",
+     "ynet - ספורט"
+    ]
+   ]
+  },
+  {
+   "section": "כדורגל",
+   "title": "תעלומת עודד קטש: האם הוא בכלל מסוגל להוציא את מכבי ת\"א מהמשבר?",
+   "summary": "מגיב לאט למהלכי היריבה, מאבד יתרונות מבטיחים פעם אחר פעם, התנגד למינוי עוזר שישפר את ההגנה החלשה - ורואה איך עוד עונת יורוליג יורדת לטמיון. כשמעליו הבעלים מפולגים, והמנהל המקצועי מתקשה לסייע, עודד קטש יודע: אם הוא לא יוציא את מכבי ת\"א מהמשבר - אף אחד לא יעשה א…",
+   "source": "ynet - ספורט",
+   "link": "https://www.ynet.co.il/sport/israelibasketball/article/r1711umfkmg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/rkC7YmMyml/rkC7YmMyml_0_95_2954_1663_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -123,11 +146,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "כולנו ביבי",
-   "summary": "עידן נתניהו עשה לנו דבר נורא: נמחקה לנו אונת היושרה מהמוח.  כולנו הפכנו לביבי, כולנו מאמינים שהמטרה מקדשת את האמצעים.  בין אם אנחנו בעד נתניהו או נגדו, אנחנו מוכנים לשרוף את המועדון כדי שידנו תהיה על העליונה - וכך לא בונים מדינה",
+   "title": "הוא עשה נזק לכנסת, ועכשיו הוא מבקש מחיאות כפיים",
+   "summary": "אמיר אוחנה היה אמור להיות יו״ר הכנסת של כולם ובמקום זאת שימש דוגמה קיצונית לכל מה שרע בבית הנבחרים הישראלי",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/yokra14967463",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/SygPNZyzJ7x/SygPNZyzJ7x_0_0_3000_2000_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/bjanzgm17x",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/10/ryGvb0DxAGl/ryGvb0DxAGl_0_0_1280_842_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -137,15 +160,29 @@ window.NEWS_DATA = {
   },
   {
    "section": "פוליטיקה",
-   "title": "אירוע חריג במשטרה: מערכות טכנולוגיות חשובות הושבתו מחשש לדליפת מידע",
-   "summary": "פגיעה משמעותית ביכולת של המשטרה להעביר בזמן אמת מידע מבצעי והנחיות לשוטרים: המערכות הושבתו כחלק ממה שמוגדר \"אירוע טכנולוגי מורכב\". נבדק אם מדובר במתקפת סייבר או תקלה. פרסום ראשון",
+   "title": "פרסו שטיח פרסי בקמפוס: איראנית וישראלי במסע הסברה בארה\"ב",
+   "summary": "פדידה דנשזאד, שעזבה את טהרן בגיל 17, ונריה כפיר, שאיבד חברים בטבח בנובה, פגשו מאות סטודנטים אמריקנים. \"זה כמו בן דוד שלא ידעתי שיש לי\", סיפרה דנשזאד על שיתוף הפעולה. כפיר פגש סטודנט שהאשים את ישראל ב\"רצח עם\", אבל לא הכיר את חמאס: \"סיפרתי לו מה הם עשו, והוא הזד…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hjkcf7fj7l",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/11/rJSv2lf0fl/rJSv2lf0fl_0_14_1000_563_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/ry7ftczkmx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/24/S1HxCCzk7e/S1HxCCzk7e_0_356_971_547_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "ה-CISO של אמזון: \"חסמנו 2,900 צפון-קוריאנים שניסו להתקבל לעבודה\"",
+   "summary": "מאת שחר פלד \"חסמנו לפחות 2,900 גורמים מצפון-קוריאה שניסו להתקבל לעבודה באמזון\", סיפר סי-ג'יי מוזס, מנהל אבטחת המידע של ענקית האיקומרס ושירותי הענן האמריקאית. \"הם משתמשים ב-AI כדי לבנות זהויות בדויות שנראות אמינות, ולהתקבל לעבודה בחברות כמו שלנו\", הסביר. \"הכסף …",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/ai-native-cybersecurity-pod-ep1-amazon/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -165,24 +202,10 @@ window.NEWS_DATA = {
   },
   {
    "section": "AI",
-   "title": "עסקת אמזון ודקארט: סימני השאלה הגדולים שנותרו",
-   "summary": "אין ספק ש-Decart הישראלית היא אחד מהסיפורים המרשימים ויוצאי הדופן בשנים האחרונות בהייטק הישראלי. החברה, שהוקמה רק בספטמבר 2023 על ידי דין ואוריין לייטרסדורף ומשה שלו, הצליחה תוך פחות משלוש שנים להציג טכנולוגיה מרשימה ובשלה, לזנק (בסבב הגיוס האחרון) לשווי מוערך…",
+   "title": "עוד 320 מיליון דולר להשקעות בסטארטאפים ישראלים",
+   "summary": "מתוך כ-200 קרנות הון סיכון בישראל, פחות מעשר מתמקדות בשלבי צמיחה מאוחרים, זאת למרות שהיקף ההשקעות בתחום זינק לכ-10 מיליארד דולר בשנה שעברה. למגרש הזה נכנסת קרן Key1 Capital, שהודיעה על סגירה ראשונה של 320 מיליון דולר לקרן השנייה שלה. על פי הודעת הקרן, כ-95% מה…",
    "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/amazon-decart-some-questions/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "ברייקינג: דירקטוריון NVIDIA החזיר את ג'נסן הואנג לתפקיד המנכ\"ל",
-   "summary": "דירקטוריון אנבידיה הודיע היום (ב') בהפתעה על החזרת ג'נסן הואנג לתפקיד מנכ\"ל אנבידיה וחבר הדירקטוריון – שבוע וחצי אחרי שהתפטר על רקע רומנים עם אישה החשודה בריגול למען סין ובכירה שעבדה תחתיו. ההחלטה התקבלה פה אחד, ובדירקטוריון ציינו כי הגיעה לאחר שיחות איתו וקבל…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/jensen-huand-back-as-nvidia-ceo/",
+   "link": "https://www.geektime.co.il/key1-capital-320m/",
    "image": null,
    "stats": [
     [
@@ -193,11 +216,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "״בגלל סיבות ביטחוניות״: הופעת נקסט בפריז בוטלה",
-   "summary": "גורמים המעורים בפרטים אמרו כי ההחלטה לבטל את המופע, שהיה אמור לכלול את עומר אדם, אודיה, עידן עמדי, וריטה, התקבלה מחשש לרכז יהודים רבים בבירה הצרפתית, על רקע המצב הביטחוני והכאוס בעיר",
+   "title": "תחקיר בריטי המבוסס על עדויות חיילי צה\"ל על המלחמה בעזה זכה באמי הבינלאומי",
+   "summary": "כשברקע סערת \"נז\"א\", התחקיר Breaking Ranks: Inside Israel’s War, הכולל טענות על ירי באזרחים ושימוש בפלסטינים כמגינים אנושיים, זכה בפרס היוקרתי. גם סרטו של לואי ת׳רו על מתנחלים בגדה המערבית זכה בקטגוריית הדוקו",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/r1hn00wgyqg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/SkZOCZG1Xl/SkZOCZG1Xl_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/bkx8tomjme",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/24/rk2DBrfcGe/rk2DBrfcGe_0_0_1302_716_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -207,11 +230,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "שולי רנד, קולנוע איראני ויצירה נשית: פסטיבל הקולנוע שומרון חוזר",
-   "summary": "פסטיבל הקולנוע השביעי של השומרון יתקיים בסוף דצמבר ביותר מ-20 מוקדים ברחבי המועצה, ויציג 72 סרטים מ-15 מדינות, בהם 20 בכורות ושלוש הקרנות טרום בכורה. במרכז האירוע: מחווה לשולי רנד, שיקבל אות מפעל חיים, והקרנת הסרט \"קלף מחוק\" בכיכובו. עוד בתוכנית: יצירה נשית מק…",
+   "title": "לא לפנות אליי / דנה ספקטור",
+   "summary": "המחיר הבלתי נסבל של חיים בלי אינטראקציה אנושית",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/hjaymtzkqg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/S1gkiabkQx/S1gkiabkQx_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/yokra14959740",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/10/ryGYJ3JEgR/ryGYJ3JEgR_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -221,11 +244,11 @@ window.NEWS_DATA = {
   },
   {
    "section": "בידור",
-   "title": "איש התקשורת יונתן שם אור הלך לעולמו",
-   "summary": "שם אור, בנה של הסופרת והעיתונאית אורה שם אור ואחיה של הפזמונאית מירית שם אור, הלך לעולמו בגיל 76 לאחר מאבק בסרטן. לאורך חייו כתב ספרי ילדים, מחזות, ערך את מגזין \"התקשורת\" וכתב בעיתונים רבים",
+   "title": "הדיירת השקטה - חלק 12",
+   "summary": "בלעדי למנויי ידיעות+: כשרוצח סדרתי מעביר את קורבנו ה\"חי\" לבית חדש, משולש מסוכן נוצר בינו, בין בתו המתבגרת, ובין אישה שתכניס עצמה לסכנה קטלנית. מותחן פסיכולוגי מצמרר שמוגש בהמשכים, חלק נוסף מדי יום",
    "source": "ynet - תרבות ובידור",
-   "link": "https://www.ynet.co.il/entertainment/article/syvqdjby7x",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/23/SkUCyTW1Xg/SkUCyTW1Xg_0_0_850_479_0_medium.jpg",
+   "link": "https://www.ynet.co.il/entertainment/article/fllsy4yb2",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/H111Xtr00X0fx/H111Xtr00X0fx_0_0_1920_1080_0_medium.jpg",
    "stats": [
     [
      "מקור",
