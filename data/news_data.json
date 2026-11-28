@@ -1,44 +1,44 @@
 {
  "date": "יום שבת, 28 בנובמבר 2026",
  "date_he": "28/11/2026",
- "updated": "02:22",
+ "updated": "11:08",
  "lead": {
   "section": "פוליטיקה",
   "eyebrow": "הכותרת של הבוקר",
-  "title": "צה\"ל: חיסלנו בעזה שני מחבלים שעבדו במקביל בארגון \"רופאים ללא גבולות\"",
-  "summary": "לפי צה\"ל, המחבלים פעלו לשקם את כוחו של חמאס, ואחד מהם אף שימש כמפקד חוליית ארטילריה בזרוע הצבאית. בארגון הסיוע האשימו: \"התקיפה כוונה לעבר אחת המרפאות שלנו\"",
-  "link": "https://www.ynet.co.il/news/article/sj4occpkmg",
-  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/28/SJK7uiv1mx/SJK7uiv1mx_0_38_800_450_0_medium.jpg"
+  "title": "\"מה עשינו?\" | תיעוד: פורעים יהודים תקפו עובדי חשמל, 3 נפצעו",
+  "summary": "לא ברור אם העבודות לתיקון חשמל בכפר באזור בנימין, שהסתיימו בתקיפה חמורה גם באמצעות מוטות, תואמו עם צה\"ל. המשטרה פתחה בחקירה",
+  "link": "https://www.ynet.co.il/news/article/ry879700yxx",
+  "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/28/BJxCimO1Ql/BJxCimO1Ql_1_462_464_262_0_medium.jpg"
  },
  "articles": [
   {
    "section": "מזג אוויר",
-   "title": "עתלית · 25.4° / 18.6°",
-   "summary": "כרגע 19.5°, לחות 47%, רוח 7.4 קמ״ש. סיכוי משקעים 0%.",
+   "title": "עתלית · 24.6° / 19.1°",
+   "summary": "כרגע 23.4°, לחות 72%, רוח 11.4 קמ״ש. סיכוי משקעים 3%.",
    "source": "Open-Meteo · השירות המטאורולוגי",
    "link": "",
    "stats": [
     [
      "מקסימום",
-     "25.4°"
+     "24.6°"
     ],
     [
      "מינימום",
-     "18.6°"
+     "19.1°"
     ],
     [
      "לחות",
-     "47%",
-     47
+     "72%",
+     72
     ],
     [
      "רוח",
-     "7.4 קמ״ש"
+     "11.4 קמ״ש"
     ],
     [
      "סיכוי גשם",
-     "0%",
-     0
+     "3%",
+     3
     ]
    ]
   },
@@ -51,24 +51,24 @@
    "image": null,
    "stats": [
     [
+     "SC Ashdod U19 נגד Hapoel Haifa U19",
+     "3:1 · מחצית שנייה"
+    ],
+    [
+     "Bnei Mejar נגד MS Bnei Hagolan",
+     "0:1 · מחצית שנייה"
+    ],
+    [
+     "Hapoel Bnei Ein Mahil נגד Akhva Sha'ab",
+     "0:0 · מחצית ראשונה"
+    ],
+    [
      "Ironi Kfar Yona נגד SC Mashhad",
      "1:0 · הסתיים"
     ],
     [
      "Beitar Kfar Saba FC נגד Hapoel Kafr Qasim",
      "0:4 · הסתיים"
-    ],
-    [
-     "Bnei Yehod נגד Beitar Petah Tikva",
-     "4:2 · הסתיים"
-    ],
-    [
-     "Maccabi Beer Sheva נגד Ironi Ashkelon",
-     "1:3 · הסתיים"
-    ],
-    [
-     "Hapoel Nof Ha'galil נגד Maccabi Bialik Ata",
-     "3:1 · הסתיים"
     ]
    ]
   },
@@ -81,34 +81,34 @@
    "image": null,
    "stats": [
     [
-     "Werder Bremen נגד Borussia Mönchengladbach",
-     "3:3 · הסתיים"
+     "Obolon Kyiv נגד Zorya Luhansk",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Venezia נגד Bologna",
-     "0:0 · הסתיים"
+     "Dynamo Kyiv נגד Chornomorets Odesa",
+     "0:0 · מחצית ראשונה"
     ],
     [
-     "Brest נגד Paris FC",
-     "1:0 · הסתיים"
+     "Pattani נגד Chiangrai United",
+     "0:1 · מחצית ראשונה"
     ],
     [
-     "Nottingham Forest נגד Chelsea",
-     "3:2 · הסתיים"
+     "Balestier Khalsa נגד Hougang United FC",
+     "טרם התחיל"
     ],
     [
-     "Levante נגד Racing Santander",
-     "1:3 · הסתיים"
+     "Rasisalai United נגד Buriram United",
+     "טרם התחיל"
     ]
    ]
   },
   {
    "section": "כדורגל",
-   "title": "ניצחון מרשים לדניאל פרץ וסאות'המפטון, צ'לסי ממשיכה להתרסק",
-   "summary": "השוער הישראלי שמר על רשת נקייה, הקדושים גברו 0:2 על מוליכת ליגת המשנה האנגלית מידלסברו. פרמייר-ליג: הבלוז הפסידו 3:2 לנוטינגהאם וסופרים שלושה הפסדים בשלושה משחקים בנובמבר",
+   "title": "הכדורגל, הפוליטיקה והעבר האפל: כך מגייס הימין הקיצוני בגרמניה את אלוף העולם",
+   "summary": "מפלגת \"אלטרנטיבה לגרמניה\" בחרה בתומאס ברטהולד, זוכה גביע העולם האגדי מ-1990, כמועמדה לנשיאות - לא מתוך ציפייה לניצחון, אלא כחלק מניסיון לרתום את סמליו של הכדורגל הגרמני לצבירת כוח ולגיטימציה. ברקע: התרחבות הימין הקיצוני והתגברות גילויי הגזענות והאנטישמיות גם ב…",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldsoccer/article/s13zwov1qg",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/09/05/H1QdctY00zx/H1QdctY00zx_0_17_1024_577_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/article/b1fzo1o1mg",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/28/Sy4cBl001Xe/Sy4cBl001Xe_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -118,11 +118,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "עוד ציון דרך מדהים: אבדיה בין עשרת המועמדים לתואר ה-MVP של ה-NBA",
-   "summary": "באתר basketball reference הציבו את הפורוורד הישראלי של פורטלנד טרייל בלייזרס במקום התשיעי, כאשר וומבניאמה ודונצ'יץ' מובילים בפער עצום. ואיפה הוא בדירוג הרשמי של הליגה?",
+   "title": "מהומה בנמל התעופה בבאטומי: אוהדי בשיקטאש התנכלו לאוהדי באר-שבע | תיעוד",
+   "summary": "המתיחות בגאורגיה מסרבת לדעוך: אוהדי הקבוצה הטורקית התפרעו בטרמינל, וכוחות האבטחה נאלצו להתערב. שחקני באר-שבע ואנשי הצוות הופרדו מהקהל ונמצאים באולם נפרד תחת אבטחה כבדה",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/worldbasketball/article/hysj4udj7x",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/26/HkO11NUH17l/HkO11NUH17l_0_114_3000_1689_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/sjwk47oyxx",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/28/Syctr7ukQg/Syctr7ukQg_0_0_332_187_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -132,11 +132,11 @@
   },
   {
    "section": "כדורגל",
-   "title": "עצרה את הסחף: נבחרת ישראל ניצחה 84:90 את הולנד",
-   "summary": "החבורה של בית הלחמי הרשימה מחוץ לקשת, ובהובלת לוי ובורג שקבעו שיאי קריירה בנבחרת, הצליחה לקטוע רצף של ארבעה הפסדים במוקדמות המונדובאסקט",
+   "title": "רן בן שמעון מוכן לבכורה במכבי חיפה: \"בפתח של שבוע חשוב\"",
+   "summary": "המאמן החדש של הירוקים ניצל את השבוע האחרון בעיקר לעבודה על הצד המנטלי לקראת המפגש בדוחא (15:00) מול בני סכנין. גורם במועדון: \"יש עוד הרבה עבודה\"",
    "source": "ynet - ספורט",
-   "link": "https://www.ynet.co.il/sport/article/one539992",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/27/one1900835/one1900835_0_0_800_444_0_medium.jpg",
+   "link": "https://www.ynet.co.il/sport/israelisoccer/article/rjhdwm0017x",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/06/25/BJTeVaN59/BJTeVaN59_0_111_3000_1689_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -146,11 +146,11 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "למרות ההתנגדות בישראל: ההצעה שתאפשר ליוניפי\"ל להמשיך לפעול בלבנון",
-   "summary": "כחודש לפני ש-7,500 חיילי הכוח אמורים לסגת בהדרגה עם סיום המנדט, צרפת מגבשת הצעה שתאפשר ליוניפי\"ל להמשיך למלא \"משימות מסוימות\". ברקע: מאבק דיפלומטי על \"היום שאחרי\" והתנגדות ישראלית חריפה. סא\"ל במיל' ל-ynet: \"הם עקבו אחרינו כאילו אנחנו האויב\". ראש ממשלת לבנון: \"…",
+   "title": "\"הן בסכנה ממשית\": הנערות שחיות בווילה סודית בדרום",
+   "summary": "בלעדי: הן נתלשות מחייהן ברגע, לעיתים גם \"בלי בגדים, תיקים או טלפונים\", ומגיעות לכתובת שאסור להן לספר עליה אפילו לבני משפחתן. שם, הן לומדות מחדש איך נראים חיים בטוחים - בתוך שגרה מוקפדת ומסגרת ש\"סגורה, אבל לא נעולה\". הצצה ל\"חדר המיון\" החסוי שמשמש מפלט לעשרות נע…",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hji0zkpjxe",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/31/BJUQPPKiZl/BJUQPPKiZl_0_313_3000_1688_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/s1jl004vy7x",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/26/rkgbbxoHkXx/rkgbbxoHkXx_0_0_850_479_0_medium.jpg",
    "stats": [
     [
      "מקור",
@@ -160,15 +160,29 @@
   },
   {
    "section": "פוליטיקה",
-   "title": "ברחה מחברון, התגוררה ברמלה, נרצחה בבאר שבע",
-   "summary": "פאטמה אבו חולתם בת ה-19 נורתה למוות בבאר שבע, ואותרה על הכביש. קרוביה סיפרו כי \"חששה לחזור לשטחים כי הרגישה מאוימת\". הרקע פלילי, איש לא נעצר",
+   "title": "\"זו פצצה מתקתקת\": המצוק קרס בחוף בהרצליה",
+   "summary": "\"אי אפשר להמשיך לסמוך על הנס\", אומר ראש העיר הרצליה, אחרי שקטע מצוק נוסף קרס - הפעם בשטח שמורת אפולוניה",
    "source": "ynet - חדשות",
-   "link": "https://www.ynet.co.il/news/article/hy9rjud1ml",
-   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/27/rymQJdDkXl/rymQJdDkXl_344_171_519_292_0_medium.jpg",
+   "link": "https://www.ynet.co.il/news/article/by5hymd17e",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/28/B1b4y7dk7e/B1b4y7dk7e_0_330_900_507_0_medium.jpg",
    "stats": [
     [
      "מקור",
      "ynet - חדשות"
+    ]
+   ]
+  },
+  {
+   "section": "AI",
+   "title": "לכל אחד יש פודקאסט? המספרים שמאחורי שוק הפודקאסטים הישראלי",
+   "summary": "ממדיום שולי של יודעי דבר עילאיים שמאזינים ל-Serial, הפודקאסטים נכנסו היטב למיינסטרים הישראלי וסביר להניח שכבר שמעתם את הבדיחה \"לכל אחד יש פודקאסט\". אבל כמה פודקאסטים פעילים באמת יש בישראל? שנת שיא בהשקות של פודקאסטים חדשים על פי הנתונים החדשים שהגיעו לידי גיקט…",
+   "source": "גיקטיים",
+   "link": "https://www.geektime.co.il/state-of-israeli-podcasts-2026/",
+   "image": null,
+   "stats": [
+    [
+     "מקור",
+     "גיקטיים"
     ]
    ]
   },
@@ -192,20 +206,6 @@
    "summary": "אני לא יודע אם שמתם לב, אבל לפני שבוע שוחרר משחק אינדי קטן וצנוע בשם GTA 6 שהספיק להרוויח מיליארדי דולרים ולעשות היסטוריה. אנחנו כבר כתבנו לכם מה אנחנו חושבים עליו במיני ביקורת שלנו, וגם הוזמנו להתארח בפודקאסט \"אחד ביום\" כדי לדבר עליו. אבל ישנה קבוצה שממש לא מ…",
    "source": "גיקטיים",
    "link": "https://www.geektime.co.il/gta-6-modders-are-racing-to-get-the-game-to-pc/",
-   "image": null,
-   "stats": [
-    [
-     "מקור",
-     "גיקטיים"
-    ]
-   ]
-  },
-  {
-   "section": "AI",
-   "title": "אני לא מאמין שאני אומר את זה, אבל אני מת על Muse של מטא",
-   "summary": "יום שישי, ערב סוכות, בשעות אחר הצהריים. צ'יפ שולח לי התראה שהוא מצא לי כרטיסים למופע הפרידה של טייכר וזרחוביץ'. הייתי בטוח שהוא טועה. בכל זאת, בעמוד הפייסבוק הודיעו שהמכירה תיפתח רק בשבוע הבא, ולא פירטו איפה זה יקרה. נכנסתי לאתר שצ'יפ מצא, ותוך כמה דקות היו לי…",
-   "source": "גיקטיים",
-   "link": "https://www.geektime.co.il/i-love-my-muse/",
    "image": null,
    "stats": [
     [
